@@ -1,1 +1,4838 @@
-
+{
+"events": [
+  {
+    "id": 7,
+    "evento": "Copa del Mundo: Inglaterra vs RD del Congo | *Dieciseisavos de final",
+    "fecha": "2026-06-30 13:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Caracol TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/caracoltv41.php"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "CTV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/ctv.html"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "América TV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "evento": "Copa del Mundo: Costa de Marfil vs Noruega | *Dieciseisavos de final",
+    "fecha": "2026-06-30 14:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "Das Erste",
+        "options": [
+          {
+            "name": "Opción 1 (Alemán - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/das_de.html"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+          },
+          {
+            "name": "Opción 4",
+            "iframe": "https://la16hd.com/dsportsar.php"
+          },
+          {
+            "name": "Opción 5",
+            "iframe": "https://la16hd.com/dsportslatam.php"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "América TV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+          }
+        ]
+      },
+      {
+        "name": "Sportv BR",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "evento": "Copa del Mundo: Australia vs Egipto | *Dieciseisavos de final",
+    "fecha": "2026-06-30 15:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "ZDF DE",
+        "options": [
+          {
+            "name": "Opción 1 (Alemán - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/zdfde.html"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "TyC Sports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=tycsports"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "evento": "Copa del Mundo: España vs Austria | *Dieciseisavos de final",
+    "fecha": "2026-06-30 16:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "TV LA 1 ES",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tvla1es.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://stream-xhd.com/live1.php?stream=la1es"
+          },
+          {
+            "name": "Opción 4",
+            "iframe": "https://la16hd.com/la1tve.php"
+          }
+        ]
+      },
+      {
+        "name": "Canal 5 MX",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+          }
+        ]
+      },
+      {
+        "name": "Caracol TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/caracoltv41.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+          }
+        ]
+      },
+      {
+        "name": "RPC HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/rpc.php"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+          },
+          {
+            "name": "Opción 4",
+            "iframe": "https://la16hd.com/dsportsar.php"
+          },
+          {
+            "name": "Opción 5",
+            "iframe": "https://la16hd.com/dsportslatam.php"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "América TV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+          }
+        ]
+      },
+      {
+        "name": "TyC Sports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=tycsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+          }
+        ]
+      },
+      {
+        "name": "Canal 4 SV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=canal4sv"
+          }
+        ]
+      },
+      {
+        "name": "ITV 1 UK",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+          }
+        ]
+      },
+      {
+        "name": "Chilevision",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "evento": "Copa del Mundo: Francia vs Suecia | *Dieciseisavos de final",
+    "fecha": "2026-06-30 18:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "TV LA 1 ES",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tvla1es.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://stream-xhd.com/live1.php?stream=la1es"
+          },
+          {
+            "name": "Opción 4",
+            "iframe": "https://la16hd.com/la1tve.php"
+          }
+        ]
+      },
+      {
+        "name": "Caracol TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/caracoltv41.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+          }
+        ]
+      },
+      {
+        "name": "América TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/1america.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+          },
+          {
+            "name": "Opción 4",
+            "iframe": "https://la16hd.com/dsportsar.php"
+          },
+          {
+            "name": "Opción 5",
+            "iframe": "https://la16hd.com/dsportslatam.php"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "TyC Sports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=tycsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+          }
+        ]
+      },
+      {
+        "name": "Canal 4 SV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=canal4sv"
+          }
+        ]
+      },
+      {
+        "name": "ITV 1 UK",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+          }
+        ]
+      },
+      {
+        "name": "Chilevision",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "evento": "Copa del Mundo: Bélgica vs Senegal | *Dieciseisavos de final",
+    "fecha": "2026-06-30 17:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "América TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/1america.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+          }
+        ]
+      },
+      {
+        "name": "CTV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/ctv.html"
+          }
+        ]
+      },
+      {
+        "name": "RPC HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/rpc.php"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "evento": "Copa del Mundo: Argentina vs Islas de Cabo Verde | *Dieciseisavos de final",
+    "fecha": "2026-06-30 19:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Caracol TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/caracoltv41.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+          }
+        ]
+      },
+      {
+        "name": "Canal 5 MX",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+          }
+        ]
+      },
+      {
+        "name": "TeleAmazonas",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/teleamazonas.php"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "América TV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+          }
+        ]
+      },
+      {
+        "name": "TyC Sports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=tycsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "evento": "Copa Chile: Audax Italiano vs Palestino",
+    "fecha": "2026-06-30 19:00:00",
+    "competencia": "Copa Chile",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Logocopachile2021.svg/revision/latest/scale-to-width-down/200?cb=20210328185825",
+    "canales": [
+      {
+        "name": "TNT Sports Chile",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la18hd.com/vivo/canales.php?stream=tntsportschile"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "evento": "Copa del Mundo: EE. UU. vs Bosnia-Herzegovina | *Dieciseisavos de final",
+    "fecha": "2026-06-30 21:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Canal 5 MX",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+          }
+        ]
+      },
+      {
+        "name": "RPC HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/rpc.php"
+          }
+        ]
+      },
+      {
+        "name": "CTV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/ctv.html"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "TyC Sports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=tycsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "evento": "Copa del Mundo: México vs Ecuador | *Dieciseisavos de final",
+    "fecha": "2026-06-30 22:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Canal 5 MX",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+          },
+          {
+            "name": "Opción 4",
+            "iframe": "https://la16hd.com/canal5mx.php"
+          }
+        ]
+      },
+      {
+        "name": "TeleAmazonas",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/teleamazonas.php"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "RPC HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/rpc.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+          },
+          {
+            "name": "Opción 4",
+            "iframe": "https://la16hd.com/dsportsar.php"
+          },
+          {
+            "name": "Opción 5",
+            "iframe": "https://la16hd.com/dsportslatam.php"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "Win Sports",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=winsports"
+          }
+        ]
+      },
+      {
+        "name": "Universo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=universo"
+          }
+        ]
+      },
+      {
+        "name": "Sportv BR",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+          }
+        ]
+      },
+      {
+        "name": "TUDN MX",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tudnmx"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+          }
+        ]
+      },
+      {
+        "name": "ITV 1 UK",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "evento": "Copa del Mundo: Portugal vs Croacia | *Dieciseisavos de final",
+    "fecha": "2026-06-30 20:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Caracol TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/caracoltv41.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+          }
+        ]
+      },
+      {
+        "name": "América TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/1america.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+          }
+        ]
+      },
+      {
+        "name": "RPC HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/rpc.php"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "TyC Sports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=tycsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "evento": "Copa del Mundo: Colombia vs Ghana | *Dieciseisavos de final",
+    "fecha": "2026-06-30 22:30:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Caracol TV",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/caracoltv41.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+          }
+        ]
+      },
+      {
+        "name": "Canal 5 MX",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+          },
+          {
+            "name": "Opción 3",
+            "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+          }
+        ]
+      },
+      {
+        "name": "TeleAmazonas",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/teleamazonas.php"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "ZDF DE",
+        "options": [
+          {
+            "name": "Opción 1 (Alemán - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/zdfde.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "VTV Plus",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "Win Sports",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=winsports"
+          }
+        ]
+      },
+      {
+        "name": "TyC Sports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=tycsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "evento": "Copa del Mundo: Suiza vs Argelia | *Dieciseisavos de final",
+    "fecha": "2026-07-01 00:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "Dsports HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "Dsports FHD | Solo LATAM",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "RPC HD",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/rpc.php"
+          }
+        ]
+      },
+      {
+        "name": "Trece",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/trecepy.php"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_41/unicanal.php"
+          }
+        ]
+      },
+      {
+        "name": "Caze TV",
+        "options": [
+          {
+            "name": "Opción 1 (Portugués - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/34cazetv.html"
+          },
+          {
+            "name": "Opción 2 (Portugués)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=cazetv"
+          }
+        ]
+      },
+      {
+        "name": "TSN 1",
+        "options": [
+          {
+            "name": "Opción 1 (DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/tsn1.html"
+          }
+        ]
+      },
+      {
+        "name": "ZDF DE",
+        "options": [
+          {
+            "name": "Opción 1 (Alemán - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/zdfde.html"
+          }
+        ]
+      },
+      {
+        "name": "Fox One ONE",
+        "options": [
+          {
+            "name": "Opción 1 (Inglés - DRM)",
+            "iframe": "https://sudamericaplay.sbs/canal_8112/1foxone.html"
+          },
+          {
+            "name": "Opción 2 (Inglés)",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          },
+          {
+            "name": "Opción 3 (Inglés)",
+            "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "DSports",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=dsports"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "VIX",
+        "options": [
+          {
+            "name": "Opción 1 (HD)",
+            "iframe": "https://streamtp.sbs/global2.php?stream=vix1"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamtp.sbs/global2.php?stream=telemundousa"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      },
+      {
+        "name": "Unicanal PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=unicanalpy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "evento": "Wimbledon: Majchrzak (POL) vs Tabilo (CHI)",
+    "fecha": "2026-06-30 07:00:00",
+    "competencia": "Wimbledon",
+    "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+    "canales": [
+      {
+        "name": "ESPN 2",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=espn2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "evento": "Wimbledon: Boulter (GBR) vs Grant (ITA)",
+    "fecha": "2026-06-30 07:00:00",
+    "competencia": "Wimbledon",
+    "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+    "canales": [
+      {
+        "name": "ESPN 3",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=espn3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "evento": "MLB: Detroit Tigers vs New York Yankees",
+    "fecha": "2026-06-30 20:05:00",
+    "competencia": "MLB",
+    "canales": [
+      {
+        "name": "MLB",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=mlb1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "evento": "MLB: New York Mets vs Toronto Blue Jays",
+    "fecha": "2026-06-30 20:07:00",
+    "competencia": "MLB",
+    "canales": [
+      {
+        "name": "MLB",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=mlb2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "evento": "MLB: Washington Nationals vs Boston Red Sox",
+    "fecha": "2026-06-30 20:10:00",
+    "competencia": "MLB",
+    "canales": [
+      {
+        "name": "MLB",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=mlb3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "evento": "MLB: St. Louis Cardinals vs Atlanta Braves",
+    "fecha": "2026-06-30 20:15:00",
+    "competencia": "MLB",
+    "canales": [
+      {
+        "name": "MLB",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=mlb4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "evento": "MLB: Chicago Cubs vs San Diego Padres",
+    "fecha": "2026-06-30 21:00:00",
+    "competencia": "MLB",
+    "canales": [
+      {
+        "name": "ESPN 2",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=espn2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "evento": "MLB: Los Angeles Dodgers vs Athletics",
+    "fecha": "2026-06-30 22:40:00",
+    "competencia": "MLB",
+    "canales": [
+      {
+        "name": "MLB",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=mlb5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "evento": "Copa Chile: Universidad Católica vs Everton",
+    "fecha": "2026-06-30 21:30:00",
+    "competencia": "Copa Chile",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Logocopachile2021.svg/revision/latest/scale-to-width-down/200?cb=20210328185825",
+    "canales": [
+      {
+        "name": "TNT Sports Chile",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la18hd.com/vivo/canales.php?stream=tntsportschile"
+          }
+        ]
+      }
+    ]
+  }
+],
+  "channels": [
+    {
+      "name": "Mundial 2026",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobfaacUjer2-BFVEeXqHja3T9pBn4QaCvzw&s",
+      "options": [
+        {
+          "name": "DSports 1080p (Opcion 1)",
+          "iframe": "https://stream-xhd.com/channel2/?id=dsports1"
+        },
+        {
+          "name": "DSports 1080p (Opcion 2)",
+          "iframe": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
+        },
+        {
+          "name": "DSports (Opcion 3) (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RHNwb3J0c19VWQ=="
+        },
+        {
+          "name": "DSports 2 (1080p + buffer)",
+          "iframe": "https://la16hd.com/dsports2ar.php"
+        },
+        {
+          "name": "Telefe 720p (Opcion 1) (Solo Argentina)",
+          "iframe": "https://sudamericaplay2.com/canal_41/telefe_soloargetntina_ios.php"
+        },
+        {
+          "name": "Telefe 720p (Opcion 2)",
+          "iframe": "https://stream-xhd.com/live1.php?stream=telefe"
+        },
+        {
+          "name": "Telefe (Opcion 3) (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=VGVsZWZlSEQ="
+        },
+        {
+          "name": "TyC Sports (Opcion 1) (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
+        },
+        {
+          "name": "TyC Sports (Opcion 2)",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=tycsports"
+        },
+        {
+          "name": "DSports+1080p (Opcion 1)",
+          "iframe": "https://sudamericaplay2.com/canal_8112/1dzportsplus.html"
+        },
+        {
+          "name": "DSports+1080p (Opcion 2) (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
+        },
+        {
+          "name": "Fox USA 4K (Ingles)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/fox4k"
+        },
+        {
+          "name": "Telemundo 1080p",
+          "iframe": "https://junkieembeds.pages.dev/embed/telemundo-usa"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Champions League",
+      "logo": "https://th.bing.com/th/id/OIP.3R_r3xVNkhdUgSkMYNDw5QHaHa?w=159&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+      "options": [
+        {
+          "name": "ESPN",
+          "iframe": "https://angulismotv.pages.dev/mpdk/champions-espn-n-ext.html"
+        },
+        {
+          "name": "ESPN (EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/champions-espn.html"
+        },
+        {
+          "name": "Fox Sports",
+          "iframe": "https://angulismotv.pages.dev/mpdk/champions-fox-n-ext.html"
+        },
+        {
+          "name": "Fox Sports (EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/champions-fox.html"
+        },
+        {
+          "name": "Multicam - ESPN",
+          "iframe": "https://angulismotv.pages.dev/mpdk/multicam-n-ext"
+        },
+        {
+          "name": "Multicam - ESPN (EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/multicam-alt"
+        },
+        {
+          "name": "Multicam - ESPN (EXTENSION PC 2)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/multicam"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Copa Libertadores",
+      "logo": "https://cdn.conmebol.com/wp-content/uploads/2015/05/logo_bridgestone_libertadores_0.jpg",
+      "options": [
+        {
+          "name": "Pack Libertadores",
+          "iframe": "https://angulismotv.pages.dev/mpdk/libertadores-n-ext"
+        },
+        {
+          "name": "Pack Libertadores (EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/libertadores"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Copa Sudamericana",
+      "logo": "https://tse4.mm.bing.net/th/id/OIP.jWBlsTbagCmQljLOd5arrwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "options": [
+        {
+          "name": "Pack ESPN + DIRECTV (SIN EXTENSION)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/sudamericana-n-ext"
+        },
+        {
+          "name": "Pack ESPN + DIRECTV (EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/sudamericana"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Disney+",
+      "logo": "https://images.seeklogo.com/logo-png/39/1/disney-logo-png_seeklogo-392241.png",
+      "options": [
+        {
+          "name": "Disney 1 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney1"
+        },
+        {
+          "name": "Disney 1 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney1"
+        },
+        {
+          "name": "Disney 2 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney2"
+        },
+        {
+          "name": "Disney 2 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney2"
+        },
+        {
+          "name": "Disney 3 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney3"
+        },
+        {
+          "name": "Disney 3 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney3"
+        },
+        {
+          "name": "Disney 4 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney4"
+        },
+        {
+          "name": "Disney 4 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney4"
+        },
+        {
+          "name": "Disney 5 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney5"
+        },
+        {
+          "name": "Disney 5 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney5"
+        },
+        {
+          "name": "Disney 6 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney6"
+        },
+        {
+          "name": "Disney 6 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney6"
+        },
+        {
+          "name": "Disney 7 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney7"
+        },
+        {
+          "name": "Disney 7 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney7"
+        },
+        {
+          "name": "Disney 8 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney8"
+        },
+        {
+          "name": "Disney 8 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney8"
+        },
+        {
+          "name": "Disney 9 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney9"
+        },
+        {
+          "name": "Disney 9 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney9"
+        },
+        {
+          "name": "Disney 10 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney10"
+        },
+        {
+          "name": "Disney 10 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney10"
+        },
+        {
+          "name": "Disney 11 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney11"
+        },
+        {
+          "name": "Disney 11 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney11"
+        },
+        {
+          "name": "Disney 12 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney12"
+        },
+        {
+          "name": "Disney 12 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney12"
+        },
+        {
+          "name": "Disney 13 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney13"
+        },
+        {
+          "name": "Disney 13 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney13"
+        },
+        {
+          "name": "Disney 14 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney14"
+        },
+        {
+          "name": "Disney 14 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney14"
+        },
+        {
+          "name": "Disney 15 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney15"
+        },
+        {
+          "name": "Disney 15 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney15"
+        },
+        {
+          "name": "Disney 16 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney16"
+        },
+        {
+          "name": "Disney 16 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney16"
+        },
+        {
+          "name": "Disney 17 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney17"
+        },
+        {
+          "name": "Disney 17 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney17"
+        },
+        {
+          "name": "Disney 18 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney18"
+        },
+        {
+          "name": "Disney 18 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney18"
+        },
+        {
+          "name": "Disney 19 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney19"
+        },
+        {
+          "name": "Disney 19 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney19"
+        },
+        {
+          "name": "Disney 20 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney20"
+        },
+        {
+          "name": "Disney 20 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney20"
+        },
+        {
+          "name": "Disney 21 - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney21"
+        },
+        {
+          "name": "Disney 21 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney21"
+        },
+        {
+          "name": "Disney+ (extra)",
+          "iframe": "https://elcanaldeportivo.com/disneyplus.php"
+        },
+        {
+          "name": "Disney+ (extra 2)",
+          "iframe": "https://domainmy.lat/global1.php?stream=disney4"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "DSports",
+      "logo": "https://bestleague.world/img/dsports.webp",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://embed.ksdjugfsddeports.com/embed/directvsports.html"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://bolaloca.my/player/2/94"
+        },
+        {
+          "name": "Opción 5",
+          "iframe": "https://tucanaldeportivo.org/directvsports.php"
+        },
+        {
+          "name": "Opción 6",
+          "iframe": "https://streamtp.sbs/global1.php?stream=dsports"
+        },
+        {
+          "name": "Opción 7",
+          "iframe": "https://streamhdx.com/hls.php?stream=dsports"
+        },
+        {
+          "name": "Opción 8 (CON EXTENSIÓN)",
+          "iframe": "https://bestleague.top/tok.html?get=RHNwb3J0c19VWQ=="
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "DSports 2",
+      "logo": "https://bestleague.world/img/dsports2.webp",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://sudamericaplay.sbs/canal_8112/dsports2.html"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtp.sbs/global1.php?stream=dsports2"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canal.php?stream=dsports2"
+        },
+        {
+          "name": "Opción 4 (CON EXTENSION)",
+          "iframe": "https://bestleague.top/tok.html?get=RHNwb3J0czJfVVk="
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "DSports Plus",
+      "logo": "https://bestleague.world/img/dsportsplus.webp",
+      "options": [
+        {
+          "name": "Opción 1 (1080p)",
+          "iframe": "https://sudamericaplay.sbs/canal_8112/dsports_plus.html"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtp.sbs/global1.php?stream=dsportsplus"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://bolaloca.my/player/2/96"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=dsportsplus"
+        },
+        {
+          "name": "Opción 5 (EXTENSION)",
+          "iframe": "https://bestleague.top/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Entretenimiento",
+      "logo": "https://pbs.twimg.com/profile_images/2027160954044125184/0L-mMmEa_400x400.jpg",
+      "options": [
+        {
+          "name": "Peliculas",
+          "iframe": "https://nowfutboll.pages.dev/peliculas/"
+        },
+        {
+          "name": "Series",
+          "iframe": "https://nowfutboll.pages.dev/series/"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "ESPN 1",
+      "logo": "https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTl9VWQ=="
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://bolaloca.my/player/2/87"
+        },
+        {
+          "name": "Opción 5 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTl9VWQ=="
+        },
+        {
+          "name": "Opción 6 (EXTENSION PC)",
+          "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=eeespee1-giaaaa"
+        },
+        {
+          "name": "Opción 7 (EXTENSION PC)",
+          "iframe": "https://www.bestleague.top/tok.html?get=RVNQTjJIRA&start=true"
+        },
+        {
+          "name": "Opción 8 SIN DELAY (EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/nebunexa/espn1"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "ESPN 2",
+      "logo": "https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjJfQXJn"
+        },
+        {
+          "name": "Opción 2 (SIN EXT)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/espn2"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn2"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn2"
+        },
+        {
+          "name": "Opción 5 (EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/espn2-ext"
+        },
+        {
+          "name": "Opción 6 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjJfQXJn"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "ESPN 3",
+      "logo": "https://espnpressroom.com/us/files/2011/10/ESPN3_Logo_Resize2.jpg",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjM="
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn3"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn3"
+        },
+        {
+          "name": "Opción 4 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjM"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "ESPN 4",
+      "logo": "https://www.cotelcam.com.ar/wp-content/uploads/2025/08/espn.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTkhE"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn4"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn4"
+        },
+        {
+          "name": "Opción 4 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTkhE"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "ESPN 5",
+      "logo": "https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjQ="
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn5"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn5"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://welivesports.shop/embed/espn5col.php"
+        },
+        {
+          "name": "Opción 5 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjQ="
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "ESPN 6",
+      "logo": "https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzM19VWQ=="
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn6"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn6"
+        },
+        {
+          "name": "Opción 4 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzM19VWQ=="
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "ESPN 7",
+      "logo": "https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzMl9VWQ=="
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn7"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn7"
+        },
+        {
+          "name": "Opción 4 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzMl9VWQ=="
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "ESPN Premium",
+      "logo": "https://angulismo-pics.pages.dev/espn-premium.png",
+      "options": [
+        {
+          "name": "(1)",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+        },
+        {
+          "name": "(2)",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espnpremium"
+        },
+        {
+          "name": "(3)",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espnpremium"
+        },
+        {
+          "name": "(4 HD - PC/CEL)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/espn-premium"
+        },
+        {
+          "name": "(5 PC 60FPS/HD)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/espnp-60fps-n-ext"
+        },
+        {
+          "name": "(6)",
+          "iframe": "https://bolaloca.my/player/2/76"
+        },
+        {
+          "name": "(7)",
+          "iframe": "https://sopracan-28-04-flotodsplaaerbloeer.blogspot.com/p/cantodossplaaer-2.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+        },
+        {
+          "name": "(8)",
+          "iframe": "https://welivesports.shop/embed/espnpremarg.php"
+        },
+        {
+          "name": "(9 EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/espnp-ext"
+        },
+        {
+          "name": "(10 EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+        },
+        {
+          "name": "(11 EXTENSION PC 60 FPS/HD)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/espnp-60fps"
+        },
+        {
+          "name": "(12 EXTENSION PC)",
+          "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=eeespreee-giaaaa"
+        },
+        {
+          "name": "(13) Experimental",
+          "iframe": "https://x4bnd7lq.fubohd.com/espnpremium/mono.m3u8?token=244645f32ddb96f2dff8176170eb0b115c9fd062-68-1776633381-1776615381"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Formula 1",
+      "logo": "https://images.seeklogo.com/logo-png/32/1/formula-one-2017-logo-png_seeklogo-322033.png",
+      "options": [
+        {
+          "name": "FOX Sports - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRz"
+        },
+        {
+          "name": "FOX Sports - Opción 2",
+          "iframe": "https://streamtp10.com/global1.php?stream=fox1ar"
+        },
+        {
+          "name": "FOX Sports - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports"
+        },
+        {
+          "name": "FOX Sports - Opción 4",
+          "iframe": "https://cors-proxy.wangzhishi.net/https://pracanespeeeedaaass.github.io/cantodooss-giaaa.html?id=foo1-gia"
+        },
+        {
+          "name": "FOX Sports - Opción 5",
+          "iframe": "https://welivesports.shop/embed/foxsp1arg.php"
+        },
+        {
+          "name": "FOX Sports - Opción 6 (EXTENSION PC)",
+          "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=fooo1-giaaaa"
+        },
+        {
+          "name": "Onboard Colapinto",
+          "iframe": "https://streamtp10.com/global1.php?stream=disney3"
+        },
+        {
+          "name": "ESPN  - Opcion 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+        },
+        {
+          "name": "ESPN 5 - Opcion 2",
+          "iframe": "https://streamtp10.com/global1.php?stream=espn5"
+        },
+        {
+          "name": "ESPN 5 - Opcion 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn5"
+        },
+        {
+          "name": "ESPN 5 - Opcion 4 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjQ="
+        },
+        {
+          "name": "ESPN 5 - Opcion 5 (EXTENSION PC)",
+          "iframe": "https://cableparatodos-soextensioonnennbe.blogspot.com/p/cantdosflooo-exteeencompu-vieja-op1.html?get=RVNQTjQ="
+        },
+        {
+          "name": "ESPN Disney 3",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney3"
+        },
+        {
+          "name": "ESPN 3 - Opcion 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney7"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Formula 2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDp2791-JueR-ICAFPEJp0_AvkBu3YfutxQ&s",
+      "options": [
+        {
+          "name": "Canal 1",
+          "iframe": "https://pooembed.eu/embed/streamed-f1"
+        },
+        {
+          "name": "Canal 2",
+          "iframe": "https://streamfree.app/embed/racing/skyf1?server=origin&quality=1080p"
+        },
+        {
+          "name": "Canal 3",
+          "iframe": "https://pooembed.eu/embed/f1/2026/australia/fp2"
+        },
+        {
+          "name": "Canal 4",
+          "iframe": "https://profamouslife.com/premium.php?player=desktop&live=skysfor1"
+        },
+        {
+          "name": "Canal 5",
+          "iframe": "https://viewembed.ru/channel/SkySportsF1[UK]"
+        },
+        {
+          "name": "Canal 6",
+          "iframe": "https://viewembed.ru/channel/SkySport3[NewZealand]"
+        },
+        {
+          "name": "ES",
+          "iframe": "https://viewembed.ru/channel/DAZNF1[Spain]"
+        },
+        {
+          "name": "ITA",
+          "iframe": "https://viewembed.ru/channel/SkySportsF1[Italy]"
+        },
+        {
+          "name": "DE",
+          "iframe": "https://antenasport.top/skyf1de.php"
+        },
+        {
+          "name": "DAZN F1",
+          "iframe": "https://embed.ksdjugfsddeports.com/embed2/daznf1.html"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Formula 3",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9x2Hj6WKqvuRpBdDvhutxlnvr3irJtVZoA&s",
+      "options": [
+        {
+          "name": "Canal 1",
+          "iframe": "https://pooembed.eu/embed/streamed-f1"
+        },
+        {
+          "name": "Canal 2",
+          "iframe": "https://streamfree.app/embed/racing/skyf1?server=origin&quality=1080p"
+        },
+        {
+          "name": "Canal 3",
+          "iframe": "https://pooembed.eu/embed/f1/2026/australia/fp1"
+        },
+        {
+          "name": "Canal 4",
+          "iframe": "https://streamcrichd.com/update/skyf1.php"
+        },
+        {
+          "name": "Canal 5",
+          "iframe": "https://viewembed.ru/channel/SkySportsF1[UK]"
+        },
+        {
+          "name": "Canal 6",
+          "iframe": "https://viewembed.ru/channel/SkySport3[NewZealand]"
+        },
+        {
+          "name": "Canal 7 | ES",
+          "iframe": "https://viewembed.ru/channel/DAZNF1[Spain]"
+        },
+        {
+          "name": "Canal 8 | ITA",
+          "iframe": "https://viewembed.ru/channel/SkySportsF1[Italy]"
+        },
+        {
+          "name": "Canal 9 | DEU",
+          "iframe": "https://antenasport.top/skyf1de.php"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Los Simpsons",
+      "logo": "https://images.seeklogo.com/logo-png/47/2/homero-simpson-logo-png_seeklogo-470698.png",
+      "options": [
+        {
+          "name": "Simpsonizados",
+          "iframe": "https://simpsonizados.me/"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Multicam",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvMUCO_UXM9rp57hlFUxAZ5VNx_qcmGlyOg&s",
+      "options": [
+        {
+          "name": "ESPN 1 + ESPN 2",
+          "iframe": "https://angulismotv.pages.dev/mpdk/multicam-n-ext"
+        },
+        {
+          "name": "ESPN 1 + ESPN 2 (2 EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/multicam-alt"
+        },
+        {
+          "name": "ESPN 1 + ESPN 2 (3 EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/multicam"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Onboards",
+      "logo": "https://images.seeklogo.com/logo-png/32/1/formula-one-2017-logo-png_seeklogo-322033.png",
+      "options": [
+        {
+          "name": "Tututurutu Max Verstappen",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney16"
+        },
+        {
+          "name": "Franco Colapinto",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney17"
+        },
+        {
+          "name": "Onboard",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney18"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Pack Futbol",
+      "logo": "https://www.gilesonline.com.ar/img/premium/futbol.png",
+      "options": [
+        {
+          "name": "Pack Futbol (HD)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/pack-futbol-proxy"
+        },
+        {
+          "name": "Pack Futbol (HD) (2)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/pack-futbol"
+        },
+        {
+          "name": "Pack Futbol (EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/pack-futbol-ext"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Premier League",
+      "logo": "https://angulismo-pics.pages.dev/premier.png",
+      "options": [
+        {
+          "name": "ESPN 1 - (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjJIRA"
+        },
+        {
+          "name": "ESPN 1 - Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn"
+        },
+        {
+          "name": "ESPN 1 - Opción 3",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+        },
+        {
+          "name": "ESPN 1 - Opción 4",
+          "iframe": "https://dominioparatodo.space/zk.html?id=6"
+        },
+        {
+          "name": "ESPN 1 - Opción 5",
+          "iframe": "https://bolaloca.my/player/2/87"
+        },
+        {
+          "name": "ESPN 2 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjJfQXJn"
+        },
+        {
+          "name": "ESPN 2 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn2"
+        },
+        {
+          "name": "ESPN 2 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn2"
+        },
+        {
+          "name": "MAX",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=max2"
+        },
+        {
+          "name": "USA",
+          "iframe": "https://streamtpday1.xyz/usa.html"
+        },
+        {
+          "name": "Universo",
+          "iframe": "https://bestleague.top/mpdk/?get=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbCh1bml2ZXJzby1lYXN0KS9tYXN0ZXIubXBk&key=MzUwMWJkMzIzYTZhMzVjMjhlYjc2NTRiZjI5OGI5YWE=&key2=MmRiNGM4MDg5ZDYyN2UxYjJjNDgwYzU3YmFhODZhN2I="
+        },
+        {
+          "name": "Disney+ 3",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney3"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "TNT Sports",
+      "logo": "https://angulismo-pics.pages.dev/tnt-sports.png",
+      "options": [
+        {
+          "name": "(1)",
+          "iframe": "https://bestleague.top/tok.html?get=VE5UX1Nwb3J0c19IRA"
+        },
+        {
+          "name": "(2)",
+          "iframe": "https://bolaloca.my/player/2/75"
+        },
+        {
+          "name": "(3 1080P - PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/tntfhd-n-ext"
+        },
+        {
+          "name": "(4 HD - CEL/PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/tnt-sports"
+        },
+        {
+          "name": "(5)",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=tntsports"
+        },
+        {
+          "name": "(6)",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsports"
+        },
+        {
+          "name": "(8)",
+          "iframe": "https://sopracan-28-04-flotodsplaaerbloeer.blogspot.com/p/pucheeeplaaedepoop1.html?get=VE5UX1Nwb3J0c19IRA"
+        },
+        {
+          "name": "(9)",
+          "iframe": "https://welivesports.shop/embed/tntsportarg.php"
+        },
+        {
+          "name": "(10 EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=VE5UX1Nwb3J0c19IRA"
+        },
+        {
+          "name": "(11- FULL HD EXTENSION PC)",
+          "iframe": "https://angulismotv.pages.dev/mpdk/tntfhd"
+        },
+        {
+          "name": "(12 SIN EXTENSION)",
+          "iframe": "https://cors-proxy.wangzhishi.net/https://pracanespeeeedaaass.github.io/cantodooss-giaaa.html?id=teespopree-gia"
+        },
+        {
+          "name": "(13 EXTENSIÓN PC)",
+          "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=teeeteespoo-giaaaa"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "TV Argentina",
+      "logo": "https://image.shutterstock.com/image-photo/image-260nw-2586031263.jpg",
+      "options": [
+        {
+          "name": "TV Argentina",
+          "iframe": "https://angulismotv.pages.dev/mpdk/noticias"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+    {
+      "name": "Bandsports (BR)",
+      "logo": "https://images.seeklogo.com/logo-png/47/1/bandsports-tv-logo-png_seeklogo-476278.png",
+      "options": [
+        {
+          "name": "Opción 1 (SOLO BRASIL, USAR VPN)",
+          "iframe": "https://geo.dailymotion.com/player.html?video=x8qgo8k"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "Brasileirao",
+      "logo": "https://images.seeklogo.com/logo-png/57/2/taca-brasileirao-serie-a-logo-png_seeklogo-577657.png",
+      "options": [
+        {
+          "name": "Premiere 1 - Opcion 1",
+          "iframe": "https://bestleague.top/mpdk/?get=aHR0cHM6Ly9hYmMzb3J3YWFhYWFhYWFtaHB1aTd3bG5tZnFnaC5vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9uZWxmeXVjdzlhL291dC92MS82ZmZiMmMzNjVhZDE0Zjg4YjE1NDU5MWJlYjQzZDFmNi9jZW5jLm1wZA==&key=NTZiNzljMTc4MmIzMGU2YjZmYzk3M2IwZThmZDQxMDQ=&key2=ZmEzOGFhYTg2NWE1N2VkYTdjNzc0NDQ2OTdiYThlZDM="
+        },
+        {
+          "name": "Premiere 1 - Opcion 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=premiere1"
+        },
+        {
+          "name": "Premiere 1 - Opcion 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=premiere1"
+        },
+        {
+          "name": "Premiere 2 - Opcion 1",
+          "iframe": "https://bestleague.top/mpdk/?get=aHR0cHM6Ly9hYmMzb3J3YWFhYWFhYWFtZTY1NTVoM2I2YWY0NC5vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9veTZycDBqd21mL291dC92MS81ODBlY2YxMmJhZDI0OTc5YmFmOGRkOTkzZGNlMDUzZS9jZW5jLm1wZA==&key=OWRjNDA0NjBjOTMwODdhZWE4NGQ2MzE1ZjA4ZWNiNjQ=&key2=ZjY5YzhkNDYyNGZkZGZmNGNhODliZDBiMzFiZGM0YTc="
+        },
+        {
+          "name": "Premiere 2 - Opcion 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=premiere2"
+        },
+        {
+          "name": "Premiere 3 - Opcion 1",
+          "iframe": "https://bestleague.top/mpdk/?get=aHR0cHM6Ly9hYmMzb3J3YWFhYWFhYWFtaHB1aTd3bG5tZnFnaC5vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy82b25yZm5peXJ5L291dC92MS9mMjMwNjljNjFkYmY0ZTAwODkwYTQwYjcwNWE4NDA3OS9jZW5jLm1wZA==&key=ZDIzZjc0MzM3OThhNjUyYTdkNGY2NzkxZDllMTAzNmM=&key2=NDk0MmVlYmQ1OThiNTcyN2M1Y2M0ODRjYzYyYjUyZTg="
+        },
+        {
+          "name": "Premiere 3 - Opcion 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=premiere3"
+        },
+        {
+          "name": "Premiere 3 - Opcion 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=premiere3"
+        },
+        {
+          "name": "Premiere 4 - Opcion 1",
+          "iframe": "https://bestleague.top/mpdk/?get=aHR0cHM6Ly9hYmMzb3J3YWFhYWFhYWFtYWdpZDdkcTZubDdsMy5vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy90aXJqb3I2NGtoL291dC92MS9mZDJlZDk5MTZkOTk0ZjA5YTNiZDYyYjY0MTQxYjljYi9jZW5jLm1wZA==&key=ZTIzMzY1YzJhZDk3ODcwYzg3MTcxMmI3M2YwZDYxOTU=&key2=NTg3MDljNzE0MzIwYmI4NjJkYmQwNzI3MGRmODFjOTQ="
+        },
+        {
+          "name": "Premiere 4 - Opcion 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=premiere4"
+        },
+        {
+          "name": "Premiere 4 - Opcion 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=premiere4"
+        },
+        {
+          "name": "Premiere 5 - Opcion 1",
+          "iframe": "https://bestleague.top/mpdk/?get=aHR0cHM6Ly9hYmMzb3J3YWFhYWFhYWFtaHB1aTd3bG5tZnFnaC5vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy8xb2JrdHJ5Ymh0L291dC92MS8wODI2NTQ1M2M4ZjY0ZDlmYmViM2NmNDM3NjQ0MDNhOC9jZW5jLm1wZA==&key=MzMyZjYyZWIzY2FlODI0ZTk4YTQxMjRkYTI5YTdkMzE=&key2=ZDE2OThjZGEzZDA0MGY5MDUxMTI1YTYxNzQ1YjU5NmI="
+        },
+        {
+          "name": "Premiere 5 - Opcion 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=premiere5"
+        },
+        {
+          "name": "Premiere 5 - Opcion 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=premiere5"
+        },
+        {
+          "name": "Premiere 7 - Opcion 1",
+          "iframe": "https://bestleague.top/mpdk/?get=aHR0cHM6Ly9hYmMzb3J3YWFhYWFhYWFtcGg1ZWE3dWt0YXYzZC5vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoLXNkL2VuYy9rcWZ0d3N2ZGd6L291dC92MS85Zjg2NmJjMzI2ZDI0MWFhOWQ0NzBjNTI2NTRhN2JmOS9jZW5jLXNkLm1wZA==&key=OWVlMzUyYWFjN2VkOGVlMWNiNDJjZmRmMzIyYjFjYjA=&key2=MDUzZDYzNWZjOTBlMTc1ODgxYmVmMjZjZDI5ZjM3MWU="
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Chat de Twitch",
+      "logo": "",
+      "options": [
+        {
+          "name": "para usar en multicam",
+          "iframe": "https://www.twitch.tv/embed/AngulismoTV/chat?parent=localhost&parent=127.0.0.1&parent=angulismotv.pages.dev&parent=angulismotv.pages.dev&darkpopout="
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "Copa del Rey",
+      "options": [
+        {
+          "name": "Flow Sports",
+          "iframe": "https://tvlibree.com/html/fl/?get=RXZlbnRvczFIRA"
+        },
+        {
+          "name": "Sky Sports",
+          "iframe": "https://bestleague.world/mpdk/?get=aHR0cHM6Ly96YXAtbGl2ZTEtb3R0Lml6emlnby50di8yL291dC91L2Rhc2gvU0tZU1BPUlRTMTZIRC9tYW5pZmVzdC5tcGQ=&key=Yzg4ZGM2YzY2OGNhYzNiNDY4ZDRhNGM3ZTE3NmZmM2Q=&key2=MWFlYjczOWRlMmMxNGVkMGFkNjU4Y2E4MDQzMjA4ZDg="
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "DAZN",
+      "logo": "https://tse2.mm.bing.net/th/id/OIP.1_oRiOthCWD64KIGtCh0xAHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "options": [
+        {
+          "name": "DAZN 1 (1)",
+          "iframe": "https://bestleague.top/tok.html?get=REFaTjE="
+        },
+        {
+          "name": "DAZN 1 (2)",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=dazntv1"
+        },
+        {
+          "name": "DAZN 1 (3)",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=dazn1"
+        },
+        {
+          "name": "DAZN 1 (4)",
+          "iframe": "https://deporte-libre.click/en-vivo-online/dazn-1-es/embed.php"
+        },
+        {
+          "name": "DAZN F1",
+          "iframe": "https://embed.ksdjugfsddeports.com/embed2/daznf1.html"
+        },
+        {
+          "name": "DAZN LaLiga (1)",
+          "iframe": "https://bestleague.top/tok.html?get=REFaTkxBTElHQT0="
+        },
+        {
+          "name": "DAZN LaLiga (2)",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=daznlaliga"
+        },
+        {
+          "name": "DAZN LaLiga (3)",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=daznlaliga"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "El Nueve",
+      "logo": "https://bestleague.world/img/nueve.webp",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Q2FuYWw5"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "Eliminatorias UEFA",
+      "logo": "https://www.bing.com/th/id/OIP.zEqraM7whkmXD5hTwtcBlgHaHa?w=204&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "options": [
+        {
+          "name": "no programado, avisenle al obeso de angulismo",
+          "iframe": "https://www.jopi.com/flashgame/id/2053"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "Europa League",
+      "logo": "https://tse4.mm.bing.net/th/id/OIP.7G1qMaeTER8tdkUUxRR9hQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "options": [
+        {
+          "name": "ESPN 1 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTl9VWQ=="
+        },
+        {
+          "name": "ESPN 1 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
+        },
+        {
+          "name": "ESPN 1 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn"
+        },
+        {
+          "name": "ESPN 2 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjJfQXJn"
+        },
+        {
+          "name": "ESPN 2 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn2"
+        },
+        {
+          "name": "ESPN 2 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn2"
+        },
+        {
+          "name": "ESPN 3 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjM="
+        },
+        {
+          "name": "ESPN 3 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn3"
+        },
+        {
+          "name": "ESPN 3 - Opción 3 ",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn3"
+        },
+        {
+          "name": "ESPN 4 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTkhE"
+        },
+        {
+          "name": "ESPN 4 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn4"
+        },
+        {
+          "name": "ESPN 4 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn4"
+        },
+        {
+          "name": "ESPN 5 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjQ="
+        },
+        {
+          "name": "ESPN 5 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn5"
+        },
+        {
+          "name": "ESPN 5 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn5"
+        },
+        {
+          "name": "ESPN 6 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzM19VWQ=="
+        },
+        {
+          "name": "ESPN 6 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn6"
+        },
+        {
+          "name": "ESPN 6 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn6"
+        },
+        {
+          "name": "ESPN 7 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzMl9VWQ=="
+        },
+        {
+          "name": "ESPN 7 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn7"
+        },
+        {
+          "name": "ESPN 7 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn7"
+        },
+        {
+          "name": "FOX Sports 1 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRz"
+        },
+        {
+          "name": "FOX Sports 1- Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox1ar"
+        },
+        {
+          "name": "FOX Sports 1- Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports"
+        },
+        {
+          "name": "FOX Sports 2 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzMkhE"
+        },
+        {
+          "name": "FOX Sports 2 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox2ar"
+        },
+        {
+          "name": "FOX Sports 2 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports2"
+        },
+        {
+          "name": "FOX Sports 3 - Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzM0hE"
+        },
+        {
+          "name": "FOX Sports 3 - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox3ar"
+        },
+        {
+          "name": "FOX Sports 3 - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports3"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "Flow",
+      "logo": "https://bestleague.world/img/flowmusic.webp",
+      "options": [
+        {
+          "name": "Canal 605",
+          "iframe": "https://bestleague.top/tok.html?get=Rmxvd19NdXNpY19YUA=="
+        },
+        {
+          "name": "Canal 606",
+          "iframe": "https://bestleague.top/tok.html?get=Rmxvd19NdXNpY18x&start=true"
+        },
+        {
+          "name": "Canal 607",
+          "iframe": "https://bestleague.top/tok.html?get=Rmxvd19NdXNpY18y"
+        },
+        {
+          "name": "Canal 608",
+          "iframe": "https://www.bestleague.top/tok.html?get=Rmxvd19NdXNpY18z&start=true"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "FLOW DEPORTES",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flow_sports.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://tvlibree.com/html/fl/?get=RXZlbnRvczFIRA"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "FOX Sports",
+      "logo": "https://logowik.com/content/uploads/images/fox-sports3529.jpg",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRz"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox1ar"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://cors-proxy.wangzhishi.net/https://pracanespeeeedaaass.github.io/cantodooss-giaaa.html?id=foo1-gia"
+        },
+        {
+          "name": "Opción 5 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRz"
+        },
+        {
+          "name": "Opción 6 (EXTENSION PC)",
+          "iframe": "https://todossembbbbdeeelosscanaquii.blogspot.com/p/caneembeepucheedepoflop-extencompu-cell.html?id=fooo1-giaaaa"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "FOX Sports 2",
+      "logo": "https://images.seeklogo.com/logo-png/36/1/fox-sports-2-logo-png_seeklogo-369602.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzMkhE"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox2ar"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports2"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "FOX Sports 3",
+      "logo": "https://images.seeklogo.com/logo-png/51/1/fox-sports-3-logo-png_seeklogo-510012.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rm94U3BvcnRzM0hE"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox3ar"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports3"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "FOX Sports Premium Mexico",
+      "logo": "https://bestleague.world/img/foxpr.png",
+      "options": [
+        {
+          "name": "Opción 1 (tarda en cargar)",
+          "iframe": "https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mZHg3NHpxemh1L291dC92MS83ZDdhOGM2OTgxYTg0MmI5OGE2ODNlOWZiZmU1MWQxNy9jZW5jLm1wZA==&key=OWYzMjdkMjRjNjZmYmQ4NGUxNWFiNWM5ZWFkN2M3YTQ=&key2=ODM4MzcxODU1MjljMGM0MDQ4ZjgxMzg2YzJkMzY0MjY="
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=foxsportspremium"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsportspremium"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "GOLPERU",
+      "logo": "https://tse4.mm.bing.net/th/id/OIP.RRwd-20Z5BExVjjhw5fp0QHaHo?r=0&w=908&h=936&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=golperu"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=golperu"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "GolTV",
+      "logo": "https://images.infutbol.site/tvnetworks/fkdl",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=goltv"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=goltv"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/goltv.html"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "Juegos",
+      "logo": "https://tse4.mm.bing.net/th/id/OIP.MB8ZvMuYsJZIUGqHrpNJCAHaE8?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "options": [
+        {
+          "name": "Minecraft 1.8.8 - Eaglercraft",
+          "iframe": "https://eaglercraft.q13x.com/1.8-wasm/?retina=true"
+        },
+        {
+          "name": "Dragon Ball Dress Up",
+          "iframe": "https://www.minijuegos.com/embed/dragon-ball-dress-up"
+        },
+        {
+          "name": "Gran Turismo 1",
+          "iframe": "https://www.minijuegos.com/embed/gran-turismo"
+        },
+        {
+          "name": "Gran Turismo 2 (Simulation Disc)",
+          "iframe": "https://www.retrogames.cc/embed/43710-gran-turismo-2-usa-simulation-mode.html"
+        },
+        {
+          "name": "F1 2002",
+          "iframe": "https://f.kbhgames.com/emujs/play.php?c=gba&f=f12002.gba"
+        },
+        {
+          "name": "Metal Slug",
+          "iframe": "https://www.play-games.com/iframe/36864.html?pg_f_l=es"
+        },
+        {
+          "name": "PES 2",
+          "iframe": "https://www.retrogames.cc/embed/42622-pro-evolution-soccer-2.html?mp_assets=https%3A%2F%2Fs2.minijuegosgratis.com%2F&mp_embed=0&mp_game_id=238730&mp_game_uid=pro-evolution-soccer-2&mp_game_url=https%3A%2F%2Fwww.minijuegos.com%2Fjuego%2Fpro-evolution-soccer-2&mp_int=1&mp_locale=es_ES&mp_player_type=IFRAME&mp_site_https_url=https%3A%2F%2Fwww.minijuegos.com%2F&mp_site_name=minijuegos.com&mp_site_url=https%3A%2F%2Fwww.minijuegos.com%2F&mp_timezone=Europe%2FMadrid&mp_view_type="
+        },
+        {
+          "name": "Earn To Die 2012 (parte 2)",
+          "iframe": "https://earntodie.co/earn-to-die.embed"
+        },
+        {
+          "name": "Stealing The Diamond",
+          "iframe": "https://stealing-the-diamond.game-files.crazygames.com/ruffle/stealing-the-diamond/1/stealing_the_diamond.html?isNewUser=true&skipPrerollFirstSession=true&v=1.345"
+        },
+        {
+          "name": "Bartender The Right Mix",
+          "iframe": "https://www.silvergames.com/es/bartender-the-right-mix/gameframe#adtest"
+        },
+        {
+          "name": "Colin Mcrae Rally 2.0",
+          "iframe": "https://retrogames.games/es/embed/colin-mcrae-rally-2"
+        },
+        {
+          "name": "Fireboy and Watergirl Temple",
+          "iframe": "https://www.minijuegos.com/embed/fireboy-and-watergirl-the-forest-temple"
+        },
+        {
+          "name": "Create A Ride 2",
+          "iframe": "https://www.jopi.com/flashgame/id/2053"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "LaLiga",
+      "logo": "https://angulismo-pics.pages.dev/la-liga.png",
+      "options": [
+        {
+          "name": "ESPN Deportes - 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espndeportes"
+        },
+        {
+          "name": "ESPN Deportes - 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espndeportes"
+        },
+        {
+          "name": "TSN 2 CA",
+          "iframe": "https://bestleague.top/mpdk/?get=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L3BkeC1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvdjV2OXlmbjYyaS9vdXQvdjEvMDk5MWUzM2QwOWRhNDZiMjg1N2ZjYzg0NWRiOTVjNDAvY2VuYy5tcGQ=&key=MzYyMjAyZWVmYzVkOWU0MmVlYzY0NTA5OThjY2U5ZTg=&key2=OTc4ZGZkZDUzMTg2ZWM1ODdkOTQwZTBiZDFlMmVjNDI="
+        },
+        {
+          "name": "LaLiga TV",
+          "iframe": "https://domainplayer.lat/embed/7654.html"
+        },
+        {
+          "name": "Extra",
+          "iframe": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+        },
+        {
+          "name": "Extra 2",
+          "iframe": "https://streamfree.to/embed/soccer/barcelona-vs-girona?server=origin&quality=720p&category=soccer"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "MLB",
+      "logo": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "options": [
+        {
+          "name": "Opción 1 (USA)",
+          "iframe": "https://embedsports.top/embed/alpha/mlb-network/1"
+        },
+        {
+          "name": "Opción 2 (USA)",
+          "iframe": "https://embedsports.top/embed/foxtrot/6570a88ebae85135f61b12d7/1"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=mlb1"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "MLS",
+      "logo": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "options": [
+        {
+          "name": "Opcion 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=mls1es"
+        },
+        {
+          "name": "Opcion 2",
+          "iframe": "https://elcanaldeportivo.com/mlspass.php"
+        },
+        {
+          "name": "Opcion 3",
+          "iframe": "https://dominioparatodo.space/zk.html?id=3"
+        },
+        {
+          "name": "Opcion 4",
+          "iframe": "https://streamzs2.xyz/global2.php?stream=mls1es"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "MotoGP",
+      "logo": "https://images.seeklogo.com/logo-png/9/1/motogp-logo-png_seeklogo-95111.png",
+      "options": [
+        {
+          "name": "Opción 1 - EN",
+          "iframe": "https://embedsports.top/embed/alpha/motogp-portugal-gp-motogp-sprint/1"
+        },
+        {
+          "name": "Opción 2 - EN",
+          "iframe": "https://embedsports.top/embed/alpha/motogp-portugal-gp-motogp-sprint/2"
+        },
+        {
+          "name": "Opción 3 - ES",
+          "iframe": "https://embedsports.top/embed/alpha/motogp-portugal-gp-motogp-sprint/3"
+        },
+        {
+          "name": "Opción 4 - ES",
+          "iframe": "https://embedsports.top/embed/alpha/motogp-portugal-gp-motogp-sprint/10"
+        },
+        {
+          "name": "Opción 5-  ESPN 4 - 1",
+          "iframe": "https://hopelife.bestleague.world/cvatt.html?get=RVNQTkhE="
+        },
+        {
+          "name": "Opción 6 - ESPN 4 - 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn4"
+        },
+        {
+          "name": "Opción 7 - ESPN 4 - 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn4"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "MOVISTAR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_Movistar_%282%29.svg/960px-Logo_Movistar_%282%29.svg.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=movistar"
+        },
+        {
+          "name": "Movistar - Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=movistar_deportes_peru"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "NBA",
+      "logo": "https://images.seeklogo.com/logo-png/18/2/nba-national-basketball-association-logo-png_seeklogo-188902.png",
+      "options": [
+        {
+          "name": "Opción 1 (USA)",
+          "iframe": "https://embedsports.top/embed/alpha/nba-tv/2"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=nba1"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://bolaloca.my/player/2/1"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=nba01"
+        },
+        {
+          "name": "Fox One",
+          "iframe": "https://streamvv33.lat/global1.php?channel=foxone7"
+        },
+        {
+          "name": "NBA TV",
+          "iframe": "https://bestleague.top/tok.html?get=TkJBX1RW"
+        },
+        {
+          "name": "NBA TV 2",
+          "iframe": "https://streamx550.com/global1.php?channel=amazon3"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Pelicula",
+      "logo": "https://media.istockphoto.com/id/1329174235/es/vector/movie-running-logo-plantilla-dise%C3%B1o-vector-emblema-concepto-de-dise%C3%B1o-s%C3%ADmbolo-creativo-icono.jpg?s=612x612&w=0&k=20&c=aCwBs4vo4LgpwzLgK4NLE3XihHCxXMlBg_Z-yxeVKtY=",
+      "options": [
+        {
+          "name": "Zathura: Una Aventura Espacial",
+          "iframe": "https://vimeos.net/embed-edgdtlcfrw50.html"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Primera B Nacional",
+      "logo": "https://angulismo-pics.pages.dev/b-nacional.png",
+      "options": [
+        {
+          "name": "Atlanta vs Quilmes",
+          "iframe": "https://angulismotv.pages.dev/mpdk/atlanta-quilmes"
+        },
+        {
+          "name": "Gimnasia de Jujuy vs Midlandd",
+          "iframe": "https://angulismotv.pages.dev/mpdk/gimnasia-midland"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "Recopa Sudamericana",
+      "logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/205.png",
+      "options": [
+        {
+          "name": "ESPN (1)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjJfQXJn"
+        },
+        {
+          "name": "ESPN (2)",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn2"
+        },
+        {
+          "name": "ESPN (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjJfQXJn"
+        },
+        {
+          "name": "ESPN (4)",
+          "iframe": "https://bestleague.top/tok.html?get=RVNQTjJIRA"
+        },
+        {
+          "name": "ESPN (5)",
+          "iframe": "https://elcanaldeportivo.com/espnhd.php"
+        },
+        {
+          "name": "ESPN (6)",
+          "iframe": "https://elcanaldeportivo.com/espnhd.php"
+        },
+        {
+          "name": "ESPN (7)",
+          "iframe": "https://elcanaldeportivo.com/espn-sharecast.php"
+        },
+        {
+          "name": "ESPN (8)",
+          "iframe": "https://welivesports.shop/embed/espn2arg.php"
+        },
+        {
+          "name": "ESPN (9)",
+          "iframe": "https://pracanespeeeedaaass.github.io/cantods-seeesaa.html?id=ESPN2"
+        },
+        {
+          "name": "ESPN (10)",
+          "iframe": "https://welivesports.shop/embed/espn1arg.php"
+        },
+        {
+          "name": "ESPN (11)",
+          "iframe": "https://pracanespeeeedaaass.github.io/cantods-seeesaa.html?id=ESPN"
+        },
+        {
+          "name": "Opción FUNCIONANDO",
+          "iframe": "https://streamx10.cloud/global1.php?channel=espn2"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "Rustico TV",
+      "logo": "data:image/jpeg;base64,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",
+      "options": [
+        {
+          "name": "RusticoTV",
+          "iframe": "https://rusticotv.cc/agenda.html"
+        },
+        {
+          "name": "TVLibre",
+          "iframe": "https://tvlibreonline.org/"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "SporTV BR",
+      "logo": "https://angulismo-pics.pages.dev/fut.png",
+      "options": [
+        {
+          "name": "SporTV - Opcion 1",
+          "iframe": "https://envivo1.org/embed/55322.html"
+        },
+        {
+          "name": "DSports - Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=dsports"
+        },
+        {
+          "name": "DSports - Opción 2",
+          "iframe": "https://streamfree.to/embed/soccer/z54e6Trc9iuoKbKtGG7enw?server=origin&quality=540p&t=1764705855460"
+        },
+        {
+          "name": "DSports - Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+        },
+        {
+          "name": "DSports - Opción 4",
+          "iframe": "https://bolaloca.my/player/2/94"
+        },
+        {
+          "name": "DSports - Opción 5",
+          "iframe": "https://tucanaldeportivo.org/directvsports.php"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "Star Channel",
+      "logo": "https://bestleague.world/img/star.webp",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Rk9YSEQ="
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "Telefe",
+      "logo": "https://images.seeklogo.com/logo-png/45/2/telefe-tv-logo-png_seeklogo-451860.png",
+      "options": [
+        {
+          "name": "Opcion 1 (Solo ARGENTINA o VPN)",
+          "iframe": "https://sudamericaplay.sbs/canal_41/telefe_soloargetntina_ios.php"
+        },
+        {
+          "name": "Opcion 2 (EXTENSIÓN PC)",
+          "iframe": "https://bestleague.top/tok.html?get=VGVsZWZlSEQ="
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=telefe"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://cableparatodoscan-varisscanop3-fl.blogspot.com/p/cantodosemboppp33-flo.html?get=VGVsZWZlSEQ="
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Telemundo Internacional",
+      "logo": "https://bestleague.world/img/telemundo.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=VGVsZW11bmRvX0hE"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "tesssssss",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://www.telegratishd.com/espn-2-en-vivo.html"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "test",
+      "logo": "https://bestleague.world/img/telemundo.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Fox_Sports_Premiun_HD.mpd"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "test espn",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://angulismotv.pages.dev/mpdk/?get=aHR0cHM6Ly9lbDRsaXZlMi5ib2xkbXNzLmNvbS9FU1BOL0VTUE5fRUw0LmlzbWwvRVNQTi5tcGQ=&key=NDdhNmU5YjU5MDk3NDkwYmJkMmE0MmFkMTg0ZjBiNTQ=&key2=MTQ3MWE3ZGY3MDQxNzI5MDRhYTYxMjZhMmIzNTM0MWU=&start=true"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "Testsss",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://Google.com"
+        }
+      ],
+      "show": false
+    },
+    {
+      "name": "TIGO Sports",
+      "logo": "https://images.seeklogo.com/logo-png/24/2/tigo-logo-png_seeklogo-244591.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://futbol.to/en-vivo/?c=tigosports1"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "TNT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://tvlibr3.com/html/fl/?get=VE5UX0hEX0FyZw=="
+        },
+        {
+          "name": "Opción 2 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=VE5UX0hEX0FyZw=="
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "TNT Novelas",
+      "logo": "https://bestleague.world/img/tntnovelas.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=VEJT"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "TNT Sports Chile",
+      "logo": "https://angulismo-pics.pages.dev/tnt-sports.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://welivesports.shop/embed/tntsportchile.php"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://smjt9q.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=104.28.217.122&token=3cbd2b162c0379a4f80a7a35755bf8c78754bd6d-a3-1770559077-1770505077"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "TV Publica",
+      "logo": "https://images.seeklogo.com/logo-png/46/2/tv-publica-argentina-2014-logo-png_seeklogo-462615.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=Q2FuYWw3"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=tv_publica"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=tvpublica"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "TyC Sports",
+      "logo": "https://angulismo-pics.pages.dev/tyc-sports.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://angulismotv.pages.dev/mpdk/tyc-n-ext"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://bolaloca.my/player/2/77"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://streamtp.sbs/global1.php?stream=tycsports"
+        },
+        {
+          "name": "Opción 5",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+        },
+        {
+          "name": "Opcion 6 (EXTENSION PC)",
+          "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
+        },
+        {
+          "name": "Opción 7",
+          "iframe": "https://welivesports.shop/embed/tycsportarg.php"
+        },
+        {
+          "name": "Opción 8",
+          "iframe": "https://rereyano.ru/player/3/77"
+        },
+        {
+          "name": "Opción 9",
+          "iframe": "https://angulismotv.pages.dev/mpdk/tyc"
+        },
+        {
+          "name": "Opción 10",
+          "iframe": "https://pracanespeeeedaaass.github.io/cantods-seeesaa.html?id=TYCSports"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "UFC",
+      "options": [
+        {
+          "name": "Goluchitas",
+          "iframe": "https://goluchitas.com"
+        },
+        {
+          "name": "Paramount (2)",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=paramount3"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "VTV",
+      "logo": "https://hopelife.bestleague.world/img/vtv.webp",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=VlRWX0hE"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=vtv"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=vtv"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://bolaloca.my/player/1/109"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "VTV PLUS",
+      "logo": "https://hopelife.bestleague.world/img/vtvplus.webp",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.top/tok.html?get=VlRWX1BMVVM="
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=vtvplus"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "WIN Sports",
+      "logo": "https://images.seeklogo.com/logo-png/25/1/win-sports-logo-png_seeklogo-259337.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=winsports"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=winsports"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "WIN Sports+",
+      "logo": "https://images.seeklogo.com/logo-png/37/1/win-sport-logo-png_seeklogo-371670.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=winplus"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=winsportsplus"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "WRC",
+      "logo": "https://images.seeklogo.com/logo-png/19/1/wrc-fia-world-rally-logo-png_seeklogo-196351.png",
+      "options": [
+        {
+          "name": "Opción 1 - TNT Sports EN",
+          "iframe": "https://embedsports.top/embed/alpha/wrc-japan-2025-stage-10/1"
+        },
+        {
+          "name": "Opción 2 - TNT Sports EN",
+          "iframe": "https://embedsports.top/embed/alpha/wrc-japan-2025-stage-10/2"
+        },
+        {
+          "name": "Opción 3 - ESPN ES",
+          "iframe": "https://embedsports.top/embed/charlie/forum8-rally-japan-stage-13-1629468676/1"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "Paramount +",
+      "logo": "https://images.seeklogo.com/logo-png/39/1/paramount-logo-png_seeklogo-397501.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://sudamericaplay2.com/ufc/player_espa1.php"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://sudamericaplay2.com/ufc/player_english1.php"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://sudamericaplay2.com/ufc/player_portugues.php"
+        }
+      ],
+      "show": true,
+      "featured": false
+    }
+  ]
+}
