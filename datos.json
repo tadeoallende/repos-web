@@ -1,134 +1,474 @@
 {
-  "events": [
-    {
-      "id": 8,
-      "evento": "Copa del Mundo: EE. UU. vs Bosnia-Herzegovina | *Octavos de final",
-      "fecha": "2026-07-01 21:00:00",
-      "competencia": "Copa del Mundo 2026",
-      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
-      "canales": [
-        {
-          "name": "Dsports HD",
-          "options": [
-            {
-              "name": "Opción 1 (DRM)",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
-            }
-          ]
-        },
-        {
-          "name": "Dsports FHD | Solo LATAM",
-          "options": [
-            {
-              "name": "Opción 1 (DRM)",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/dsports4541.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
-            }
-          ]
-        },
-        {
-          "name": "Canal 5 MX",
-          "options": [
-            {
-              "name": "Opción 1 (DRM)",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/21canalfive.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
-            }
-          ]
-        },
-        {
-          "name": "Canal 4 SV",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamhdx.xyz/channel/?id=canal4sv"
-            }
-          ]
-        },
-        {
-          "name": "Fox One USA",
-          "options": [
-            {
-              "name": "Opción 1 (Inglés)",
-              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://stream-xhd.com/live1.php?stream=foxoneusa"
-            }
-          ]
-        },
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
-            }
-          ]
-        },
-        {
-          "name": "TyC Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
-            }
-          ]
-        },
-        {
-          "name": "Telemundo",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
-            }
-          ]
-        },
-        {
-          "name": "TUDN MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=tudnmx"
-            }
-          ]
-        },
-        {
-          "name": "Gen PY",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
-            }
-          ]
-        },
-        {
-          "name": "Trece PY",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+ "events": [
+  {
+    "id": 1,
+    "evento": "Wimbledon - Cobertura Internacional",
+    "fecha": "2026-07-02 02:00:00",
+    "competencia": "Wimbledon",
+    "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+    "canales": [
+      {
+        "name": "ESPN 2",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=espn2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "evento": "Wimbledon - Cobertura Regional",
+    "fecha": "2026-07-02 02:00:00",
+    "competencia": "Wimbledon",
+    "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+    "canales": [
+      {
+        "name": "ESPN 3",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=espn3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "evento": "Wimbledon - Centre Court (Múltiples Canchas)",
+    "fecha": "2026-07-02 03:00:00",
+    "competencia": "Wimbledon",
+    "logoUrl": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0ntlq8y.jpg",
+    "canales": [
+      {
+        "name": "BBC iPlayer (720p)",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-centre"
+          }
+        ]
+      },
+      {
+        "name": "BBC iPlayer (4K HEVC)",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-centre-4k"
+          }
+        ]
+      },
+      {
+        "name": "BBC iPlayer (Canchas Múltiples)",
+        "options": [
+          {
+            "name": "Cancha 1",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt1"
+          },
+          {
+            "name": "Cancha 2",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt2"
+          },
+          {
+            "name": "Cancha 3",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt3"
+          },
+          {
+            "name": "Cancha 4",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt4"
+          },
+          {
+            "name": "Cancha 5",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt5"
+          },
+          {
+            "name": "Cancha 6",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt6"
+          },
+          {
+            "name": "Cancha 7",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt7"
+          },
+          {
+            "name": "Cancha 8",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt8"
+          },
+          {
+            "name": "Cancha 10",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt10"
+          },
+          {
+            "name": "Cancha 11",
+            "iframe": "http://vileembeds.pages.dev/embed/wimbledon-crt11"
+          },
+          {
+            "name": "Cancha 12",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt12"
+          },
+          {
+            "name": "Cancha 14",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt14"
+          },
+          {
+            "name": "Cancha 15",
+            "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "evento": "Copa del Mundo: España vs Austria | Octavos de final",
+    "fecha": "2026-07-02 11:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "DSports Argentina",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la16hd.com/dsportsar.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "DSports LATAM",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la16hd.com/dsportslatam.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "DSports Global",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "La 1 TVE",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la16hd.com/la1tve.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+          }
+        ]
+      },
+      {
+        "name": "VTV+",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "Fox One USA",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo USA",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "Canal 5 MX",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+          }
+        ]
+      },
+      {
+        "name": "TUDN MX",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tudnmx"
+          }
+        ]
+      },
+      {
+        "name": "Sportv BR",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+          }
+        ]
+      },
+      {
+        "name": "Chilevision",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+          }
+        ]
+      },
+      {
+        "name": "Caracol TV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=evento6"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "evento": "Copa Chile: Huachipato vs Deportes Concepción",
+    "fecha": "2026-07-02 14:00:00",
+    "competencia": "Copa Chile",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Logocopachile2021.svg/revision/latest/scale-to-width-down/200?cb=20210328185825",
+    "canales": [
+      {
+        "name": "TNT Sports Chile",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "evento": "Copa del Mundo: Portugal vs Croacia | Octavos de final",
+    "fecha": "2026-07-02 15:00:00",
+    "competencia": "Copa del Mundo 2026",
+    "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+    "canales": [
+      {
+        "name": "DSports Argentina",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la16hd.com/dsportsar.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+          }
+        ]
+      },
+      {
+        "name": "DSports LATAM",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la16hd.com/dsportslatam.php"
+          },
+          {
+            "name": "Opción 2",
+            "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "DSports Global",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+          }
+        ]
+      },
+      {
+        "name": "VTV+",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+          }
+        ]
+      },
+      {
+        "name": "Fox One USA",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+          }
+        ]
+      },
+      {
+        "name": "Disney+",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=disney1"
+          }
+        ]
+      },
+      {
+        "name": "TYC Sports",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+          }
+        ]
+      },
+      {
+        "name": "Telefe",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telefe"
+          }
+        ]
+      },
+      {
+        "name": "Telemundo USA",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+          }
+        ]
+      },
+      {
+        "name": "America TV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=americatv"
+          }
+        ]
+      },
+      {
+        "name": "Chilevision",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+          }
+        ]
+      },
+      {
+        "name": "Caracol TV",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=evento6"
+          }
+        ]
+      },
+      {
+        "name": "Gen PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+          }
+        ]
+      },
+      {
+        "name": "Trece PY",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "evento": "MLB: Texas Rangers vs Detroit Tigers",
+    "fecha": "2026-07-02 16:00:00",
+    "competencia": "MLB",
+    "logoUrl": "",
+    "canales": [
+      {
+        "name": "ESPN 5",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://stream-xhd.com/live1.php?stream=espn5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "evento": "Copa Chile: O'Higgins vs Colo-Colo",
+    "fecha": "2026-07-02 16:30:00",
+    "competencia": "Copa Chile",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Logocopachile2021.svg/revision/latest/scale-to-width-down/200?cb=20210328185825",
+    "canales": [
+      {
+        "name": "TNT Sports Chile",
+        "options": [
+          {
+            "name": "Opción 1",
+            "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+          }
+        ]
+      }
+    ]
+  }
+],
   "channels": [
     {
       "name": "Mundial 2026",
