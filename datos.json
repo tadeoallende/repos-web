@@ -1,5 +1,753 @@
 {
-  "events": [],
+ "events": [
+    {
+      "id": 1,
+      "evento": "Copa del Mundo: España vs Austria",
+      "fecha": "2026-07-02 14:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Copa del Mundo: España vs Austria",
+          "options": [
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la16hd.com/la1tve.php"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la16hd.com/canal5mx.php"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "Dsports Global",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "La 1 ES Global",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 MX Global",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "Dsports Latam",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "Fox One USA Global",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Dsports",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo USA",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "Sportv BR",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 MX",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN MX",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "Chilevision",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+            }
+          ]
+        },
+        {
+          "name": "Caracol TV",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=evento6"
+            }
+          ]
+        },
+        {
+          "name": "Gen PY",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece PY",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+            }
+          ]
+        },
+        {
+          "name": "Fox ONE USA",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Marlins @ Rockies",
+      "fecha": "2026-07-02 15:10:00",
+      "competencia": "Evento",
+      "logoUrl": "https://i.ibb.co/vvcYh9yM/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "Rockies Feed",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-401815999"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Copa Chile: Huachipato vs Deportes Concepción",
+      "fecha": "2026-07-02 17:00:00",
+      "competencia": "Copa Chile",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Copa Chile: Huachipato vs Deportes Concepción",
+          "options": [
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports CL",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Copa del Mundo: Portugal vs Croacia",
+      "fecha": "2026-07-02 18:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://www.thesportsdb.com/images/media/event/thumb/py97pn1782634400.jpg",
+      "canales": [
+        {
+          "name": "FOX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/fox-usa"
+            }
+          ]
+        },
+        {
+          "name": "FOX 4K",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/fox4k-usa"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/telemundo-usa"
+            }
+          ]
+        },
+        {
+          "name": "FUSSBALL.TV 1 4K",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/fussballtv1uhd-de"
+            }
+          ]
+        },
+        {
+          "name": "FUSSBALL.TV 1 4K No Commentary",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/fussballtvuhd-de"
+            }
+          ]
+        },
+        {
+          "name": "BBC 4K",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/bbc-4k"
+            }
+          ]
+        },
+        {
+          "name": "TSN 4K",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/tsn-4k"
+            }
+          ]
+        },
+        {
+          "name": "DAZN Mundial",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/daznmundial-es"
+            }
+          ]
+        },
+        {
+          "name": "CazeTV Brasil",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/cazetv-br"
+            }
+          ]
+        },
+        {
+          "name": "Copa del Mundo: Portugal vs Croacia",
+          "options": [
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=disney1"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+              "name": "español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+            }
+          ]
+        },
+        {
+          "name": "Dsports Global",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "Dsports Latam",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "Fox One USA Global",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Dsports",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "TYC Sports",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+            }
+          ]
+        },
+        {
+          "name": "Telefe",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telefe"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo USA",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "America TV",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=americatv"
+            }
+          ]
+        },
+        {
+          "name": "Chilevision",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+            }
+          ]
+        },
+        {
+          "name": "Caracol TV",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=evento6"
+            }
+          ]
+        },
+        {
+          "name": "Gen PY",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece PY",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+            }
+          ]
+        },
+        {
+          "name": "Fox ONE USA",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "White Sox @ Guardians",
+      "fecha": "2026-07-02 18:40:00",
+      "competencia": "Evento",
+      "logoUrl": "https://i.ibb.co/DDqYc47X/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "Guardians Feed",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-401815993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Hagerstown Speedway - Pa Speedweek",
+      "fecha": "2026-07-02 19:00:00",
+      "competencia": "Evento",
+      "logoUrl": "https://api.paposse.tv/assets/posters/0208f824-32b2-4242-840d-358d31032c27.png",
+      "canales": [
+        {
+          "name": "PaPoseTV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/paposse-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "Texas Rangers vs. Detroit Tigers",
+      "fecha": "2026-07-02 19:00:00",
+      "competencia": "Evento",
+      "logoUrl": "https://i.ibb.co/7JqY3Tsm/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "Rangers Feed",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-401815997"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Cardinals @ Braves",
+      "fecha": "2026-07-02 19:15:00",
+      "competencia": "Evento",
+      "logoUrl": "https://i.ibb.co/pvb76yg8/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "Braves Feed",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-401815995"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Copa Chile: O'Higgins vs Colo-Colo",
+      "fecha": "2026-07-02 19:30:00",
+      "competencia": "Copa Chile",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Copa Chile: O'Higgins vs Colo-Colo",
+          "options": [
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports CL",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Rays @ Royals",
+      "fecha": "2026-07-02 19:40:00",
+      "competencia": "Evento",
+      "logoUrl": "https://i.ibb.co/QwWB7sz/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "Royals Feed",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-401815998"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Angels @ Mariners",
+      "fecha": "2026-07-02 21:40:00",
+      "competencia": "Evento",
+      "logoUrl": "https://i.ibb.co/nNKSbr7R/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "Mariners Feed",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-401816000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "Copa del Mundo: Suiza vs Argelia",
+      "fecha": "2026-07-02 22:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Copa del Mundo: Suiza vs Argelia",
+          "options": [
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Dsports Global",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "Dsports Latam",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1 USA Global",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/channel/?id=fs1usa"
+            }
+          ]
+        },
+        {
+          "name": "Dsports",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo USA",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "Gen PY",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece PY",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1 USA",
+          "options": [
+            {
+              "name": "iframe",
+              "iframe": "https://stream-xhd.com/live1.php?stream=fs1usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "Padres @ Dodgers",
+      "fecha": "2026-07-02 22:10:00",
+      "competencia": "Evento",
+      "logoUrl": "https://i.ibb.co/3mp6fHt8/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "Dodgers Feed",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-401816001"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
