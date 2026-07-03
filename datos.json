@@ -1,5 +1,1004 @@
 {
-  "events": [],
+"events": [
+    {
+      "id": 1,
+      "evento": "Wimbledon - Cobertura Internacional",
+      "fecha": "2026-07-03 02:00:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Wimbledon - Cobertura Regional",
+      "fecha": "2026-07-03 02:00:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+      "canales": [
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Wimbledon - Centre Court (Múltiples Canchas)",
+      "fecha": "2026-07-03 03:00:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0ns46sj.jpg",
+      "canales": [
+        {
+          "name": "BBC iPlayer (Canchas Múltiples)",
+          "options": [
+            {
+              "name": "Cancha Centre Court",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-centre"
+            },
+            {
+              "name": "Cancha 1",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt1"
+            },
+            {
+              "name": "Cancha 2",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt2"
+            },
+            {
+              "name": "Cancha 3",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt3"
+            },
+            {
+              "name": "Cancha 4",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt4"
+            },
+            {
+              "name": "Cancha 5",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt5"
+            },
+            {
+              "name": "Cancha 6",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt6"
+            },
+            {
+              "name": "Cancha 8",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt8"
+            },
+            {
+              "name": "Cancha 11",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt11"
+            },
+            {
+              "name": "Cancha 12",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt12"
+            },
+            {
+              "name": "Cancha 14",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt14"
+            },
+            {
+              "name": "Cancha 15",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt15"
+            },
+            {
+              "name": "Cancha 16",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt16"
+            },
+            {
+              "name": "Cancha 17",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt17"
+            },
+            {
+              "name": "Cancha 18",
+              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt18"
+            }
+          ]
+        },
+        {
+          "name": "BBC iPlayer (4K HEVC)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/bbc-4k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "F1 - GP Gran Bretaña (Clasificación Sprint)",
+      "fecha": "2026-07-03 05:40:00",
+      "competencia": "Formula 1",
+      "logoUrl": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2026/UK",
+      "canales": [
+        {
+          "name": "Disney+ (F1)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney5"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney6"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney7"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=fox1ar"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=daznf1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Boxeo: Scull vs. Castillo",
+      "fecha": "2026-07-03 08:00:00",
+      "competencia": "Boxeo",
+      "logoUrl": "https://i.ibb.co/NdhS4WJQ/image.webp",
+      "canales": [
+        {
+          "name": "DAZN (Boxeo)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/dazn1-usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Copa del Mundo: Australia vs Egipto",
+      "fecha": "2026-07-03 10:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://files.sofascore.com/news/2026/07/Aus-vs-Egpy-1024x576.jpg",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/fox-usa"
+            },
+            {
+              "name": "Opción 2 (4K)",
+              "iframe": "https://vileembeds.pages.dev/embed/fox4k-usa"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/telemundo-usa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "BBC iPlayer (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1 (4K)",
+              "iframe": "https://vileembeds.pages.dev/embed/bbc-4k-2"
+            }
+          ]
+        },
+        {
+          "name": "BBC One (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/bbcone-uk"
+            }
+          ]
+        },
+        {
+          "name": "FUSSBALL.TV (Alemania)",
+          "options": [
+            {
+              "name": "Opción 1 (4K)",
+              "iframe": "https://vileembeds.pages.dev/embed/fussballtv1uhd-de"
+            },
+            {
+              "name": "Opción 2 (4K - Sin Comentarios)",
+              "iframe": "https://vileembeds.pages.dev/embed/fussballtvuhd-de"
+            }
+          ]
+        },
+        {
+          "name": "TSN (Canadá)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/tsn1-ca"
+            }
+          ]
+        },
+        {
+          "name": "beIN Sports (MENA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/beinsportsmax-sa"
+            }
+          ]
+        },
+        {
+          "name": "DAZN (Mundial)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/daznmundial-es"
+            }
+          ]
+        },
+        {
+          "name": "CazeTV (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/cazetv-br"
+            }
+          ]
+        },
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/tycsports-ar"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Latam)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Global)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "VTV+ (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Fox One (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "MLB: Cardinals @ Cubs",
+      "fecha": "2026-07-03 13:05:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/j9cP5qdd/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Cubs Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-cubs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Copa del Mundo: Argentina vs Cabo Verde",
+      "fecha": "2026-07-03 14:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+      "canales": [
+        {
+          "name": "DSports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Latam)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Global)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "VTV+ (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "La 1 TVE (España)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+            }
+          ]
+        },
+        {
+          "name": "Canal 4 (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal4sv"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "ITV 1 (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+            }
+          ]
+        },
+        {
+          "name": "Fox One (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ (F1)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney9"
+            }
+          ]
+        },
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tycsports"
+            }
+          ]
+        },
+        {
+          "name": "Telefe (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telefe"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "America TV (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=americatv"
+            }
+          ]
+        },
+        {
+          "name": "TV Pública (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tvpublica"
+            }
+          ]
+        },
+        {
+          "name": "Chilevision (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "MLB: Braves vs Mets",
+      "fecha": "2026-07-03 15:00:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/sJMjrH9V/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Braves Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-braves"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 4 (MLB)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "MLB: Pirates @ Nationals",
+      "fecha": "2026-07-03 15:45:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/wFMpxjxH/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Nationals Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-nationals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "BKFC: Trout vs. Bonner",
+      "fecha": "2026-07-03 16:00:00",
+      "competencia": "Boxeo",
+      "logoUrl": "https://i.ibb.co/3yX1CcJH/image.webp",
+      "canales": [
+        {
+          "name": "DAZN (BKFC)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/bkfc-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "MLB: Twins @ Yankees",
+      "fecha": "2026-07-03 16:05:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/SwcCrnzv/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Yankees Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-yankees"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "MLB: Orioles @ Reds",
+      "fecha": "2026-07-03 16:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/CswQG4qH/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Reds Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-reds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "MLB: White Sox @ Guardians",
+      "fecha": "2026-07-03 16:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/WNnNxGWR/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Guardians Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-guardians"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "MLB: Giants @ Rockies",
+      "fecha": "2026-07-03 17:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/5XTzPDwk/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Rockies Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-rockies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "MLB: Rays @ Astros",
+      "fecha": "2026-07-03 17:15:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/ZpKjm622/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Astros Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-astros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "evento": "Copa del Mundo: Colombia vs Ghana",
+      "fecha": "2026-07-03 17:30:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+      "canales": [
+        {
+          "name": "DSports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Latam)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Global)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "VTV+ (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "Canal 4 (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal4sv"
+            }
+          ]
+        },
+        {
+          "name": "ITV 1 (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+            }
+          ]
+        },
+        {
+          "name": "Fox One (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ (F1)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "America TV (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=americatv"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "Caracol TV (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=evento6"
+            }
+          ]
+        },
+        {
+          "name": "Chilevision (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "MLB: Red Sox @ Angels",
+      "fecha": "2026-07-03 18:38:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/HfjJGFbD/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Angels Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-angels"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "MLB: Marlins @ Athletics",
+      "fecha": "2026-07-03 18:40:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/LDPdtWWf/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Athletics Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-athletics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "MLB: Brewers @ Diamondbacks",
+      "fecha": "2026-07-03 18:45:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/2YW8wnw7/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Diamondbacks Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-diamondbacks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "MLB: Padres @ Dodgers",
+      "fecha": "2026-07-03 19:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/fzYfvnjW/mlb-thumb-26180.png",
+      "canales": [
+        {
+          "name": "MLB.TV (Dodgers Feed)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-dodgers"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
