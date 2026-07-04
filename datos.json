@@ -1,11 +1,4 @@
 {
-{
-  "success": true,
-  "total": 31,
-  "sources": 3,
-  "sourcesOk": 3,
-  "sourceErrors": [],
-  "timestamp": "2026-07-04T03:39:10.264Z",
   "events": [
     {
       "id": 1,
