@@ -1,179 +1,5 @@
-"events": [
-    {
-      "id": 27,
-      "evento": "Paraguay vs Francia",
-      "fecha": "2026-07-04 13:00:00",
-      "competencia": "Copa Del Mundo 2026",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
-            },
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
-            },
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
-            }
-          ]
-        },
-        {
-          "name": "La 1 ES (Global)",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
-            }
-          ]
-        },
-        {
-          "name": "FOX (USA)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
-            },
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
-            }
-          ]
-        },
-        {
-          "name": "Telemundo (USA)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
-            }
-          ]
-        },
-        {
-          "name": "Gen (Paraguay)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
-            }
-          ]
-        },
-        {
-          "name": "Trece (Paraguay)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
-            }
-          ]
-        },
-        {
-          "name": "Chilevision (Chile)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "evento": "Hawks vs Jazz",
-      "fecha": "2026-07-04 13:00:00",
-      "competencia": "NBA Summer League",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "NBA League Pass",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=nba3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "evento": "Nets vs Kings",
-      "fecha": "2026-07-04 13:00:00",
-      "competencia": "NBA Summer League",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "NBA League Pass",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=nba4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "evento": "Deportes Iquique vs Coquimbo Unido",
-      "fecha": "2026-07-04 14:00:00",
-      "competencia": "Primera División",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "TNT Sports (Chile)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "evento": "Barcelona SC vs Deportivo Cuenca",
-      "fecha": "2026-07-04 16:00:00",
-      "competencia": "LigaPro",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "Zapping EC",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=zapping_ec"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "evento": "Universidad Católica vs Copiapó",
-      "fecha": "2026-07-04 16:30:00",
-      "competencia": "Primera División",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "TNT Sports (Chile)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://stream-xhd.com/live1.php?stream=tntsportschile"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+{
+  "events": [],
   "channels": [
     {
       "name": "Mundial 2026",
@@ -309,7 +135,7 @@
       "options": [
         {
           "name": "Disney 1 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney1"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney1"
         },
         {
           "name": "Disney 1 - Opción 2",
@@ -317,7 +143,7 @@
         },
         {
           "name": "Disney 2 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney2"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney2"
         },
         {
           "name": "Disney 2 - Opción 2",
@@ -325,7 +151,7 @@
         },
         {
           "name": "Disney 3 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney3"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney3"
         },
         {
           "name": "Disney 3 - Opción 2",
@@ -333,7 +159,7 @@
         },
         {
           "name": "Disney 4 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney4"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney4"
         },
         {
           "name": "Disney 4 - Opción 2",
@@ -341,7 +167,7 @@
         },
         {
           "name": "Disney 5 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney5"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney5"
         },
         {
           "name": "Disney 5 - Opción 2",
@@ -349,7 +175,7 @@
         },
         {
           "name": "Disney 6 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney6"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney6"
         },
         {
           "name": "Disney 6 - Opción 2",
@@ -357,7 +183,7 @@
         },
         {
           "name": "Disney 7 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney7"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney7"
         },
         {
           "name": "Disney 7 - Opción 2",
@@ -365,7 +191,7 @@
         },
         {
           "name": "Disney 8 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney8"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney8"
         },
         {
           "name": "Disney 8 - Opción 2",
@@ -373,7 +199,7 @@
         },
         {
           "name": "Disney 9 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney9"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney9"
         },
         {
           "name": "Disney 9 - Opción 2",
@@ -381,7 +207,7 @@
         },
         {
           "name": "Disney 10 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney10"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney10"
         },
         {
           "name": "Disney 10 - Opción 2",
@@ -389,7 +215,7 @@
         },
         {
           "name": "Disney 11 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney11"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney11"
         },
         {
           "name": "Disney 11 - Opción 2",
@@ -397,23 +223,23 @@
         },
         {
           "name": "Disney 12 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney12"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney12"
         },
         {
           "name": "Disney 12 - Opción 2",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney12"
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney12"
         },
         {
           "name": "Disney 13 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney13"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney13"
         },
         {
           "name": "Disney 13 - Opción 2",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney13"
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=disney13"
         },
         {
           "name": "Disney 14 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney14"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney14"
         },
         {
           "name": "Disney 14 - Opción 2",
@@ -421,7 +247,7 @@
         },
         {
           "name": "Disney 15 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney15"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney15"
         },
         {
           "name": "Disney 15 - Opción 2",
@@ -429,7 +255,7 @@
         },
         {
           "name": "Disney 16 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney16"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney16"
         },
         {
           "name": "Disney 16 - Opción 2",
@@ -437,7 +263,7 @@
         },
         {
           "name": "Disney 17 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney17"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney17"
         },
         {
           "name": "Disney 17 - Opción 2",
@@ -445,7 +271,7 @@
         },
         {
           "name": "Disney 18 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney18"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney18"
         },
         {
           "name": "Disney 18 - Opción 2",
@@ -453,7 +279,7 @@
         },
         {
           "name": "Disney 19 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney19"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney19"
         },
         {
           "name": "Disney 19 - Opción 2",
@@ -461,7 +287,7 @@
         },
         {
           "name": "Disney 20 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney20"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney20"
         },
         {
           "name": "Disney 20 - Opción 2",
@@ -469,7 +295,7 @@
         },
         {
           "name": "Disney 21 - Opción 1",
-          "iframe": "https://streamtp.sbs/global2.php?stream=disney21"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney21"
         },
         {
           "name": "Disney 21 - Opción 2",
@@ -2149,15 +1975,14 @@
         },
         {
           "name": "Opción 2",
-          "iframe": "https://streamtp.sbs/global1.php?stream=tv_publica"
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=tv_publica"
         },
         {
           "name": "Opción 3",
           "iframe": "https://la20hd.com/vivo/canales.php?stream=tvpublica"
         }
       ],
-      "show": true,
-      "featured": false
+      "show": true
     },
     {
       "name": "TyC Sports",
