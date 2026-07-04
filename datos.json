@@ -1,5 +1,567 @@
 {
-  "events": [],
+ "events": [
+    {
+      "id": 1,
+      "evento": "GP Gran Bretaña - Sprint | Race Hub",
+      "fecha": "2026-07-04 00:30:00",
+      "competencia": "Formula 1",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney1"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney2"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney5"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney7"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney8"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney9"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=fox1ar"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=daznf1"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://stream-xhd.com/live1.php?stream=sporttvbr3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Wimbledon: Día #6 | Cobertura Regional",
+      "fecha": "2026-07-04 02:00:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Wimbledon: Día #6 | Cobertura Internacional",
+      "fecha": "2026-07-04 02:00:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Amistoso: Cruzeiro vs Defensor Sporting",
+      "fecha": "2026-07-04 06:00:00",
+      "competencia": "Amistoso",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Amistoso: Cruzeiro vs Defensor Sporting",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Universitario vs Sport Boys",
+      "fecha": "2026-07-04 06:30:00",
+      "competencia": "Amistoso",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=evento1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Tour de France - Etapa #1",
+      "fecha": "2026-07-04 06:30:00",
+      "competencia": "Ciclismo",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://stream-xhd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "Canadá vs Marruecos",
+      "fecha": "2026-07-04 09:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Copa del Mundo: Canadá vs Marruecos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=winsports"
+            },
+            {
+              "name": "Portugués - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=sportv"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "ITV 1 (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1 (Inglés)",
+              "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Libertad vs Leones del Norte",
+      "fecha": "2026-07-04 11:00:00",
+      "competencia": "LigaPro",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Zapping EC",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Grizzlies vs Thunder",
+      "fecha": "2026-07-04 11:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=nba1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Bucks vs Warriors Blue",
+      "fecha": "2026-07-04 11:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=nba2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Paraguay vs Francia",
+      "fecha": "2026-07-04 13:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Copa del Mundo: (Paraguay) vs Francia",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+              "name": "español - En vivo",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/canal5mx.php"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/la1tve.php"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/tudnmax.php"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "La 1 ES (Global)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=trecepy"
+            }
+          ]
+        },
+        {
+          "name": "Chilevision (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=chilevision"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "Hawks vs Jazz",
+      "fecha": "2026-07-04 13:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=nba3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "Nets vs Kings",
+      "fecha": "2026-07-04 13:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=nba4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "Deportes Iquique vs Coquimbo Unido",
+      "fecha": "2026-07-04 14:00:00",
+      "competencia": "Primera División",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "Barcelona SC vs Deportivo Cuenca",
+      "fecha": "2026-07-04 16:00:00",
+      "competencia": "LigaPro",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Zapping EC",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Universidad Católica vs Copiapó",
+      "fecha": "2026-07-04 16:30:00",
+      "competencia": "Primera División",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
