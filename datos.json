@@ -5,56 +5,80 @@
       "evento": "F1 - GP Gran Bretaña (Carrera)",
       "fecha": "2026-07-05 04:00:00",
       "competencia": "Formula 1",
-      "logoUrl": "https://www.silverstone.co.uk/sites/default/files/images/BGP-Austria-Web-2560x1210%20%281%29.png",
       "canales": [
         {
           "name": "Apple TV",
           "options": [
-            {"name": "Opción 1 (Alemán)", "iframe": "https://vileembeds.pages.dev/embed/apple-tv"}
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://vileembeds.pages.dev/embed/apple-tv"
+            }
           ]
         },
         {
           "name": "Apple TV 4K",
           "options": [
-            {"name": "Opción 1 (4K)", "iframe": "https://vileembeds.pages.dev/embed/apple-tv-4k"}
+            {
+              "name": "Opción 1 (4K)",
+              "iframe": "https://vileembeds.pages.dev/embed/apple-tv-4k"
+            }
           ]
         },
         {
           "name": "F1 TV",
           "options": [
-            {"name": "Opción 1 (Alemán)", "iframe": "https://vileembeds.pages.dev/embed/sky-sports-f1"},
-            {"name": "Opción 2 (Alemán)", "iframe": "https://vileembeds.pages.dev/embed/sky-sports-f1-uhd"},
-            {"name": "Opción 3 (Alemán)", "iframe": "https://vileembeds.pages.dev/embed/sky-sports-f1-it"}
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://vileembeds.pages.dev/embed/sky-sports-f1"
+            },
+            {
+              "name": "Opción 2 (Alemán)",
+              "iframe": "https://vileembeds.pages.dev/embed/sky-sports-f1-uhd"
+            },
+            {
+              "name": "Opción 3 (Alemán)",
+              "iframe": "https://vileembeds.pages.dev/embed/sky-sports-f1-it"
+            }
           ]
         },
         {
           "name": "FOX (USA)",
           "options": [
-            {"name": "Opción 1 (Alemán)", "iframe": "https://vileembeds.pages.dev/embed/fox-sports-506"}
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://vileembeds.pages.dev/embed/fox-sports-506"
+            }
           ]
         },
         {
           "name": "DAZN F1",
           "options": [
-            {"name": "Opción 1 (Alemán)", "iframe": "https://vileembeds.pages.dev/embed/daznf1-es"}
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://vileembeds.pages.dev/embed/daznf1-es"
+            }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://images.seeklogo.com/logo-png/32/1/formula-one-2017-logo-png_seeklogo-322033.png"
     },
     {
       "id": 2,
       "evento": "MLB: Mets @ Braves",
       "fecha": "2026-07-05 06:30:00",
       "competencia": "MLB",
-      "logoUrl": "https://i.ibb.co/q3cLgzNc/mlb-thumb-16832.png",
       "canales": [
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-braves"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-braves"
+            }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://i.ibb.co/q3cLgzNc/mlb-thumb-16832.png"
     },
     {
       "id": 3,
@@ -66,7 +90,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-nationals"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-nationals"
+            }
           ]
         }
       ]
@@ -81,7 +108,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-reds"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-reds"
+            }
           ]
         }
       ]
@@ -96,7 +126,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-yankees"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-yankees"
+            }
           ]
         }
       ]
@@ -111,7 +144,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-guardians"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-guardians"
+            }
           ]
         }
       ]
@@ -126,8 +162,14 @@
         {
           "name": "TNT Sports (Chile)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            }
           ]
         }
       ]
@@ -137,21 +179,27 @@
       "evento": "NBA Summer League: Bucks vs Nets",
       "fecha": "2026-07-05 08:00:00",
       "competencia": "NBA Summer League",
-      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
       "canales": [
         {
           "name": "Disney+",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=disney8"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney8"
+            }
           ]
         },
         {
           "name": "NBA League Pass",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=nba1"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba1"
+            }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png"
     },
     {
       "id": 9,
@@ -163,7 +211,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-cubs"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-cubs"
+            }
           ]
         }
       ]
@@ -173,123 +224,210 @@
       "evento": "Copa del Mundo: Brasil vs Noruega",
       "fecha": "2026-07-05 09:00:00",
       "competencia": "Copa Del Mundo 2026",
-      "logoUrl": "https://www.thesportsdb.com/images/media/event/thumb/7d01zx1782848875.jpg",
       "canales": [
         {
           "name": "FOX (USA)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/fox-usa"},
-            {"name": "Opción 2 (4K)", "iframe": "https://vileembeds.pages.dev/embed/fox4k-usa"},
-            {"name": "Opción 3", "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"},
-            {"name": "Opción 4", "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/fox-usa"
+            },
+            {
+              "name": "Opción 2 (4K)",
+              "iframe": "https://vileembeds.pages.dev/embed/fox4k-usa"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            }
           ]
         },
         {
           "name": "DSports (Argentina)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://la16hd.com/dsportsar.php"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=dsports"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
           ]
         },
         {
           "name": "DSports (Latam)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://la16hd.com/dsportslatam.php"},
-            {"name": "Opción 2", "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
           ]
         },
         {
           "name": "DSports (Global)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamhdx.xyz/channel/?id=dsports1"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
           ]
         },
         {
           "name": "VTV+ (El Salvador)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
           ]
         },
         {
           "name": "Telemundo (USA)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"
+            }
           ]
         },
         {
           "name": "America TV (Argentina)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=americatv"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=americatv"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=americatv"
+            }
           ]
         },
         {
           "name": "TYC Sports (Argentina)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
+            }
           ]
         },
         {
           "name": "Caracol TV (Colombia)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=evento6"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=caracol"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento6"
+            }
           ]
         },
         {
           "name": "Sportv (Brasil)",
           "options": [
-            {"name": "Opción 1 (Portugués)", "iframe": "https://la20hd.com/vivo/canales.php?stream=sportv"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"}
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=sportv"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
           ]
         },
         {
           "name": "Disney+",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=disney9"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney9"
+            }
           ]
         },
         {
           "name": "La 1 TVE (España)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://streamhdx.xyz/channel/?id=la1es"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=la1es"},
-            {"name": "Opción 3", "iframe": "https://la16hd.com/la1tve.php"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=la1es"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la16hd.com/la1tve.php"
+            }
           ]
         },
         {
           "name": "ITV 1 (Reino Unido)",
           "options": [
-            {"name": "Opción 1 (Inglés)", "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"}
+            {
+              "name": "Opción 1 (Inglés)",
+              "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+            }
           ]
         },
         {
           "name": "Canal 4 (El Salvador)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamhdx.xyz/channel/?id=canal4sv"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal4sv"
+            }
           ]
         },
         {
           "name": "VIX+ (Mundial)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=vix1"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=vix1"
+            }
           ]
         },
         {
           "name": "Gen (Paraguay)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=genpy"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=genpy"
+            }
           ]
         },
         {
           "name": "Trece (Paraguay)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=trecepy"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=trecepy"
+            }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png"
     },
     {
       "id": 11,
@@ -301,7 +439,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-royals"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-royals"
+            }
           ]
         }
       ]
@@ -316,7 +457,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-rangers"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-rangers"
+            }
           ]
         }
       ]
@@ -331,7 +475,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-astros"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-astros"
+            }
           ]
         }
       ]
@@ -346,7 +493,10 @@
         {
           "name": "NBA League Pass",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=nba2"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba2"
+            }
           ]
         }
       ]
@@ -361,7 +511,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-rockies"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-rockies"
+            }
           ]
         }
       ]
@@ -376,7 +529,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-diamondbacks"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-diamondbacks"
+            }
           ]
         }
       ]
@@ -391,14 +547,23 @@
         {
           "name": "Disney+",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=disney10"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney10"
+            }
           ]
         },
         {
           "name": "NBA League Pass",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=nba3"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=nba5"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba5"
+            }
           ]
         }
       ]
@@ -413,7 +578,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-athletics"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-athletics"
+            }
           ]
         }
       ]
@@ -428,8 +596,14 @@
         {
           "name": "TNT Sports (Chile)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            }
           ]
         }
       ]
@@ -444,7 +618,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-mariners"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-mariners"
+            }
           ]
         }
       ]
@@ -459,7 +636,10 @@
         {
           "name": "Zapping (Ecuador)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
           ]
         }
       ]
@@ -474,13 +654,19 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-dodgers"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-dodgers"
+            }
           ]
         },
         {
           "name": "ESPN 5",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://streamx-hd.com/live1.php?stream=espn5"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn5"
+            }
           ]
         }
       ]
@@ -495,7 +681,10 @@
         {
           "name": "ESPN 3",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://streamx-hd.com/live1.php?stream=espn3"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
           ]
         }
       ]
@@ -510,7 +699,10 @@
         {
           "name": "NBA League Pass",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=nba4"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba4"
+            }
           ]
         }
       ]
@@ -525,8 +717,14 @@
         {
           "name": "TNT Sports (Chile)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            }
           ]
         }
       ]
@@ -541,99 +739,168 @@
         {
           "name": "DSports (Argentina)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://la16hd.com/dsportsar.php"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=dsports"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
           ]
         },
         {
           "name": "DSports (Latam)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://la16hd.com/dsportslatam.php"},
-            {"name": "Opción 2", "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
           ]
         },
         {
           "name": "DSports (Global)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamhdx.xyz/channel/?id=dsports1"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
           ]
         },
         {
           "name": "VTV+ (El Salvador)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
           ]
         },
         {
           "name": "Telemundo (USA)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"
+            }
           ]
         },
         {
           "name": "Canal 5 (México)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"},
-            {"name": "Opción 3", "iframe": "https://la16hd.com/canal5mx.php"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la16hd.com/canal5mx.php"
+            }
           ]
         },
         {
           "name": "FOX (USA)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"},
-            {"name": "Opción 2", "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            }
           ]
         },
         {
           "name": "TUDN (México)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"},
-            {"name": "Opción 2", "iframe": "https://la16hd.com/tudnmax.php"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la16hd.com/tudnmax.php"
+            }
           ]
         },
         {
           "name": "Telefe (Argentina)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=telefe"},
-            {"name": "Opción 2", "iframe": "https://streamx-hd.com/live1.php?stream=telefe"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telefe"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telefe"
+            }
           ]
         },
         {
           "name": "Universo (USA)",
           "options": [
-            {"name": "Opción 1 (Español)", "iframe": "https://la20hd.com/vivo/canales.php?stream=universo"}
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=universo"
+            }
           ]
         },
         {
           "name": "Disney+",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=disney11"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney11"
+            }
           ]
         },
         {
           "name": "VIX+ (Mundial)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=vix1"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=vix1"
+            }
           ]
         },
         {
           "name": "Chilevision (Chile)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=chilevision"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=chilevision"
+            }
           ]
         },
         {
           "name": "Gen (Paraguay)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=genpy"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=genpy"
+            }
           ]
         },
         {
           "name": "Trece (Paraguay)",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=trecepy"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=trecepy"
+            }
           ]
         }
       ]
@@ -648,7 +915,10 @@
         {
           "name": "NBA League Pass",
           "options": [
-            {"name": "Opción 1", "iframe": "https://streamx-hd.com/live1.php?stream=nba6"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba6"
+            }
           ]
         }
       ]
@@ -663,7 +933,10 @@
         {
           "name": "MLB.TV",
           "options": [
-            {"name": "Opción 1", "iframe": "https://vileembeds.pages.dev/embed/mlb-angels"}
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/mlb-angels"
+            }
           ]
         }
       ]
