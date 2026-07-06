@@ -131,7 +131,6 @@
       "evento": "Copa del Mundo: Portugal vs España",
       "fecha": "2026-07-06 11:00:00",
       "competencia": "Copa Del Mundo 2026",
-      "logoUrl": "https://i.ibb.co/4gY43ksC/g0gb4k078jflhk3q.avif",
       "canales": [
         {
           "name": "FOX (USA)",
@@ -412,7 +411,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png"
     },
     {
       "id": 7,
