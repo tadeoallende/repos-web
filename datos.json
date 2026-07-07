@@ -1,5 +1,607 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "NBA Summer League: Warriors vs Heat",
+      "fecha": "2026-07-06 23:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "NBA Summer League: Kings vs Bucks",
+      "fecha": "2026-07-06 23:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Tour de France - Etapa #4",
+      "fecha": "2026-07-07 08:00:00",
+      "competencia": "Ciclismo",
+      "logoUrl": "https://www.letour.fr/themes/custom/letour/logo.png",
+      "canales": [
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Wimbledon - Cuartos de Final (Cobertura Regional)",
+      "fecha": "2026-07-07 09:00:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Wimbledon - Cuartos de Final (Cobertura Internacional)",
+      "fecha": "2026-07-07 09:30:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Players Championship 24 (Dardos)",
+      "fecha": "2026-07-07 10:00:00",
+      "competencia": "Dardos",
+      "logoUrl": "https://images.gc.pdcservices.co.uk/fit-in/1920x1080/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg",
+      "canales": [
+        {
+          "name": "Board One",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/pdc-1"
+            }
+          ]
+        },
+        {
+          "name": "Board Two",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/pdc-2"
+            }
+          ]
+        },
+        {
+          "name": "Board Three",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/pdc-3"
+            }
+          ]
+        },
+        {
+          "name": "Board Four",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://vileembeds.pages.dev/embed/pdc-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "Copa del Mundo: Argentina vs Egipto",
+      "fecha": "2026-07-07 13:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+      "canales": [
+        {
+          "name": "DSports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Latam)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Global)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "VTV+ (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
+            }
+          ]
+        },
+        {
+          "name": "Telefe (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telefe"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telefe"
+            }
+          ]
+        },
+        {
+          "name": "TV Pública (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tvpublica"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "La 1 TVE (España)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=la1es"
+            }
+          ]
+        },
+        {
+          "name": "Canal 4 (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal4sv"
+            }
+          ]
+        },
+        {
+          "name": "ITV 1 (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1 (Inglés)",
+              "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "VIX+ (Mundial)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=vix1"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=trecepy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "MLB: Cardinals vs Brewers",
+      "fecha": "2026-07-07 15:00:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/7JqY3Tsm/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "ESPN 7",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Copa del Mundo: Suiza vs Colombia",
+      "fecha": "2026-07-07 17:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+      "canales": [
+        {
+          "name": "DSports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Latam)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Global)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "VTV+ (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "La 1 TVE (España)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=la1es"
+            }
+          ]
+        },
+        {
+          "name": "ITV 1 (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1 (Inglés)",
+              "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "America TV (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=americatv"
+            }
+          ]
+        },
+        {
+          "name": "Chilevision (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=chilevision"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Trece (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=trecepy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "MLB: Rays vs Yankees",
+      "fecha": "2026-07-07 19:30:00",
+      "competencia": "MLB",
+      "logoUrl": "https://i.ibb.co/7JqY3Tsm/mlb-thumb-37480.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "NBA Summer League: Hawks vs Grizzlies",
+      "fecha": "2026-07-07 20:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "Aucas vs Guayaquil City",
+      "fecha": "2026-07-07 21:00:00",
+      "competencia": "LigaPro Ecuador",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "NBA Summer League: Thunder vs Jazz",
+      "fecha": "2026-07-07 22:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
