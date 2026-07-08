@@ -294,7 +294,7 @@
         },
         {
           "name": "Telefe 720p (Opcion 1) (Solo Argentina)",
-          "iframe": "https://sudamericaplay2.com/canal_41/telefe_soloargetntina_ios.php"
+          "iframe": "https://tvlibre-online.com/html/fl/?get=VGVsZWZlSEQ="
         },
         {
           "name": "Telefe 720p (Opcion 2)",
@@ -2111,7 +2111,7 @@
       "options": [
         {
           "name": "Opcion 1 (Solo ARGENTINA o VPN)",
-          "iframe": "https://sudamericaplay.sbs/canal_41/telefe_soloargetntina_ios.php"
+          "iframe": "https://tvlibre-online.com/html/fl/?get=VGVsZWZlSEQ="
         },
         {
           "name": "Opcion 2 (EXTENSIÓN PC)",
@@ -2120,10 +2120,6 @@
         {
           "name": "Opción 3",
           "iframe": "https://la20hd.com/vivo/canales.php?stream=telefe"
-        },
-        {
-          "name": "Opción 4",
-          "iframe": "https://cableparatodoscan-varisscanop3-fl.blogspot.com/p/cantodosemboppp33-flo.html?get=VGVsZWZlSEQ="
         }
       ],
       "show": true,
