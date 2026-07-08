@@ -1,276 +1,5 @@
 {
-  "events": [
-    {
-      "id": 1,
-      "evento": "Wimbledon - Cuartos de Final (Centre Court)",
-      "fecha": "2026-07-08 03:00:00",
-      "competencia": "Wimbledon",
-      "logoUrl": "https://i.ibb.co/WW8LkYCW/Only-One-Wimbledon-2026-Key-Visual-16by9-Large.jpg",
-      "canales": [
-        {
-          "name": "BBC (Reino Unido)",
-          "options": [
-            {
-              "name": "Cancha Centre Court",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-centre"
-            },
-            {
-              "name": "Cancha 1",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt1"
-            },
-            {
-              "name": "Cancha 2",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt2"
-            },
-            {
-              "name": "Cancha 3",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt3"
-            },
-            {
-              "name": "Cancha 4",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt4"
-            },
-            {
-              "name": "Cancha 5",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt5"
-            },
-            {
-              "name": "Cancha 6",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt6"
-            },
-            {
-              "name": "Cancha 7",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt7"
-            },
-            {
-              "name": "Cancha 8",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt8"
-            },
-            {
-              "name": "Cancha 12",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt12"
-            },
-            {
-              "name": "Cancha 14",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt14"
-            },
-            {
-              "name": "Cancha 15",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt15"
-            },
-            {
-              "name": "Cancha 17",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt17"
-            },
-            {
-              "name": "Cancha 18",
-              "iframe": "https://vileembeds.pages.dev/embed/wimbledon-crt18"
-            },
-            {
-              "name": "Opción 1 (4K)",
-              "iframe": "https://vileembeds.pages.dev/embed/bbc-4k"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "evento": "Tour de France - Etapa #5",
-      "fecha": "2026-07-08 03:30:00",
-      "competencia": "Ciclismo",
-      "logoUrl": "https://www.letour.fr/themes/custom/letour/logo.png",
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "evento": "Wimbledon - Cuartos de Final (Cobertura Regional)",
-      "fecha": "2026-07-08 04:00:00",
-      "competencia": "Wimbledon",
-      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
-      "canales": [
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "evento": "Wimbledon - Cuartos de Final (Cobertura Internacional)",
-      "fecha": "2026-07-08 04:30:00",
-      "competencia": "Wimbledon",
-      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "Amistoso: Lausanne Sport vs Flamengo",
-      "fecha": "2026-07-08 11:30:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://i.ibb.co/rG4bTH5M/04854984.png",
-      "canales": [
-        {
-          "name": "Premiere (Brasil)",
-          "options": [
-            {
-              "name": "Opción 1 (Portugués)",
-              "iframe": "https://vileembeds.pages.dev/embed/premiere-br"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=premiere1"
-            }
-          ]
-        },
-        {
-          "name": "Sportv (Brasil)",
-          "options": [
-            {
-              "name": "Opción 1 (Portugués)",
-              "iframe": "https://la20hd.com/vivo/canales.php?stream=sportv"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "Santo Domingo vs Independiente del Valle",
-      "fecha": "2026-07-08 14:30:00",
-      "competencia": "Copa Ecuador",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "Eventos",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=evento1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "evento": "Unión La Calera vs Coquimbo Unido",
-      "fecha": "2026-07-08 15:00:00",
-      "competencia": "Copa Chile",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Logocopachile2021.svg",
-      "canales": [
-        {
-          "name": "TNT Sports (Chile)",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "evento": "Amistoso: Fluminense vs Nova Iguaçu",
-      "fecha": "2026-07-08 15:30:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "Premiere (Brasil)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=premiere1"
-            }
-          ]
-        },
-        {
-          "name": "Sportv (Brasil)",
-          "options": [
-            {
-              "name": "Opción 1 (Portugués)",
-              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "evento": "Amistoso: Boca Juniors vs Athletico Paranaense",
-      "fecha": "2026-07-08 16:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://i.ibb.co/gbcFRypR/04854985.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Portugués)",
-              "iframe": "https://vileembeds.pages.dev/embed/disneybr-01"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "evento": "Independiente Juniors vs LDU Quito",
-      "fecha": "2026-07-08 17:00:00",
-      "competencia": "Copa Ecuador",
-      "logoUrl": "",
-      "canales": [
-        {
-          "name": "Eventos",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=evento2"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "events": [],
   "channels": [
     {
       "name": "Mundial 2026",
@@ -406,7 +135,7 @@
       "options": [
         {
           "name": "Disney 1 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney1"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney1"
         },
         {
           "name": "Disney 1 - Opción 2",
@@ -414,7 +143,7 @@
         },
         {
           "name": "Disney 2 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney2"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney2"
         },
         {
           "name": "Disney 2 - Opción 2",
@@ -422,7 +151,7 @@
         },
         {
           "name": "Disney 3 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney3"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney3"
         },
         {
           "name": "Disney 3 - Opción 2",
@@ -430,7 +159,7 @@
         },
         {
           "name": "Disney 4 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney4"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney4"
         },
         {
           "name": "Disney 4 - Opción 2",
@@ -438,7 +167,7 @@
         },
         {
           "name": "Disney 5 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney5"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney5"
         },
         {
           "name": "Disney 5 - Opción 2",
@@ -446,7 +175,7 @@
         },
         {
           "name": "Disney 6 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney6"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney6"
         },
         {
           "name": "Disney 6 - Opción 2",
@@ -454,7 +183,7 @@
         },
         {
           "name": "Disney 7 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney7"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney7"
         },
         {
           "name": "Disney 7 - Opción 2",
@@ -462,7 +191,7 @@
         },
         {
           "name": "Disney 8 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney8"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney8"
         },
         {
           "name": "Disney 8 - Opción 2",
@@ -470,7 +199,7 @@
         },
         {
           "name": "Disney 9 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney9"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney9"
         },
         {
           "name": "Disney 9 - Opción 2",
@@ -478,7 +207,7 @@
         },
         {
           "name": "Disney 10 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney10"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney10"
         },
         {
           "name": "Disney 10 - Opción 2",
@@ -486,7 +215,7 @@
         },
         {
           "name": "Disney 11 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney11"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney11"
         },
         {
           "name": "Disney 11 - Opción 2",
@@ -494,7 +223,7 @@
         },
         {
           "name": "Disney 12 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney12"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney12"
         },
         {
           "name": "Disney 12 - Opción 2",
@@ -502,7 +231,7 @@
         },
         {
           "name": "Disney 13 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney13"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney13"
         },
         {
           "name": "Disney 13 - Opción 2",
@@ -510,7 +239,7 @@
         },
         {
           "name": "Disney 14 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney14"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney14"
         },
         {
           "name": "Disney 14 - Opción 2",
@@ -518,7 +247,7 @@
         },
         {
           "name": "Disney 15 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney15"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney15"
         },
         {
           "name": "Disney 15 - Opción 2",
@@ -526,7 +255,7 @@
         },
         {
           "name": "Disney 16 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney16"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney16"
         },
         {
           "name": "Disney 16 - Opción 2",
@@ -534,7 +263,7 @@
         },
         {
           "name": "Disney 17 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney17"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney17"
         },
         {
           "name": "Disney 17 - Opción 2",
@@ -542,7 +271,7 @@
         },
         {
           "name": "Disney 18 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney18"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney18"
         },
         {
           "name": "Disney 18 - Opción 2",
@@ -550,7 +279,7 @@
         },
         {
           "name": "Disney 19 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney19"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney19"
         },
         {
           "name": "Disney 19 - Opción 2",
@@ -558,7 +287,7 @@
         },
         {
           "name": "Disney 20 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney20"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney20"
         },
         {
           "name": "Disney 20 - Opción 2",
@@ -566,7 +295,7 @@
         },
         {
           "name": "Disney 21 - Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=disney21"
+          "iframe": "https://streamtp.sbs/global1.php?stream=disney21"
         },
         {
           "name": "Disney 21 - Opción 2",
