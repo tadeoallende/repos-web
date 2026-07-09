@@ -1,5 +1,667 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "Tour de France - Etapa #6",
+      "fecha": "2026-07-09 07:00:00",
+      "competencia": "Ciclismo",
+      "logoUrl": "https://www.letour.fr/themes/custom/letour/logo.png",
+      "canales": [
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Wimbledon - Semifinales Femeninas",
+      "fecha": "2026-07-09 09:30:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "UEFA Europa League: Qarabag vs Vestri",
+      "fecha": "2026-07-09 13:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefachampionsleague/2024/logos/logo_og.png",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "MLB: Braves vs Pirates",
+      "fecha": "2026-07-09 13:35:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/vfxisf1780299992.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-pirates"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "MLB: Rays vs Yankees",
+      "fecha": "2026-07-09 14:00:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/w35qyt1780299988.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-rays"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "UEFA Europa League: Dinamo Kiev vs U. Cluj",
+      "fecha": "2026-07-09 14:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefachampionsleague/2024/logos/logo_og.png",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "UEFA Europa League: Sheriff vs Aluminij",
+      "fecha": "2026-07-09 14:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefachampionsleague/2024/logos/logo_og.png",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "MLB: Royals @ Mets",
+      "fecha": "2026-07-09 15:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/nc3yt51780299993.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-mets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "MLB: Red Sox vs White Sox",
+      "fecha": "2026-07-09 15:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/bjncaw1780299997.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-white-sox"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "MLB: Orioles vs Cubs",
+      "fecha": "2026-07-09 15:30:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/4kfhke1780299998.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-orioles"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "MLB: Guardians @ Twins",
+      "fecha": "2026-07-09 15:40:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/5kw4te1780299994.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-twins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "NBA Summer League: Timberwolves vs Pelicans",
+      "fecha": "2026-07-09 16:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "Copa del Mundo: Francia vs Marruecos",
+      "fecha": "2026-07-09 17:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+      "canales": [
+        {
+          "name": "DSports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Latam)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Global)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "VTV+ (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "La 1 TVE (España)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=la1es"
+            }
+          ]
+        },
+        {
+          "name": "ITV 1 (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1 (Inglés)",
+              "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=genpy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "NBA Summer League: Spurs vs Hawks",
+      "fecha": "2026-07-09 17:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "NBA Summer League: Pistons vs 76ers",
+      "fecha": "2026-07-09 18:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Unión La Calera vs Coquimbo Unido",
+      "fecha": "2026-07-09 20:00:00",
+      "competencia": "Copa Chile",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Logocopachile2021.svg",
+      "canales": [
+        {
+          "name": "beIN Sports (MENA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=max1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "evento": "NBA Summer League: Warriors vs Mavericks",
+      "fecha": "2026-07-09 20:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "MLB: Phillies vs Reds",
+      "fecha": "2026-07-09 20:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/29aliy1780299996.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-reds"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "NBA Summer League: Hornets vs Magic",
+      "fecha": "2026-07-09 20:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "MLB: Athletics @ Tigers",
+      "fecha": "2026-07-09 20:40:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/ewcvrn1780299995.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-tigers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "MLB: Mariners @ Marlins",
+      "fecha": "2026-07-09 20:40:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/fnpya41780299995.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-marlins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "evento": "MLB: Brewers @ Cardinals",
+      "fecha": "2026-07-09 21:45:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/vjazgn1780299989.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-cardinals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "NBA Summer League: Jazz vs Wizards",
+      "fecha": "2026-07-09 22:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "evento": "MLB: Angels @ Rangers",
+      "fecha": "2026-07-09 22:05:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/eckgya1780299987.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-rangers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "evento": "MLB: Diamondbacks vs Padres",
+      "fecha": "2026-07-09 22:40:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/fpy8ar1780299991.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-padres"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "evento": "Ñublense vs O'Higgins",
+      "fecha": "2026-07-09 23:00:00",
+      "competencia": "Copa Chile",
+      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/1/15/Logocopachile2021.svg",
+      "canales": [
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "evento": "MLB: Rockies @ Giants",
+      "fecha": "2026-07-09 23:45:00",
+      "competencia": "MLB",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/qjao7y1780299990.jpg",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/mlb-giants"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "evento": "NBA Summer League: Kings vs Clippers",
+      "fecha": "2026-07-10 00:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://cdn.nba.com/logos/nba-com/nba_primary.svg",
+      "canales": [
+        {
+          "name": "NBA League Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=nba7"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
