@@ -1,5 +1,5 @@
 {
-"events": [
+  "events": [
     {
       "id": 1,
       "evento": "MLB: Blue Jays vs Padres",
@@ -95,7 +95,6 @@
       "evento": "Wimbledon: Final Femenina - Muchova vs Noskova",
       "fecha": "2026-07-11 10:00:00",
       "competencia": "Wimbledon",
-      "logoUrl": "https://sundayguardianlive.com/wp-content/uploads/2026/07/karolina-muchova-vs-linda-noskova-wimbledon-2026-final-afp-x.png",
       "canales": [
         {
           "name": "Stan Sport",
@@ -110,14 +109,14 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png"
     },
     {
       "id": 6,
       "evento": "Primera División Uruguay: Juventud vs Torque",
       "fecha": "2026-07-11 10:00:00",
       "competencia": "Primera División Uruguay",
-      "logoUrl": "",
       "canales": [
         {
           "name": "Disney+",
@@ -128,7 +127,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://bestleague.world/jr/56.png"
     },
     {
       "id": 7,
@@ -229,7 +229,6 @@
       "evento": "Primera División Uruguay: Danubio vs Nacional",
       "fecha": "2026-07-11 15:00:00",
       "competencia": "Primera División Uruguay",
-      "logoUrl": "",
       "canales": [
         {
           "name": "Disney+",
@@ -244,7 +243,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://bestleague.world/jr/56.png"
     },
     {
       "id": 12,
@@ -359,7 +359,6 @@
       "evento": "Segunda División Uruguay: River Plate vs Plaza Colonia",
       "fecha": "2026-07-11 16:30:00",
       "competencia": "Segunda División Uruguay",
-      "logoUrl": "",
       "canales": [
         {
           "name": "Disney+",
@@ -370,7 +369,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://bestleague.world/jr/56.png"
     },
     {
       "id": 18,
@@ -395,7 +395,6 @@
       "evento": "Copa del Mundo 2026: Noruega vs Inglaterra - Cuartos",
       "fecha": "2026-07-11 18:00:00",
       "competencia": "Copa Del Mundo 2026",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
           "name": "DSports (Argentina)",
@@ -503,14 +502,14 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png"
     },
     {
       "id": 20,
       "evento": "Primera División Uruguay: Wanderers vs Progreso",
       "fecha": "2026-07-11 18:00:00",
       "competencia": "Primera División Uruguay",
-      "logoUrl": "",
       "canales": [
         {
           "name": "Disney+",
@@ -530,7 +529,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://bestleague.world/jr/56.png"
     },
     {
       "id": 21,
@@ -719,7 +719,6 @@
       "evento": "Copa del Mundo 2026: Argentina vs Suiza - Cuartos",
       "fecha": "2026-07-11 22:00:00",
       "competencia": "Copa Del Mundo 2026",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
           "name": "DSports (Global)",
@@ -819,7 +818,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png"
     },
     {
       "id": 31,
