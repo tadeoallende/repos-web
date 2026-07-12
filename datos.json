@@ -1,5 +1,856 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "Ciclismo: Tour de France - Etapa #9",
+      "fecha": "2026-07-12 03:00:00",
+      "competencia": "Ciclismo",
+      "logoUrl": "https://www.letour.fr/themes/custom/letour/logo.png",
+      "canales": [
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "MotoGP: GP de Alemania - Carrera",
+      "fecha": "2026-07-12 04:00:00",
+      "competencia": "MotoGP",
+      "logoUrl": "https://images.seeklogo.com/logo-png/9/1/motogp-logo-png_seeklogo-95111.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Primera División Uruguay: Boston River vs Central Español",
+      "fecha": "2026-07-12 07:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+            },
+            {
+              "name": "Opción 3 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Wimbledon: Final Masculina",
+      "fecha": "2026-07-12 07:00:00",
+      "competencia": "Wimbledon",
+      "logoUrl": "https://wsstc.com/wp-content/uploads/2022/05/wsstc-wimbledon-logo.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "FIA WEC: 6 Horas de Sao Paulo",
+      "fecha": "2026-07-12 07:30:00",
+      "competencia": "WEC",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/4vwemv1706215883.jpg",
+      "canales": [
+        {
+          "name": "Stan Sport",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/wec-01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Copa Chile: Cobreloa vs La Serena",
+      "fecha": "2026-07-12 08:30:00",
+      "competencia": "Copa Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "LigaPro Ecuador: LDU Quito vs Libertad",
+      "fecha": "2026-07-12 09:00:00",
+      "competencia": "LigaPro Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "MLB: Yankees vs Nationals",
+      "fecha": "2026-07-12 09:35:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Fútbol Amistoso: Pumas UNAM vs América de Cali",
+      "fecha": "2026-07-12 10:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://static.wincomparator.com/wincomparator-event-thumbnails/prod/8621428.webp",
+      "canales": [
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/tudn-usa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports"
+            },
+            {
+              "name": "Opción 2 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsportsplus"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "VIX+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=vix1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Segunda División Uruguay: Cerrito vs Miramar Misiones",
+      "fecha": "2026-07-12 10:00:00",
+      "competencia": "Segunda División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.com/vivo/canales.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Copa de la Liga (Perú): CD Moquegua vs Deportivo Garcilaso",
+      "fecha": "2026-07-12 10:00:00",
+      "competencia": "Copa de la Liga (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Bicolor+ (Perú)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=bicolor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "MLB: Braves vs Cardinals",
+      "fecha": "2026-07-12 10:15:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "NBA Summer League: Magic vs Heat",
+      "fecha": "2026-07-12 10:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "MLB: Astros vs Rangers",
+      "fecha": "2026-07-12 10:35:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "Copa Argentina: Independiente Rivadavia vs Tigre",
+      "fecha": "2026-07-12 11:00:00",
+      "competencia": "Copa Argentina",
+      "logoUrl": "https://media.tycsports.com/files/2026/07/08/968073/independiente-rivadavia-vs-tigre_1440x810.webp",
+      "canales": [
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://ritzembeds.pages.dev/embed/tycsports-usa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 3 (1080p sin buffer)",
+              "iframe": "https://bestleague.top/cvatt.html?get=VHlDU3BvcnQ&lang=1"
+            },
+            {
+              "name": "Opción 4 (EXTENSION PC)",
+              "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
+            }
+          ]
+        },
+        {
+          "name": "América TV (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=americatv"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            },
+            {
+              "name": "Opción 2 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr2"
+            }
+          ]
+        },
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "NBA Summer League: Hornets vs Pelicans",
+      "fecha": "2026-07-12 11:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn5"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3mx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "evento": "LigaPro Ecuador: Deportivo Cuenca vs Aucas",
+      "fecha": "2026-07-12 11:15:00",
+      "competencia": "LigaPro Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "MLB: Dodgers vs Diamondbacks",
+      "fecha": "2026-07-12 12:00:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "MLB: Blue Jays vs Padres",
+      "fecha": "2026-07-12 12:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "Copa de la Liga (Perú): UTC Cajamarca vs ADA Jaén",
+      "fecha": "2026-07-12 12:30:00",
+      "competencia": "Copa de la Liga (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Bicolor+ (Perú)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=bicolor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "NBA Summer League: Mavericks vs Lakers",
+      "fecha": "2026-07-12 12:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3mx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "evento": "NBA Summer League: Spurs vs Knicks",
+      "fecha": "2026-07-12 13:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3mx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "Primera División Uruguay: Racing vs Peñarol",
+      "fecha": "2026-07-12 13:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "evento": "Copa Chile: Deportes Concepción vs Puerto Montt",
+      "fecha": "2026-07-12 13:30:00",
+      "competencia": "Copa Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "evento": "Copa Chile: Coquimbo Unido vs Unión La Calera",
+      "fecha": "2026-07-12 14:00:00",
+      "competencia": "Copa Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "evento": "UFC 329: McGregor vs Holloway",
+      "fecha": "2026-07-12 14:00:00",
+      "competencia": "UFC",
+      "logoUrl": "https://images.seeklogo.com/logo-png/27/1/ufc-logo-png_seeklogo-272931.png",
+      "canales": [
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "evento": "NBA Summer League: Timberwolves vs Nuggets",
+      "fecha": "2026-07-12 14:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "evento": "NBA Summer League: Nets vs Hawks",
+      "fecha": "2026-07-12 15:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3mx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "evento": "WNBA: Dallas vs Chicago",
+      "fecha": "2026-07-12 15:00:00",
+      "competencia": "WNBA",
+      "logoUrl": "https://www.wnba.com/assets/images/wnba-logo.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "evento": "LigaPro Ecuador: Emelec vs Barcelona SC",
+      "fecha": "2026-07-12 15:10:00",
+      "competencia": "LigaPro Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "evento": "NBA Summer League: Raptors vs Rockets",
+      "fecha": "2026-07-12 16:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "evento": "Copa del Mundo 2026: Argentina vs Suiza - Cuartos",
+      "fecha": "2026-07-12 20:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+      "canales": [
+        {
+          "name": "DSports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Global)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            }
+          ]
+        },
+        {
+          "name": "DSports (Latam)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la16hd.com/dsportslatam.php"
+            }
+          ]
+        },
+        {
+          "name": "Telefe (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telefe"
+            },
+            {
+              "name": "Opción 2 (1080p sin buffer)",
+              "iframe": "https://bestleague.top/cvatt.html?get=VGVsZWZlSEQ=&lang=1"
+            },
+            {
+              "name": "Opción 3 (EXTENSION PC)",
+              "iframe": "https://bestleague.top/tok.html?get=VGVsZWZlSEQ="
+            }
+          ]
+        },
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 2 (1080p sin buffer)",
+              "iframe": "https://bestleague.top/cvatt.html?get=VHlDU3BvcnQ&lang=1"
+            },
+            {
+              "name": "Opción 3 (EXTENSION PC)",
+              "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
+            }
+          ]
+        },
+        {
+          "name": "TV Pública (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tvpublica"
+            }
+          ]
+        },
+        {
+          "name": "America TV (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=americatv"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "ITV 1 (Reino Unido)",
+          "options": [
+            {
+              "name": "Opción 1 (Inglés)",
+              "iframe": "https://streamhdx.xyz/channel/?id=itv1uk"
+            }
+          ]
+        },
+        {
+          "name": "VTV+ (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "Caracol TV (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento6"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
