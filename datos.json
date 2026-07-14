@@ -1,27 +1,9 @@
 {
   "events": [
     {
-      "id": 1,
-      "evento": "Ciclismo: Tour de France - Etapa #10",
-      "fecha": "2026-07-13 22:00:00",
-      "competencia": "Ciclismo",
-      "logoUrl": "https://www.letour.fr/themes/custom/letour/logo.png",
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 2,
       "evento": "Copa del Mundo 2026: Francia vs España - Semifinal",
-      "fecha": "2026-07-14 06:00:00",
+      "fecha": "2026-07-14 16:00:00",
       "competencia": "Copa Del Mundo 2026",
       "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
       "canales": [
@@ -232,7 +214,7 @@
     {
       "id": 3,
       "evento": "NBA Summer League: Rockets vs 76ers",
-      "fecha": "2026-07-14 07:00:00",
+      "fecha": "2026-07-14 21:00:00",
       "competencia": "NBA Summer League",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "canales": [
@@ -250,7 +232,7 @@
     {
       "id": 4,
       "evento": "LigaPro Ecuador: Macará vs Mushuc Runa",
-      "fecha": "2026-07-14 08:30:00",
+      "fecha": "2026-07-14 22:30:00",
       "competencia": "LigaPro Ecuador",
       "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
       "canales": [
@@ -268,7 +250,7 @@
     {
       "id": 5,
       "evento": "NBA Summer League: Nets vs Kings",
-      "fecha": "2026-07-14 09:00:00",
+      "fecha": "2026-07-14 23:00:00",
       "competencia": "NBA Summer League",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "canales": [
@@ -286,7 +268,7 @@
     {
       "id": 6,
       "evento": "NBA Summer League: Warriors vs Grizzlies",
-      "fecha": "2026-07-14 10:00:00",
+      "fecha": "2026-07-15 00:00:00",
       "competencia": "NBA Summer League",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "canales": [
@@ -304,7 +286,7 @@
     {
       "id": 7,
       "evento": "LigaPro Ecuador: Manta vs Delfín",
-      "fecha": "2026-07-14 11:00:00",
+      "fecha": "2026-07-15 01:00:00",
       "competencia": "LigaPro Ecuador",
       "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
       "canales": [
@@ -322,7 +304,7 @@
     {
       "id": 8,
       "evento": "MLB All-Star Game: Nacionales vs Americanos",
-      "fecha": "2026-07-14 11:00:00",
+      "fecha": "2026-07-15 01:00:00",
       "competencia": "MLB All-Star Game",
       "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
       "canales": [
@@ -340,7 +322,7 @@
     {
       "id": 9,
       "evento": "NBA Summer League: Bulls vs Wizards",
-      "fecha": "2026-07-14 11:00:00",
+      "fecha": "2026-07-15 01:00:00",
       "competencia": "NBA Summer League",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "canales": [
@@ -358,7 +340,7 @@
     {
       "id": 10,
       "evento": "NBA Summer League: Thunder vs Nuggets",
-      "fecha": "2026-07-14 12:00:00",
+      "fecha": "2026-07-15 02:00:00",
       "competencia": "NBA Summer League",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "canales": [
@@ -376,7 +358,7 @@
     {
       "id": 11,
       "evento": "NBA Summer League: Lakers vs Clippers",
-      "fecha": "2026-07-14 13:00:00",
+      "fecha": "2026-07-15 03:00:00",
       "competencia": "NBA Summer League",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "canales": [
