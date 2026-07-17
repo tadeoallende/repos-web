@@ -584,10 +584,9 @@
       "evento": "Copa Argentina: Sarmiento vs Boca Juniors",
       "fecha": "2026-07-16 21:45:00",
       "competencia": "Copa Argentina",
-      "logoUrl": "https://www.ole.com.ar/images/2026/07/13/Yo-pPWJym_2000x1500__1.jpg",
       "canales": [
         {
-          "name": "TYC Sports (Argentina)",
+          "name": "TYC Sports",
           "options": [
             {
               "name": "Opción 1",
@@ -598,7 +597,7 @@
               "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
             },
             {
-              "name": "Opción 3 (1080p sin buffer)",
+              "name": "Opción 3 (1080p)",
               "iframe": "https://bestleague.top/cvatt.html?get=VHlDU3BvcnQ&lang=1"
             },
             {
@@ -616,7 +615,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://www.ole.com.ar/images/2026/07/13/Yo-pPWJym_2000x1500__1.jpg"
     }
   ],
   "channels": [
