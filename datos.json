@@ -1,5 +1,1195 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "CARS Tour at North Wilkesboro Speedway",
+      "fecha": "2026-07-17 19:00:00",
+      "competencia": "Automovilismo",
+      "logoUrl": "https://d2779tscntxxsw.cloudfront.net/67b4b93ebdc5e.png",
+      "canales": [
+        {
+          "name": "Floracing",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/floracing-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Eldora Speedway",
+      "fecha": "2026-07-17 20:00:00",
+      "competencia": "Automovilismo",
+      "logoUrl": "https://dirtvision.asset.viewlift.com/images/2025/11/24/7-17-26_SC-1763995966282.png?impolicy=resize&amp;w=1920&amp;h=1080",
+      "canales": [
+        {
+          "name": "Dirtvision",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/dirtvision-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "IWK 250 at Riverside International Speedway",
+      "fecha": "2026-07-17 20:00:00",
+      "competencia": "Automovilismo",
+      "logoUrl": "https://d2779tscntxxsw.cloudfront.net/6a58295c2f7e8.png",
+      "canales": [
+        {
+          "name": "Floracing",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/floracing-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Midseason Championship at Autodrome Granby",
+      "fecha": "2026-07-17 20:15:00",
+      "competencia": "Automovilismo",
+      "logoUrl": "https://d2779tscntxxsw.cloudfront.net/661834373331d.png",
+      "canales": [
+        {
+          "name": "Floracing",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/floracing-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "SHOOTO BRAZIL 138",
+      "fecha": "2026-07-17 21:00:00",
+      "competencia": "MMA",
+      "logoUrl": "https://img.dge-prod.dicelaboratory.com/1920x1080/2026/06/23165858-z3ig0w5rk4awlz0q.jpg",
+      "canales": [
+        {
+          "name": "UFC Fight Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/ufcfp-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "MLB: Orioles vs Astros",
+      "fecha": "2026-07-17 21:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "NBA Summer League: Knicks vs Mavericks",
+      "fecha": "2026-07-17 21:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Boxeo: Mafauad vs Hidalgo",
+      "fecha": "2026-07-17 22:00:00",
+      "competencia": "Boxeo",
+      "logoUrl": "https://angulismo-pics.pages.dev/box.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "NBA Summer League: Heat vs Pistons",
+      "fecha": "2026-07-17 22:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "MLB: Cardinals vs Diamondbacks",
+      "fecha": "2026-07-17 22:40:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "MLB: Giants vs Mariners",
+      "fecha": "2026-07-17 23:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone6"
+            }
+          ]
+        },
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "MLS: LA Galaxy vs Los Angeles FC",
+      "fecha": "2026-07-17 23:25:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "NBA Summer League: Jazz vs Trail Blazers",
+      "fecha": "2026-07-17 23:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "Liga MX: Juárez vs Puebla",
+      "fecha": "2026-07-18 00:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone5"
+            }
+          ]
+        },
+        {
+          "name": "Universo",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=universo"
+            }
+          ]
+        },
+        {
+          "name": "Peacock TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=peacock1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "NBA Summer League: Clippers vs Timberwolves",
+      "fecha": "2026-07-18 00:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "RIZIN Landmark 15",
+      "fecha": "2026-07-18 01:30:00",
+      "competencia": "MMA",
+      "logoUrl": "https://vhx.imgix.net/rizintv2/assets/861e7344-01ff-4ea0-b878-26629c3136f8.png?auto=format%2Ccompress&amp;amp;fit=crop&amp;amp;h=720&amp;amp;w=1280",
+      "canales": [
+        {
+          "name": "RIZIN.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/rizin-landmark-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "evento": "F1: GP Bélgica - Práctica #3 (On Board Colapinto)",
+      "fecha": "2026-07-18 02:30:00",
+      "competencia": "Formula 1",
+      "logoUrl": "https://images.seeklogo.com/logo-png/32/1/formula-one-2017-logo-png_seeklogo-322033.png",
+      "canales": [
+        {
+          "name": "Disney+ (F1)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney5"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney6"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney7"
+            },
+            {
+              "name": "Opción 8",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=daznf1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "Ciclismo: Tour de France - Etapa #14",
+      "fecha": "2026-07-18 03:00:00",
+      "competencia": "Ciclismo",
+      "logoUrl": "https://www.letour.fr/themes/custom/letour/logo.png",
+      "canales": [
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "Primera División Uruguay: Progreso vs Deportivo Maldonado",
+      "fecha": "2026-07-18 07:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "Liga 1 (Perú): Deportivo Moquegua vs Comerciantes Unidos",
+      "fecha": "2026-07-18 08:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "Liga 1 (Perú): ADT vs Universitario",
+      "fecha": "2026-07-18 10:15:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "evento": "Primera División Uruguay: Peñarol vs Boston River",
+      "fecha": "2026-07-18 11:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "Boxeo: Eubank vs Papot",
+      "fecha": "2026-07-18 11:00:00",
+      "competencia": "Boxeo",
+      "logoUrl": "https://angulismo-pics.pages.dev/box.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "evento": "Fútbol Amistoso: Millonarios vs Colo-Colo",
+      "fecha": "2026-07-18 12:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "evento": "MLB: Dodgers vs Yankees",
+      "fecha": "2026-07-18 12:05:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb1"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "evento": "MLB: Rangers vs Braves",
+      "fecha": "2026-07-18 12:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "evento": "MLB: Orioles vs Astros",
+      "fecha": "2026-07-18 12:10:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "MLB.TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=mlb2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "evento": "Liga MX: Atlético San Luis vs Cruz Azul",
+      "fecha": "2026-07-18 12:30:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "ESPN (México)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnmx"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "evento": "Copa del Mundo 2026: Inglaterra vs Argentina - Semifinal",
+      "fecha": "2026-07-18 13:00:00",
+      "competencia": "Copa Del Mundo 2026",
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
+      "canales": [
+        {
+          "name": "DSports (Global)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=dsports1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=dsports1"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "La 1 TVE (España)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamhdx.xyz/channel/?id=la1es"
+            },
+            {
+              "name": "Opción 2 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=la1es"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=foxoneusa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/live1.php?stream=foxoneusa"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=genpy"
+            }
+          ]
+        },
+        {
+          "name": "RCN Deportes (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "evento": "NBA Summer League: 76ers vs Bucks",
+      "fecha": "2026-07-18 13:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "evento": "UFC: Preliminares",
+      "fecha": "2026-07-18 13:00:00",
+      "competencia": "UFC",
+      "logoUrl": "https://images.seeklogo.com/logo-png/27/1/ufc-logo-png_seeklogo-272931.png",
+      "canales": [
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=paramount"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount1"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "evento": "NBA Summer League: Celtics vs Magic",
+      "fecha": "2026-07-18 13:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "evento": "Liga MX: Pumas UNAM vs Pachuca",
+      "fecha": "2026-07-18 15:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "VIX+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=vix1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "evento": "NBA Summer League: Hawks vs Wizards",
+      "fecha": "2026-07-18 15:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "evento": "NBA Summer League: Rockets vs Grizzlies",
+      "fecha": "2026-07-18 15:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "evento": "Boxeo: Flores vs Navarro",
+      "fecha": "2026-07-18 16:00:00",
+      "competencia": "Boxeo",
+      "logoUrl": "https://angulismo-pics.pages.dev/box.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "evento": "UFC: Du Plessis vs Usman",
+      "fecha": "2026-07-18 16:00:00",
+      "competencia": "UFC",
+      "logoUrl": "https://images.seeklogo.com/logo-png/27/1/ufc-logo-png_seeklogo-272931.png",
+      "canales": [
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=paramount"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount1"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "evento": "NBA Summer League: Pelicans vs Pacers",
+      "fecha": "2026-07-18 17:00:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "evento": "Liga MX: Monterrey vs Santos Laguna",
+      "fecha": "2026-07-18 17:05:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "VIX+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=vix2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "evento": "Liga MX: Guadalajara vs Toluca",
+      "fecha": "2026-07-18 17:07:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamhdx.xyz/channel2/?id=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "Peacock TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=peacock1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "evento": "MLB: Giants vs Mariners",
+      "fecha": "2026-07-18 17:07:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "evento": "NBA Summer League: Warriors vs Lakers",
+      "fecha": "2026-07-18 17:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "evento": "Liga MX: Querétaro vs América",
+      "fecha": "2026-07-18 19:10:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "evento": "NBA Summer League: Spurs vs Suns",
+      "fecha": "2026-07-18 19:30:00",
+      "competencia": "NBA Summer League",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "evento": "Copa Argentina: River Plate vs Aldosivi",
+      "fecha": "2026-07-18 21:45:00",
+      "competencia": "Copa Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/arg.png",
+      "canales": [
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 2 (1080p sin buffer)",
+              "iframe": "https://bestleague.top/cvatt.html?get=VHlDU3BvcnQ&lang=1"
+            },
+            {
+              "name": "Opción 3 (EXTENSION PC)",
+              "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tycsports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "evento": "Liga 1 (Perú): Cienciano vs Melgar",
+      "fecha": "2026-07-18 20:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "evento": "Liga MX: Juárez vs Puebla",
+      "fecha": "2026-07-18 20:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "Universo",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=universo"
+            }
+          ]
+        },
+        {
+          "name": "TV Azteca",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=azteca7"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
