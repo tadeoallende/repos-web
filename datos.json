@@ -659,10 +659,9 @@
     },
     {
       "id": 29,
-      "evento": "Copa del Mundo 2026: Inglaterra vs Argentina - Semifinal",
-      "fecha": "2026-07-18 13:00:00",
+      "evento": "Copa del Mundo 2026: Inglaterra vs Francia",
+      "fecha": "2026-07-18 18:00:00",
       "competencia": "Copa Del Mundo 2026",
-      "logoUrl": "https://tvlibre-online.com/agenda/mund.png",
       "canales": [
         {
           "name": "DSports (Global)",
@@ -734,7 +733,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://tvlibre-online.com/agenda/mund.png"
     },
     {
       "id": 30,
