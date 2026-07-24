@@ -1,5 +1,1138 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "Sarmiento vs Argentinos Juniors",
+      "fecha": "2026-07-23 14:00:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento3"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Corinthians vs Remo",
+      "fecha": "2026-07-23 14:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "L1MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Botafogo vs Vitória",
+      "fecha": "2026-07-23 14:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+            }
+          ]
+        },
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Emelec vs Mushuc Runa",
+      "fecha": "2026-07-23 16:00:00",
+      "competencia": "Serie A",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Boca Juniors vs O'Higgins",
+      "fecha": "2026-07-23 16:30:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento2"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Defensa y Justicia vs Aldosivi",
+      "fecha": "2026-07-23 16:45:00",
+      "competencia": "Liga Profesional",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "ONE Friday Fights 163 Pompet vs Nat Khat Min",
+      "fecha": "2026-07-24 04:30:00",
+      "competencia": "Evento",
+      "logoUrl": "https://www.thesportsdb.com/images/media/event/thumb/315afz1784890908.jpg",
+      "canales": [
+        {
+          "name": "OneFC",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/onefc-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "GP Hungría - On Board Colapinto",
+      "fecha": "2026-07-24 07:00:00",
+      "competencia": "F1",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney5"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney6"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney7"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            }
+          ]
+        },
+        {
+          "name": "DAZN",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=daznf1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Formula One: Hungarian GP - Free Practice2",
+      "fecha": "2026-07-24 08:00:00",
+      "competencia": "Formula 1",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/wqv98j1774920362.jpg",
+      "canales": [
+        {
+          "name": "Apple TV",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/apple-tv"
+            }
+          ]
+        },
+        {
+          "name": "F1 TV",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/skysportsf1-uk"
+            }
+          ]
+        },
+        {
+          "name": "Sky Sport 2 NZ",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/skysport2-nz"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/foxsports506-au"
+            }
+          ]
+        },
+        {
+          "name": "DAZN",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/daznf1-es"
+            }
+          ]
+        },
+        {
+          "name": "Eleven Sports 1 PL",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/elevensports1-pl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Liga Argentina: Platense vs Unión Santa Fe",
+      "fecha": "2026-07-24 09:00:00",
+      "competencia": "Liga Profesional",
+      "logoUrl": "https://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/2467928.png",
+      "canales": [
+        {
+          "name": "MUTV",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/mutv-uk"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz9"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Radomiak Radom vs Wieczysta Krakow",
+      "fecha": "2026-07-24 09:00:00",
+      "competencia": "Evento",
+      "logoUrl": "https://www.thesportsdb.com/images/media/event/thumb/smjnno1781690982.jpg",
+      "canales": [
+        {
+          "name": "CANAL+ Sport 3",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/canalsport3-pl"
+            }
+          ]
+        },
+        {
+          "name": "beIN Sports (MENA)",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/beinconnect5-usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "Babilon MMA 59",
+      "fecha": "2026-07-24 10:00:00",
+      "competencia": "Evento",
+      "logoUrl": "https://i0.wp.com/www.mmarocks.pl/wp-content/uploads/2026/07/2t43t42.jpg",
+      "canales": [
+        {
+          "name": "Polsat Sport Fight",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://logic.icelanders.st/embed/polsatsportfight-pl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "2 de Mayo vs Rubio Ñú",
+      "fecha": "2026-07-24 11:00:00",
+      "competencia": "Copa de Primera",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Tigo Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tigo1"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "Primera Division: Gimnasia Mendoza vs Central Córdoba SdE",
+      "fecha": "2026-07-24 11:45:00",
+      "competencia": "Liga Profesional",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Primera Division: Gimnasia Mendoza vs Central Córdoba SdE",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "Liga 1: Alianza Atlético vs Los Chankas",
+      "fecha": "2026-07-24 12:00:00",
+      "competencia": "Evento",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Liga 1: Alianza Atlético vs Los Chankas",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+            }
+          ]
+        },
+        {
+          "name": "L1MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Guatemala vs Costa Rica",
+      "fecha": "2026-07-24 12:00:00",
+      "competencia": "CONCACAF Sub-20",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "evento": "Cerro Porteño vs Sportivo Trinidense",
+      "fecha": "2026-07-24 13:30:00",
+      "competencia": "Copa de Primera",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Tigo Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tigo1"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "Liga Chile: Colo-Colo vs Deportes Limache",
+      "fecha": "2026-07-24 14:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Liga (Chile): Unión La Calera vs Everton",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            }
+          ]
+        },
+        {
+          "name": "Liga (Chile): Colo-Colo vs Deportes Limache",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "Liga Profesional: Vélez Sarsfield vs Instituto",
+      "fecha": "2026-07-24 14:00:00",
+      "competencia": "Liga Profesional",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney3"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
+            }
+          ]
+        },
+        {
+          "name": "Liga Profesional: Vélez Sarsfield vs Instituto",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz8"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "Liga Profesional: Racing Club vs Gimnasia La Plata",
+      "fecha": "2026-07-24 14:00:00",
+      "competencia": "Liga Profesional",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Liga Profesional: Racing Club vs Gimnasia La Plata",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
+            },
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1 (Alemán)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox_deportes_usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "Torque vs Danubio",
+      "fecha": "2026-07-24 14:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "evento": "México vs Antigua y Barbuda",
+      "fecha": "2026-07-24 15:00:00",
+      "competencia": "CONCACAF Sub-20",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        },
+        {
+          "name": "ESPN México",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnmx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "New York Mets vs. Los Angeles Dodgers",
+      "fecha": "2026-07-24 15:00:00",
+      "competencia": "MLB",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "evento": "Liga Colombia: Deportivo Cali vs Jaguares de Córdoba",
+      "fecha": "2026-07-24 15:10:00",
+      "competencia": "Categoría Primera A",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Liga Betplay: Llaneros vs Deportivo Pereira",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            }
+          ]
+        },
+        {
+          "name": "Liga (Colombia): Deportivo Cali vs Jaguares de Córdoba",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+            }
+          ]
+        },
+        {
+          "name": "Win Fútbol+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "evento": "Carlos Tardio vs. Mackson Lee",
+      "fecha": "2026-07-24 16:00:00",
+      "competencia": "LFA 237",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "evento": "Colo-Colo vs Deportes Limache",
+      "fecha": "2026-07-24 16:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "TNT Sports (Chile)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "evento": "Deportivo Cali vs Jaguares de Córdoba",
+      "fecha": "2026-07-24 17:15:00",
+      "competencia": "Categoría Primera A",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Win Fútbol+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz10"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "evento": "Liga Uruguay: Nacional vs Progreso",
+      "fecha": "2026-07-24 17:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Liga Uruguay: Nacional vs Progreso",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "evento": "Liga 1: Universitario vs Cusco",
+      "fecha": "2026-07-24 17:30:00",
+      "competencia": "Evento",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Liga 1: Universitario vs Cusco",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz11"
+            }
+          ]
+        },
+        {
+          "name": "L1MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "evento": "Liga MX: Atlante vs América",
+      "fecha": "2026-07-24 19:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Liga MX: Atlante vs América",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney4"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnmx"
+            },
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney11"
+            }
+          ]
+        },
+        {
+          "name": "ESPN México",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnmx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "evento": "Tijuana vs León",
+      "fecha": "2026-07-24 19:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
