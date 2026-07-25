@@ -720,7 +720,6 @@
       "evento": "Liga Profesional Argentina: River Plate vs Barracas Central",
       "fecha": "2026-07-25 14:15:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
         {
           "name": "ESPN 2",
@@ -732,20 +731,7 @@
           ]
         },
         {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 2 (Español)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
-            }
-          ]
-        },
-        {
-          "name": "TNT Sports (Chile)",
+          "name": "TNT Sports",
           "options": [
             {
               "name": "Opción 1 (Español)",
@@ -779,7 +765,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png"
     },
     {
       "id": 22,
