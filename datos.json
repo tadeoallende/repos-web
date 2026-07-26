@@ -1,5 +1,569 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "F3: GP Hungría - Carrera",
+      "fecha": "2026-07-25 19:35:00",
+      "competencia": "Formula 3",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=daznf1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "F1: GP Hungría - Race HUB",
+      "fecha": "2026-07-25 22:15:00",
+      "competencia": "Formula 1",
+      "logoUrl": "https://images.seeklogo.com/logo-png/32/1/formula-one-2017-logo-png_seeklogo-322033.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ (F1)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=daznf1"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Cricket: India vs Zimbabwe",
+      "fecha": "2026-07-26 00:30:00",
+      "competencia": "Cricket",
+      "logoUrl": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+      "canales": [
+        {
+          "name": "Live Feed",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/cricket-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "F1: GP Hungría - On Board Colapinto",
+      "fecha": "2026-07-26 02:00:00",
+      "competencia": "Formula 1",
+      "logoUrl": "https://images.seeklogo.com/logo-png/32/1/formula-one-2017-logo-png_seeklogo-322033.png",
+      "canales": [
+        {
+          "name": "Disney+ (F1)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney5"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney6"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Raków Częstochowa vs Wisła Płock",
+      "fecha": "2026-07-26 02:45:00",
+      "competencia": "Ekstraklasa",
+      "logoUrl": "https://r2.thesportsdb.com/images/media/event/thumb/jy6gub1655758635.jpg",
+      "canales": [
+        {
+          "name": "CANAL+ Sport 3",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/canalsport3-pl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "F1: GP Hungría - Carrera",
+      "fecha": "2026-07-26 03:00:00",
+      "competencia": "Formula 1",
+      "logoUrl": "https://images.seeklogo.com/logo-png/32/1/formula-one-2017-logo-png_seeklogo-322033.png",
+      "canales": [
+        {
+          "name": "Apple TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/apple-tv"
+            }
+          ]
+        },
+        {
+          "name": "Sky Sport 1 NZ",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/skysport1-nz"
+            }
+          ]
+        },
+        {
+          "name": "Sky Sport 1 4K NZ",
+          "options": [
+            {
+              "name": "Opción 1 (4K)",
+              "iframe": "https://logic.icelanders.st/embed/skysport14k-nz"
+            }
+          ]
+        },
+        {
+          "name": "F1 TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/skysportsf1-uk"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/fox-sports-506"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/daznf1-es"
+            }
+          ]
+        },
+        {
+          "name": "Eleven Sports 1 PL",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://logic.icelanders.st/embed/elevensports1-pl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "Segunda División Uruguay: Miramar Misiones vs La Luz",
+      "fecha": "2026-07-26 07:00:00",
+      "competencia": "Segunda División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Liga 1 (Perú): UTC Cajamarca vs Deportivo Moquegua",
+      "fecha": "2026-07-26 07:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Liga 1 (Perú): Deportivo Garcilaso vs FC Cajamarca",
+      "fecha": "2026-07-26 07:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Liga Profesional Argentina: Atlético Tucumán vs Independiente Rivadavia",
+      "fecha": "2026-07-26 07:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            }
+          ]
+        },
+        {
+          "name": "ESPN AR",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnar"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney9"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "Gen (Paraguay)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere4"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Primera División Uruguay: Cerro vs Racing",
+      "fecha": "2026-07-26 07:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "Serie A Ecuador: Delfín vs Leones del Norte",
+      "fecha": "2026-07-26 07:15:00",
+      "competencia": "Serie A Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "Serie A Ecuador: Aucas vs Macará",
+      "fecha": "2026-07-26 07:15:00",
+      "competencia": "Serie A Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "Brasileirão: RB Bragantino vs Coritiba",
+      "fecha": "2026-07-26 08:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=premiere3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere5"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "Brasileirão: Flamengo vs São Paulo",
+      "fecha": "2026-07-26 08:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=premiere1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere4"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Primera División Chile: Ñublense vs Palestino",
+      "fecha": "2026-07-26 08:00:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la20hd.com/vivo/canales.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 3 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
