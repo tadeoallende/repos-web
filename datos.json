@@ -2,66 +2,6 @@
   "events": [],
   "channels": [
     {
-      "name": "Mundial 2026",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobfaacUjer2-BFVEeXqHja3T9pBn4QaCvzw&s",
-      "options": [
-        {
-          "name": "DSports 1080p (Opcion 1)",
-          "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
-        },
-        {
-          "name": "DSports 1080p (Opcion 2 + buffer)",
-          "iframe": "https://la16hd.com/dsportsar.php"
-        },
-        {
-          "name": "DSports (Opcion 3) (EXTENSION PC)",
-          "iframe": "https://bestleague.top/tok.html?get=RHNwb3J0c19VWQ=="
-        },
-        {
-          "name": "DSports 2 (1080p + buffer)",
-          "iframe": "https://la16hd.com/dsports2ar.php"
-        },
-        {
-          "name": "Telefe 720p (Opcion 1) (Solo Argentina)",
-          "iframe": "https://tvlibre-online.com/html/fl/?get=VGVsZWZlSEQ="
-        },
-        {
-          "name": "Telefe 720p (Opcion 2)",
-          "iframe": "https://stream-xhd.com/live1.php?stream=telefe"
-        },
-        {
-          "name": "Telefe (Opcion 3) (EXTENSION PC)",
-          "iframe": "https://bestleague.top/tok.html?get=VGVsZWZlSEQ="
-        },
-        {
-          "name": "TyC Sports (Opcion 1) (EXTENSION PC)",
-          "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
-        },
-        {
-          "name": "TyC Sports (Opcion 2)",
-          "iframe": "https://bestleague.top/cvatt.html?get=VHlDU3BvcnQ&lang=1"
-        },
-        {
-          "name": "DSports+1080p (Opcion 1)",
-          "iframe": "https://sudamericaplay2.com/canal_8112/1dzportsplus.html"
-        },
-        {
-          "name": "DSports+1080p (Opcion 2) (EXTENSION PC)",
-          "iframe": "https://bestleague.top/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
-        },
-        {
-          "name": "Fox USA 4K (Ingles)",
-          "iframe": "https://angulismotv.pages.dev/mpdk/fox4k"
-        },
-        {
-          "name": "Telemundo 1080p",
-          "iframe": "https://junkieembeds.pages.dev/embed/telemundo-usa"
-        }
-      ],
-      "show": true,
-      "featured": true
-    },
-    {
       "name": "Champions League",
       "logo": "https://th.bing.com/th/id/OIP.3R_r3xVNkhdUgSkMYNDw5QHaHa?w=159&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
       "options": [
