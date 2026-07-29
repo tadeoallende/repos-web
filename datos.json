@@ -1,5 +1,696 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "Fútbol Amistoso: Real Betis vs Olympique Lyonnais",
+      "fecha": "2026-07-29 07:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Xsports BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Fútbol Amistoso: Górnik Zabrze vs Fenerbahçe",
+      "fecha": "2026-07-29 07:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Copa de Primera (Paraguay): Sportivo Luqueño vs Sportivo Trinidense",
+      "fecha": "2026-07-29 08:00:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Liga Profesional Argentina: Defensa y Justicia vs Deportivo Riestra",
+      "fecha": "2026-07-29 09:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
+            },
+            {
+              "name": "Opción 4 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 5 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Copa Ecuador: Gualaceo vs Macará",
+      "fecha": "2026-07-29 09:00:00",
+      "competencia": "Copa Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Copa de Primera (Paraguay): Nacional Asunción vs Olimpia",
+      "fecha": "2026-07-29 10:30:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "Copa Sudamericana: Vasco da Gama vs Medellín",
+      "fecha": "2026-07-29 11:00:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "VTV+ (El Salvador)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=vtvplus"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Liga Profesional Argentina: Gimnasia La Plata vs River Plate",
+      "fecha": "2026-07-29 11:15:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 2 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 3 (Español)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
+            },
+            {
+              "name": "Opción 4 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+            },
+            {
+              "name": "Opción 5 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Brasileirão: Internacional vs Flamengo",
+      "fecha": "2026-07-29 11:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=amazon_prime1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Copa Colombia: Barranquilla vs Junior",
+      "fecha": "2026-07-29 11:30:00",
+      "competencia": "Copa Colombia",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Fútbol Amistoso: Wrexham vs Liverpool",
+      "fecha": "2026-07-29 11:30:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Claro Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=claro1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espndeportes"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "CONCACAF Sub-20: Jamaica vs Panamá",
+      "fecha": "2026-07-29 12:00:00",
+      "competencia": "CONCACAF Sub-20",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS3Kw0AjopfEbOhFXuHPnPp2eniA6GsJJDQ&s",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "MLS All-Star Game: MLS All-Stars vs Liga MX All-Stars",
+      "fecha": "2026-07-29 13:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv1"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "Copa Centroamericana: UMECIT vs Deportivo Saprissa",
+      "fecha": "2026-07-29 13:00:00",
+      "competencia": "Copa Centroamericana",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "Copa Ecuador: Independiente del Valle vs Manta",
+      "fecha": "2026-07-29 13:00:00",
+      "competencia": "Copa Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Liga Profesional Argentina: Instituto vs Platense",
+      "fecha": "2026-07-29 13:30:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 3 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "evento": "Copa Sudamericana: Cienciano vs Lanús",
+      "fecha": "2026-07-29 13:30:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney5"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "Copa Sudamericana: RB Bragantino vs Sporting Cristal",
+      "fecha": "2026-07-29 13:30:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "Brasileirão: Fluminense vs Bahia",
+      "fecha": "2026-07-29 13:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere3"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "Brasileirão: Vitória vs Palmeiras",
+      "fecha": "2026-07-29 13:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere1"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "Copa Colombia: Real Cartagena vs América de Cali",
+      "fecha": "2026-07-29 14:00:00",
+      "competencia": "Copa Colombia",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "evento": "Copa Centroamericana: Alajuelense vs Xelajú",
+      "fecha": "2026-07-29 15:00:00",
+      "competencia": "Copa Centroamericana",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney6"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "Copa Centroamericana: Alianza vs Antigua GFC",
+      "fecha": "2026-07-29 15:00:00",
+      "competencia": "Copa Centroamericana",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney7"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
