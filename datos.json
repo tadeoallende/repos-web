@@ -526,17 +526,7 @@
       "evento": "Copa Sudamericana: O'Higgins vs Boca Juniors",
       "fecha": "2026-07-30 21:30:00",
       "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
       "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
-            }
-          ]
-        },
         {
           "name": "Disney+",
           "options": [
@@ -554,8 +544,42 @@
               "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz11"
             }
           ]
+        },
+        {
+          "name": "ESPN 1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bestleague.life/cvatt.html?get=RVNQTjJIRA&lang=1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://bolaloca.my/player/2/87"
+            },
+            {
+              "name": "Opción 5 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
+            },
+            {
+              "name": "Opción 6 (EXTENSION PC)",
+              "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=eeespee1-giaaaa"
+            },
+            {
+              "name": "Opción 7 (EXTENSION PC)",
+              "iframe": "https://www.bestleague.life/tok.html?get=RVNQTjJIRA&start=true"
+            }
+          ]
         }
-      ]
+      ],
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png"
     },
     {
       "id": 16,
