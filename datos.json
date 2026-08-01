@@ -1,5 +1,1587 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "Fútbol Amistoso: Inter Miami vs Columbus Crew",
+      "fecha": "2026-08-01 08:30:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv1"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv2"
+            }
+          ]
+        },
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 2 (1080p sin buffer)",
+              "iframe": "https://bestleague.top/cvatt.html?get=VHlDU3BvcnQ&lang=1"
+            },
+            {
+              "name": "Opción 3 (EXTENSION PC)",
+              "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
+            }
+          ]
+        },
+        {
+          "name": "Claro Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=claro1"
+            }
+          ]
+        },
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Fútbol Amistoso: Manchester United vs Atlético Madrid",
+      "fecha": "2026-08-01 10:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento1"
+            }
+          ]
+        },
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Scottish Premiership: Falkirk vs St. Mirren",
+      "fecha": "2026-08-01 11:00:00",
+      "competencia": "Scottish Premiership",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Como IT",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=como1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "UFC: Preliminares",
+      "fecha": "2026-08-01 11:00:00",
+      "competencia": "UFC",
+      "logoUrl": "https://images.seeklogo.com/logo-png/27/1/ufc-logo-png_seeklogo-272931.png",
+      "canales": [
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Primera División Chile: Cobresal vs Unión La Calera",
+      "fecha": "2026-08-01 12:00:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 3 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 4 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Segunda División Uruguay: Huracán vs Uruguay Montevideo",
+      "fecha": "2026-08-01 13:00:00",
+      "competencia": "Segunda División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "Fútbol Amistoso: Real Madrid vs Fiorentina",
+      "fecha": "2026-08-01 13:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 3 (1080p sin buffer)",
+              "iframe": "https://bestleague.top/cvatt.html?get=VHlDU3BvcnQ&lang=1"
+            },
+            {
+              "name": "Opción 4 (EXTENSION PC)",
+              "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
+            }
+          ]
+        },
+        {
+          "name": "Claro Sports",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=clarosports1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Scottish Premiership: Aberdeen vs Hearts",
+      "fecha": "2026-08-01 13:30:00",
+      "competencia": "Scottish Premiership",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Como IT",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=como1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "UFC: Medić vs Rodriguez",
+      "fecha": "2026-08-01 14:00:00",
+      "competencia": "UFC",
+      "logoUrl": "https://images.seeklogo.com/logo-png/27/1/ufc-logo-png_seeklogo-272931.png",
+      "canales": [
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=paramount"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount1"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=paramount3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Liga 1 (Perú): FC Cajamarca vs Sport Huancayo",
+      "fecha": "2026-08-01 15:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Primera División Uruguay: Deportivo Maldonado vs Juventud",
+      "fecha": "2026-08-01 15:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney4"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "Fútbol Amistoso: Girona vs Arsenal",
+      "fecha": "2026-08-01 15:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "TYC Sports (Argentina)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
+            },
+            {
+              "name": "Opción 3 (1080p sin buffer)",
+              "iframe": "https://bestleague.top/cvatt.html?get=VHlDU3BvcnQ&lang=1"
+            },
+            {
+              "name": "Opción 4 (EXTENSION PC)",
+              "iframe": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ"
+            }
+          ]
+        },
+        {
+          "name": "Claro Sports",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=clarosports1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "Liga Profesional Argentina: Gimnasia Mendoza vs Unión Santa Fe",
+      "fecha": "2026-08-01 15:30:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 2 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 3 (Español)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
+            },
+            {
+              "name": "Opción 4 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+            },
+            {
+              "name": "Opción 5 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
+            },
+            {
+              "name": "Opción 4 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 5 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "MLS: Colorado Rapids vs Austin",
+      "fecha": "2026-08-01 16:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv23"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "Serie A Ecuador: Manta vs Mushuc Runa",
+      "fecha": "2026-08-01 16:00:00",
+      "competencia": "Serie A Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Copa de Primera (Paraguay): Sportivo Ameliano vs 2 de Mayo",
+      "fecha": "2026-08-01 16:00:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "evento": "Supertaça: Porto vs Torreense",
+      "fecha": "2026-08-01 16:15:00",
+      "competencia": "Supertaça",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+            }
+          ]
+        },
+        {
+          "name": "Como IT",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=como1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "Campeonato Sub-20: Canadá vs Jamaica",
+      "fecha": "2026-08-01 17:00:00",
+      "competencia": "Campeonato Sub-20",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "Copa de Brasil: Vasco da Gama vs Fluminense",
+      "fecha": "2026-08-01 17:30:00",
+      "competencia": "Copa de Brasil",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.com/channel/?id=dsports1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2 (México)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2mx"
+            }
+          ]
+        },
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere1"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "Liga Profesional Argentina: Belgrano vs Argentinos Juniors",
+      "fecha": "2026-08-01 18:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 3 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz12"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz6"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "Liga Profesional Argentina: Estudiantes vs Defensa y Justicia",
+      "fecha": "2026-08-01 18:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 2 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+            },
+            {
+              "name": "Opción 3 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN AR",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnar"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney5"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "evento": "Liga 1 (Perú): Alianza Lima vs Alianza Atlético",
+      "fecha": "2026-08-01 18:05:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Liga 1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz8"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz13"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "Primera División Chile: Palestino vs Coquimbo Unido",
+      "fecha": "2026-08-01 18:30:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 3 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "evento": "Primera División Uruguay: Peñarol vs Cerro Largo",
+      "fecha": "2026-08-01 18:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "evento": "Serie A Ecuador: Universidad Católica vs Técnico Universitario",
+      "fecha": "2026-08-01 18:30:00",
+      "competencia": "Serie A Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "evento": "Copa de Primera (Paraguay): Cerro Porteño vs Sportivo Luqueño",
+      "fecha": "2026-08-01 18:30:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "evento": "WWE: SummerSlam",
+      "fecha": "2026-08-01 18:30:00",
+      "competencia": "WWE",
+      "logoUrl": "https://cdn.worldvectorlogo.com/logos/wwe.svg",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "evento": "Categoría Primera A: (varios partidos)",
+      "fecha": "2026-08-01 19:00:00",
+      "competencia": "Categoría Primera A",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsportsplus"
+            },
+            {
+              "name": "Opción 2 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "evento": "Primera División Costa Rica: Puntarenas vs Sporting San José",
+      "fecha": "2026-08-01 20:00:00",
+      "competencia": "Primera División Costa Rica",
+      "logoUrl": "https://image.shutterstock.com/image-photo/image-260nw-2441660539.jpg",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "evento": "Liga MX: Querétaro vs Tigres UANL",
+      "fecha": "2026-08-01 20:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone4"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz11"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney7"
+            }
+          ]
+        },
+        {
+          "name": "Como IT",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel2/?id=como_it1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "evento": "Liga MX Femenil: Juárez vs Pachuca",
+      "fecha": "2026-08-01 20:00:00",
+      "competencia": "Liga MX Femenil",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "evento": "Liga BetPlay: Medellín vs Deportivo Cali",
+      "fecha": "2026-08-01 20:10:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "evento": "MLS: CF Montréal vs New England",
+      "fecha": "2026-08-01 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv3"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "evento": "MLS: DC United vs Nashville SC",
+      "fecha": "2026-08-01 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv5"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "evento": "MLS: St. Louis City vs Real Salt Lake",
+      "fecha": "2026-08-01 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv9"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv21"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv10"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "evento": "MLS: Philadelphia Union vs Atlanta United",
+      "fecha": "2026-08-01 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv11"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "evento": "MLS: Vancouver Whitecaps vs Los Angeles FC",
+      "fecha": "2026-08-01 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv13"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "evento": "MLS: Cincinnati vs SJ Earthquakes",
+      "fecha": "2026-08-01 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv7"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "evento": "Primera División Chile: Deportes Limache vs Ñublense",
+      "fecha": "2026-08-01 21:00:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 3 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "evento": "Serie A Ecuador: Emelec vs Aucas",
+      "fecha": "2026-08-01 21:00:00",
+      "competencia": "Serie A Ecuador",
+      "logoUrl": "https://angulismo-pics.pages.dev/ec.png",
+      "canales": [
+        {
+          "name": "Zapping (Ecuador)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=zapping_ec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "evento": "Copa de Brasil: Santos vs Remo",
+      "fecha": "2026-08-01 21:00:00",
+      "competencia": "Copa de Brasil",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.com/channel/?id=dsports1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2 (México)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2mx"
+            }
+          ]
+        },
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere1"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "evento": "MLS: Chicago Fire vs Charlotte",
+      "fecha": "2026-08-01 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv15"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "evento": "MLS: Minnesota United vs San Diego",
+      "fecha": "2026-08-01 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv17"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "evento": "MLS: Sporting KC vs Houston Dynamo",
+      "fecha": "2026-08-01 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv19"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "evento": "Campeonato Sub-20: Honduras vs Panamá",
+      "fecha": "2026-08-01 22:00:00",
+      "competencia": "Campeonato Sub-20",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "evento": "Liga MX Femenil: Tijuana vs Monterrey",
+      "fecha": "2026-08-01 22:00:00",
+      "competencia": "Liga MX Femenil",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        },
+        {
+          "name": "VIX+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=vix1"
+            }
+          ]
+        },
+        {
+          "name": "FOX (USA)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=foxone4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "evento": "Primera División Costa Rica: Alajuelense vs Escorpiones Belén",
+      "fecha": "2026-08-01 23:00:00",
+      "competencia": "Primera División Costa Rica",
+      "logoUrl": "https://image.shutterstock.com/image-photo/image-260nw-2441660539.jpg",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "evento": "MLS: LA Galaxy vs Dallas",
+      "fecha": "2026-08-01 23:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv25"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "evento": "MLS: Portland Timbers vs Seattle Sounders",
+      "fecha": "2026-08-01 23:45:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv27"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "evento": "Liga MX: Cruz Azul vs Atlante",
+      "fecha": "2026-08-02 00:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": [
+        {
+          "name": "Canal 5 (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel/?id=canal5mx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudnmx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        },
+        {
+          "name": "VIX+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=vix2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
