@@ -870,18 +870,6 @@
       "featured": true
     },
     {
-      "name": "TV Argentina",
-      "logo": "https://image.shutterstock.com/image-photo/image-260nw-2586031263.jpg",
-      "options": [
-        {
-          "name": "TV Argentina",
-          "iframe": "https://angulismotv.pages.dev/mpdk/noticias"
-        }
-      ],
-      "show": true,
-      "featured": true
-    },
-    {
       "name": "Bandsports (BR)",
       "logo": "https://images.seeklogo.com/logo-png/47/1/bandsports-tv-logo-png_seeklogo-476278.png",
       "options": [
@@ -1011,133 +999,6 @@
       "show": true
     },
     {
-      "name": "Europa League",
-      "logo": "https://tse4.mm.bing.net/th/id/OIP.7G1qMaeTER8tdkUUxRR9hQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
-      "options": [
-        {
-          "name": "ESPN 1 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
-        },
-        {
-          "name": "ESPN 1 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn"
-        },
-        {
-          "name": "ESPN 1 - Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn"
-        },
-        {
-          "name": "ESPN 2 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-        },
-        {
-          "name": "ESPN 2 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn2"
-        },
-        {
-          "name": "ESPN 2 - Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn2"
-        },
-        {
-          "name": "ESPN 3 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=RVNQTjM="
-        },
-        {
-          "name": "ESPN 3 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn3"
-        },
-        {
-          "name": "ESPN 3 - Opción 3 ",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn3"
-        },
-        {
-          "name": "ESPN 4 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-        },
-        {
-          "name": "ESPN 4 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn4"
-        },
-        {
-          "name": "ESPN 4 - Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn4"
-        },
-        {
-          "name": "ESPN 5 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-        },
-        {
-          "name": "ESPN 5 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn5"
-        },
-        {
-          "name": "ESPN 5 - Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn5"
-        },
-        {
-          "name": "ESPN 6 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM19VWQ=="
-        },
-        {
-          "name": "ESPN 6 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn6"
-        },
-        {
-          "name": "ESPN 6 - Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn6"
-        },
-        {
-          "name": "ESPN 7 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzMl9VWQ=="
-        },
-        {
-          "name": "ESPN 7 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn7"
-        },
-        {
-          "name": "ESPN 7 - Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=espn7"
-        },
-        {
-          "name": "FOX Sports 1 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-        },
-        {
-          "name": "FOX Sports 1- Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox1ar"
-        },
-        {
-          "name": "FOX Sports 1- Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports"
-        },
-        {
-          "name": "FOX Sports 2 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzMkhE"
-        },
-        {
-          "name": "FOX Sports 2 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox2ar"
-        },
-        {
-          "name": "FOX Sports 2 - Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports2"
-        },
-        {
-          "name": "FOX Sports 3 - Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
-        },
-        {
-          "name": "FOX Sports 3 - Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=fox3ar"
-        },
-        {
-          "name": "FOX Sports 3 - Opción 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsports3"
-        }
-      ],
-      "show": true
-    },
-    {
       "name": "Flow",
       "logo": "https://bestleague.world/img/flowmusic.webp",
       "options": [
@@ -1252,6 +1113,21 @@
       "featured": false
     },
     {
+      "name": "GOLPERU",
+      "logo": "https://tse4.mm.bing.net/th/id/OIP.RRwd-20Z5BExVjjhw5fp0QHaHo?r=0&w=908&h=936&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=golperu"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=golperu"
+        }
+      ],
+      "show": true
+    },
+    {
       "name": "FOX Sports Premium Mexico",
       "logo": "https://bestleague.world/img/foxpr.png",
       "options": [
@@ -1266,21 +1142,6 @@
         {
           "name": "Opción 3",
           "iframe": "https://la20hd.com/vivo/canales.php?stream=foxsportspremium"
-        }
-      ],
-      "show": true
-    },
-    {
-      "name": "GOLPERU",
-      "logo": "https://tse4.mm.bing.net/th/id/OIP.RRwd-20Z5BExVjjhw5fp0QHaHo?r=0&w=908&h=936&rs=1&pid=ImgDetMain&o=7&rm=3",
-      "options": [
-        {
-          "name": "Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=golperu"
-        },
-        {
-          "name": "Opción 2",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=golperu"
         }
       ],
       "show": true
@@ -1359,37 +1220,6 @@
         {
           "name": "Create A Ride 2",
           "iframe": "https://www.jopi.com/flashgame/id/2053"
-        }
-      ],
-      "show": true
-    },
-    {
-      "name": "LaLiga",
-      "logo": "https://angulismo-pics.pages.dev/la-liga.png",
-      "options": [
-        {
-          "name": "ESPN Deportes - 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espndeportes"
-        },
-        {
-          "name": "ESPN Deportes - 3",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=espndeportes"
-        },
-        {
-          "name": "TSN 2 CA",
-          "iframe": "https://bestleague.life/mpdk/?get=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L3BkeC1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvdjV2OXlmbjYyaS9vdXQvdjEvMDk5MWUzM2QwOWRhNDZiMjg1N2ZjYzg0NWRiOTVjNDAvY2VuYy5tcGQ=&key=MzYyMjAyZWVmYzVkOWU0MmVlYzY0NTA5OThjY2U5ZTg=&key2=OTc4ZGZkZDUzMTg2ZWM1ODdkOTQwZTBiZDFlMmVjNDI="
-        },
-        {
-          "name": "LaLiga TV",
-          "iframe": "https://domainplayer.lat/embed/7654.html"
-        },
-        {
-          "name": "Extra",
-          "iframe": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
-        },
-        {
-          "name": "Extra 2",
-          "iframe": "https://streamfree.to/embed/soccer/barcelona-vs-girona?server=origin&quality=720p&category=soccer"
         }
       ],
       "show": true
@@ -1561,17 +1391,6 @@
       "show": true
     },
     {
-      "name": "test espn",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1",
-          "iframe": "https://angulismotv.pages.dev/mpdk/?get=aHR0cHM6Ly9lbDRsaXZlMi5ib2xkbXNzLmNvbS9FU1BOL0VTUE5fRUw0LmlzbWwvRVNQTi5tcGQ=&key=NDdhNmU5YjU5MDk3NDkwYmJkMmE0MmFkMTg0ZjBiNTQ=&key2=MTQ3MWE3ZGY3MDQxNzI5MDRhYTYxMjZhMmIzNTM0MWU=&start=true"
-        }
-      ],
-      "show": false
-    },
-    {
       "name": "TIGO Sports",
       "logo": "https://images.seeklogo.com/logo-png/24/2/tigo-logo-png_seeklogo-244591.png",
       "options": [
@@ -1598,17 +1417,6 @@
       "show": true
     },
     {
-      "name": "TNT Novelas",
-      "logo": "https://bestleague.world/img/tntnovelas.png",
-      "options": [
-        {
-          "name": "Opción 1",
-          "iframe": "https://bestleague.life/tok.html?get=VEJT"
-        }
-      ],
-      "show": true
-    },
-    {
       "name": "TNT Sports Chile",
       "logo": "https://angulismo-pics.pages.dev/tnt-sports.png",
       "options": [
@@ -1619,6 +1427,17 @@
         {
           "name": "Opción 2",
           "iframe": "https://smjt9q.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=104.28.217.122&token=3cbd2b162c0379a4f80a7a35755bf8c78754bd6d-a3-1770559077-1770505077"
+        }
+      ],
+      "show": true
+    },
+    {
+      "name": "TNT Novelas",
+      "logo": "https://bestleague.world/img/tntnovelas.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://bestleague.life/tok.html?get=VEJT"
         }
       ],
       "show": true
@@ -1728,6 +1547,21 @@
       "show": true
     },
     {
+      "name": "WIN Sports",
+      "logo": "https://images.seeklogo.com/logo-png/25/1/win-sports-logo-png_seeklogo-259337.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamtpday1.xyz/global1.php?stream=winsports"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://la20hd.com/vivo/canales.php?stream=winsports"
+        }
+      ],
+      "show": true
+    },
+    {
       "name": "VTV PLUS",
       "logo": "https://hopelife.bestleague.world/img/vtvplus.webp",
       "options": [
@@ -1742,21 +1576,6 @@
         {
           "name": "Opción 3",
           "iframe": "https://la20hd.com/vivo/canales.php?stream=vtvplus"
-        }
-      ],
-      "show": true
-    },
-    {
-      "name": "WIN Sports",
-      "logo": "https://images.seeklogo.com/logo-png/25/1/win-sports-logo-png_seeklogo-259337.png",
-      "options": [
-        {
-          "name": "Opción 1",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=winsports"
-        },
-        {
-          "name": "Opción 2",
-          "iframe": "https://la20hd.com/vivo/canales.php?stream=winsports"
         }
       ],
       "show": true
