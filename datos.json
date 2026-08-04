@@ -1,5 +1,601 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "evento": "Ciclismo: Tour de France Femenino - Etapa #4",
+      "fecha": "2026-08-04 10:45:00",
+      "competencia": "Ciclismo",
+      "logoUrl": "https://www.letour.fr/themes/custom/letour/logo.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Tenis: ATP/WTA Masters 1000 Montreal - Segunda Ronda",
+      "fecha": "2026-08-04 12:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "UEFA Champions League: Sparta Praha vs Olympique Lyonnais",
+      "fecha": "2026-08-04 15:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "UEFA Champions League: Union Saint-Gilloise vs Bodø/Glimt",
+      "fecha": "2026-08-04 15:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=evento2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Primera División Bolivia: Guabirá vs Real Tomayapo",
+      "fecha": "2026-08-04 16:00:00",
+      "competencia": "Primera División Bolivia",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Entel Gol",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=entelgol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Liga BetPlay: Deportes Tolima vs Medellín",
+      "fecha": "2026-08-04 18:10:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsportsplus"
+            },
+            {
+              "name": "Opción 2 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "Primera División Bolivia: Independiente Petrolero vs Aurora",
+      "fecha": "2026-08-04 19:00:00",
+      "competencia": "Primera División Bolivia",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Entel Gol",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=entelgol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Copa de Brasil: Juventude vs Atlético Mineiro",
+      "fecha": "2026-08-04 19:30:00",
+      "competencia": "Copa de Brasil",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "Prime Video",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=amazon_prime1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=amazon1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Campeonato Sub-20: Costa Rica vs Haití",
+      "fecha": "2026-08-04 19:30:00",
+      "competencia": "Campeonato Sub-20",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "MLB: Yankees vs Cardinals",
+      "fecha": "2026-08-04 20:00:00",
+      "competencia": "MLB",
+      "logoUrl": "https://images.seeklogo.com/logo-png/25/1/mlb-logo-png_seeklogo-250501.png",
+      "canales": [
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Liga BetPlay: Deportes Tolima vs Medellín",
+      "fecha": "2026-08-04 20:15:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "Copa Chile: Universidad de Concepción vs Curicó Unido",
+      "fecha": "2026-08-04 20:30:00",
+      "competencia": "Copa Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "MAX 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=max2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "Leagues Cup: Columbus Crew vs Atlas",
+      "fecha": "2026-08-04 20:45:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=mls1es"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv3"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "Leagues Cup: Cincinnati vs Pachuca",
+      "fecha": "2026-08-04 20:45:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv1"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "Copa Centroamericana: Plaza Amador vs Firpo",
+      "fecha": "2026-08-04 21:00:00",
+      "competencia": "Copa Centroamericana",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Español)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Leagues Cup: Charlotte vs Pumas UNAM",
+      "fecha": "2026-08-04 21:00:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv5"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "evento": "Copa de Brasil: Remo vs Santos",
+      "fecha": "2026-08-04 21:30:00",
+      "competencia": "Copa de Brasil",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "Sportv (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1 (Portugués)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=sporttvbr1"
+            }
+          ]
+        },
+        {
+          "name": "Premiere (Brasil)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=premiere1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "Leagues Cup: Minnesota United vs Juárez",
+      "fecha": "2026-08-04 21:30:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv7"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "Liga BetPlay: Millonarios vs Deportivo Pasto",
+      "fecha": "2026-08-04 22:20:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        {
+          "name": "Win Sports (Colombia)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "Campeonato Sub-20: Estados Unidos vs Guatemala",
+      "fecha": "2026-08-04 23:00:00",
+      "competencia": "Campeonato Sub-20",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "Leagues Cup: Tigres UANL vs Real Salt Lake",
+      "fecha": "2026-08-04 23:00:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "TUDN (México)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv9"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "evento": "Copa Centroamericana: Antigua GFC vs Real Estelí",
+      "fecha": "2026-08-04 23:00:00",
+      "competencia": "Copa Centroamericana",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "Copa Centroamericana: Diriangén vs Alajuelense",
+      "fecha": "2026-08-04 23:00:00",
+      "competencia": "Copa Centroamericana",
+      "logoUrl": "",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "evento": "Leagues Cup: Vancouver Whitecaps vs Atlante",
+      "fecha": "2026-08-04 23:30:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "Apple TV (Español)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv11"
+            }
+          ]
+        },
+        {
+          "name": "Apple TV (Inglés)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv12"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "channels": [
     {
       "name": "Mundial 2026",
