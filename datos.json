@@ -368,7 +368,6 @@
       "evento": "Liga Profesional Argentina: Boca Juniors vs Estudiantes",
       "fecha": "2026-08-05 19:00:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
         {
           "name": "ESPN 2",
@@ -387,12 +386,16 @@
               "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
             },
             {
-              "name": "Opción 2 (EXTENSION PC)",
+              "name": "Opción 2 (EXTENSION PC buffer)",
               "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
             },
             {
-              "name": "Opción 3 (1080p sin buffer)",
+              "name": "Opción 3 (720p sin buffer)",
               "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
+            },
+            {
+              "name": "Opción 4 (EXTENSION PC 1080p)",
+              "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/caaanvarisdeetoodeteeexte.html?id=teeespooarge-seen"
             }
           ]
         },
@@ -432,7 +435,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png"
     },
     {
       "id": 15,
@@ -1665,16 +1669,12 @@
           "iframe": "https://sopracan-28-04-flotodsplaaerbloeer.blogspot.com/p/pucheeeplaaedepoop1.html?get=VE5UX1Nwb3J0c19IRA"
         },
         {
-          "name": "(6)",
-          "iframe": "https://welivesports.shop/embed/tntsportarg.php"
-        },
-        {
-          "name": "(7 EXTENSION PC)",
+          "name": "(6 EXTENSION PC 720p buffer)",
           "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
         },
         {
-          "name": "(10 EXTENSIÓN PC)",
-          "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=teeeteespoo-giaaaa"
+          "name": "(7 EXTENSIÓN PC 1080p sin buffer)",
+          "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/caaanvarisdeetoodeteeexte.html?id=teeespooarge-seen"
         }
       ],
       "show": true,
