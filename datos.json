@@ -11,11 +11,7 @@
           "name": "Claro Sports",
           "options": [
             {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=clarosports1"
-            },
-            {
-              "name": "Opción 2",
+              "name": "Opción 1",
               "iframe": "https://streamx-hd.com/live1.php?stream=claro1"
             }
           ]
@@ -63,14 +59,38 @@
       "evento": "Tenis: ATP Masters 1000 Montreal - Tercera Ronda",
       "fecha": "2026-08-07 12:00:00",
       "competencia": "ATP WTA",
-      "logoUrl": "",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
       "canales": [
         {
           "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn2arg.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/88"
+            },
+            {
+              "name": "Opción PC (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         }
@@ -87,16 +107,24 @@
           "name": "Liga 1 MAX",
           "options": [
             {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
             },
             {
-              "name": "Opción 3",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/liga1max.php"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://canalesdeportivos.net/liga1maxpe.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/2/84"
             }
           ]
         }
@@ -131,8 +159,16 @@
           "name": "FOX (USA)",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=fox2ar"
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRzMkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox2ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports2"
             }
           ]
         },
@@ -140,11 +176,7 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney1"
-            },
-            {
-              "name": "Opción 2",
+              "name": "Opción 1",
               "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
             }
           ]
@@ -162,12 +194,8 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=disney2"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
             }
           ]
         }
@@ -203,7 +231,7 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=disney4"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
             }
           ]
         }
@@ -217,11 +245,11 @@
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": [
         {
-          "name": "Disney+",
+          "name": "MLS",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=disney5"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls4es"
             }
           ]
         }
@@ -235,46 +263,35 @@
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
         {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
-            }
-          ]
-        },
-        {
           "name": "ESPN Premium",
           "options": [
             {
-              "name": "Opción 1 (Español)",
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 3",
               "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
             },
             {
-              "name": "Opción 2 (1080p sin buffer)",
+              "name": "Opción 4 (1080p sin buffer)",
               "iframe": "https://bestleague.life/cvatt.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
             },
             {
-              "name": "Opción 3 (EXTENSION PC)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espnpremarg.php"
+            },
             {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=disney8"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz",
-          "options": [
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/76"
+            },
             {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz3"
+              "name": "Opción PC (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             }
           ]
         }
@@ -309,12 +326,8 @@
           "name": "Fanatiz",
           "options": [
             {
-              "name": "Opción 1 (Español)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz3"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz1"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz3"
             }
           ]
         }
@@ -328,29 +341,11 @@
       "logoUrl": "https://bestleague.world/jr/35.png",
       "canales": [
         {
-          "name": "Apple TV (Español)",
+          "name": "TNT Sports",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv9"
-            }
-          ]
-        },
-        {
-          "name": "Apple TV (Inglés)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv10"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=disney7"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsportschile"
             }
           ]
         }
@@ -367,25 +362,32 @@
           "name": "TNT Sports",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3",
               "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
             },
             {
-              "name": "Opción 2 (EXTENSION PC)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+              "name": "Opción 4 (1080p sin buffer)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
             },
             {
-              "name": "Opción 3 (1080p sin buffer)",
-              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz",
-          "options": [
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/tntsportarg.php"
+            },
             {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz2"
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/75"
+            },
+            {
+              "name": "Opción PC (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
             }
           ]
         }
@@ -417,29 +419,11 @@
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": [
         {
-          "name": "Apple TV (Español)",
+          "name": "MLS",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv1"
-            }
-          ]
-        },
-        {
-          "name": "Apple TV (Inglés)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv2"
-            }
-          ]
-        },
-        {
-          "name": "FOX (USA)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=foxone4"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls1es"
             }
           ]
         }
@@ -453,20 +437,11 @@
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": [
         {
-          "name": "Apple TV (Español)",
+          "name": "MLS",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv3"
-            }
-          ]
-        },
-        {
-          "name": "Apple TV (Inglés)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv4"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls2es"
             }
           ]
         }
@@ -480,29 +455,11 @@
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": [
         {
-          "name": "Apple TV (Español)",
+          "name": "MLS",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv5"
-            }
-          ]
-        },
-        {
-          "name": "Apple TV (Inglés)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv6"
-            }
-          ]
-        },
-        {
-          "name": "TUDN (México)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=tudn_usa"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls3es"
             }
           ]
         }
@@ -566,14 +523,6 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamx-hd.com/live1.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (EXTENSION PC)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 3 (1080p sin buffer)",
-              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
             }
           ]
         }
@@ -587,20 +536,11 @@
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": [
         {
-          "name": "Apple TV (Español)",
+          "name": "MLS",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv7"
-            }
-          ]
-        },
-        {
-          "name": "Apple TV (Inglés)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=appletv8"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls4es"
             }
           ]
         }
@@ -636,20 +576,23 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=l1max"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz4"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=fanatiz5"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/liga1max.php"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://canalesdeportivos.net/liga1maxpe.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/2/84"
             }
           ]
         }
@@ -704,6 +647,42 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamx-hd.com/live1.php?stream=evento3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "evento": "Primera División Uruguay: Cerro Largo vs Juventud",
+      "fecha": "2026-08-07 19:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "evento": "Leagues Cup: Vancouver Whitecaps vs Juárez",
+      "fecha": "2026-08-07 23:30:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls5es"
             }
           ]
         }
