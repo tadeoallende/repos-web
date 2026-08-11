@@ -43,8 +43,67 @@
       "evento": "Copa Sudamericana: Boca Juniors vs. Deportivo Recoleta",
       "fecha": "2026-08-11 19:00:00",
       "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "DSports Plus",
+          "options": [
+            {
+              "name": "Opción 1 (1080p)",
+              "iframe": "https://sudamericaplay.sbs/canal_8112/dsports_plus.html"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp.sbs/global1.php?stream=dsportsplus"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://bolaloca.my/player/2/96"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsportsplus"
+            },
+            {
+              "name": "Opción 5 (EXTENSION)",
+              "iframe": "https://bestleague.life/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bestleague.life/cvatt.html?get=RVNQTjJIRA&lang=1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://bolaloca.my/player/2/87"
+            },
+            {
+              "name": "Opción 5 (EXTENSION PC)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
+            },
+            {
+              "name": "Opción 6 (EXTENSION PC)",
+              "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=eeespee1-giaaaa"
+            },
+            {
+              "name": "Opción 7 (EXTENSION PC)",
+              "iframe": "https://www.bestleague.life/tok.html?get=RVNQTjJIRA&start=true"
+            }
+          ]
+        }
+      ],
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png"
     },
     {
       "id": 3,
