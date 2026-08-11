@@ -2,6 +2,100 @@
   "events": [
     {
       "id": 1,
+      "evento": "Copa Centroamericana de CONCACAF: Plaza Amador vs Xelajú",
+      "fecha": "2026-08-11 01:00:00",
+      "competencia": "Copa Centroamericana de Concacaf",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney3"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "Copa Libertadores: Estudiantes LP vs Universidad Católica",
+      "fecha": "2026-08-11 01:30:00",
+      "competencia": "Copa Libertadores",
+      "logoUrl": "https://bestleague.world/jr/76.png",
+      "canales": [
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Copa Centroamericana de CONCACAF: Deportivo Saprissa vs Mixco",
+      "fecha": "2026-08-11 03:00:00",
+      "competencia": "Copa Centroamericana de Concacaf",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Copa Centroamericana de CONCACAF: Real Estelí vs Alianza",
+      "fecha": "2026-08-11 03:00:00",
+      "competencia": "Copa Centroamericana de Concacaf",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
       "evento": "Fórmula S: Carrera #2 - Kartódromo Ciudad Evita \"APAD\"",
       "fecha": "2026-08-11 12:30:00",
       "competencia": "Eventos",
@@ -39,33 +133,141 @@
       ]
     },
     {
-      "id": 2,
+      "id": 6,
+      "evento": "UEFA Champions League: Bodø / Glimt vs Union Saint-Gilloise | Clasificación",
+      "fecha": "2026-08-11 17:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "Sport TV",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=sportv_1pt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
       "evento": "Copa Sudamericana: Boca Juniors vs. Deportivo Recoleta",
       "fecha": "2026-08-11 19:00:00",
       "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
       "canales": [
         {
-          "name": "DSports Plus",
+          "name": "DSports ( Recomendado )",
           "options": [
             {
               "name": "Opción 1 (1080p)",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/dsports_plus.html"
+              "iframe": "https://sudamericaplay.sbs/canal_8112/dsportsar.html"
+            }
+          ]
+        },
+        {
+          "name": "ESPN AR",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp.sbs/global1.php?stream=dsportsplus"
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://sudamericaplay.sbs/canal_8112/dsportsar.html"
+            },
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://bolaloca.my/player/2/96"
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
             },
             {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsportsplus"
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/directvarg.php"
             },
             {
-              "name": "Opción 5 (EXTENSION)",
-              "iframe": "https://bestleague.life/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/94"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz2"
+            }
+          ]
+        },
+        {
+          "name": "Como IT",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamhdx.xyz/channel2/?id=como_it1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ (Extensión)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bestleague.life/tok2.html?get=RVNQTl9VWQ=="
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2 (Extensión)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
             }
           ]
         },
@@ -74,47 +276,75 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://bestleague.life/cvatt.html?get=RVNQTjJIRA&lang=1"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 3",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
             },
             {
-              "name": "Opción 4",
-              "iframe": "https://bolaloca.my/player/2/87"
-            },
-            {
-              "name": "Opción 5 (EXTENSION PC)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
-            },
-            {
-              "name": "Opción 6 (EXTENSION PC)",
-              "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=eeespee1-giaaaa"
-            },
-            {
-              "name": "Opción 7 (EXTENSION PC)",
-              "iframe": "https://www.bestleague.life/tok.html?get=RVNQTjJIRA&start=true"
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
             }
           ]
         }
-      ],
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png"
+      ]
     },
     {
-      "id": 3,
+      "id": 8,
       "evento": "Copa Libertadores: Fluminense vs. Independiente Rivadavia",
       "fecha": "2026-08-11 19:00:00",
       "competencia": "Copa Libertadores",
       "logoUrl": "https://bestleague.world/jr/76.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney1"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz1"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 4,
+      "id": 9,
       "evento": "Tenis: National Bank Open (Cuartos de Final)",
       "fecha": "2026-08-11 19:00:00",
       "competencia": "ATP WTA",
@@ -152,36 +382,145 @@
       ]
     },
     {
-      "id": 5,
+      "id": 10,
+      "evento": "UEFA Champions League: Sturm Graz vs Fenerbahçe | Clasificación",
+      "fecha": "2026-08-11 19:30:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "UEFA Champions League: Olympique Lyonnais vs Sparta Praha | Clasificación",
+      "fecha": "2026-08-11 20:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
       "evento": "Leagues Cup: Columbus Crew vs. Pumas UNAM",
       "fecha": "2026-08-11 20:30:00",
       "competencia": "Leagues Cup",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS Season Pass",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=mls2en"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls2es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 6,
+      "id": 13,
       "evento": "Leagues Cup: Charlotte vs. Pachuca",
       "fecha": "2026-08-11 20:30:00",
       "competencia": "Leagues Cup",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS Season Pass",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=mls1es"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls1es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 7,
+      "id": 14,
       "evento": "Leagues Cup: Cincinnati vs. Atlas",
       "fecha": "2026-08-11 21:00:00",
       "competencia": "Leagues Cup",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS Season Pass",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=mls3en"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls3es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 8,
+      "id": 15,
       "evento": "Liga Profesional: Talleres Córdoba vs. Lanús",
       "fecha": "2026-08-11 21:00:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            }
+          ]
+        },
+        {
+          "name": "TyC Internacional",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tycinternacional"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz3"
+            }
+          ]
+        },
         {
           "name": "TNT Sports Premium",
           "options": [
@@ -214,15 +553,7 @@
       ]
     },
     {
-      "id": 9,
-      "evento": "Copa Libertadores: Deportes Tolima vs. Independiente del Valle",
-      "fecha": "2026-08-11 21:30:00",
-      "competencia": "Copa Libertadores",
-      "logoUrl": "https://bestleague.world/jr/76.png",
-      "canales": []
-    },
-    {
-      "id": 10,
+      "id": 16,
       "evento": "Copa Libertadores: Estudiantes vs. Universidad Católica",
       "fecha": "2026-08-11 21:30:00",
       "competencia": "Copa Libertadores",
@@ -230,31 +561,70 @@
       "canales": []
     },
     {
-      "id": 11,
+      "id": 17,
       "evento": "Copa Sudamericana: Bolívar vs. São Paulo",
       "fecha": "2026-08-11 21:30:00",
       "competencia": "Copa Sudamericana",
       "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz5"
+            }
+          ]
+        },
+        {
+          "name": "DSports 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 12,
+      "id": 18,
       "evento": "Leagues Cup: Minnesota United vs. Atlante",
       "fecha": "2026-08-11 21:30:00",
       "competencia": "Leagues Cup",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS Season Pass",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls4es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 13,
+      "id": 19,
       "evento": "Leagues Cup: Real Salt Lake vs. Juárez",
       "fecha": "2026-08-11 22:30:00",
       "competencia": "Leagues Cup",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS Season Pass",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls5es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 14,
+      "id": 20,
       "evento": "MLB: Milwaukee Brewers vs. San Diego Padres",
       "fecha": "2026-08-11 22:30:00",
       "competencia": "MLB",
@@ -292,12 +662,22 @@
       ]
     },
     {
-      "id": 15,
+      "id": 21,
       "evento": "Leagues Cup: Tigres UANL vs. Vancouver Whitecaps",
       "fecha": "2026-08-11 23:00:00",
       "competencia": "Leagues Cup",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS Season Pass",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls6es"
+            }
+          ]
+        }
+      ]
     }
   ],
   "channels": [
