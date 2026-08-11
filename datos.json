@@ -2,518 +2,6 @@
   "events": [
     {
       "id": 1,
-      "evento": ".UEFA > a:before { background-image: url(https://tvtveshd.com/iconos/uefahd.png); }",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": []
-    },
-    {
-      "id": 2,
-      "evento": "UEFA Champions League: Bodø / Glimt vs Union Saint-Gilloise | Clasificación",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1zcG9ydHZfMXB0\" target=\"_top\">Sport TV<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "evento": "UEFA Champions League: Sturm Graz vs Fenerbahçe | Clasificación",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czE=\" target=\"_top\">ESPN+<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "evento": "UEFA Champions League: Olympique Lyonnais vs Sparta Praha | Clasificación",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czI=\" target=\"_top\">ESPN+<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZGlzbmV5MQ==\" target=\"_top\">Disney+<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09Zm94c3BvcnRz\" target=\"_top\">Fox Sports 1 <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbjI=\" target=\"_top\">ESPN 2<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx\" target=\"_top\">Disney+ <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMg==\" target=\"_top\">ESPN 2 <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1mb3gxYXI=\" target=\"_top\">Fox Sports 1<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1mYW5hdGl6MQ==\" target=\"_top\">Fanatiz<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZGlzbmV5Mg==\" target=\"_top\">Disney+<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZHNwb3J0cw==\" target=\"_top\">DSports <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZmFuYXRpejI=\" target=\"_top\">Fanatiz<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZXNwbg==\" target=\"_top\">ESPN AR<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky\" target=\"_top\">Disney+ <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu\" target=\"_top\">ESPN<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9kc3BvcnRzYXIuaHRtbA==\" target=\"_top\">DSports ( Recomendado )<span>",
-          "options": [
-            {
-              "name": "Opción 1 (1080p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "evento": "Leagues Cup: Charlotte vs Pachuca",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bWxzMWVz\" target=\"_top\">MLS Season Pass<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1tbHMxZXM=\" target=\"_top\">MLS Season Pass <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "evento": "Leagues Cup: Columbus Crew vs Pumas UNAM",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bWxzMmVu\" target=\"_top\">MLS Season Pass<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1tbHMyZXM=\" target=\"_top\">MLS Season Pass <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "evento": "Leagues Cup: Cincinnati vs Atlas",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Leagues Cup",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09bWxzM2Vu\" target=\"_top\">MLS Season Pass<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1tbHMzZXM=\" target=\"_top\">MLS Season Pass <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "evento": "Copa Centroamericana de CONCACAF: Plaza Amador vs Xelajú",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Eventos",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZGlzbmV5Mw==\" target=\"_top\">Disney+<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz\" target=\"_top\">Disney+ <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "evento": "Liga Profesional: Talleres Córdoba vs Lanús",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09dG50c3BvcnRz\" target=\"_top\">TNT Sports<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09dHljaW50ZXJuYWNpb25hbA==\" target=\"_top\">TyC Internacional<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09ZmFuYXRpejM=\" target=\"_top\">Fanatiz<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT10bnRzcG9ydHM=\" target=\"_top\">TNT Sports <span>",
-          "options": [
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "evento": "Copa Libertadores: Estudiantes LP vs Universidad Católica",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0\" target=\"_top\">Disney+<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu\" target=\"_top\">ESPN<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1mb3gxYXI=\" target=\"_top\">Fox Sports 1<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "evento": "Copa Sudamericana: Bolívar vs São Paulo",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1kc3BvcnRzMg==\" target=\"_top\">DSports 2<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        },
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1mYW5hdGl6NQ==\" target=\"_top\">Fanatiz<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "evento": "Leagues Cup: Minnesota United vs Atlante",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Leagues Cup",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1tbHM0ZXM=\" target=\"_top\">MLS Season Pass<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "evento": "Leagues Cup: Real Salt Lake vs Juárez",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Leagues Cup",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1tbHM1ZXM=\" target=\"_top\">MLS Season Pass<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "evento": "Leagues Cup: Tigres UANL vs Vancouver Whitecaps",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Leagues Cup",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1tbHM2ZXM=\" target=\"_top\">MLS Season Pass<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "evento": "Copa Centroamericana de CONCACAF: Deportivo Saprissa vs Mixco",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "Primeira Liga",
-      "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk1\" target=\"_top\">Disney+<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "evento": "Copa Centroamericana de CONCACAF: Real Estelí vs Alianza",
-      "fecha": "2026-08-11 00:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": [
-        {
-          "name": "<li class=\"subitem1\"><a href=\"/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cC1nb2xkZW4xLmNsaWNrL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk2\" target=\"_top\">Disney+<span>",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 19,
       "evento": "Fórmula S: Carrera #2 - Kartódromo Ciudad Evita \"APAD\"",
       "fecha": "2026-08-11 12:30:00",
       "competencia": "Eventos",
@@ -551,7 +39,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 2,
       "evento": "Copa Sudamericana: Boca Juniors vs. Deportivo Recoleta",
       "fecha": "2026-08-11 19:00:00",
       "competencia": "Copa Sudamericana",
@@ -559,7 +47,7 @@
       "canales": []
     },
     {
-      "id": 21,
+      "id": 3,
       "evento": "Copa Libertadores: Fluminense vs. Independiente Rivadavia",
       "fecha": "2026-08-11 19:00:00",
       "competencia": "Copa Libertadores",
@@ -567,7 +55,7 @@
       "canales": []
     },
     {
-      "id": 22,
+      "id": 4,
       "evento": "Tenis: National Bank Open (Cuartos de Final)",
       "fecha": "2026-08-11 19:00:00",
       "competencia": "ATP WTA",
@@ -605,7 +93,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 5,
       "evento": "Leagues Cup: Columbus Crew vs. Pumas UNAM",
       "fecha": "2026-08-11 20:30:00",
       "competencia": "Leagues Cup",
@@ -613,7 +101,7 @@
       "canales": []
     },
     {
-      "id": 24,
+      "id": 6,
       "evento": "Leagues Cup: Charlotte vs. Pachuca",
       "fecha": "2026-08-11 20:30:00",
       "competencia": "Leagues Cup",
@@ -621,7 +109,7 @@
       "canales": []
     },
     {
-      "id": 25,
+      "id": 7,
       "evento": "Leagues Cup: Cincinnati vs. Atlas",
       "fecha": "2026-08-11 21:00:00",
       "competencia": "Leagues Cup",
@@ -629,7 +117,7 @@
       "canales": []
     },
     {
-      "id": 26,
+      "id": 8,
       "evento": "Liga Profesional: Talleres Córdoba vs. Lanús",
       "fecha": "2026-08-11 21:00:00",
       "competencia": "Liga Profesional Argentina",
@@ -667,7 +155,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 9,
       "evento": "Copa Libertadores: Deportes Tolima vs. Independiente del Valle",
       "fecha": "2026-08-11 21:30:00",
       "competencia": "Copa Libertadores",
@@ -675,7 +163,7 @@
       "canales": []
     },
     {
-      "id": 28,
+      "id": 10,
       "evento": "Copa Libertadores: Estudiantes vs. Universidad Católica",
       "fecha": "2026-08-11 21:30:00",
       "competencia": "Copa Libertadores",
@@ -683,7 +171,7 @@
       "canales": []
     },
     {
-      "id": 29,
+      "id": 11,
       "evento": "Copa Sudamericana: Bolívar vs. São Paulo",
       "fecha": "2026-08-11 21:30:00",
       "competencia": "Copa Sudamericana",
@@ -691,7 +179,7 @@
       "canales": []
     },
     {
-      "id": 30,
+      "id": 12,
       "evento": "Leagues Cup: Minnesota United vs. Atlante",
       "fecha": "2026-08-11 21:30:00",
       "competencia": "Leagues Cup",
@@ -699,7 +187,7 @@
       "canales": []
     },
     {
-      "id": 31,
+      "id": 13,
       "evento": "Leagues Cup: Real Salt Lake vs. Juárez",
       "fecha": "2026-08-11 22:30:00",
       "competencia": "Leagues Cup",
@@ -707,7 +195,7 @@
       "canales": []
     },
     {
-      "id": 32,
+      "id": 14,
       "evento": "MLB: Milwaukee Brewers vs. San Diego Padres",
       "fecha": "2026-08-11 22:30:00",
       "competencia": "MLB",
@@ -745,7 +233,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 15,
       "evento": "Leagues Cup: Tigres UANL vs. Vancouver Whitecaps",
       "fecha": "2026-08-11 23:00:00",
       "competencia": "Leagues Cup",
