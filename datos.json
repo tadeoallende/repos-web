@@ -56,20 +56,33 @@
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
+          "name": "DirecTV Sports 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2 MX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2mx"
+            }
+          ]
+        },
+        {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
               "iframe": "https://streamx-hd.com/live1.php?stream=disney9"
-            }
-          ]
-        },
-        {
-          "name": "DSports 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
             }
           ]
         }
@@ -83,11 +96,37 @@
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+            }
+          ]
+        },
+        {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney5"
+            },
+            {
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN MX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnmx"
             }
           ]
         },
@@ -103,23 +142,19 @@
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
             },
             {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesports.cfd/embed/espn1arg.php"
             },
             {
-              "name": "Opción 5 (Ads)",
+              "name": "Opción 4 (Ads)",
               "iframe": "https://welivesports.cfd/embed/espn1col.php"
             },
             {
-              "name": "Opción 6 (Ads)",
+              "name": "Opción 5 (Ads)",
               "iframe": "https://bolaloca.my/player/4/87"
             },
             {
-              "name": "Opción 7 (Extensión)",
+              "name": "Opción 6 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
@@ -137,7 +172,11 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney2"
+            },
+            {
+              "name": "Opción 2",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
             }
           ]
@@ -155,8 +194,21 @@
           "name": "Fanatiz",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz2"
+            },
+            {
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz2"
+            }
+          ]
+        },
+        {
+          "name": "Bein Sports",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=beinsportes"
             }
           ]
         },
@@ -179,6 +231,37 @@
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
+          "name": "DirecTV Sports",
+          "options": [
+            {
+              "name": "Opción 1 (1080p)",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 4 MX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4mx"
+            }
+          ]
+        },
+        {
+          "name": "Fox Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
+            }
+          ]
+        },
+        {
           "name": "DSports",
           "options": [
             {
@@ -187,18 +270,14 @@
             },
             {
               "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
-            },
-            {
-              "name": "Opción 3",
               "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
             },
             {
-              "name": "Opción 4 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesports.cfd/embed/directvarg.php"
             },
             {
-              "name": "Opción 5 (Ads)",
+              "name": "Opción 4 (Ads)",
               "iframe": "https://bolaloca.my/player/4/94"
             }
           ]
@@ -216,7 +295,11 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney5"
+            },
+            {
+              "name": "Opción 2",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
             }
           ]
@@ -282,10 +365,14 @@
       "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
       "canales": [
         {
-          "name": "DSports2",
+          "name": "DirecTV Sports",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (1080p)",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
             }
           ]
@@ -303,7 +390,7 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
             }
           ]
@@ -321,8 +408,17 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "ESPN MX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnmx"
             }
           ]
         }
@@ -608,6 +704,28 @@
     },
     {
       "id": 22,
+      "evento": "Amistoso: Brentford vs Eintracht Frankfurt",
+      "fecha": "2026-08-15 15:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney4"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
       "evento": "Super Lig: Gençlerbirliği vs. Fenerbahçe",
       "fecha": "2026-08-15 15:30:00",
       "competencia": "Süper Lig (Turquía)",
@@ -625,7 +743,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 24,
       "evento": "Copa de Italia: Venezia vs. Modena",
       "fecha": "2026-08-15 15:45:00",
       "competencia": "Serie A",
@@ -643,7 +761,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "evento": "Primera División: Guaraní vs. Rubio Ñú",
       "fecha": "2026-08-15 16:00:00",
       "competencia": "Copa de Primera (Paraguay)",
@@ -661,7 +779,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "evento": "Copa de Italia: Torino vs. Carrarese",
       "fecha": "2026-08-15 16:15:00",
       "competencia": "Serie A",
@@ -688,7 +806,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "evento": "Brasileirão: Fluminense vs. Palmeiras",
       "fecha": "2026-08-15 16:30:00",
       "competencia": "Brasileirão",
@@ -696,7 +814,7 @@
       "canales": []
     },
     {
-      "id": 27,
+      "id": 28,
       "evento": "Primera División: Racing vs. Nacional",
       "fecha": "2026-08-15 16:30:00",
       "competencia": "Primera División Uruguay",
@@ -704,7 +822,7 @@
       "canales": []
     },
     {
-      "id": 28,
+      "id": 29,
       "evento": "LaLiga: Sevilla vs. Rayo Vallecano",
       "fecha": "2026-08-15 16:30:00",
       "competencia": "LaLiga",
@@ -712,7 +830,7 @@
       "canales": []
     },
     {
-      "id": 29,
+      "id": 30,
       "evento": "Primeira Liga: Rio Ave vs. Porto",
       "fecha": "2026-08-15 16:30:00",
       "competencia": "Primeira Liga",
@@ -720,7 +838,7 @@
       "canales": []
     },
     {
-      "id": 30,
+      "id": 31,
       "evento": "Liga Profesional: Estudiantes vs. Gimnasia La Plata",
       "fecha": "2026-08-15 16:45:00",
       "competencia": "Liga Profesional Argentina",
@@ -758,7 +876,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 32,
       "evento": "UFC: Islam Makhachev vs. Ian Machado Garry",
       "fecha": "2026-08-15 17:00:00",
       "competencia": "UFC",
@@ -766,7 +884,7 @@
       "canales": []
     },
     {
-      "id": 32,
+      "id": 33,
       "evento": "Liga 1: Los Chankas vs. Melgar",
       "fecha": "2026-08-15 17:30:00",
       "competencia": "Liga 1 (Perú)",
@@ -774,7 +892,7 @@
       "canales": []
     },
     {
-      "id": 33,
+      "id": 34,
       "evento": "Brasileirão: Athletico-PR vs. RB Bragantino",
       "fecha": "2026-08-15 18:30:00",
       "competencia": "Brasileirão",
@@ -782,7 +900,7 @@
       "canales": []
     },
     {
-      "id": 34,
+      "id": 35,
       "evento": "Primera División: Deportes Limache vs. Universidad Chile",
       "fecha": "2026-08-15 18:30:00",
       "competencia": "Primera División Chile",
@@ -790,7 +908,7 @@
       "canales": []
     },
     {
-      "id": 35,
+      "id": 36,
       "evento": "Primera División: Sportivo Trinidense vs. Nacional Asunción",
       "fecha": "2026-08-15 18:30:00",
       "competencia": "Copa de Primera (Paraguay)",
@@ -798,7 +916,7 @@
       "canales": []
     },
     {
-      "id": 36,
+      "id": 37,
       "evento": "Liga Profesional: Belgrano vs. Independiente Rivadavia",
       "fecha": "2026-08-15 19:00:00",
       "competencia": "Liga Profesional Argentina",
@@ -836,7 +954,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 38,
       "evento": "Liga Profesional: Newell's Old Boys vs. Deportivo Riestra",
       "fecha": "2026-08-15 19:00:00",
       "competencia": "Liga Profesional Argentina",
@@ -874,7 +992,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 39,
       "evento": "Primera División: Wanderers vs. Cerro Largo",
       "fecha": "2026-08-15 19:30:00",
       "competencia": "Primera División Uruguay",
@@ -882,7 +1000,7 @@
       "canales": []
     },
     {
-      "id": 39,
+      "id": 40,
       "evento": "Liga MX: Atlante vs. Toluca",
       "fecha": "2026-08-15 20:00:00",
       "competencia": "Liga MX",
@@ -890,7 +1008,7 @@
       "canales": []
     },
     {
-      "id": 40,
+      "id": 41,
       "evento": "MLS: Atlanta United vs. New York RB",
       "fecha": "2026-08-15 20:30:00",
       "competencia": "MLS",
@@ -898,7 +1016,7 @@
       "canales": []
     },
     {
-      "id": 41,
+      "id": 42,
       "evento": "MLS: CF Montréal vs. DC United",
       "fecha": "2026-08-15 20:30:00",
       "competencia": "MLS",
@@ -906,7 +1024,7 @@
       "canales": []
     },
     {
-      "id": 42,
+      "id": 43,
       "evento": "MLS: Charlotte vs. Columbus Crew",
       "fecha": "2026-08-15 20:30:00",
       "competencia": "MLS",
@@ -914,7 +1032,7 @@
       "canales": []
     },
     {
-      "id": 43,
+      "id": 44,
       "evento": "MLS: Orlando City SC vs. Cincinnati",
       "fecha": "2026-08-15 20:30:00",
       "competencia": "MLS",
@@ -922,7 +1040,7 @@
       "canales": []
     },
     {
-      "id": 44,
+      "id": 45,
       "evento": "MLS: Toronto FC vs. New England",
       "fecha": "2026-08-15 20:30:00",
       "competencia": "MLS",
@@ -930,7 +1048,7 @@
       "canales": []
     },
     {
-      "id": 45,
+      "id": 46,
       "evento": "Brasileirão: São Paulo vs. Coritiba",
       "fecha": "2026-08-15 21:00:00",
       "competencia": "Brasileirão",
@@ -938,7 +1056,7 @@
       "canales": []
     },
     {
-      "id": 46,
+      "id": 47,
       "evento": "Primera División: Everton vs. Audax Italiano",
       "fecha": "2026-08-15 21:00:00",
       "competencia": "Primera División Chile",
@@ -946,7 +1064,7 @@
       "canales": []
     },
     {
-      "id": 47,
+      "id": 48,
       "evento": "Liga Profesional: Platense vs. Boca Juniors",
       "fecha": "2026-08-15 21:15:00",
       "competencia": "Liga Profesional Argentina",
@@ -984,7 +1102,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 49,
       "evento": "Liga 1: Alianza Lima vs. UTC Cajamarca",
       "fecha": "2026-08-15 21:30:00",
       "competencia": "Liga 1 (Perú)",
@@ -992,7 +1110,7 @@
       "canales": []
     },
     {
-      "id": 49,
+      "id": 50,
       "evento": "MLS: Houston Dynamo vs. LA Galaxy",
       "fecha": "2026-08-15 21:30:00",
       "competencia": "MLS",
@@ -1000,7 +1118,7 @@
       "canales": []
     },
     {
-      "id": 50,
+      "id": 51,
       "evento": "MLS: Nashville SC vs. Inter Miami",
       "fecha": "2026-08-15 21:30:00",
       "competencia": "MLS",
@@ -1008,7 +1126,7 @@
       "canales": []
     },
     {
-      "id": 51,
+      "id": 52,
       "evento": "MLS: Colorado Rapids vs. Sporting KC",
       "fecha": "2026-08-15 22:30:00",
       "competencia": "MLS",
@@ -1016,7 +1134,7 @@
       "canales": []
     },
     {
-      "id": 52,
+      "id": 53,
       "evento": "MLS: Real Salt Lake vs. Minnesota United",
       "fecha": "2026-08-15 22:30:00",
       "competencia": "MLS",
@@ -1024,7 +1142,7 @@
       "canales": []
     },
     {
-      "id": 53,
+      "id": 54,
       "evento": "Liga MX: Monterrey vs. Juárez",
       "fecha": "2026-08-15 22:30:00",
       "competencia": "Liga MX",
@@ -1032,7 +1150,7 @@
       "canales": []
     },
     {
-      "id": 54,
+      "id": 55,
       "evento": "MLS: Los Angeles FC vs. San Diego",
       "fecha": "2026-08-15 23:30:00",
       "competencia": "MLS",
@@ -1040,7 +1158,7 @@
       "canales": []
     },
     {
-      "id": 55,
+      "id": 56,
       "evento": "MLS: SJ Earthquakes vs. St. Louis City",
       "fecha": "2026-08-15 23:30:00",
       "competencia": "MLS",
