@@ -2,7 +2,7 @@
   "events": [
     {
       "id": 1,
-      "evento": "Liga MX: América vs Atlético San Luis",
+      "evento": "Liga MX: Tijuana vs. Cruz Azul",
       "fecha": "2026-08-16 00:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
@@ -10,54 +10,6 @@
     },
     {
       "id": 2,
-      "evento": "Liga Profesional: Barracas Central vs Rosario Central",
-      "fecha": "2026-08-16 00:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": []
-    },
-    {
-      "id": 3,
-      "evento": "Liga Profesional: Central Córdoba SdE vs Instituto",
-      "fecha": "2026-08-16 00:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": []
-    },
-    {
-      "id": 4,
-      "evento": "Liga 1: Cienciano vs Deportivo Garcilaso",
-      "fecha": "2026-08-16 00:30:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "canales": []
-    },
-    {
-      "id": 5,
-      "evento": "MLS: Austin vs Dallas",
-      "fecha": "2026-08-16 01:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 6,
-      "evento": "Liga MX: Santos Laguna vs Guadalajara",
-      "fecha": "2026-08-16 02:10:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "canales": []
-    },
-    {
-      "id": 7,
-      "evento": "Liga MX: Tijuana vs Cruz Azul",
-      "fecha": "2026-08-16 04:00:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "canales": []
-    },
-    {
-      "id": 8,
       "evento": "Championship: Watford vs. Southampton",
       "fecha": "2026-08-16 09:30:00",
       "competencia": "EFL Cup",
@@ -75,7 +27,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 3,
       "evento": "Eredivisie: Feyenoord vs. Go Ahead Eagles",
       "fecha": "2026-08-16 09:30:00",
       "competencia": "Eredivisie",
@@ -135,7 +87,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 4,
       "evento": "Primera División: Cerro Porteño vs. Sportivo San Lorenzo",
       "fecha": "2026-08-16 10:00:00",
       "competencia": "Copa de Primera (Paraguay)",
@@ -153,7 +105,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 5,
       "evento": "FA Community Shield: Arsenal vs. Manchester City",
       "fecha": "2026-08-16 11:00:00",
       "competencia": "EFL Cup",
@@ -235,7 +187,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 6,
       "evento": "Brasileirão: Chapecoense vs. Bahia",
       "fecha": "2026-08-16 11:00:00",
       "competencia": "Brasileirão",
@@ -271,7 +223,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 7,
       "evento": "Primera División: Progreso vs. Deportivo Maldonado",
       "fecha": "2026-08-16 11:00:00",
       "competencia": "Primera División Uruguay",
@@ -293,7 +245,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 8,
       "evento": "Amistoso: Basel vs. Barcelona",
       "fecha": "2026-08-16 11:30:00",
       "competencia": "Fútbol Amistoso",
@@ -319,7 +271,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 9,
       "evento": "Primeira Liga: Nacional vs. Estoril",
       "fecha": "2026-08-16 11:30:00",
       "competencia": "Primeira Liga",
@@ -337,7 +289,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 10,
       "evento": "Eredivisie: Ajax vs. Heerenveen",
       "fecha": "2026-08-16 11:45:00",
       "competencia": "Eredivisie",
@@ -364,12 +316,21 @@
       ]
     },
     {
-      "id": 17,
+      "id": 11,
       "evento": "Amistoso: Newcastle United vs. Strasbourg",
       "fecha": "2026-08-16 12:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
+            }
+          ]
+        },
         {
           "name": "ESPN 5",
           "options": [
@@ -402,7 +363,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 12,
       "evento": "Amistoso: Schalke 04 vs. Real Madrid",
       "fecha": "2026-08-16 12:00:00",
       "competencia": "Fútbol Amistoso",
@@ -479,7 +440,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 13,
       "evento": "LaLiga: Racing Santander vs. Villarreal",
       "fecha": "2026-08-16 12:00:00",
       "competencia": "LaLiga",
@@ -539,7 +500,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 14,
       "evento": "Championship: Burnley vs. West Ham United",
       "fecha": "2026-08-16 12:00:00",
       "competencia": "EFL Cup",
@@ -566,7 +527,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 15,
       "evento": "Liga 1: Sporting Cristal vs. Sport Huancayo",
       "fecha": "2026-08-16 13:00:00",
       "competencia": "Liga 1 (Perú)",
@@ -584,7 +545,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 16,
       "evento": "Copa de Italia: Genoa vs. Ascoli",
       "fecha": "2026-08-16 13:30:00",
       "competencia": "Serie A",
@@ -602,7 +563,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 17,
       "evento": "Primera División: Ñublense vs. Unión La Calera",
       "fecha": "2026-08-16 13:30:00",
       "competencia": "Primera División Chile",
@@ -620,7 +581,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 18,
       "evento": "Amistoso: Liverpool vs. Como",
       "fecha": "2026-08-16 14:00:00",
       "competencia": "Fútbol Amistoso",
@@ -679,9 +640,189 @@
       ]
     },
     {
-      "id": 25,
+      "id": 19,
+      "evento": "LaLiga: Espanyol vs. Levante",
+      "fecha": "2026-08-16 14:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "canales": []
+    },
+    {
+      "id": 20,
       "evento": "Liga Profesional: Sarmiento vs. Huracán",
       "fecha": "2026-08-16 15:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "TNT Sports Premium",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/tntsportarg.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/75"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "Primera División: Defensor Sporting vs. Liverpool",
+      "fecha": "2026-08-16 15:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": []
+    },
+    {
+      "id": 22,
+      "evento": "Liga MX: Pumas UNAM vs. Querétaro",
+      "fecha": "2026-08-16 15:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": []
+    },
+    {
+      "id": 23,
+      "evento": "Liga 1: Deportivo Moquegua vs. Sport Boys",
+      "fecha": "2026-08-16 15:15:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "L1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "evento": "Super Lig: Beşiktaş vs. Eyüpspor",
+      "fecha": "2026-08-16 15:30:00",
+      "competencia": "Süper Lig (Turquía)",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 25,
+      "evento": "Trophée des Champions: Lens vs. PSG",
+      "fecha": "2026-08-16 15:45:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "canales": []
+    },
+    {
+      "id": 26,
+      "evento": "Copa de Italia: Verona vs. Virtus Entella",
+      "fecha": "2026-08-16 15:45:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "canales": []
+    },
+    {
+      "id": 27,
+      "evento": "Primera División: Sportivo Luqueño vs. Libertad",
+      "fecha": "2026-08-16 16:00:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": []
+    },
+    {
+      "id": 28,
+      "evento": "Brasileirão: Atlético Mineiro vs. Grêmio",
+      "fecha": "2026-08-16 16:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": []
+    },
+    {
+      "id": 29,
+      "evento": "Brasileirão: Vasco da Gama vs. Santos",
+      "fecha": "2026-08-16 16:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": []
+    },
+    {
+      "id": 30,
+      "evento": "Primera División: Cobresal vs. Deportes Concepción",
+      "fecha": "2026-08-16 16:00:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports Premium Chile",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "evento": "Copa de Italia: Lazio vs. Mantova",
+      "fecha": "2026-08-16 16:15:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "canales": []
+    },
+    {
+      "id": 32,
+      "evento": "Copa de Italia: Frosinone vs Juve Stabia",
+      "fecha": "2026-08-16 17:00:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "canales": []
+    },
+    {
+      "id": 33,
+      "evento": "Liga 1: FC Cajamarca vs. Universitario",
+      "fecha": "2026-08-16 17:30:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "L1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "evento": "Liga Profesional: River Plate vs. Argentinos Juniors",
+      "fecha": "2026-08-16 18:00:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
@@ -717,23 +858,7 @@
       ]
     },
     {
-      "id": 26,
-      "evento": "Copa de Italia: Frosinone vs Juve Stabia",
-      "fecha": "2026-08-16 17:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": []
-    },
-    {
-      "id": 27,
-      "evento": "LaLiga: Espanyol vs Levante",
-      "fecha": "2026-08-16 18:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": []
-    },
-    {
-      "id": 28,
+      "id": 35,
       "evento": "Primeira Liga: Arouca vs Moreirense",
       "fecha": "2026-08-16 18:00:00",
       "competencia": "Primeira Liga",
@@ -741,71 +866,183 @@
       "canales": []
     },
     {
-      "id": 29,
-      "evento": "Primera División: Defensor Sporting vs Liverpool",
-      "fecha": "2026-08-16 19:00:00",
+      "id": 36,
+      "evento": "Primera División: Olimpia vs. Sportivo Ameliano",
+      "fecha": "2026-08-16 18:30:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": []
+    },
+    {
+      "id": 37,
+      "evento": "Brasileirão: Mirassol vs. Flamengo",
+      "fecha": "2026-08-16 18:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": []
+    },
+    {
+      "id": 38,
+      "evento": "Brasileirão: Vitória vs. Botafogo",
+      "fecha": "2026-08-16 18:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": []
+    },
+    {
+      "id": 39,
+      "evento": "Primera División: Peñarol vs. Central Español",
+      "fecha": "2026-08-16 18:30:00",
       "competencia": "Primera División Uruguay",
       "logoUrl": "https://bestleague.world/jr/56.png",
       "canales": []
     },
     {
-      "id": 30,
-      "evento": "Liga MX: Pumas UNAM vs Querétaro",
+      "id": 40,
+      "evento": "Primera División: Colo-Colo vs. O'Higgins",
+      "fecha": "2026-08-16 18:30:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports Premium Chile",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsportschile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "evento": "MLS: Chicago Fire vs. Portland Timbers",
       "fecha": "2026-08-16 19:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 42,
+      "evento": "MLS: New York City vs. Philadelphia Union",
+      "fecha": "2026-08-16 19:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 43,
+      "evento": "Brasileirão: Corinthians vs. Cruzeiro",
+      "fecha": "2026-08-16 19:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": []
+    },
+    {
+      "id": 44,
+      "evento": "Liga MX: América vs. Atlético San Luis",
+      "fecha": "2026-08-16 20:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
       "canales": []
     },
     {
-      "id": 31,
-      "evento": "Liga 1: Deportivo Moquegua vs Sport Boys",
-      "fecha": "2026-08-16 19:15:00",
+      "id": 45,
+      "evento": "Liga Profesional: Barracas Central vs. Rosario Central",
+      "fecha": "2026-08-16 20:15:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "TNT Sports Premium",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/tntsportarg.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/75"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "evento": "Liga Profesional: Central Córdoba SdE vs. Instituto",
+      "fecha": "2026-08-16 20:15:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espnpremarg.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/76"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "evento": "Liga 1: Cienciano vs. Deportivo Garcilaso",
+      "fecha": "2026-08-16 20:30:00",
       "competencia": "Liga 1 (Perú)",
       "logoUrl": "https://bestleague.world/jr/127.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "L1 MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 32,
-      "evento": "Trophée des Champions: Lens vs PSG",
-      "fecha": "2026-08-16 19:45:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "canales": []
-    },
-    {
-      "id": 33,
-      "evento": "Primera División: Cobresal vs Deportes Concepción",
-      "fecha": "2026-08-16 20:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": []
-    },
-    {
-      "id": 34,
-      "evento": "Brasileirão: Vasco da Gama vs Santos",
-      "fecha": "2026-08-16 20:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": []
-    },
-    {
-      "id": 35,
-      "evento": "Brasileirão: Atlético Mineiro vs Grêmio",
-      "fecha": "2026-08-16 20:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": []
-    },
-    {
-      "id": 36,
-      "evento": "Copa de Italia: Lazio vs Mantova",
-      "fecha": "2026-08-16 20:15:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": []
-    },
-    {
-      "id": 37,
+      "id": 48,
       "evento": "LaLiga: Celta de Vigo vs Osasuna",
       "fecha": "2026-08-16 20:30:00",
       "competencia": "LaLiga",
@@ -813,7 +1050,7 @@
       "canales": []
     },
     {
-      "id": 38,
+      "id": 49,
       "evento": "Primeira Liga: Sporting Braga vs Gil Vicente",
       "fecha": "2026-08-16 20:30:00",
       "competencia": "Primeira Liga",
@@ -821,7 +1058,7 @@
       "canales": []
     },
     {
-      "id": 39,
+      "id": 50,
       "evento": "Primeira Liga: Famalicão vs Marítimo",
       "fecha": "2026-08-16 20:30:00",
       "competencia": "Primeira Liga",
@@ -829,59 +1066,27 @@
       "canales": []
     },
     {
-      "id": 40,
-      "evento": "Liga 1: FC Cajamarca vs Universitario",
+      "id": 51,
+      "evento": "MLS: Austin vs. Dallas",
       "fecha": "2026-08-16 21:30:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": []
     },
     {
-      "id": 41,
-      "evento": "Liga Profesional: River Plate vs Argentinos Juniors",
-      "fecha": "2026-08-16 22:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "id": 52,
+      "evento": "Liga MX: Santos Laguna vs. Guadalajara",
+      "fecha": "2026-08-16 22:10:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
       "canales": []
     },
     {
-      "id": 42,
-      "evento": "Primera División: Colo-Colo vs O'Higgins",
-      "fecha": "2026-08-16 22:30:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": []
-    },
-    {
-      "id": 43,
-      "evento": "Primera División: Peñarol vs Central Español",
-      "fecha": "2026-08-16 22:30:00",
-      "competencia": "Primera División Uruguay",
-      "logoUrl": "https://bestleague.world/jr/56.png",
-      "canales": []
-    },
-    {
-      "id": 44,
-      "evento": "Brasileirão: Vitória vs Botafogo",
-      "fecha": "2026-08-16 22:30:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": []
-    },
-    {
-      "id": 45,
-      "evento": "Brasileirão: Mirassol vs Flamengo",
-      "fecha": "2026-08-16 22:30:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": []
-    },
-    {
-      "id": 46,
-      "evento": "Brasileirão: Corinthians vs Cruzeiro",
+      "id": 53,
+      "evento": "MLS: Seattle Sounders FC vs. Vancouver Whitecaps",
       "fecha": "2026-08-16 23:30:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": []
     }
   ],
