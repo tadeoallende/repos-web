@@ -1,27 +1,6 @@
 {
   "channels": [
-    {
-      "name": "A24",
-      "logo": "https://bestleague.world/img/a24.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05u/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
+    // ==================== NOTICIAS ====================
     {
       "name": "América TV",
       "logo": "https://bestleague.world/img/america.webp",
@@ -37,270 +16,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://190.128.214.97:64333/play/a01d/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "C5N",
-      "logo": "https://bestleague.world/img/c5n.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05v/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Canal 26",
-      "logo": "https://bestleague.world/img/canal26.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05x/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "CNN Español",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu7Vmb19p18xiBbI-njcgFnKuqPCXJfM5XA&s",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a03k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Crónica TV",
-      "logo": "https://bestleague.world/img/cronica.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a010/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "El Nueve",
-      "logo": "https://bestleague.world/img/nueve.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "El Trece",
-      "logo": "https://bestleague.world/img/eltrece.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a07b/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Eventos 1",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu3DnKA26pZam_crvfw71Ssq3Qxd5ERHxe7dU_abYfJN02bWYEXhSRGG3SS3ps8XVDSBsXF3yVeAkwVcwQWLJ_sxX8uDKzm3oaVXbgpeLqFP58fZ0p6we9XjGzjTyiZb5nJe9kr6qTfv94gsOLP4Vy8dvXCgCB8tQMbi1klPUXt0OYX7brRTX7T0_FvvY/s900/ChocoPop%20TV%20Eventos.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://181.119.177.253:8000/play/a0ds/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Eventos 2",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu3DnKA26pZam_crvfw71Ssq3Qxd5ERHxe7dU_abYfJN02bWYEXhSRGG3SS3ps8XVDSBsXF3yVeAkwVcwQWLJ_sxX8uDKzm3oaVXbgpeLqFP58fZ0p6we9XjGzjTyiZb5nJe9kr6qTfv94gsOLP4Vy8dvXCgCB8tQMbi1klPUXt0OYX7brRTX7T0_FvvY/s900/ChocoPop%20TV%20Eventos.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://190.61.41.181:8000/play/a0n5/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "LN+",
-      "logo": "https://bestleague.world/img/ln.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05y/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Rural",
-      "logo": "https://bestleague.world/img/rural.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a06k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Telefe",
-      "logo": "https://bestleague.world/img/telefe.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08a/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "TN",
-      "logo": "https://bestleague.world/img/tn.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a097/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -327,24 +42,18 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Canal RCN",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",
-      "category": "internacionales",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
+        },
         {
-          "name": "Reproductor 1",
-          "iframe": "http://181.119.177.253:8000/play/a037/index.m3u8",
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tvpublica.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-11.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -353,9 +62,9 @@
       ]
     },
     {
-      "name": "Caracol TV",
-      "logo": "https://bestleague.world/img/caracoltv.webp",
-      "category": "internacionales",
+      "name": "El Nueve",
+      "logo": "https://bestleague.world/img/nueve.webp",
+      "category": "noticias",
       "show": true,
       "streamUrl": null,
       "streamType": "hls",
@@ -366,7 +75,15 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a02w/index.m3u8",
+          "iframe": "http://138.59.227.20:8000/play/a08k/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-16.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -375,8 +92,464 @@
       ]
     },
     {
-      "name": "Cartoon Network",
-      "logo": "https://bestleague.world/img/cn.webp",
+      "name": "Telefe",
+      "logo": "https://bestleague.world/img/telefe.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a08a/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/telefe.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-10.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "El Trece",
+      "logo": "https://bestleague.world/img/eltrece.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a07b/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/eltrece.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "C5N",
+      "logo": "https://bestleague.world/img/c5n.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05v/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/c5n.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TN",
+      "logo": "https://bestleague.world/img/tn.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a097/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tn.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Crónica TV",
+      "logo": "https://bestleague.world/img/cronica.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.128.214.97:64333/play/a010/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/CronicaTv.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "A24",
+      "logo": "https://bestleague.world/img/a24.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05u/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/a24.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "LN+",
+      "logo": "https://bestleague.world/img/ln.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05y/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/lntv.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Canal 26",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL26.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05x/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "CNN Español",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.128.214.97:64333/play/a03k/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Canal A",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL_A.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-15.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "El Nueve",
+      "logo": "https://bestleague.world/img/nueve.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a08k/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-16.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Nueve Litoral",
+      "logo": "https://bestleague.world/img/nueve.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-18.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/nuevelitoral.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Somos Santa Fe",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/SOMOS_STAFE.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-12.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Santa Fe Canal",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/RTS_STAFE.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-13.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Rural",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL_RURAL.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a06k/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "AR 12",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/AR12.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-21.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Telemax",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TELEMAX.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/telemax.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+
+    // ==================== INTERNACIONALES ====================
+    {
+      "name": "TeleSur",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1280px-TeleSUR-Logo.svg.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -388,7 +561,29 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a01v/index.m3u8",
+          "iframe": "http://181.119.108.43:9001/play/a0n3/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TVE",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TVE.png",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a080/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -420,7 +615,7 @@
     },
     {
       "name": "Telemundo",
-      "logo": "https://bestleague.world/img/telemundo.png",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TELEMUNDO.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -441,8 +636,8 @@
       ]
     },
     {
-      "name": "TeleSur",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1280px-TeleSUR-Logo.svg.png",
+      "name": "Caracol TV",
+      "logo": "https://bestleague.world/img/caracoltv.webp",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -454,7 +649,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://181.119.108.43:9001/play/a0n3/index.m3u8",
+          "iframe": "http://45.5.151.147:8000/play/a02w/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -463,8 +658,8 @@
       ]
     },
     {
-      "name": "TVE",
-      "logo": "https://bestleague.world/img/tvees.png",
+      "name": "Canal RCN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -476,7 +671,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a080/index.m3u8",
+          "iframe": "http://181.119.177.253:8000/play/a037/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -484,6 +679,52 @@
         }
       ]
     },
+    {
+      "name": "RT",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/RT.png",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-98.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Las Estrellas",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/LAS_ESTRELLAS.png",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/lasestrellas.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+
+    // ==================== DEPORTES ====================
     {
       "name": "DSports",
       "logo": "https://bestleague.world/img/dsports.webp",
@@ -499,28 +740,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a0ft/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "DSports +",
-      "logo": "https://bestleague.world/img/dsportsplus.webp",
-      "category": "deportes",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://190.61.41.181:8000/play/a0r3/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -551,8 +770,8 @@
       ]
     },
     {
-      "name": "ESPN",
-      "logo": "https://bestleague.world/img/espn.webp",
+      "name": "DSports +",
+      "logo": "https://bestleague.world/img/dsportsplus.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -564,7 +783,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a099/index.m3u8",
+          "iframe": "http://190.61.41.181:8000/play/a0r3/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -573,8 +792,8 @@
       ]
     },
     {
-      "name": "ESPN 2",
-      "logo": "https://bestleague.world/img/espn2.webp",
+      "name": "TyC Sports",
+      "logo": "https://bestleague.world/img/tyc.webp",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -586,52 +805,24 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a098/index.m3u8",
+          "iframe": "http://190.128.214.97:64333/play/a01l/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "ESPN 3",
-      "logo": "https://bestleague.world/img/espn3.webp",
-      "category": "deportes",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
+        },
         {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a09a/index.m3u8",
+          "name": "Reproductor 2",
+          "iframe": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "ESPN Premium",
-      "logo": "https://bestleague.world/img/espnpr.webp",
-      "category": "deportes",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
+        },
         {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a02i/index.m3u8",
-          "streamType": "hls",
+          "name": "Reproductor 3 (WebView)",
+          "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports",
+          "streamType": "iframe",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
@@ -727,6 +918,102 @@
       ]
     },
     {
+      "name": "ESPN",
+      "logo": "https://bestleague.world/img/espn.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a099/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "ESPN 2",
+      "logo": "https://bestleague.world/img/espn2.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a098/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "ESPN 3",
+      "logo": "https://bestleague.world/img/espn3.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a09a/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "ESPN Premium",
+      "logo": "https://bestleague.world/img/espnpr.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.128.214.97:64333/play/a02i/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2 (WebView)",
+          "iframe": "https://pcn.nebunexa.life/cvatt.html?get=RVNQTl9VWQ==",
+          "streamType": "iframe",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
       "name": "TNT Sports",
       "logo": "https://bestleague.world/img/tntar.svg",
       "category": "deportes",
@@ -745,12 +1032,20 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "https://tyg2mnl9.fubohd.com/tntsports/mono.m3u8?token=787fda1a9596315a07fb7a89732e96fca08259c9-21-1777769794-1777751794",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
     {
-      "name": "TyC Sports",
-      "logo": "https://bestleague.world/img/tyc.webp",
+      "name": "DeportTV",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DEPORTV.png",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -762,7 +1057,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a01l/index.m3u8",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/deportv.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -771,8 +1066,67 @@
       ]
     },
     {
-      "name": "AMC",
-      "logo": "https://bestleague.world/img/amc.webp",
+      "name": "TIGO Sports",
+      "logo": "",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": "http://200.12.41.194:8000/play/a09o/index.m3u8",
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": []
+    },
+    {
+      "name": "Win Sports",
+      "logo": "https://bestleague.world/img/win.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://217.26.190.76:8888/play/a06a/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Win Sports+",
+      "logo": "https://bestleague.world/img/winsports.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "https://cgxheq.fubohd.com/winsportsplus/mono.m3u8?token=9bd76a7c1f17dfb1ab8a4160d134d5369322a5ff-e8-1777494976-1777476976",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+
+    // ==================== PELICULAS ====================
+    {
+      "name": "Cinecanal",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CINECANAL.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -784,7 +1138,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a02k/index.m3u8",
+          "iframe": "http://190.128.214.97:64333/play/a03e/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -793,8 +1147,8 @@
       ]
     },
     {
-      "name": "AXN",
-      "logo": "https://bestleague.world/img/axn.webp",
+      "name": "Cinemax",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CINEMAX.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -806,7 +1160,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a09e/index.m3u8",
+          "iframe": "http://138.59.227.20:8000/play/a08r/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -837,8 +1191,8 @@
       ]
     },
     {
-      "name": "Cinecanal",
-      "logo": "https://bestleague.world/img/cinecanal.webp",
+      "name": "Space",
+      "logo": "https://bestleague.world/img/space.webp",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -850,95 +1204,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a03e/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Cinemax",
-      "logo": "https://bestleague.world/img/cinemax.webp",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08r/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "CM",
-      "logo": "https://bestleague.world/img/cm.webp",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a023/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Comedy Central",
-      "logo": "https://bestleague.world/img/comedy.webp",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a072/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Garage TV",
-      "logo": "https://bestleague.world/img/garagetv.webp",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00q/index.m3u8",
+          "iframe": "http://190.128.214.97:64333/play/a03f/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -965,6 +1231,228 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-102.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "HBO PLUS",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO+.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-109.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "HBO Family",
+      "logo": "https://bestleague.world/img/HBOFamily.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-101.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "HBO Signature",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_SIGNATURE.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-107.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "HBO XTREME",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_XTREME.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-103.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "HBO MUNDI",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_MUNDI.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-110.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "HBO POP",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_POP.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-108.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "HBO 2",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO2.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-105.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "AMC",
+      "logo": "https://bestleague.world/img/amc.webp",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.128.214.97:64333/play/a02k/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-76.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "AXN",
+      "logo": "https://bestleague.world/img/axn.webp",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a09e/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-77.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
@@ -987,68 +1475,10 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Space",
-      "logo": "https://bestleague.world/img/space.webp",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
+        },
         {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a03f/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Star Channel",
-      "logo": "https://bestleague.world/img/star.webp",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a03g/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Studio Universal",
-      "logo": "https://bestleague.world/img/studio.webp",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a067/index.m3u8",
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-70.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1075,12 +1505,212 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-66.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TNT Series",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TNT_SERIES.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-64.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TNT Novelas",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TNT_NOVELAS.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-65.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Star Channel",
+      "logo": "https://bestleague.world/img/star.webp",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.128.214.97:64333/play/a03g/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-68.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Studio Universal",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/STUDIO_UNIVERSAL.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a067/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-67.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Universal Channel",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/UNsIVERSAL_TV.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-75.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Film & Arts",
+      "logo": "https://bestleague.world/img/FilmyArts.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-FilmyArt.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Paramount",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/PARAMOUNT.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-72.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Warner Channel",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/WARNER.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-73.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
     {
       "name": "Volver",
-      "logo": "https://bestleague.world/img/volver.webp",
+      "logo": "https://bestleague.world/img/VOLVER.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1097,13 +1727,21 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-74.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
     {
-      "name": "E!",
-      "logo": "https://bestleague.world/img/e.webp",
-      "category": "estilo-vida",
+      "name": "FX",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/FX.png",
+      "category": "peliculas",
       "show": true,
       "streamUrl": null,
       "streamType": "hls",
@@ -1114,7 +1752,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08z/index.m3u8",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-78.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1123,8 +1761,246 @@
       ]
     },
     {
+      "name": "TCM",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TCM.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-79.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Bravo",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/BRAVO.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-80.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "A&E",
+      "logo": "https://bestleague.world/img/AyE.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-71.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Comedy Central",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/COMEDY%20CENTRAL.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a072/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-60.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Lifetime",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/LIFESTIME.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/Lifetime.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Multivisión",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/MULTIVISION.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/Multivision.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "CanalNet",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/NET_TV.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/CanalNet.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "GarageTV",
+      "logo": "https://bestleague.world/img/garagetv.webp",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://45.5.151.147:8000/play/a00q/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-24.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Rapido Y Furiosos: Reto Tokyo",
+      "logo": "https://image.tmdb.org/t/p/w400/psOUuExCGCaPxZhmqtqIE6lVVr6.jpg",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "https://p3.vimeos.zip/hls2/03/00000/lfbbc12hjljj_,n,h,.urlset/master.m3u8?t=Edlya0HANam1075Jpn7XLN8eusowFc_a7iTUT81yA8Y&s=1777772189&e=43200&v=202938587&srv=s10&i=0.0&sp=0&r=e",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Volver Al Futuro 2",
+      "logo": "https://image.tmdb.org/t/p/w400/c7vYpsBMKZ3AwhBlc7wwGGMPlRA.jpg",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "https://p3.vimeos.zip/hls2/03/00009/293w40w9oa7b_,n,h,.urlset/master.m3u8?t=LT8WYK0QqNA4G1lP4Hs7G1-vMVfhTFDJQJbQ7nGa6Vk&s=1777772286&e=43200&v=202942358&srv=s13&i=0.0&sp=0&fr=293w40w9oa7b&r=e",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+
+    // ==================== ESTILO DE VIDA ====================
+    {
       "name": "El Gourmet",
-      "logo": "https://bestleague.world/img/Group.svg",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EL_GOURMET.png",
       "category": "estilo-vida",
       "show": true,
       "streamUrl": null,
@@ -1141,12 +2017,50 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-25.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "E!",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/E_ENTERTAINMENT.png",
+      "category": "estilo-vida",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a08z/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-14.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
     {
       "name": "TLC",
-      "logo": "https://bestleague.world/img/tlc.webp",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TLC.png",
       "category": "estilo-vida",
       "show": true,
       "streamUrl": null,
@@ -1163,9 +2077,19 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tlc.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
+
+    // ==================== MUSICALES ====================
     {
       "name": "Ciudad Magazine",
       "logo": "https://bestleague.world/img/ciudad.webp",
@@ -1181,6 +2105,140 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a06m/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/ciudadmagazine.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "MTV",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/MTV.png",
+      "category": "musicales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a06r/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-50.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Quiero Música",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/QUIERO_MUSICA.png",
+      "category": "musicales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a06s/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-51.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Stingray Concerts",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/STINGRAY_CONCERTS.png",
+      "category": "musicales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-111.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Metro",
+      "logo": "https://bestleague.world/img/metro.png",
+      "category": "musicales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-53.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "KZO",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/KZO.png",
+      "category": "musicales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-52.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1211,8 +2269,8 @@
       ]
     },
     {
-      "name": "MTV",
-      "logo": "https://bestleague.world/img/mtv.webp",
+      "name": "CM",
+      "logo": "https://bestleague.world/img/cm.webp",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -1224,7 +2282,39 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a06r/index.m3u8",
+          "iframe": "http://45.5.151.147:8000/play/a023/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+
+    // ==================== INFANTILES ====================
+    {
+      "name": "Disney Channel",
+      "logo": "https://bestleague.world/img/disney.webp",
+      "category": "infantiles",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.128.214.97:64333/play/a02g/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-32.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1233,9 +2323,9 @@
       ]
     },
     {
-      "name": "Quiero Música",
-      "logo": "https://bestleague.world/img/quiero.webp",
-      "category": "musicales",
+      "name": "Cartoon Network",
+      "logo": "https://bestleague.world/img/cn.webp",
+      "category": "infantiles",
       "show": true,
       "streamUrl": null,
       "streamType": "hls",
@@ -1246,7 +2336,149 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a06s/index.m3u8",
+          "iframe": "http://190.128.214.97:64333/play/a01v/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-31.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Nickelodeon",
+      "logo": "https://bestleague.world/img/nick.png",
+      "category": "infantiles",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a08y/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-33.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Paka Paka",
+      "logo": "https://bestleague.world/img/pakapaka.png",
+      "category": "infantiles",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05t/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-36.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Discovery Kids",
+      "logo": "https://bestleague.world/img/diskids.webp",
+      "category": "infantiles",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.128.214.97:64333/play/a01h/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-34.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Disney Jr",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DISNEY_JR.png",
+      "category": "infantiles",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-35.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Cartoonito",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CARTOONITO.png",
+      "category": "infantiles",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-30.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1276,10 +2508,12 @@
         }
       ]
     },
+
+    // ==================== EDUCATIVOS ====================
     {
-      "name": "Discovery",
-      "logo": "https://bestleague.world/img/discovery.webp",
-      "category": "infantiles",
+      "name": "TECtv",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TEC.png",
+      "category": "educativos",
       "show": true,
       "streamUrl": null,
       "streamType": "hls",
@@ -1290,95 +2524,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a03a/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Discovery Kids",
-      "logo": "https://bestleague.world/img/diskids.webp",
-      "category": "infantiles",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a01h/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Disney Channel",
-      "logo": "https://bestleague.world/img/disney.webp",
-      "category": "infantiles",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://190.128.214.97:64333/play/a02g/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Nickelodeon",
-      "logo": "https://bestleague.world/img/nick.png",
-      "category": "infantiles",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08y/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Paka Paka",
-      "logo": "https://bestleague.world/img/pakapaka.png",
-      "category": "infantiles",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05t/index.m3u8",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tectv.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1405,6 +2551,164 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-19.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+
+    // ==================== DOCUMENTALES ====================
+    {
+      "name": "History",
+      "logo": "https://bestleague.world/img/history.webp",
+      "category": "documentales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://181.119.177.253:8000/play/a020/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-40.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "History 2",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HISTORY_2.png",
+      "category": "documentales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-41.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Discovery ID",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DISCOVERY_ID.png",
+      "category": "documentales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-42.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "H&H",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/H&H.png",
+      "category": "documentales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-43.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Discovery",
+      "logo": "https://bestleague.world/img/discovery.webp",
+      "category": "documentales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.128.214.97:64333/play/a03a/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-44.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Discovery Turbo",
+      "logo": "https://bestleague.world/img/DiscoveryTurbo.png",
+      "category": "documentales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-99.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
@@ -1427,12 +2731,20 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-45.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
     {
-      "name": "History",
-      "logo": "https://bestleague.world/img/history.webp",
+      "name": "National Geographic",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/NATGEO.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -1444,7 +2756,273 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://181.119.177.253:8000/play/a020/index.m3u8",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-46.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+
+    // ==================== EVENTOS ====================
+    {
+      "name": "Evento 1",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu3DnKA26pZam_crvfw71Ssq3Qxd5ERHxe7dU_abYfJN02bWYEXhSRGG3SS3ps8XVDSBsXF3yVeAkwVcwQWLJ_sxX8uDKzm3oaVXbgpeLqFP58fZ0p6we9XjGzjTyiZb5nJe9kr6qTfv94gsOLP4Vy8dvXCgCB8tQMbi1klPUXt0OYX7brRTX7T0_FvvY/s900/ChocoPop%20TV%20Eventos.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://181.119.177.253:8000/play/a0ds/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 2",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu3DnKA26pZam_crvfw71Ssq3Qxd5ERHxe7dU_abYfJN02bWYEXhSRGG3SS3ps8XVDSBsXF3yVeAkwVcwQWLJ_sxX8uDKzm3oaVXbgpeLqFP58fZ0p6we9XjGzjTyiZb5nJe9kr6qTfv94gsOLP4Vy8dvXCgCB8tQMbi1klPUXt0OYX7brRTX7T0_FvvY/s900/ChocoPop%20TV%20Eventos.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.61.41.181:8000/play/a0n5/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 3",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS3.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://181.119.177.253:8000/play/a00t/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 4",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS4.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-04.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 5",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS5.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-05.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 6",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS6.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-06.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 7",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS7.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e07.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 8",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS8.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e08.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 9",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS9.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e09.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 10",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS10.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e10.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 11",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS11.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e11.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Evento 12",
+      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS12.png",
+      "category": "eventos",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-e12.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
