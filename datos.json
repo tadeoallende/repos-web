@@ -6,7 +6,17 @@
       "fecha": "2026-08-19 02:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney10"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 2,
@@ -14,25 +24,52 @@
       "fecha": "2026-08-19 02:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
-    },
-    {
-      "id": 3,
-      "evento": "Amistoso: Barcelona vs. Al Ahly",
-      "fecha": "2026-08-19 15:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
-          "name": "Eventos",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=eventos2"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney11"
             },
             {
               "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=eventos2"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Liga BetPlay: Cúcuta Deportivo vs. Inter Bogotá",
+      "fecha": "2026-08-19 20:00:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=winplus"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Win+ Fútbol",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus2"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/81"
             }
           ]
         }
@@ -40,10 +77,171 @@
     },
     {
       "id": 4,
-      "evento": "LaLiga: Atlético Madrid vs. Málaga",
-      "fecha": "2026-08-19 16:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "evento": "MLS: DC United vs. New England",
+      "fecha": "2026-08-19 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls4es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "MLS: Cincinnati vs. New York City",
+      "fecha": "2026-08-19 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls5es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "MLS: New York RB vs. Nashville SC",
+      "fecha": "2026-08-19 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls6es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "MLS: Orlando City SC vs. Chicago Fire",
+      "fecha": "2026-08-19 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls3es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "MLS: Philadelphia Union vs. Inter Miami",
+      "fecha": "2026-08-19 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS Season Pass",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls1es"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=mls1"
+            },
+            {
+              "name": "Opción 3 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=mls1es"
+            }
+          ]
+        },
+        {
+          "name": "MLS 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=appletv1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "MLS: Toronto FC vs. Charlotte",
+      "fecha": "2026-08-19 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls7es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "MLS: Columbus Crew vs. CF Montréal",
+      "fecha": "2026-08-19 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls2es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "MLS: Sporting KC vs. St. Louis City",
+      "fecha": "2026-08-19 21:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls8es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "Copa Sudamericana: Torque vs. Tigre",
+      "fecha": "2026-08-19 21:30:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
       "canales": [
         {
           "name": "DirecTV Sports (Recomendado)",
@@ -55,65 +253,244 @@
           ]
         },
         {
-          "name": "ESPN+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espnplus1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus1"
-            }
-          ]
-        },
-        {
           "name": "DirecTV Sports",
           "options": [
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz9"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz9"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/directvarg.php"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/94"
             }
           ]
         }
       ]
     },
     {
-      "id": 5,
-      "evento": "UEFA Champions League (Playoffs-Ida): Slovan Bratislava vs. Celje",
-      "fecha": "2026-08-19 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": []
+      "id": 13,
+      "evento": "Copa Sudamericana: Santa Fe vs. River Plate",
+      "fecha": "2026-08-19 21:30:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "canales": [
+        {
+          "name": "ESPN AR",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz8"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz8"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney9"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney9"
+            },
+            {
+              "name": "Opción 3 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "ESPN PE",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=espnpe"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamx-hd.com/live1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 1",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn1arg.php"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/87"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 6,
-      "evento": "UEFA Champions League (Playoffs-Ida): NEC vs. Bodø / Glimt",
-      "fecha": "2026-08-19 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": []
+      "id": 14,
+      "evento": "Copa Libertadores: Flamengo vs. Cruzeiro",
+      "fecha": "2026-08-19 21:30:00",
+      "competencia": "Copa Libertadores",
+      "logoUrl": "https://bestleague.world/jr/76.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=espn2"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz7"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney8"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney8"
+            },
+            {
+              "name": "Opción 3 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney7"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 7,
-      "evento": "UEFA Champions League (Playoffs-Ida): Hapoel Be'er Sheva vs. Sabah",
-      "fecha": "2026-08-19 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": []
+      "id": 15,
+      "evento": "MLS: Minnesota United vs. Atlanta United",
+      "fecha": "2026-08-19 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls9es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 8,
-      "evento": "UEFA Champions League (Playoffs-Ida): Celtic vs. LASK Linz",
-      "fecha": "2026-08-19 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": []
-    },
-    {
-      "id": 9,
-      "evento": "Liga BetPlay: Rionegro Águilas vs. Llaneros",
-      "fecha": "2026-08-19 18:00:00",
+      "id": 16,
+      "evento": "Liga BetPlay: Rionegro Águilas vs Llaneros",
+      "fecha": "2026-08-19 22:00:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
@@ -133,49 +510,63 @@
       ]
     },
     {
-      "id": 10,
-      "evento": "Copa Sudamericana: Atlético Mineiro vs. RB Bragantino",
-      "fecha": "2026-08-19 19:00:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "id": 17,
+      "evento": "MLS: Seattle Sounders FC vs. Austin",
+      "fecha": "2026-08-19 22:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": [
         {
-          "name": "Disney+",
+          "name": "MLS",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney7"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz4"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls12"
             }
           ]
         }
       ]
     },
     {
-      "id": 11,
-      "evento": "Copa Libertadores: Cerro Porteño vs. Palmeiras",
-      "fecha": "2026-08-19 19:00:00",
+      "id": 18,
+      "evento": "MLS: Real Salt Lake vs. Dallas",
+      "fecha": "2026-08-19 22:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls11es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "MLS: Colorado Rapids vs. Los Angeles FC",
+      "fecha": "2026-08-19 22:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS Season Pass",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls10es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "Copa Libertadores: Cerro Porteño vs Palmeiras",
+      "fecha": "2026-08-19 23:00:00",
       "competencia": "Copa Libertadores",
       "logoUrl": "https://bestleague.world/jr/76.png",
       "canales": [
@@ -222,9 +613,9 @@
       ]
     },
     {
-      "id": 12,
-      "evento": "Copa Libertadores: Coquimbo Unido vs. Platense",
-      "fecha": "2026-08-19 19:00:00",
+      "id": 21,
+      "evento": "Copa Libertadores: Coquimbo Unido vs Platense",
+      "fecha": "2026-08-19 23:00:00",
       "competencia": "Copa Libertadores",
       "logoUrl": "https://bestleague.world/jr/76.png",
       "canales": [
@@ -271,9 +662,49 @@
       ]
     },
     {
-      "id": 13,
-      "evento": "Copa Argentina: Racing Club vs. Belgrano",
-      "fecha": "2026-08-19 19:15:00",
+      "id": 22,
+      "evento": "Copa Sudamericana: Atlético Mineiro vs RB Bragantino",
+      "fecha": "2026-08-19 23:00:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney7"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "Copa Argentina: Racing Club vs Belgrano",
+      "fecha": "2026-08-19 23:15:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
@@ -306,330 +737,58 @@
       ]
     },
     {
-      "id": 14,
-      "evento": "Liga BetPlay: Cúcuta Deportivo vs. Inter Bogotá",
-      "fecha": "2026-08-19 20:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": [
-        {
-          "name": "Win Sports+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=winplus"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "evento": "UEFA Champions League: Celtic vs LASK Linz",
-      "fecha": "2026-08-19 20:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney1"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=foxone1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone1"
-            }
-          ]
-        },
-        {
-          "name": "ESPN PE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espnpe"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpe"
-            }
-          ]
-        },
-        {
-          "name": "TUDN US",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "evento": "UEFA Champions League: NEC vs Bodø / Glimt",
-      "fecha": "2026-08-19 20:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=foxone2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "evento": "UEFA Champions League: Hapoel Be'er Sheva vs Sabah",
-      "fecha": "2026-08-19 20:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney3"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=foxone3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "evento": "UEFA Champions League: Slovan Bratislava vs Celje",
-      "fecha": "2026-08-19 20:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney4"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=foxone4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "evento": "MLS: DC United vs. New England",
-      "fecha": "2026-08-19 20:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 20,
-      "evento": "MLS: Cincinnati vs. New York City",
-      "fecha": "2026-08-19 20:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 21,
-      "evento": "MLS: New York RB vs. Nashville SC",
-      "fecha": "2026-08-19 20:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 22,
-      "evento": "MLS: Orlando City SC vs. Chicago Fire",
-      "fecha": "2026-08-19 20:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 23,
-      "evento": "MLS: Philadelphia Union vs. Inter Miami",
-      "fecha": "2026-08-19 20:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": [
-        {
-          "name": "MLS Season Pass",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls1es"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=mls1"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 24,
-      "evento": "MLS: Toronto FC vs. Charlotte",
-      "fecha": "2026-08-19 20:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 25,
-      "evento": "MLS: Columbus Crew vs. CF Montréal",
-      "fecha": "2026-08-19 20:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 26,
-      "evento": "MLS: Sporting KC vs. St. Louis City",
-      "fecha": "2026-08-19 21:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 27,
-      "evento": "Copa Sudamericana: Torque vs. Tigre",
-      "fecha": "2026-08-19 21:30:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
-      "canales": []
-    },
-    {
-      "id": 28,
-      "evento": "Copa Sudamericana: Santa Fe vs. River Plate",
-      "fecha": "2026-08-19 21:30:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
-      "canales": []
-    },
-    {
-      "id": 29,
-      "evento": "Copa Libertadores: Flamengo vs. Cruzeiro",
-      "fecha": "2026-08-19 21:30:00",
-      "competencia": "Copa Libertadores",
-      "logoUrl": "https://bestleague.world/jr/76.png",
-      "canales": []
-    },
-    {
-      "id": 30,
-      "evento": "MLS: Minnesota United vs. Atlanta United",
-      "fecha": "2026-08-19 21:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 31,
-      "evento": "MLS: Seattle Sounders FC vs. Austin",
-      "fecha": "2026-08-19 22:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 32,
-      "evento": "MLS: Real Salt Lake vs. Dallas",
-      "fecha": "2026-08-19 22:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 33,
-      "evento": "MLS: Colorado Rapids vs. Los Angeles FC",
-      "fecha": "2026-08-19 22:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 34,
       "evento": "MLS: LA Galaxy vs. SJ Earthquakes",
       "fecha": "2026-08-19 23:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls13"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 35,
+      "id": 25,
       "evento": "MLS: Portland Timbers vs. San Diego",
       "fecha": "2026-08-19 23:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls14"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 36,
+      "id": 26,
       "evento": "MLS: Vancouver Whitecaps vs. Houston Dynamo",
       "fecha": "2026-08-19 23:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls15"
+            }
+          ]
+        }
+      ]
     }
   ],
   "channels": [
