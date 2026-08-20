@@ -156,6 +156,30 @@
             {
               "name": "Opción 2 (720p)",
               "iframe": "https://streamx488.sbs/global1.php?channel=espn2pe"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn2arg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 7 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/88"
+            },
+            {
+              "name": "Opción 8 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         },
@@ -165,6 +189,19 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2 AR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2argentina"
             }
           ]
         }
@@ -200,6 +237,26 @@
             {
               "name": "Opción 2 (720p)",
               "iframe": "https://streamx488.sbs/global1.php?channel=espn4"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/90"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
             }
           ]
         },
@@ -209,6 +266,10 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz2"
             }
           ]
         }
@@ -271,6 +332,47 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=fox2ar"
+            },
+            {
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRzMkhE"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports2"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 1",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTl9VWQ=="
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/87"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
             }
           ]
         }
@@ -344,6 +446,31 @@
               "iframe": "https://latamplay1.click/channel/dsports.html"
             }
           ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/directvarg.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/94"
+            }
+          ]
         }
       ]
     },
@@ -382,6 +509,10 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz4"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz4"
             }
           ]
         },
@@ -395,6 +526,22 @@
             {
               "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
             }
           ]
         },
@@ -404,6 +551,72 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamx488.sbs/global1.php?channel=espnpe"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 1",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTl9VWQ=="
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/87"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
+            }
+          ]
+        },
+        {
+          "name": "Telefe",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=VGVsZWZlSEQ="
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://bestleague.life/thl.html"
+            },
+            {
+              "name": "Opción 3 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VGVsZWZlSEQ="
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Q2FuYWxfOF9DQkE"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Q2FuYWxfOF9UdWN1bWFu"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Q2FuYWxfNV9Sb3Nhcmlv"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=VGVsZWZlX1NhbHRh"
+            },
+            {
+              "name": "Opción 8",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=VGVsZWZlX05ldXF1ZW4="
             }
           ]
         }
