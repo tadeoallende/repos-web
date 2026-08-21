@@ -58,6 +58,139 @@
     },
     {
       "id": 8,
+      "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "DAZN F1 ES",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bolaloca.my/player/3/60"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1 ES (op2)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://dlhd.st/watch/stream-537.php"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1 ES (op3)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=daznf1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney5"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports 1 (Relato)",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | On Board Colapinto",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | On Board Norris",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | Cámara On Board",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
       "evento": "F1 | GP de Países Bajos: Entrenamientos #1",
       "fecha": "2026-08-21 11:30:00",
       "competencia": "Fórmula 1",
@@ -84,7 +217,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 13,
       "evento": "F1 | GP de Países Bajos: Clasificación Sprint",
       "fecha": "2026-08-21 15:30:00",
       "competencia": "Fórmula 1",
@@ -115,7 +248,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 14,
       "evento": "Liga Profesional Saudí: Al Riyadh vs Al Nassr",
       "fecha": "2026-08-21 17:00:00",
       "competencia": "Liga Saudí",
@@ -151,7 +284,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 15,
       "evento": "Liga 1: FC Cajamarca vs Atlético Grau",
       "fecha": "2026-08-21 18:00:00",
       "competencia": "Liga 1 (Perú)",
@@ -173,7 +306,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 16,
       "evento": "Liga Profesional: Aldosivi vs Unión Santa Fe",
       "fecha": "2026-08-21 18:30:00",
       "competencia": "Liga Profesional Argentina",
@@ -195,7 +328,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 17,
       "evento": "Liga Profesional Saudí: Al Quadisiya vs Al Ittihad",
       "fecha": "2026-08-21 19:00:00",
       "competencia": "Liga Saudí",
@@ -226,7 +359,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 18,
       "evento": "Ligue 1: Olympique Marseille vs Strasbourg",
       "fecha": "2026-08-21 19:45:00",
       "competencia": "Ligue 1",
@@ -266,7 +399,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 19,
       "evento": "Premier League: Arsenal vs Coventry City",
       "fecha": "2026-08-21 20:00:00",
       "competencia": "EFL Cup",
@@ -274,7 +407,7 @@
       "canales": []
     },
     {
-      "id": 16,
+      "id": 20,
       "evento": "LaLiga: Real Betis vs Real Sociedad",
       "fecha": "2026-08-21 20:00:00",
       "competencia": "LaLiga",
@@ -282,7 +415,7 @@
       "canales": []
     },
     {
-      "id": 17,
+      "id": 21,
       "evento": "Primera División: Albion vs Boston River",
       "fecha": "2026-08-21 20:00:00",
       "competencia": "Primera División Uruguay",
@@ -290,7 +423,7 @@
       "canales": []
     },
     {
-      "id": 18,
+      "id": 22,
       "evento": "Liga 1: Alianza Atlético vs Sporting Cristal",
       "fecha": "2026-08-21 21:00:00",
       "competencia": "Liga 1 (Perú)",
@@ -298,7 +431,7 @@
       "canales": []
     },
     {
-      "id": 19,
+      "id": 23,
       "evento": "Liga BetPlay: Jaguares de Córdoba vs Boyacá Chicó",
       "fecha": "2026-08-21 22:05:00",
       "competencia": "Liga BetPlay",
@@ -306,7 +439,7 @@
       "canales": []
     },
     {
-      "id": 20,
+      "id": 24,
       "evento": "Primera División: Liverpool vs Cerro",
       "fecha": "2026-08-21 23:00:00",
       "competencia": "Primera División Uruguay",
