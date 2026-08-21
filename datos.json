@@ -2,21 +2,78 @@
   "events": [
     {
       "id": 1,
-      "evento": "Copa Centroamericana de CONCACAF: Alianza vs Olimpia",
-      "fecha": "2026-08-20 02:00:00",
-      "competencia": "Fútbol Amistoso",
+      "evento": "Fórmula 1: GP Países Bajos - Prácticas Libres #1",
+      "fecha": "2026-08-21 07:30:00",
+      "competencia": "Fórmula 1",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
+        {
+          "name": "DAZN F1 ES",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bolaloca.my/player/3/60"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1 ES (op2)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://dlhd.st/watch/stream-537.php"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1 ES (op3)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=daznf1"
+            }
+          ]
+        },
         {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports 1 (Relato)",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
             },
             {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney6"
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
             }
           ]
         }
@@ -24,21 +81,17 @@
     },
     {
       "id": 2,
-      "evento": "Copa Centroamericana de CONCACAF: Firpo vs Alajuelense",
-      "fecha": "2026-08-20 04:00:00",
-      "competencia": "Fútbol Amistoso",
+      "evento": "Fórmula 1: GP Países Bajos - Prácticas Libres #1 | On Board Colapinto",
+      "fecha": "2026-08-21 07:30:00",
+      "competencia": "Fórmula 1",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney7"
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney3"
             }
           ]
         }
@@ -46,80 +99,17 @@
     },
     {
       "id": 3,
-      "evento": "Copa Sudamericana: Olimpia vs. Vasco da Gama",
-      "fecha": "2026-08-20 19:00:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "evento": "Fórmula 1: GP Países Bajos - Prácticas Libres #1 | On Board Norris",
+      "fecha": "2026-08-21 07:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney4"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espn2pe"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn2arg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/88"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz3"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz3"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2 AR",
-          "options": [
-            {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2argentina"
+              "iframe": "https://streamxhd.com/live1.php?stream=disney4"
             }
           ]
         }
@@ -127,67 +117,17 @@
     },
     {
       "id": 4,
-      "evento": "Copa Sudamericana: Macará vs. Santos",
-      "fecha": "2026-08-20 19:00:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "evento": "Fórmula 1: GP Países Bajos - Prácticas Libres #1 | Cámara On Board",
+      "fecha": "2026-08-21 07:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney3"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espn4"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/90"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz2"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz2"
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney2"
             }
           ]
         }
@@ -195,106 +135,78 @@
     },
     {
       "id": 5,
-      "evento": "Copa Libertadores: LDU Quito vs. Mirassol",
-      "fecha": "2026-08-20 19:00:00",
-      "competencia": "Copa Libertadores",
-      "logoUrl": "https://bestleague.world/jr/76.png",
+      "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
+        {
+          "name": "DAZN F1 ES",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bolaloca.my/player/3/60"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1 ES (op2)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://dlhd.st/watch/stream-537.php"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1 ES (op3)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=daznf1"
+            }
+          ]
+        },
         {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
+              "name": "Opción 1",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney2"
             }
           ]
         },
         {
-          "name": "Fanatiz",
+          "name": "Disney+ 2",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz1"
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney5"
             }
           ]
         },
         {
-          "name": "ESPN AR",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1argentina"
-            }
-          ]
-        },
-        {
-          "name": "ESPN PE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espnpe"
-            }
-          ]
-        },
-        {
-          "name": "Fox Sports 2",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox2ar"
-            },
-            {
-              "name": "Opción 2 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRzMkhE"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports2"
-            },
-            {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzMkhE"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 1",
+          "name": "FOX Sports 1 (Relato)",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTl9VWQ=="
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
             },
             {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/87"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
             }
           ]
         }
@@ -302,30 +214,17 @@
     },
     {
       "id": 6,
-      "evento": "Liga Profesional Saudí: Al-Fayha vs Al Hilal",
-      "fecha": "2026-08-20 19:00:00",
-      "competencia": "Liga Saudí",
+      "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | On Board Colapinto",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
-          "name": "Fox Deportes",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox_deportes_usa"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=foxdeportes"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=foxone1"
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney7"
             }
           ]
         }
@@ -333,61 +232,17 @@
     },
     {
       "id": 7,
-      "evento": "LaLiga: Rayo Vallecano vs Deportivo Alavés",
-      "fecha": "2026-08-20 20:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | On Board Norris",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney1"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
-            }
-          ]
-        },
-        {
-          "name": "ESPN+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espnplus1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus1"
-            }
-          ]
-        },
-        {
-          "name": "ESPN Deportes",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espndeportes"
-            }
-          ]
-        },
-        {
-          "name": "Premier Sports 1 UK",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=premier1uk"
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney8"
             }
           ]
         }
@@ -395,64 +250,17 @@
     },
     {
       "id": 8,
-      "evento": "Copa Sudamericana: Botafogo vs. Cienciano",
-      "fecha": "2026-08-20 21:30:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | Cámara On Board",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
-          "name": "DirecTV Sports",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz5"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz5"
-            }
-          ]
-        },
-        {
-          "name": "DirecTV Sports (Recomendado)",
-          "options": [
-            {
-              "name": "Opción 1 (1080p)",
-              "iframe": "https://latamplay1.click/channel/dsports.html"
-            }
-          ]
-        },
-        {
-          "name": "DSports",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/directvarg.php"
-            },
-            {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/94"
+              "iframe": "https://streamxhd.com/live1.php?stream=disney6"
             }
           ]
         }
@@ -460,151 +268,53 @@
     },
     {
       "id": 9,
-      "evento": "Copa Libertadores: Corinthians vs. Rosario Central",
-      "fecha": "2026-08-20 21:30:00",
-      "competencia": "Copa Libertadores",
-      "logoUrl": "https://bestleague.world/jr/76.png",
+      "evento": "F1 | GP de Países Bajos: Entrenamientos #1",
+      "fecha": "2026-08-21 11:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            }
-          ]
-        },
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney5"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney8"
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney1"
             }
           ]
         },
         {
-          "name": "Fanatiz",
+          "name": "DAZN F1",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=fanatiz4"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz4"
+              "iframe": "https://streamx488.sbs/global1.php?channel=daznf1"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "F1 | GP de Países Bajos: Clasificación Sprint",
+      "fecha": "2026-08-21 15:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
         {
-          "name": "Fox Sports 1",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=fox1ar"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney2"
             }
           ]
         },
         {
-          "name": "ESPN PE",
+          "name": "DAZN F1",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espnpe"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 1",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTl9VWQ=="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/87"
-            },
-            {
-              "name": "Opción 5 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
-            }
-          ]
-        },
-        {
-          "name": "Telefe",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=VGVsZWZlSEQ="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://bestleague.life/thl.html"
-            },
-            {
-              "name": "Opción 3 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VGVsZWZlSEQ="
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=Q2FuYWxfOF9DQkE"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=Q2FuYWxfOF9UdWN1bWFu"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=Q2FuYWxfNV9Sb3Nhcmlv"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=VGVsZWZlX1NhbHRh"
-            },
-            {
-              "name": "Opción 8",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=VGVsZWZlX05ldXF1ZW4="
+              "iframe": "https://streamx488.sbs/global1.php?channel=daznf1"
             }
           ]
         }
