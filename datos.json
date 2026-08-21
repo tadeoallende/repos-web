@@ -1,7 +1,196 @@
 {
   "events": [
     {
+      "id": 1,
+      "evento": "Liga Profesional: Estudiantes Río Cuarto vs San Lorenzo",
+      "fecha": "2026-08-21 00:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": []
+    },
+    {
+      "id": 2,
+      "evento": "Primera División: Audax Italiano vs Unión La Calera",
+      "fecha": "2026-08-21 01:30:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": []
+    },
+    {
+      "id": 3,
+      "evento": "Liga BetPlay: Alianza vs Deportivo Pereira",
+      "fecha": "2026-08-21 01:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": []
+    },
+    {
+      "id": 4,
+      "evento": "Liga MX: Tigres UANL vs Atlante",
+      "fecha": "2026-08-21 02:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": []
+    },
+    {
       "id": 5,
+      "evento": "Liga MX: León vs Monterrey",
+      "fecha": "2026-08-21 02:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": []
+    },
+    {
+      "id": 6,
+      "evento": "Liga MX: Juárez vs América",
+      "fecha": "2026-08-21 04:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": []
+    },
+    {
+      "id": 7,
+      "evento": "Liga MX: Querétaro vs Toluca",
+      "fecha": "2026-08-21 04:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": []
+    },
+    {
+      "id": 8,
+      "evento": "Fórmula 1: GP Países Bajos - Prácticas Libres #1",
+      "fecha": "2026-08-21 07:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "DAZN F1 ES",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bolaloca.my/player/3/60"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1 ES (op2)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://dlhd.st/watch/stream-537.php"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1 ES (op3)",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=daznf1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports 1 (Relato)",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Fórmula 1: GP Países Bajos - Prácticas Libres #1 | On Board Colapinto",
+      "fecha": "2026-08-21 07:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "Fórmula 1: GP Países Bajos - Prácticas Libres #1 | On Board Norris",
+      "fecha": "2026-08-21 07:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "Fórmula 1: GP Países Bajos - Prácticas Libres #1 | Cámara On Board",
+      "fecha": "2026-08-21 07:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
       "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint",
       "fecha": "2026-08-21 11:30:00",
       "competencia": "Fórmula 1",
@@ -80,7 +269,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 13,
       "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | On Board Colapinto",
       "fecha": "2026-08-21 11:30:00",
       "competencia": "Fórmula 1",
@@ -98,7 +287,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 14,
       "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | On Board Norris",
       "fecha": "2026-08-21 11:30:00",
       "competencia": "Fórmula 1",
@@ -116,7 +305,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 15,
       "evento": "Fórmula 1: GP Países Bajos - Clasificación Sprint | Cámara On Board",
       "fecha": "2026-08-21 11:30:00",
       "competencia": "Fórmula 1",
@@ -134,7 +323,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 16,
       "evento": "F1 | GP de Países Bajos: Entrenamientos #1",
       "fecha": "2026-08-21 11:30:00",
       "competencia": "Fórmula 1",
@@ -159,6 +348,236 @@
           ]
         }
       ]
+    },
+    {
+      "id": 17,
+      "evento": "F1 | GP de Países Bajos: Clasificación Sprint",
+      "fecha": "2026-08-21 15:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney2"
+            }
+          ]
+        },
+        {
+          "name": "DAZN F1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=daznf1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "evento": "Liga Profesional Saudí: Al Riyadh vs Al Nassr",
+      "fecha": "2026-08-21 17:00:00",
+      "competencia": "Liga Saudí",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Fox Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
+            }
+          ]
+        },
+        {
+          "name": "Fox ONE",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone1"
+            }
+          ]
+        },
+        {
+          "name": "SporTV 2 BR",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=sportv2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "evento": "Liga 1: FC Cajamarca vs Atlético Grau",
+      "fecha": "2026-08-21 18:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": [
+        {
+          "name": "Liga 1 Max",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=liga1max"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "Liga Profesional: Aldosivi vs Unión Santa Fe",
+      "fecha": "2026-08-21 18:30:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=tntar"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "Liga Profesional Saudí: Al Quadisiya vs Al Ittihad",
+      "fecha": "2026-08-21 19:00:00",
+      "competencia": "Liga Saudí",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Fox ONE",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=foxone2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone2"
+            }
+          ]
+        },
+        {
+          "name": "Fox Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=foxdeportes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "evento": "Ligue 1: Olympique Marseille vs Strasbourg",
+      "fecha": "2026-08-21 19:45:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=disney4"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "Fox ONE",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=foxone3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "evento": "Premier League: Arsenal vs Coventry City",
+      "fecha": "2026-08-21 20:00:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 24,
+      "evento": "LaLiga: Real Betis vs Real Sociedad",
+      "fecha": "2026-08-21 20:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "canales": []
+    },
+    {
+      "id": 25,
+      "evento": "Primera División: Albion vs Boston River",
+      "fecha": "2026-08-21 20:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": []
+    },
+    {
+      "id": 26,
+      "evento": "Liga 1: Alianza Atlético vs Sporting Cristal",
+      "fecha": "2026-08-21 21:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": []
+    },
+    {
+      "id": 27,
+      "evento": "Liga BetPlay: Jaguares de Córdoba vs Boyacá Chicó",
+      "fecha": "2026-08-21 22:05:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": []
+    },
+    {
+      "id": 28,
+      "evento": "Primera División: Liverpool vs Cerro",
+      "fecha": "2026-08-21 23:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": []
     }
   ],
   "channels": [
