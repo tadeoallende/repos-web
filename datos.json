@@ -3,10 +3,44 @@
     {
       "id": 1,
       "evento": "Liga Profesional: Estudiantes Río Cuarto vs San Lorenzo",
-      "fecha": "2026-08-21 00:00:00",
+      "fecha": "2026-08-21 20:00:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Reproductor 1",
+              "iframe": "https://bestleague.life/cvatt.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+            },
+            {
+              "name": "Reproductor 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
+            },
+            {
+              "name": "Reproductor 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Reproductor 4",
+              "iframe": "https://bolaloca.my/player/2/76"
+            },
+            {
+              "name": "Reproductor 5",
+              "iframe": "https://sopracan-28-04-flotodsplaaerbloeer.blogspot.com/p/cantodossplaaer-2.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Reproductor 7 (EXTENSION PC BUFFER 30 FPS)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Reproductor 8 (EXTENSION PC SIN BUFFER 60 FPS)",
+              "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/caaanvarisdeetoodeteeexte.html?id=eeespeepree-seeen"
+            }
+          ]
+        }
+      ],
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png"
     },
     {
       "id": 2,
@@ -308,24 +342,44 @@
     {
       "id": 16,
       "evento": "Liga Profesional: Aldosivi vs Unión Santa Fe",
-      "fecha": "2026-08-21 18:30:00",
+      "fecha": "2026-08-21 14:30:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
         {
           "name": "TNT Sports",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=tntar"
+              "name": "(1)",
+              "iframe": "https://bestleague.life/cvatt.html?get=VE5UX1Nwb3J0c19IRA&lang=1"
             },
             {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+              "name": "(2)",
+              "iframe": "https://bolaloca.my/player/2/75"
+            },
+            {
+              "name": "(3)",
+              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "(4)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "(5)",
+              "iframe": "https://sopracan-28-04-flotodsplaaerbloeer.blogspot.com/p/pucheeeplaaedepoop1.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "(6 EXTENSION PC 720p buffer)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "(7 EXTENSIÓN PC 1080p sin buffer)",
+              "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/caaanvarisdeetoodeteeexte.html?id=teeespooarge-seen"
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png"
     },
     {
       "id": 17,
