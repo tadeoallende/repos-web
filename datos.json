@@ -159,33 +159,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 10,
-      "evento": "F1 | GP de Países Bajos: Clasificación Sprint",
-      "fecha": "2026-08-21 15:30:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney2"
-            }
-          ]
-        },
-        {
-          "name": "DAZN F1",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=daznf1"
-            }
-          ]
-        }
-      ]
     }
   ],
   "channels": [
