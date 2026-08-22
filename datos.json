@@ -568,14 +568,13 @@
       "evento": "LaLiga: Athletic Club vs. Sevilla",
       "fecha": "2026-08-22 12:00:00",
       "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
       "canales": [
         {
           "name": "DSports",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
+              "name": "Opción 1 (Recomendada)",
+              "iframe": "https://la16hd.com/dsportsar.php"
             },
             {
               "name": "Opción 2",
@@ -604,7 +603,8 @@
             }
           ]
         }
-      ]
+      ],
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png"
     },
     {
       "id": 15,
