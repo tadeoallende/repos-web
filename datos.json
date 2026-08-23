@@ -81,6 +81,10 @@
             {
               "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney9"
+            },
+            {
+              "name": "Opción 3 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
         },
@@ -99,15 +103,6 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=sky_sports_laliga"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ (Extensión)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
         },
@@ -220,7 +215,7 @@
       "id": 4,
       "evento": "Premier League: Newcastle United vs. Liverpool",
       "fecha": "2026-08-23 12:30:00",
-      "competencia": "EFL Cup",
+      "competencia": "Premier League",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
       "canales": [
         {
@@ -433,6 +428,10 @@
             {
               "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney14"
+            },
+            {
+              "name": "Opción 3 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         },
@@ -442,15 +441,6 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espnmx"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ (Extensión)",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         },
@@ -600,10 +590,31 @@
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
         {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=tntar"
+            }
+          ]
+        },
+        {
           "name": "Fanatiz",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz3"
+            },
+            {
+              "name": "Opción 2",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz3"
             }
           ]
@@ -617,22 +628,18 @@
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
               "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
             },
             {
-              "name": "Opción 4 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesports.cfd/embed/tntsportarg.php"
             },
             {
-              "name": "Opción 5 (Ads)",
+              "name": "Opción 4 (Ads)",
               "iframe": "https://bolaloca.my/player/4/75"
             },
             {
-              "name": "Opción 6 (Extensión)",
+              "name": "Opción 5 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
             }
           ]
@@ -885,24 +892,24 @@
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn2arg.php"
+              "name": "Opción 4",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2col"
             },
             {
               "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn2col.php"
+              "iframe": "https://welivesports.cfd/embed/espn2arg.php"
             },
             {
               "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 7 (Ads)",
               "iframe": "https://bolaloca.my/player/4/88"
             },
             {
-              "name": "Opción 7 (Extensión)",
+              "name": "Opción 8 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 8",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2col"
             }
           ]
         },
@@ -1575,41 +1582,6 @@
     },
     {
       "id": 42,
-      "evento": "Liga Profesional: Sarmiento vs Estudiantes LP",
-      "fecha": "2026-08-23 18:45:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=tntar"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 43,
       "evento": "Liga Profesional: River Plate vs. Vélez Sarsfield",
       "fecha": "2026-08-23 19:15:00",
       "competencia": "Liga Profesional Argentina",
@@ -1680,7 +1652,7 @@
       ]
     },
     {
-      "id": 44,
+      "id": 43,
       "evento": "Brasileirão: Coritiba vs. Corinthians",
       "fecha": "2026-08-23 19:30:00",
       "competencia": "Brasileirão",
@@ -1707,7 +1679,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": 44,
       "evento": "Primera División: O'Higgins vs. Palestino",
       "fecha": "2026-08-23 20:00:00",
       "competencia": "Primera División Chile",
@@ -1725,7 +1697,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 45,
       "evento": "Liga MX: Atlético San Luis vs. Pachuca",
       "fecha": "2026-08-23 20:00:00",
       "competencia": "Liga MX",
@@ -1752,7 +1724,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 46,
       "evento": "MLS: Atlanta United vs. Sporting KC",
       "fecha": "2026-08-23 20:00:00",
       "competencia": "MLS",
@@ -1770,7 +1742,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 47,
       "evento": "Liga BetPlay: Deportivo Cali vs. Inter Bogotá",
       "fecha": "2026-08-23 20:10:00",
       "competencia": "Liga BetPlay",
@@ -1805,7 +1777,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 48,
       "evento": "Liga 1: Universitario vs. Los Chankas",
       "fecha": "2026-08-23 20:30:00",
       "competencia": "Liga 1 (Perú)",
@@ -1823,7 +1795,7 @@
       ]
     },
     {
-      "id": 50,
+      "id": 49,
       "evento": "Liga Profesional: Racing Club vs. Boca Juniors",
       "fecha": "2026-08-23 21:30:00",
       "competencia": "Liga Profesional Argentina",
@@ -1894,7 +1866,7 @@
       ]
     },
     {
-      "id": 51,
+      "id": 50,
       "evento": "Liga MX: Pumas UNAM vs. Necaxa",
       "fecha": "2026-08-23 22:00:00",
       "competencia": "Liga MX",
@@ -1929,7 +1901,7 @@
       ]
     },
     {
-      "id": 52,
+      "id": 51,
       "evento": "Liga BetPlay: Junior vs. Once Caldas",
       "fecha": "2026-08-23 22:15:00",
       "competencia": "Liga BetPlay",
