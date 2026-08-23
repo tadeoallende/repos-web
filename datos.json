@@ -3565,17 +3565,19 @@
     },
     {
       "name": "UFC",
+      "logo": "",
       "options": [
         {
-          "name": "Goluchitas",
-          "iframe": "https://goluchitas.com"
+          "name": "Rolly vs Teofimo",
+          "iframe": "https://embedindia.st/embed/rolly-vs-teofimo"
         },
         {
           "name": "Paramount (2)",
           "iframe": "https://streamtpday1.xyz/global1.php?stream=paramount3"
         }
       ],
-      "show": true
+      "show": true,
+      "featured": false
     },
     {
       "name": "VTV",
