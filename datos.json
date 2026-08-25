@@ -157,28 +157,19 @@
       "logoUrl": "https://angulismo-pics.pages.dev/es.png",
       "canales": [
         {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
-            }
-          ]
-        },
-        {
           "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1 (FL)",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 2 (FL)",
               "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJfQXJn"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
-            },
-            {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
               "name": "Opción 4 (Ads)",
@@ -199,11 +190,15 @@
           ]
         },
         {
-          "name": "ESPN 2 CO",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2col"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney7"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
             }
           ]
         },
@@ -211,8 +206,30 @@
           "name": "ESPN+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus1"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnplus1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2 CO",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2col"
             }
           ]
         }
@@ -226,28 +243,19 @@
       "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
         {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
-            }
-          ]
-        },
-        {
           "name": "ESPN 3",
           "options": [
             {
-              "name": "Opción 1 (FL)",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 2 (FL)",
               "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjM"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
-            },
-            {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
             },
             {
               "name": "Opción 4 (Ads)",
@@ -264,11 +272,24 @@
           ]
         },
         {
-          "name": "ESPN 3 CO",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3col"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney5"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=paramount6"
             }
           ]
         },
@@ -276,8 +297,17 @@
           "name": "MAX",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=max2"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3 CO",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3col"
             }
           ]
         }
@@ -291,28 +321,19 @@
       "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
         {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
-            }
-          ]
-        },
-        {
           "name": "ESPN 5",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjQ="
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn5"
             },
             {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjQ="
             },
             {
               "name": "Opción 4 (Ads)",
@@ -329,19 +350,32 @@
           ]
         },
         {
-          "name": "FOX Sports 1",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (FL)",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney6"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 2 (FL)",
               "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
             },
             {
               "name": "Opción 4",
@@ -357,8 +391,21 @@
           "name": "MAX",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.com/vivo/canales.php?stream=max3"
+            },
+            {
+              "name": "Opción 2",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=max3"
+            }
+          ]
+        },
+        {
+          "name": "TUDN US",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
             }
           ]
         }
@@ -454,7 +501,21 @@
       "fecha": "2026-08-25 19:00:00",
       "competencia": "EFL Cup",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=paramount2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount3"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 12,
@@ -462,7 +523,17 @@
       "fecha": "2026-08-25 19:45:00",
       "competencia": "EFL Cup",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=paramount3"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 13,
@@ -470,7 +541,30 @@
       "fecha": "2026-08-25 19:45:00",
       "competencia": "EFL Cup",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=paramount4"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 14,
@@ -478,7 +572,30 @@
       "fecha": "2026-08-25 19:45:00",
       "competencia": "EFL Cup",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney3"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney11"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2 MX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2mx"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 15,
@@ -486,7 +603,30 @@
       "fecha": "2026-08-25 20:00:00",
       "competencia": "EFL Cup",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney4"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney12"
+            }
+          ]
+        },
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=paramount5"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 16,
@@ -673,14 +813,6 @@
     },
     {
       "id": 21,
-      "evento": "Liga BetPlay: Atlético Bucaramanga vs Rionegro Águilas",
-      "fecha": "2026-08-26 00:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": []
-    },
-    {
-      "id": 22,
       "evento": "Copa do Brasil: Cruzeiro vs Atlético Mineiro",
       "fecha": "2026-08-26 01:00:00",
       "competencia": "Brasileirão",
@@ -688,7 +820,7 @@
       "canales": []
     },
     {
-      "id": 23,
+      "id": 22,
       "evento": "Liga BetPlay: Santa Fe vs Jaguares de Córdoba",
       "fecha": "2026-08-26 02:05:00",
       "competencia": "Liga BetPlay",
@@ -696,7 +828,7 @@
       "canales": []
     },
     {
-      "id": 24,
+      "id": 23,
       "evento": "Copa Centroamericana de CONCACAF: Cartaginés vs FAS",
       "fecha": "2026-08-26 03:30:00",
       "competencia": "Fútbol Amistoso",
@@ -704,7 +836,7 @@
       "canales": []
     },
     {
-      "id": 25,
+      "id": 24,
       "evento": "Copa Centroamericana de CONCACAF: Municipal vs Motagua",
       "fecha": "2026-08-26 03:30:00",
       "competencia": "Fútbol Amistoso",
