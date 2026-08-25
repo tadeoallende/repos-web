@@ -2,41 +2,41 @@
   "events": [
     {
       "id": 1,
-      "evento": "Serie A: Bologna vs. Lazio",
-      "fecha": "2026-08-24 13:30:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "evento": "UEFA Champions League: Sabah vs. Hapoel Be'er Sheva",
+      "fecha": "2026-08-25 13:45:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
         {
-          "name": "ESPN 2",
+          "name": "ESPN 3",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
             },
             {
               "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espn2"
+              "iframe": "https://streamx488.sbs/global1.php?channel=espn3"
             },
             {
               "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJfVVk="
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjM"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
             },
             {
-              "name": "Opción 5",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn3col.php"
             },
             {
               "name": "Opción 6 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/88"
+              "iframe": "https://bolaloca.my/player/4/89"
             },
             {
               "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfVVk="
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
             }
           ]
         },
@@ -46,15 +46,155 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=disney1"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
             }
           ]
         },
         {
-          "name": "Universo",
+          "name": "MAX",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=universo"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=max1"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=max1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3 CO",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3col"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "evento": "EFL Carabao Cup: Southampton vs. West Ham United",
+      "fecha": "2026-08-25 15:45:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "EFL Carabao Cup: Sheffield Wednesday vs. Wolverhampton Wanderers",
+      "fecha": "2026-08-25 15:45:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "EFL Carabao Cup: Nottingham Forest vs. Leeds United",
+      "fecha": "2026-08-25 16:00:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney12"
+            }
+          ]
+        },
+        {
+          "name": "Paramount+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "LaLiga: Valencia vs. Real Betis",
+      "fecha": "2026-08-25 16:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn2arg.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/88"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         },
@@ -66,205 +206,69 @@
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2col"
             }
           ]
+        },
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus1"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 2,
-      "evento": "LaLiga: Osasuna vs. Levante",
-      "fecha": "2026-08-24 14:30:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "id": 6,
+      "evento": "UEFA Champions League: Bodø / Glimt vs. NEC",
+      "fecha": "2026-08-25 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 2 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/90"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        },
         {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=disney2"
-            },
-            {
-              "name": "Opción 3",
+              "name": "Opción 1",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
             }
           ]
         },
         {
-          "name": "ESPN Deportes",
+          "name": "ESPN 3",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
-            }
-          ]
-        },
-        {
-          "name": "Premier Sports 1 UK",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=premier1uk"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "evento": "Serie A: Roma vs. Fiorentina",
-      "fecha": "2026-08-24 15:45:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjM"
             },
             {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2col"
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
             },
             {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJfVVk="
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/88"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfVVk="
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney3"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "evento": "Premier League: Fulham vs. Chelsea",
-      "fecha": "2026-08-24 16:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjJIRA"
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
             },
             {
               "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn1arg.php"
+              "iframe": "https://welivesports.cfd/embed/espn3col.php"
             },
             {
               "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espn1col.php"
+              "iframe": "https://bolaloca.my/player/4/89"
             },
             {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/87"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
             }
           ]
         },
         {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney4"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
-            }
-          ]
-        },
-        {
-          "name": "Universo",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=universo"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 1 CO",
+          "name": "ESPN 3 CO",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1col"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3col"
             }
           ]
         },
@@ -273,91 +277,7 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=max1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "Primera División: Nacional Asunción vs. Sportivo Luqueño",
-      "fecha": "2026-08-24 16:00:00",
-      "competencia": "Copa de Primera (Paraguay)",
-      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
-      "canales": [
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "LaLiga: Málaga vs. Deportivo La Coruña",
-      "fecha": "2026-08-24 16:30:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": [
-        {
-          "name": "ESPN Deportes",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espndeportes"
-            }
-          ]
-        },
-        {
-          "name": "DirecTV Sports",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
-            }
-          ]
-        },
-        {
-          "name": "ESPN+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus2"
-            }
-          ]
-        },
-        {
-          "name": "Premier Sports 1 UK",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=premier1uk"
-            }
-          ]
-        },
-        {
-          "name": "DSports 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/dsports2.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=max2"
             }
           ]
         }
@@ -365,17 +285,80 @@
     },
     {
       "id": 7,
-      "evento": "DFB Pokal: Verl vs Hamburger SV",
-      "fecha": "2026-08-24 17:00:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
+      "evento": "UEFA Champions League: LASK Linz vs. Celtic",
+      "fecha": "2026-08-25 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
         {
-          "name": "DFB Play",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=dfb1"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTjQ="
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn5col.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/91"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=max3"
             }
           ]
         }
@@ -383,126 +366,8 @@
     },
     {
       "id": 8,
-      "evento": "DFB Pokal: Würzburger Kickers vs Köln",
-      "fecha": "2026-08-24 17:00:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "canales": [
-        {
-          "name": "DFB Play",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=dfb2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "evento": "DFB Pokal: Altglienicke vs Wolfsburg",
-      "fecha": "2026-08-24 17:00:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "canales": [
-        {
-          "name": "DFB Play",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=dfb3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "evento": "Liga Profesional Saudí NEOM vs Al Quadisiya",
-      "fecha": "2026-08-24 17:40:00",
-      "competencia": "Liga Saudí",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=foxone1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "evento": "Primera División: Libertad vs. Sportivo San Lorenzo",
-      "fecha": "2026-08-24 18:30:00",
-      "competencia": "Copa de Primera (Paraguay)",
-      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
-      "canales": [
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "evento": "Liga Profesional: Tigre vs. Central Córdoba SdE",
-      "fecha": "2026-08-24 19:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=tntar"
-            },
-            {
-              "name": "Opción 4 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/75"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "evento": "Liga Profesional Saudí: Al Ittihad vs Al Hazm",
-      "fecha": "2026-08-24 19:00:00",
+      "evento": "Liga Profesional Saudí: Abha vs Al Khaleej",
+      "fecha": "2026-08-25 17:05:00",
       "competencia": "Liga Saudí",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
@@ -511,10 +376,14 @@
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox_deportes_usa"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
             },
             {
               "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox_deportes_usa"
+            },
+            {
+              "name": "Opción 3 (720p)",
               "iframe": "https://streamx488.sbs/global1.php?channel=foxdeportes"
             }
           ]
@@ -522,45 +391,116 @@
       ]
     },
     {
-      "id": 14,
-      "evento": "DFB Pokal: Hallescher FC vs Schalke 04",
-      "fecha": "2026-08-24 19:45:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
+      "id": 9,
+      "evento": "Primera División: 2 de Mayo vs. Guaraní",
+      "fecha": "2026-08-25 18:30:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
       "canales": [
         {
-          "name": "DFB Play",
+          "name": "Fanatiz",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=dfb4"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz3"
             }
           ]
         }
       ]
     },
     {
-      "id": 15,
-      "evento": "Brasileirão: Botafogo vs. Athletico-PR",
-      "fecha": "2026-08-24 20:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "id": 10,
+      "evento": "Liga Profesional Saudí: Al Ittifaq vs Al Nassr",
+      "fecha": "2026-08-25 19:00:00",
+      "competencia": "Liga Saudí",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
-          "name": "Premiere 1",
+          "name": "Fox Deportes",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=premiere1"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox_deportes_usa"
             }
           ]
         },
         {
-          "name": "Fanatiz",
+          "name": "Fox ONE",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz4"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone1"
+            }
+          ]
+        },
+        {
+          "name": "SporTV",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx488.sbs/global1.php?channel=sportv1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "EFL Cup: Cardiff City vs Norwich City",
+      "fecha": "2026-08-25 19:00:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 12,
+      "evento": "EFL Cup: Ipswich Town vs Leicester City",
+      "fecha": "2026-08-25 19:45:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 13,
+      "evento": "EFL Cup: Southampton vs West Ham United",
+      "fecha": "2026-08-25 19:45:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 14,
+      "evento": "EFL Cup: Sheffield Wednesday vs Wolverhampton",
+      "fecha": "2026-08-25 19:45:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 15,
+      "evento": "EFL Cup: Nottingham Forest vs Leeds United",
+      "fecha": "2026-08-25 20:00:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 16,
+      "evento": "Copa de Brasil: Cruzeiro vs. Atlético Mineiro",
+      "fecha": "2026-08-25 21:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": [
+        {
+          "name": "FOX Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox_deportes_usa"
             }
           ]
         },
@@ -576,40 +516,85 @@
       ]
     },
     {
-      "id": 16,
-      "evento": "Primeira Liga: Gil Vicente vs Casa Pia",
-      "fecha": "2026-08-24 20:15:00",
-      "competencia": "Primeira Liga",
-      "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
+      "id": 17,
+      "evento": "Copa Libertadores: Independiente del Valle vs. Deportes Tolima",
+      "fecha": "2026-08-25 21:30:00",
+      "competencia": "Copa Libertadores",
+      "logoUrl": "https://bestleague.world/jr/76.png",
       "canales": [
         {
-          "name": "Sport TV 1",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=sporttv1pt"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "evento": "Primera División: Everton vs. Univ. Concepción",
-      "fecha": "2026-08-24 20:30:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
+        },
         {
-          "name": "TNT Sports CL",
+          "name": "ESPN",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsportschile"
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=RVNQTl9VWQ=="
             },
             {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsportschile"
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesports.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/87"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
+            }
+          ]
+        },
+        {
+          "name": "ESPN 1 CO",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1col"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamx-hd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
             }
           ]
         }
@@ -617,45 +602,17 @@
     },
     {
       "id": 18,
-      "evento": "Liga Profesional: Talleres Córdoba vs. Rosario Central",
-      "fecha": "2026-08-24 21:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "evento": "Leagues Cup: Monterrey vs. Chicago Fire",
+      "fecha": "2026-08-25 21:30:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": [
         {
-          "name": "ESPN Premium",
+          "name": "MLS",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=espnpremium"
-            },
-            {
-              "name": "Opción 4 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamx-hd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/76"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls1es"
             }
           ]
         }
@@ -663,49 +620,96 @@
     },
     {
       "id": 19,
-      "evento": "Liga Profesional: Lanús vs. Argentinos Juniors",
-      "fecha": "2026-08-24 21:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "evento": "Liga BetPlay: Cúcuta Deportivo vs. Alianza",
+      "fecha": "2026-08-25 22:00:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
         {
-          "name": "TNT Sports",
+          "name": "Fanatiz",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz6"
+            }
+          ]
+        },
+        {
+          "name": "Win+ Fútbol",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
             },
             {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus2"
             },
             {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://streamx488.sbs/global1.php?channel=tntar"
-            },
-            {
-              "name": "Opción 4 (FL)",
-              "iframe": "https://tvlibreonline.tv/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamx-hd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesports.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/75"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/81"
             }
           ]
         }
       ]
+    },
+    {
+      "id": 20,
+      "evento": "Leagues Cup: León vs. Real Salt Lake",
+      "fecha": "2026-08-25 23:30:00",
+      "competencia": "Leagues Cup",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls2es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "evento": "Liga BetPlay: Atlético Bucaramanga vs Rionegro Águilas",
+      "fecha": "2026-08-26 00:00:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": []
+    },
+    {
+      "id": 22,
+      "evento": "Copa do Brasil: Cruzeiro vs Atlético Mineiro",
+      "fecha": "2026-08-26 01:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "canales": []
+    },
+    {
+      "id": 23,
+      "evento": "Liga BetPlay: Santa Fe vs Jaguares de Córdoba",
+      "fecha": "2026-08-26 02:05:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": []
+    },
+    {
+      "id": 24,
+      "evento": "Copa Centroamericana de CONCACAF: Cartaginés vs FAS",
+      "fecha": "2026-08-26 03:30:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 25,
+      "evento": "Copa Centroamericana de CONCACAF: Municipal vs Motagua",
+      "fecha": "2026-08-26 03:30:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
     }
   ],
   "channels": [
