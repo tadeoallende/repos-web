@@ -2,14 +2,118 @@
   "events": [
     {
       "id": 1,
-      "evento": "LaLiga: Racing Santander vs Elche",
-      "fecha": "2026-08-28 18:00:00",
+      "evento": "LaLiga: Racing Santander vs. Elche",
+      "fecha": "2026-08-28 14:00:00",
       "competencia": "LaLiga",
       "logoUrl": "https://angulismo-pics.pages.dev/es.png",
       "canales": []
     },
     {
       "id": 2,
+      "evento": "Saudi Pro League: Al Nassr vs. Al Taawon",
+      "fecha": "2026-08-28 15:00:00",
+      "competencia": "Liga Saudí",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 3,
+      "evento": "Bundesliga: Bayern München vs. Stuttgart",
+      "fecha": "2026-08-28 15:30:00",
+      "competencia": "Bundesliga",
+      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
+      "canales": []
+    },
+    {
+      "id": 4,
+      "evento": "Ligue 1: Lille vs. PSG",
+      "fecha": "2026-08-28 15:45:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "canales": []
+    },
+    {
+      "id": 5,
+      "evento": "Serie A: Milan vs. Venezia",
+      "fecha": "2026-08-28 15:45:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "canales": []
+    },
+    {
+      "id": 6,
+      "evento": "Premier League: Crystal Palace vs. Manchester City",
+      "fecha": "2026-08-28 16:00:00",
+      "competencia": "Premier League",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 7,
+      "evento": "Primera División: Sportivo Luqueño vs. Rubio Ñú",
+      "fecha": "2026-08-28 16:00:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": []
+    },
+    {
+      "id": 8,
+      "evento": "Championship: Wrexham vs. Birmingham City",
+      "fecha": "2026-08-28 16:00:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 9,
+      "evento": "Primeira Liga: Rio Ave vs. Sporting CP",
+      "fecha": "2026-08-28 16:15:00",
+      "competencia": "Primeira Liga",
+      "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
+      "canales": []
+    },
+    {
+      "id": 10,
+      "evento": "LaLiga: Deportivo Alavés vs. Villarreal",
+      "fecha": "2026-08-28 16:30:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "canales": []
+    },
+    {
+      "id": 11,
+      "evento": "Liga 1: Comerciantes Unidos vs. FC Cajamarca",
+      "fecha": "2026-08-28 17:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "canales": []
+    },
+    {
+      "id": 12,
+      "evento": "Primera División: Sportivo San Lorenzo vs. Nacional Asunción",
+      "fecha": "2026-08-28 18:30:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": []
+    },
+    {
+      "id": 13,
+      "evento": "Liga Profesional: Unión Santa Fe vs. Sarmiento",
+      "fecha": "2026-08-28 19:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": []
+    },
+    {
+      "id": 14,
+      "evento": "Primera División: Wanderers vs. Central Español",
+      "fecha": "2026-08-28 19:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": []
+    },
+    {
+      "id": 15,
       "evento": "Liga Profesional Saudí: Al Nassr vs Al Taawon",
       "fecha": "2026-08-28 19:00:00",
       "competencia": "Liga Saudí",
@@ -17,121 +121,41 @@
       "canales": []
     },
     {
-      "id": 3,
-      "evento": "Bundesliga: Bayern München vs Stuttgart",
+      "id": 16,
+      "evento": "Primera División: Cobresal vs. Palestino",
       "fecha": "2026-08-28 19:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "canales": []
-    },
-    {
-      "id": 4,
-      "evento": "Serie A: Milan vs Venezia",
-      "fecha": "2026-08-28 19:45:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": []
-    },
-    {
-      "id": 5,
-      "evento": "Ligue 1: Lille vs PSG",
-      "fecha": "2026-08-28 19:45:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "canales": []
-    },
-    {
-      "id": 6,
-      "evento": "Premier League: Crystal Palace vs Manchester City",
-      "fecha": "2026-08-28 20:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
-    },
-    {
-      "id": 7,
-      "evento": "Championship: Wrexham vs Birmingham City",
-      "fecha": "2026-08-28 20:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
-    },
-    {
-      "id": 8,
-      "evento": "Primeira Liga: Rio Ave vs Sporting CP",
-      "fecha": "2026-08-28 20:15:00",
-      "competencia": "Primeira Liga",
-      "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
-      "canales": []
-    },
-    {
-      "id": 9,
-      "evento": "LaLiga: Deportivo Alavés vs Villarreal",
-      "fecha": "2026-08-28 20:30:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": []
-    },
-    {
-      "id": 10,
-      "evento": "Liga 1: Comerciantes Unidos vs FC Cajamarca",
-      "fecha": "2026-08-28 21:00:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "canales": []
-    },
-    {
-      "id": 11,
-      "evento": "Liga Profesional: Unión Santa Fe vs Sarmiento",
-      "fecha": "2026-08-28 23:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": []
-    },
-    {
-      "id": 12,
-      "evento": "Primera División: Wanderers vs Central Español",
-      "fecha": "2026-08-28 23:00:00",
-      "competencia": "Primera División Uruguay",
-      "logoUrl": "https://bestleague.world/jr/56.png",
-      "canales": []
-    },
-    {
-      "id": 13,
-      "evento": "Primera División: Cobresal vs Palestino",
-      "fecha": "2026-08-28 23:30:00",
       "competencia": "Primera División Chile",
       "logoUrl": "https://bestleague.world/jr/35.png",
       "canales": []
     },
     {
-      "id": 14,
-      "evento": "Liga Profesional: Boca Juniors vs Lanús",
-      "fecha": "2026-08-29 01:30:00",
+      "id": 17,
+      "evento": "Liga Profesional: Boca Juniors vs. Lanús",
+      "fecha": "2026-08-28 21:30:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": []
     },
     {
-      "id": 15,
-      "evento": "Liga MX: Atlante vs León",
-      "fecha": "2026-08-29 02:00:00",
+      "id": 18,
+      "evento": "Liga MX: Atlante vs. León",
+      "fecha": "2026-08-28 22:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
       "canales": []
     },
     {
-      "id": 16,
-      "evento": "Liga MX: Necaxa vs Cruz Azul",
-      "fecha": "2026-08-29 02:00:00",
+      "id": 19,
+      "evento": "Liga MX: Necaxa vs. Cruz Azul",
+      "fecha": "2026-08-28 22:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
       "canales": []
     },
     {
-      "id": 17,
-      "evento": "Liga MX: Tijuana vs Pumas UNAM",
-      "fecha": "2026-08-29 04:10:00",
+      "id": 20,
+      "evento": "Liga MX: Tijuana vs. Pumas UNAM",
+      "fecha": "2026-08-29 00:10:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
       "canales": []
