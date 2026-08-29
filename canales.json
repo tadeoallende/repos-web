@@ -42,22 +42,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tvpublica.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 3",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-11.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -76,14 +60,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a08k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-16.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -110,22 +86,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/telefe.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 3",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-10.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -144,14 +104,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a07b/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/eltrece.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -178,14 +130,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/c5n.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -204,14 +148,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a097/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tn.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -238,14 +174,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/CronicaTv.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -268,14 +196,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/a24.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -294,14 +214,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a05y/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/lntv.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -376,36 +288,6 @@
       ]
     },
     {
-      "name": "El Nueve",
-      "logo": "https://bestleague.world/img/nueve.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a08k/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-16.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
       "name": "Nueve Litoral",
       "logo": "https://bestleague.world/img/nueve.webp",
       "category": "noticias",
@@ -420,14 +302,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-18.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/nuevelitoral.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -810,22 +684,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 3 (WebView)",
-          "iframe": "https://la14hd.com/vivo/canales.php?stream=tycsports",
-          "streamType": "iframe",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -1002,14 +860,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2 (WebView)",
-          "iframe": "https://pcn.nebunexa.life/cvatt.html?get=RVNQTl9VWQ==",
-          "streamType": "iframe",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -1028,14 +878,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://190.128.214.97:64333/play/a03c/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "https://tyg2mnl9.fubohd.com/tntsports/mono.m3u8?token=787fda1a9596315a07fb7a89732e96fca08259c9-21-1777769794-1777751794",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1231,14 +1073,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-102.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -1415,14 +1249,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-76.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -1441,14 +1267,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a09e/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-77.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1475,14 +1293,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-70.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -1501,14 +1311,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a08b/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-66.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1579,14 +1381,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-68.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -1605,14 +1399,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a067/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-67.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1727,14 +1513,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-74.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -1845,14 +1623,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-60.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -1941,14 +1711,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-24.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2017,14 +1779,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-25.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2047,14 +1801,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-14.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2073,14 +1819,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://45.190.184.79:5800/play/a03q/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tlc.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2109,14 +1847,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/ciudadmagazine.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2139,14 +1869,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-50.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2165,14 +1887,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a06s/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-51.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2311,14 +2025,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-32.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2337,14 +2043,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://190.128.214.97:64333/play/a01v/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-31.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2371,14 +2069,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-33.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2401,14 +2091,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-36.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2427,14 +2109,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://190.128.214.97:64333/play/a01h/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-34.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2551,14 +2225,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-19.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2579,14 +2245,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://181.119.177.253:8000/play/a020/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-40.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2679,14 +2337,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-44.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -2727,14 +2377,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://181.119.177.253:8000/play/a03u/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-45.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
