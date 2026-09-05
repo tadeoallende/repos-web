@@ -2,833 +2,6 @@
   "events": [
     {
       "id": 1,
-      "evento": "Premier League: Newcastle United vs. AFC Bournemouth",
-      "fecha": "2026-09-05 08:30:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney5"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1col"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=espn"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/embed/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/87"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        },
-        {
-          "name": "HBO Max",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=max1"
-            }
-          ]
-        },
-        {
-          "name": "Universo",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=universo"
-            }
-          ]
-        },
-        {
-          "name": "MAX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=max1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "evento": "Serie A: Fiorentina vs. Torino",
-      "fecha": "2026-09-05 10:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": [
-        {
-          "name": "ESPN 5",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=espn5"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjQ="
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/91"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney4"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney6"
-            }
-          ]
-        },
-        {
-          "name": "ESPN MX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=espnmx"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "evento": "FIFA Mundial Femenino Sub-20: Polonia vs. Argentina",
-      "fecha": "2026-09-05 10:00:00",
-      "competencia": "Mundial 2026",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/dsportsar.html"
-            },
-            {
-              "name": "Opción 3 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RHNwb3J0c19VWQ=="
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "evento": "FIFA Mundial Femenino Sub-20: Brasil vs. Tanzania",
-      "fecha": "2026-09-05 10:00:00",
-      "competencia": "Mundial 2026",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "DSports 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=dsports2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "Bundesliga: Bayer Leverkusen vs. Union Berlin",
-      "fecha": "2026-09-05 10:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney5"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=foxone1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "Bundesliga: Borussia M'gladbach vs. Elversberg",
-      "fecha": "2026-09-05 10:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney6"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=foxone2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "evento": "Bundesliga: Hoffenheim vs. Borussia Dortmund",
-      "fecha": "2026-09-05 10:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney7"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=foxone3"
-            }
-          ]
-        },
-        {
-          "name": "Universo",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=universo"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "evento": "Bundesliga: Paderborn vs. Freiburg",
-      "fecha": "2026-09-05 10:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney8"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney8"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=foxone4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "evento": "Bundesliga: Werder Bremen vs. RB Leipzig",
-      "fecha": "2026-09-05 10:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney9"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney9"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=foxone5"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "evento": "Fórmula 1: GP Italia - Clasificación",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Canal 5 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=canal5mx"
-            }
-          ]
-        },
-        {
-          "name": "DAZN F1 ES",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=daznf1"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney16"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney17"
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports 1 (Relato)",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 5 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        },
-        {
-          "name": "VIX+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=vix2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "evento": "Fórmula 1: GP Italia - Clasificación | On Board Colapinto",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney17"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney19"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "evento": "Fórmula 1: GP Italia - Clasificación | On Board Leclerc",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney20"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "evento": "Fórmula 1: GP Italia - Clasificación | Cámara On Board",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney18"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "evento": "Premier League: Brentford vs. Sunderland",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney11"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney13"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "evento": "Premier League: Brighton & Hove Albion vs. Leeds United",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney12"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney14"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "evento": "Premier League: Fulham vs. Crystal Palace",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney13"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney15"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "evento": "Premier League: Manchester City vs. Coventry City",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney10"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney12"
-            }
-          ]
-        },
-        {
-          "name": "MAX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=max2"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1col"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesportz.cfd/embed/espn1arg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://bolaloca.my/player/4/87"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        },
-        {
-          "name": "Telemundo",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=telemundo"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney15"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "evento": "Premier League: Nottingham Forest vs. Tottenham Hotspur",
-      "fecha": "2026-09-05 11:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney14"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney16"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney16"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "evento": "LaLiga: Athletic Club vs. Atlético Madrid",
-      "fecha": "2026-09-05 11:15:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": [
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=espn3"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjNfVXktUHk="
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 5 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjNfVXktUHk="
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney18"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney18"
-            }
-          ]
-        },
-        {
-          "name": "ESPN Deportes",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=espndeportes"
-            }
-          ]
-        },
-        {
-          "name": "M+ LaLiga",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=mlaliga"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney21"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "evento": "Eredivisie: NEC vs. Feyenoord",
-      "fecha": "2026-09-05 11:30:00",
-      "competencia": "Eredivisie",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney19"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "evento": "F1 | GP de Italia: Entrenamientos #3",
-      "fecha": "2026-09-05 11:30:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney1"
-            }
-          ]
-        },
-        {
-          "name": "DAZN F1",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=daznf1"
-            }
-          ]
-        },
-        {
-          "name": "Canal 5 MX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=canal5mx"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 22,
       "evento": "UFC: Dan Hooker vs. Salahdine Parnasse",
       "fecha": "2026-09-05 12:00:00",
       "competencia": "UFC",
@@ -838,17 +11,16 @@
           "name": "Paramount+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount5"
-            }
-          ]
-        },
-        {
-          "name": "Paramount+ (Español)",
-          "options": [
-            {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount3"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=paramount3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount5"
             }
           ]
         },
@@ -860,78 +32,20 @@
               "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount4"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "evento": "Ligue 1: Lens vs. Lorient",
-      "fecha": "2026-09-05 12:15:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "canales": [
+        },
         {
-          "name": "Disney+",
+          "name": "Paramount+ 2 (Español)",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney20"
+              "iframe": "https://streamxhd.com/live1.php?stream=paramount1"
             }
           ]
         }
       ]
     },
     {
-      "id": 24,
-      "evento": "Championship: Preston North End vs Blackburn Rovers",
-      "fecha": "2026-09-05 12:30:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=disney3"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 7",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=espn7"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2 MX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=espn2mx"
-            }
-          ]
-        },
-        {
-          "name": "Fox Sports 2",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox2ar"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 25,
+      "id": 2,
       "evento": "Serie A: Inter vs. Napoli",
       "fecha": "2026-09-05 13:00:00",
       "competencia": "Serie A",
@@ -941,17 +55,12 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
+            },
             {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney24"
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=disney1"
             }
           ]
         },
@@ -959,12 +68,12 @@
           "name": "ESPN 5",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjQ="
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn5"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn5"
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjQ="
             },
             {
               "name": "Opción 3",
@@ -983,11 +92,33 @@
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
             }
           ]
+        },
+        {
+          "name": "ESPN MX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnmx"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=espnmx"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney24"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 26,
+      "id": 3,
       "evento": "Premier League: Hull City vs. Aston Villa",
       "fecha": "2026-09-05 13:30:00",
       "competencia": "Premier League",
@@ -997,8 +128,30 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "Fox ONE",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=foxone1"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch2.php"
             }
           ]
         },
@@ -1014,37 +167,54 @@
       ]
     },
     {
-      "id": 27,
+      "id": 4,
       "evento": "Liga Profesional: Aldosivi vs. Banfield",
       "fecha": "2026-09-05 13:30:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
         {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz1"
+            }
+          ]
+        },
+        {
           "name": "ESPN Premium",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 2",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
             },
             {
-              "name": "Opción 3",
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 3 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=espnpremium"
+            },
+            {
+              "name": "Opción 4 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Opción 5",
               "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
             },
             {
-              "name": "Opción 4 (Ads)",
+              "name": "Opción 6 (Ads)",
               "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
             },
             {
-              "name": "Opción 5 (Ads)",
+              "name": "Opción 7 (Ads)",
               "iframe": "https://bolaloca.my/player/4/76"
             },
             {
-              "name": "Opción 6 (Extensión)",
+              "name": "Opción 8 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             }
           ]
@@ -1052,15 +222,90 @@
       ]
     },
     {
-      "id": 28,
+      "id": 5,
       "evento": "LaLiga: Rayo Vallecano vs. Racing Santander",
       "fecha": "2026-09-05 13:30:00",
       "competencia": "LaLiga",
       "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "DirecTV Sports",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus2"
+            }
+          ]
+        },
+        {
+          "name": "M+ LaLiga",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mlaliga"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=mlaliga"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espndeportes"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch6.php"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/94"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 29,
+      "id": 6,
       "evento": "Bundesliga: Schalke 04 vs. Bayern München",
       "fecha": "2026-09-05 13:30:00",
       "competencia": "Bundesliga",
@@ -1070,28 +315,135 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (Extensión)",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=disney3"
+            },
+            {
+              "name": "Opción 3 (Extensión)",
               "iframe": "https://bestleague.life/tok2.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1col"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=telemundo"
+            }
+          ]
+        },
+        {
+          "name": "Fox ONE",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=foxone2"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch1.php"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney26"
             }
           ]
         }
       ]
     },
     {
-      "id": 30,
+      "id": 7,
       "evento": "Primeira Liga: Marítimo vs. Benfica",
       "fecha": "2026-09-05 14:00:00",
       "competencia": "Primeira Liga",
       "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "DirecTV Sports 2",
+          "options": [
+            {
+              "name": "Opción 1 (1080p)",
+              "iframe": "https://streamx061.sbs/channel/dsports2.html"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports2"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=fanatiz2"
+            }
+          ]
+        },
+        {
+          "name": "DSports 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=dsports2"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 31,
+      "id": 8,
       "evento": "Super Lig: Fenerbahçe vs. Beşiktaş",
       "fecha": "2026-09-05 14:30:00",
       "competencia": "Süper Lig (Turquía)",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney27"
+            }
+          ]
+        },
         {
           "name": "ESPN 7",
           "options": [
@@ -1124,37 +476,58 @@
       ]
     },
     {
-      "id": 32,
+      "id": 9,
       "evento": "Liga Profesional: Gimnasia La Plata vs. Tigre",
       "fecha": "2026-09-05 14:30:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
         {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz3"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=fanatiz3"
+            }
+          ]
+        },
+        {
           "name": "TNT Sports",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
             },
             {
-              "name": "Opción 3",
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=tntar"
+            },
+            {
+              "name": "Opción 4 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 5",
               "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
             },
             {
-              "name": "Opción 4 (Ads)",
+              "name": "Opción 6 (Ads)",
               "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
             },
             {
-              "name": "Opción 5 (Ads)",
+              "name": "Opción 7 (Ads)",
               "iframe": "https://bolaloca.my/player/4/75"
             },
             {
-              "name": "Opción 6 (Extensión)",
+              "name": "Opción 8 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
             }
           ]
@@ -1162,20 +535,70 @@
       ]
     },
     {
-      "id": 33,
+      "id": 10,
       "evento": "Primera División: Danubio vs. Peñarol",
       "fecha": "2026-09-05 15:00:00",
       "competencia": "Primera División Uruguay",
       "logoUrl": "https://bestleague.world/jr/56.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney28"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 34,
+      "id": 11,
       "evento": "Eredivisie: Ajax vs. PSV",
       "fecha": "2026-09-05 15:00:00",
       "competencia": "Eredivisie",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=disney5"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3col"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney29"
+            }
+          ]
+        },
         {
           "name": "ESPN 3",
           "options": [
@@ -1200,90 +623,34 @@
       ]
     },
     {
-      "id": 35,
+      "id": 12,
       "evento": "Saudi Pro League: Al Ittihad vs. Al Nassr",
       "fecha": "2026-09-05 15:00:00",
       "competencia": "Liga Saudí",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
-    },
-    {
-      "id": 36,
-      "evento": "Championship: Burnley vs Bristol City",
-      "fecha": "2026-09-05 15:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
       "canales": [
         {
-          "name": "Disney+",
+          "name": "FOX One",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney15"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney17"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone3"
             }
           ]
         },
         {
-          "name": "ESPN 7",
+          "name": "FOX One 2",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn7"
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=foxone2"
             }
           ]
         }
       ]
     },
     {
-      "id": 37,
-      "evento": "Championship: West Ham United vs Derby County",
-      "fecha": "2026-09-05 15:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Paramount+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=paramount1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "evento": "Championship: West Bromwich Albion vs Watford",
-      "fecha": "2026-09-05 15:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": [
-        {
-          "name": "Paramount+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=paramount2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 39,
+      "id": 13,
       "evento": "F1 | GP de Italia: Clasificación",
       "fecha": "2026-09-05 15:00:00",
       "competencia": "Fórmula 1",
@@ -1327,7 +694,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": 14,
       "evento": "F1 | GP de Italia: Cámara On Board - Colapinto",
       "fecha": "2026-09-05 15:00:00",
       "competencia": "Fórmula 1",
@@ -1349,60 +716,323 @@
       ]
     },
     {
-      "id": 41,
+      "id": 15,
+      "evento": "LaLiga: Athletic Club vs Atlético Madrid",
+      "fecha": "2026-09-05 15:15:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=espn3"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney18"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=espndeportes"
+            }
+          ]
+        },
+        {
+          "name": "M+ LaLiga",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=mlaliga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Eredivisie: NEC vs Feyenoord",
+      "fecha": "2026-09-05 15:30:00",
+      "competencia": "Eredivisie",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney19"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=disney19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
       "evento": "Ligue 1: Le Havre vs. Brest",
       "fecha": "2026-09-05 15:45:00",
       "competencia": "Ligue 1",
       "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney1"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 42,
+      "id": 18,
       "evento": "Ligue 1: Nice vs. Le Mans",
       "fecha": "2026-09-05 15:45:00",
       "competencia": "Ligue 1",
       "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney9"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney2"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 43,
+      "id": 19,
       "evento": "Serie A: Roma vs. Atalanta",
       "fecha": "2026-09-05 15:45:00",
       "competencia": "Serie A",
       "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney30"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 44,
+      "id": 20,
       "evento": "LaLiga: Villarreal vs. Deportivo La Coruña",
       "fecha": "2026-09-05 16:00:00",
       "competencia": "LaLiga",
       "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://stream-xhd.com/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/94"
+            }
+          ]
+        },
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus3"
+            }
+          ]
+        },
+        {
+          "name": "M+ LaLiga",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=mlaliga"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 45,
+      "id": 21,
       "evento": "Brasileirão: RB Bragantino vs. Bahia",
       "fecha": "2026-09-05 16:00:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Premiere 4 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere4"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=premiere4"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 46,
+      "id": 22,
       "evento": "Championship: Swansea City vs. Wrexham",
       "fecha": "2026-09-05 16:00:00",
       "competencia": "EFL Cup",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 47,
+      "id": 23,
+      "evento": "Ligue 1: Lens vs Lorient",
+      "fecha": "2026-09-05 16:15:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney20"
+            }
+          ]
+        },
+        {
+          "name": "Fox ONE",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=foxone8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
       "evento": "Liga Profesional: Gimnasia Mendoza vs. Boca Juniors",
       "fecha": "2026-09-05 16:30:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney11"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1col"
+            }
+          ]
+        },
         {
           "name": "ESPN Premium",
           "options": [
@@ -1431,27 +1061,73 @@
               "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             }
           ]
+        },
+        {
+          "name": "VIX+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=vix5"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 48,
+      "id": 25,
       "evento": "Primeira Liga: Sporting CP vs. Nacional",
       "fecha": "2026-09-05 16:30:00",
       "competencia": "Primeira Liga",
       "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "DSports 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=dsports2"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 49,
+      "id": 26,
       "evento": "Superliga de Grecia: Volos NFC vs Olympiakos Piraeus",
       "fecha": "2026-09-05 17:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Claro Sports",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=clarosports"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=clarosports"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://dlive.sx/stream/stream-3023.php"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 50,
+      "id": 27,
       "evento": "Liga 1: Sport Huancayo vs. Sport Boys",
       "fecha": "2026-09-05 17:30:00",
       "competencia": "Liga 1 (Perú)",
@@ -1463,21 +1139,44 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=l1max"
             }
           ]
         }
       ]
     },
     {
-      "id": 51,
+      "id": 28,
       "evento": "Primera División: Deportivo Maldonado vs. Wanderers",
       "fecha": "2026-09-05 18:00:00",
       "competencia": "Primera División Uruguay",
       "logoUrl": "https://bestleague.world/jr/56.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney12"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 52,
+      "id": 29,
       "evento": "Liga BetPlay: Boyacá Chicó vs. Once Caldas",
       "fecha": "2026-09-05 18:00:00",
       "competencia": "Liga BetPlay",
@@ -1503,23 +1202,65 @@
       ]
     },
     {
-      "id": 53,
+      "id": 30,
       "evento": "Brasileirão: São Paulo vs. Atlético Mineiro",
       "fecha": "2026-09-05 18:30:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz10"
+            }
+          ]
+        },
+        {
+          "name": "Premiere 1 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=premiere1"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 54,
+      "id": 31,
       "evento": "Primera División: Sportivo San Lorenzo vs. 2 de Mayo",
       "fecha": "2026-09-05 18:30:00",
       "competencia": "Copa de Primera (Paraguay)",
       "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
-      "canales": []
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz11"
+            }
+          ]
+        },
+        {
+          "name": "Tigo Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=tigo1"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 55,
+      "id": 32,
       "evento": "Primera División: Everton vs. Universidad Católica",
       "fecha": "2026-09-05 18:30:00",
       "competencia": "Primera División Chile",
@@ -1537,7 +1278,7 @@
       ]
     },
     {
-      "id": 56,
+      "id": 33,
       "evento": "Liga Profesional: San Lorenzo vs. Talleres Córdoba",
       "fecha": "2026-09-05 19:00:00",
       "competencia": "Liga Profesional Argentina",
@@ -1575,22 +1316,84 @@
       ]
     },
     {
-      "id": 57,
+      "id": 34,
+      "evento": "Liga Profesional Saudí: Al Ittihad vs Al Nassr",
+      "fecha": "2026-09-05 19:00:00",
+      "competencia": "Liga Saudí",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Fox ONE",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone3"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=foxone3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
       "evento": "Liga MX: Atlético San Luis vs. Guadalajara",
       "fecha": "2026-09-05 20:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney13"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney6"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 1 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnmx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://bolaloca.my/player/4/97"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://welivesportz.cfd/embed/espn1mx.php"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnmx"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 58,
+      "id": 36,
       "evento": "Liga BetPlay: Cúcuta Deportivo vs. Deportivo Pasto",
       "fecha": "2026-09-05 20:10:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
         {
-          "name": "Wina Sports",
+          "name": "Win Sports",
           "options": [
             {
               "name": "Opción 1",
@@ -1605,7 +1408,7 @@
       ]
     },
     {
-      "id": 59,
+      "id": 37,
       "evento": "Liga BetPlay: Santa Fe vs. Fortaleza CEIF",
       "fecha": "2026-09-05 20:25:00",
       "competencia": "Liga BetPlay",
@@ -1631,7 +1434,7 @@
       ]
     },
     {
-      "id": 60,
+      "id": 38,
       "evento": "Liga 1: Cusco vs. Deportivo Moquegua",
       "fecha": "2026-09-05 20:30:00",
       "competencia": "Liga 1 (Perú)",
@@ -1643,77 +1446,183 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=l1max"
             }
           ]
         }
       ]
     },
     {
-      "id": 61,
+      "id": 39,
       "evento": "MLS: Charlotte vs. Houston Dynamo",
       "fecha": "2026-09-05 20:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls2es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 62,
+      "id": 40,
       "evento": "MLS: Columbus Crew vs. Colorado Rapids",
       "fecha": "2026-09-05 20:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls3es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 63,
+      "id": 41,
       "evento": "MLS: Cincinnati vs. DC United",
       "fecha": "2026-09-05 20:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls4es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 64,
+      "id": 42,
       "evento": "MLS: Inter Miami vs. Atlanta United",
       "fecha": "2026-09-05 20:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls1es"
+            }
+          ]
+        },
+        {
+          "name": "MLS 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=appletv1"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 65,
+      "id": 43,
       "evento": "MLS: Orlando City SC vs. San Diego",
       "fecha": "2026-09-05 20:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls5es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 66,
+      "id": 44,
       "evento": "MLS: Philadelphia Union vs. CF Montréal",
       "fecha": "2026-09-05 20:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls6es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 67,
+      "id": 45,
       "evento": "MLS: Toronto FC vs. Chicago Fire",
       "fecha": "2026-09-05 20:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls7es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 68,
+      "id": 46,
       "evento": "Brasileirão: Fluminense vs. Vasco da Gama",
       "fecha": "2026-09-05 21:00:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz15"
+            }
+          ]
+        },
+        {
+          "name": "Premiere 3 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=premiere3"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 69,
+      "id": 47,
       "evento": "Primera División: Universidad Chile vs. Coquimbo Unido",
       "fecha": "2026-09-05 21:00:00",
       "competencia": "Primera División Chile",
@@ -1731,7 +1640,7 @@
       ]
     },
     {
-      "id": 70,
+      "id": 48,
       "evento": "Liga Profesional: Vélez Sarsfield vs. Estudiantes",
       "fecha": "2026-09-05 21:15:00",
       "competencia": "Liga Profesional Argentina",
@@ -1769,39 +1678,97 @@
       ]
     },
     {
-      "id": 71,
+      "id": 49,
       "evento": "MLS: Austin vs. SJ Earthquakes",
       "fecha": "2026-09-05 21:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls8es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 72,
+      "id": 50,
       "evento": "MLS: Dallas vs. Sporting KC",
       "fecha": "2026-09-05 21:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls9es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 73,
+      "id": 51,
       "evento": "MLS: Seattle Sounders FC vs. New York RB",
       "fecha": "2026-09-05 21:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls10es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 74,
+      "id": 52,
       "evento": "Liga MX: Tigres UANL vs. Necaxa",
       "fecha": "2026-09-05 22:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Azteca 7 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=azteca7"
+            }
+          ]
+        },
+        {
+          "name": "FOX One",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone6"
+            }
+          ]
+        },
+        {
+          "name": "FOX One 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=foxone"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 75,
+      "id": 53,
       "evento": "Liga 1: Universitario vs. Comerciantes Unidos",
       "fecha": "2026-09-05 22:30:00",
       "competencia": "Liga 1 (Perú)",
@@ -1813,13 +1780,17 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=l1max"
             }
           ]
         }
       ]
     },
     {
-      "id": 76,
+      "id": 54,
       "evento": "Liga BetPlay: Junior vs. Jaguares de Córdoba",
       "fecha": "2026-09-05 22:30:00",
       "competencia": "Liga BetPlay",
@@ -1845,44 +1816,120 @@
       ]
     },
     {
-      "id": 77,
+      "id": 55,
       "evento": "MLS: Real Salt Lake vs. Los Angeles FC",
       "fecha": "2026-09-05 22:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls11es"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 78,
+      "id": 56,
       "evento": "MLS: LA Galaxy vs. New England",
       "fecha": "2026-09-05 22:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls12"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 79,
+      "id": 57,
       "evento": "MLS: Portland Timbers vs. Minnesota United",
       "fecha": "2026-09-05 23:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls13"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 80,
+      "id": 58,
       "evento": "MLS: Vancouver Whitecaps vs. St. Louis City",
       "fecha": "2026-09-05 23:30:00",
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=mls14"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 81,
+      "id": 59,
       "evento": "Liga MX: Atlas vs. Atlante",
       "fecha": "2026-09-06 00:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Canal 5 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://bolaloca.my/player/4/68"
+            }
+          ]
+        },
+        {
+          "name": "TUDN MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        }
+      ]
     }
   ],
   "channels": [
