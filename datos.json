@@ -2,37 +2,73 @@
   "events": [
     {
       "id": 1,
-      "evento": "Tenis: 2026 US Open | Cobertura 2 | En español",
-      "fecha": "2026-09-07 12:00:00",
-      "competencia": "ATP WTA",
-      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "evento": "Copa Sudamericana: Santa Fe vs. Vasco da Gama",
+      "fecha": "2026-09-08 19:00:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
       "canales": [
         {
-          "name": "ESPN 3",
+          "name": "DirecTV Sports",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjM"
+              "name": "Opción 1 (1080p)",
+              "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=dsports"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz1"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=fanatiz2"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok2.html?get=RVNQTjM"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
+              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
             },
             {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
             },
             {
-              "name": "Opción 4",
-              "iframe": "https://stream-xhd.com/live1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://bolaloca.my/player/2/94"
             }
           ]
         }
@@ -40,8 +76,107 @@
     },
     {
       "id": 2,
-      "evento": "Tenis: 2026 US Open | Cobertura 1 | En español",
-      "fecha": "2026-09-07 12:30:00",
+      "evento": "Copa Libertadores: Fluminense vs. Platense",
+      "fecha": "2026-09-08 19:00:00",
+      "competencia": "Copa Libertadores",
+      "logoUrl": "https://bestleague.world/jr/76.png",
+      "canales": [
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=espn"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=fox1ar"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok2.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney13"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=disney12"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz2"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Tenis: J. Pegula (USA) vs. E. Navarro (USA) | En español",
+      "fecha": "2026-09-08 20:00:00",
       "competencia": "ATP WTA",
       "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
       "canales": [
@@ -62,7 +197,7 @@
             },
             {
               "name": "Opción 4",
-              "iframe": "https://stream-xhd.com/live1.php?stream=espn2"
+              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
             },
             {
               "name": "Opción 5",
@@ -77,348 +212,73 @@
       ]
     },
     {
-      "id": 3,
-      "evento": "Serie A: Cagliari vs. Lecce",
-      "fecha": "2026-09-07 13:30:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 4,
-      "evento": "LaLiga: Getafe vs. Celta de Vigo",
-      "fecha": "2026-09-07 14:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "evento": "Copa Sudamericana: Boca Juniors vs. São Paulo",
+      "fecha": "2026-09-08 21:30:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
       "canales": [
         {
-          "name": "Disney+",
+          "name": "ESPN",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=espn"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
         },
         {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://stream-xhd.com/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "Primera División: Albion vs. Progreso",
-      "fecha": "2026-09-07 15:00:00",
-      "competencia": "Primera División Uruguay",
-      "logoUrl": "https://bestleague.world/jr/56.png",
-      "canales": [
-        {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "Serie A: Udinese vs. Lazio",
-      "fecha": "2026-09-07 15:45:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney14"
+            },
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "evento": "Primera División: Guaraní vs. Deportivo Recoleta",
-      "fecha": "2026-09-07 16:00:00",
-      "competencia": "Copa de Primera (Paraguay)",
-      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
-      "canales": [
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "evento": "LaLiga: Elche vs. Real Sociedad",
-      "fecha": "2026-09-07 16:30:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx061.sbs/global1.php?channel=disney13"
             }
           ]
         },
         {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://stream-xhd.com/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "evento": "Primera División: Cerro Porteño vs. Nacional Asunción",
-      "fecha": "2026-09-07 18:30:00",
-      "competencia": "Copa de Primera (Paraguay)",
-      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
-      "canales": [
-        {
           "name": "Fanatiz",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz2"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz3"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "evento": "Liga Profesional: Barracas Central vs. Argentinos Juniors",
-      "fecha": "2026-09-07 19:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
+        },
         {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "evento": "Brasileirão: Vitória vs. Grêmio",
-      "fecha": "2026-09-07 20:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": [
-        {
-          "name": "Premiere 1 BR",
+          "name": "Disney+ 2",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "evento": "Primera División: Deportes Limache vs. Cobresal",
-      "fecha": "2026-09-07 20:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
-        {
-          "name": "TNT Sports Premium Chile",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsportschile"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "evento": "Liga BetPlay: Llaneros vs. Deportes Tolima",
-      "fecha": "2026-09-07 20:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": [
-        {
-          "name": "Win+ Fútbol",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus2"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://bolaloca.my/player/2/81"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "evento": "Liga Profesional: Unión Santa Fe vs. Instituto",
-      "fecha": "2026-09-07 21:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "evento": "Copa Colombia: Atlético Nacional vs. Deportivo Cali",
-      "fecha": "2026-09-07 22:15:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": [
-        {
-          "name": "Win+ Fútbol",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus2"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://bolaloca.my/player/2/81"
+              "iframe": "https://streamxhd.com/live1.php?stream=disney16"
             }
           ]
         }
