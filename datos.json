@@ -2,45 +2,21 @@
   "events": [
     {
       "id": 1,
-      "evento": "UEFA Champions League: Barcelona vs. Feyenoord",
-      "fecha": "2026-09-09 13:45:00",
+      "evento": "UEFA Champions League: PSV vs. Shakhtar Donetsk",
+      "fecha": "2026-09-10 13:45:00",
       "competencia": "UEFA Champions League",
       "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
         {
-          "name": "ESPN",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1col"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
             },
             {
               "name": "Opción 2 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=espn"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney3"
             }
           ]
         },
@@ -49,51 +25,36 @@
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn"
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn2"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
               "name": "Opción 2 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=tudnus"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=ligadecampeones"
-            }
-          ]
-        },
-        {
-          "name": "TUDN US",
-          "options": [
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
+            },
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
+            },
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
-            }
-          ]
-        },
-        {
-          "name": "Paramount+",
-          "options": [
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount1"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx061.sbs/global1.php?channel=foxone1"
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         },
@@ -110,8 +71,8 @@
     },
     {
       "id": 2,
-      "evento": "UEFA Champions League: Stuttgart vs. Viking",
-      "fecha": "2026-09-09 13:45:00",
+      "evento": "UEFA Champions League: Fenerbahçe vs. Roma",
+      "fecha": "2026-09-10 13:45:00",
       "competencia": "UEFA Champions League",
       "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
@@ -120,11 +81,11 @@
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
             },
             {
-              "name": "Opción 2 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RVNQTjM"
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
             }
           ]
         },
@@ -133,7 +94,11 @@
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn5"
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=fox1ar"
             }
           ]
         },
@@ -143,6 +108,210 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=max1"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=max1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        },
+        {
+          "name": "TUDN US",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=tudnus"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "UEFA Champions League: Slavia Praha vs. Lens",
+      "fecha": "2026-09-10 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "UEFA Champions League: Manchester United vs. Sabah",
+      "fecha": "2026-09-10 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 2 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=max2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=max3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "UEFA Champions League: Como vs. RB Leipzig",
+      "fecha": "2026-09-10 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=max3"
             }
           ]
         },
@@ -176,11 +345,84 @@
           ]
         },
         {
-          "name": "Paramount+",
+          "name": "Fox Sports 1",
           "options": [
             {
               "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=paramount2"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "UEFA Champions League: Bayern München vs. Bodø / Glimt",
+      "fecha": "2026-09-10 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "TUDN US",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 2 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         },
@@ -196,277 +438,48 @@
       ]
     },
     {
-      "id": 3,
-      "evento": "UEFA Champions League: Sporting CP vs. Galatasaray",
-      "fecha": "2026-09-09 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney4"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "evento": "UEFA Champions League: PSG vs. Slovan Bratislava",
-      "fecha": "2026-09-09 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney5"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjNfVXktUHk="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
-            },
-            {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjNfVXktUHk="
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3 CO",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3col"
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRzM0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports3"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "UEFA Champions League: Napoli vs. Arsenal",
-      "fecha": "2026-09-09 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
-            },
-            {
-              "name": "Opción 2 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RVNQTjJIRA"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney6"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 5",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjQ="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "UEFA Champions League: Liverpool vs. Atlético Madrid",
-      "fecha": "2026-09-09 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
-            }
-          ]
-        },
-        {
-          "name": "Disney+ 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney7"
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports 1",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 7,
-      "evento": "EFL Carabao Cup: Chelsea vs. Leeds United",
-      "fecha": "2026-09-09 16:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "evento": "Copa Sudamericana: Cienciano vs. Torque",
+      "fecha": "2026-09-10 21:30:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
       "canales": [
         {
-          "name": "Disney+",
+          "name": "DirecTV Sports",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
             }
           ]
         },
         {
-          "name": "Disney+ 2",
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz3"
+            }
+          ]
+        },
+        {
+          "name": "DSports",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=disney9"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://bolaloca.my/player/2/94"
             }
           ]
         }
@@ -474,17 +487,77 @@
     },
     {
       "id": 8,
-      "evento": "Championship: Charlton Athletic vs. Queens Park Rangers",
-      "fecha": "2026-09-09 16:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "evento": "Copa Libertadores: Independiente del Valle vs. Flamengo",
+      "fecha": "2026-09-10 21:30:00",
+      "competencia": "Copa Libertadores",
+      "logoUrl": "https://bestleague.world/jr/76.png",
       "canales": [
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn"
+            }
+          ]
+        },
+        {
+          "name": "Fox Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        },
         {
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz2"
+            }
+          ]
+        },
+        {
+          "name": "Disney+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney8"
             }
           ]
         }
@@ -492,17 +565,39 @@
     },
     {
       "id": 9,
-      "evento": "Primeira Liga: Moreirense vs. Benfica",
-      "fecha": "2026-09-09 16:45:00",
-      "competencia": "Primeira Liga",
-      "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
+      "evento": "Liga BetPlay: Millonarios vs. Deportivo Cali",
+      "fecha": "2026-09-10 22:00:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
         {
-          "name": "DSports 2",
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=fanatiz4"
+            }
+          ]
+        },
+        {
+          "name": "Win Sports+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
+            }
+          ]
+        },
+        {
+          "name": "Win+ Fútbol",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus2"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://bolaloca.my/player/2/81"
             }
           ]
         }
@@ -510,45 +605,17 @@
     },
     {
       "id": 10,
-      "evento": "Copa Argentina: Deportivo Riestra vs. Banfield",
-      "fecha": "2026-09-09 19:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "evento": "Copa Centroamericana de CONCACAF: Marathón vs Alajuelense",
+      "fecha": "2026-09-11 02:06:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
-          "name": "TyC Sports",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VHlDU3BvcnQ"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesportz.cfd/embed/tycsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://bolaloca.my/player/2/77"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VHlDU3BvcnQ"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://tvlibreonline.st/pc/ext/?r=https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8%3Fheaders%3DeyJvcmlnaW4iOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbSIsInJlZmVyZXIiOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbS8ifQ%3D%3D"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney9"
             }
           ]
         }
@@ -556,37 +623,17 @@
     },
     {
       "id": 11,
-      "evento": "Copa Sudamericana: Santos vs. Atlético Mineiro",
-      "fecha": "2026-09-09 19:00:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "evento": "Liga MX: Pumas UNAM vs León",
+      "fecha": "2026-09-11 04:05:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
       "canales": [
         {
-          "name": "ESPN 5",
+          "name": "TUDN US",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjQ="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
             }
           ]
         }
@@ -594,171 +641,21 @@
     },
     {
       "id": 12,
-      "evento": "Copa Libertadores: Palmeiras vs. LDU Quito",
-      "fecha": "2026-09-09 19:00:00",
-      "competencia": "Copa Libertadores",
-      "logoUrl": "https://bestleague.world/jr/76.png",
-      "canales": [
-        {
-          "name": "FOX Sports 1",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "evento": "Liga Profesional Saudí: Al Nassr vs Abha",
-      "fecha": "2026-09-09 19:00:00",
-      "competencia": "Liga Saudí",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone2"
-            }
-          ]
-        },
-        {
-          "name": "Eventos",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=foxdeportes"
-            }
-          ]
-        },
-        {
-          "name": "Fox Deportes",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox_deportes_usa"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "evento": "EFL Cup: Chelsea vs Leeds United",
-      "fecha": "2026-09-09 20:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
-    },
-    {
-      "id": 15,
-      "evento": "Copa Libertadores: Estudiantes vs. Corinthians",
-      "fecha": "2026-09-09 21:30:00",
-      "competencia": "Copa Libertadores",
-      "logoUrl": "https://bestleague.world/jr/76.png",
-      "canales": [
-        {
-          "name": "FOX Sports 1",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "evento": "MLS: Chicago Fire vs. Inter Miami",
-      "fecha": "2026-09-09 21:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 17,
-      "evento": "Copa Colombia: América de Cali vs Deportivo Pereira",
-      "fecha": "2026-09-10 00:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": []
-    },
-    {
-      "id": 18,
-      "evento": "Copa Centroamericana de CONCACAF: Deportivo Saprissa vs Cartaginés",
-      "fecha": "2026-09-10 02:06:00",
+      "evento": "Copa Centroamericana de CONCACAF: Firpo vs Olimpia",
+      "fecha": "2026-09-11 04:06:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
-    },
-    {
-      "id": 19,
-      "evento": "Copa Colombia: Deportivo Pasto vs Medellín",
-      "fecha": "2026-09-10 02:10:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": []
-    },
-    {
-      "id": 20,
-      "evento": "MLS: Los Angeles FC vs New York RB",
-      "fecha": "2026-09-10 03:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 21,
-      "evento": "Copa Centroamericana de CONCACAF: Motagua vs Alianza",
-      "fecha": "2026-09-10 04:06:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney10"
+            }
+          ]
+        }
+      ]
     }
   ],
   "channels": [
