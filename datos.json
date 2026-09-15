@@ -1,366 +1,9 @@
 {
-  "events": [
-    {
-      "id": 1,
-      "evento": "AFC Champions League Elite: Al Ain vs Al Nassr",
-      "fecha": "2026-09-15 17:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
-    },
-    {
-      "id": 2,
-      "evento": "Copa de Italia: Genoa vs Südtirol",
-      "fecha": "2026-09-15 17:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": []
-    },
-    {
-      "id": 3,
-      "evento": "LaLiga: Rayo Vallecano vs Espanyol",
-      "fecha": "2026-09-15 18:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": []
-    },
-    {
-      "id": 4,
-      "evento": "Liga Profesional: Banfield vs. Barracas Central",
-      "fecha": "2026-09-15 19:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "Liga Profesional: Deportivo Riestra vs. Lanús",
-      "fecha": "2026-09-15 19:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "Primera División: Torque vs. Liverpool",
-      "fecha": "2026-09-15 19:00:00",
-      "competencia": "Primera División Uruguay",
-      "logoUrl": "https://bestleague.world/jr/56.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney8"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "evento": "LaLiga: Deportivo Alavés vs Valencia",
-      "fecha": "2026-09-15 19:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": []
-    },
-    {
-      "id": 8,
-      "evento": "Eredivisie: Ajax vs Willem II",
-      "fecha": "2026-09-15 19:00:00",
-      "competencia": "Eredivisie",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
-    },
-    {
-      "id": 9,
-      "evento": "AFC Champions League Elite: Al Hilal vs Al Gharafa",
-      "fecha": "2026-09-15 19:15:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
-    },
-    {
-      "id": 10,
-      "evento": "Carabao Cup: West Ham United vs Fulham",
-      "fecha": "2026-09-15 19:45:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
-    },
-    {
-      "id": 11,
-      "evento": "Brasileirão: Bahia vs. Remo",
-      "fecha": "2026-09-15 20:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": [
-        {
-          "name": "Premiere 1 BR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "evento": "Carabao Cup: Liverpool vs Tottenham Hotspur",
-      "fecha": "2026-09-15 20:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
-    },
-    {
-      "id": 13,
-      "evento": "Carabao Cup: Reading vs Brentford",
-      "fecha": "2026-09-15 20:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
-    },
-    {
-      "id": 14,
-      "evento": "Carabao Cup: Ipswich Town vs Arsenal",
-      "fecha": "2026-09-15 20:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "canales": []
-    },
-    {
-      "id": 15,
-      "evento": "Copa de Italia: Fiorentina vs Pisa",
-      "fecha": "2026-09-15 20:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "canales": []
-    },
-    {
-      "id": 16,
-      "evento": "Primera División: Unión La Calera vs. Deportes Limache",
-      "fecha": "2026-09-15 20:30:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
-        {
-          "name": "TNT Sports Premium Chile",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "evento": "LaLiga: Elche vs Real Madrid",
-      "fecha": "2026-09-15 20:30:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "canales": []
-    },
-    {
-      "id": 18,
-      "evento": "Liga Profesional: Instituto vs. Estudiantes Río Cuarto",
-      "fecha": "2026-09-15 21:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "evento": "Liga BetPlay: América de Cali vs. Deportivo Pasto",
-      "fecha": "2026-09-15 22:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": [
-        {
-          "name": "Win+ Fútbol",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "evento": "Liga MX: León vs. Atlético San Luis",
-      "fecha": "2026-09-15 22:00:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "canales": [
-        {
-          "name": "FOX One",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "evento": "Copa Libertadores: Platense vs Fluminense",
-      "fecha": "2026-09-15 23:00:00",
-      "competencia": "Copa Libertadores",
-      "logoUrl": "https://bestleague.world/jr/76.png",
-      "canales": []
-    },
-    {
-      "id": 22,
-      "evento": "Copa Sudamericana: Vasco da Gama vs Santa Fe",
-      "fecha": "2026-09-15 23:00:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
-      "canales": []
-    },
-    {
-      "id": 23,
-      "evento": "Copa Sudamericana: São Paulo vs Boca Juniors",
-      "fecha": "2026-09-16 01:30:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
-      "canales": []
-    },
-    {
-      "id": 24,
-      "evento": "Liga BetPlay: Boyacá Chicó vs Alianza",
-      "fecha": "2026-09-16 01:30:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": []
-    },
-    {
-      "id": 25,
-      "evento": "Liga MX: Puebla vs Toluca",
-      "fecha": "2026-09-16 02:00:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "canales": []
-    }
-  ],
+  "events": [],
   "channels": [
     {
       "name": "Varios",
-      "logo": "",
+      "logo": "https://images.seeklogo.com/logo-png/13/1/the-simpsons-tv-logo-png_seeklogo-139137.png",
       "options": [
         {
           "name": "DSports 1080p (Opcion 1)",
@@ -788,7 +431,7 @@
         },
         {
           "name": "Opción 3",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn2"
+          "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
         },
         {
           "name": "Opción 4",
@@ -804,7 +447,7 @@
     },
     {
       "name": "ESPN 3",
-      "logo": "https://espnpressroom.com/us/files/2011/10/ESPN3_Logo_Resize2.jpg",
+      "logo": "https://bestleague.world/img/espn3.webp",
       "options": [
         {
           "name": "Opción 1",
@@ -812,7 +455,7 @@
         },
         {
           "name": "Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn3"
+          "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
         },
         {
           "name": "Opción 3",
@@ -836,7 +479,7 @@
         },
         {
           "name": "Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn4"
+          "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
         },
         {
           "name": "Opción 3",
@@ -860,7 +503,7 @@
         },
         {
           "name": "Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn5"
+          "iframe": "https://streamtp-golden1.click/global1.php?stream=espn5"
         },
         {
           "name": "Opción 3",
@@ -888,7 +531,7 @@
         },
         {
           "name": "Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn6"
+          "iframe": "https://streamtp-golden1.click/global1.php?stream=espn6"
         },
         {
           "name": "Opción 3",
@@ -912,7 +555,7 @@
         },
         {
           "name": "Opción 2",
-          "iframe": "https://streamtpday1.xyz/global1.php?stream=espn7"
+          "iframe": "https://streamtp-golden1.click/global1.php?stream=espn7"
         },
         {
           "name": "Opción 3",
