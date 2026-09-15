@@ -186,6 +186,10 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=dsports2"
             }
           ]
         },
@@ -230,26 +234,30 @@
           "options": [
             {
               "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn4"
+            },
+            {
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
             },
             {
-              "name": "Opción 2 (FL)",
+              "name": "Opción 3 (FL)",
               "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTkhE"
             },
             {
-              "name": "Opción 3",
+              "name": "Opción 4",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
             },
             {
-              "name": "Opción 4",
+              "name": "Opción 5",
               "iframe": "https://streamxhd.com/live1.php?stream=espn4"
             },
             {
-              "name": "Opción 5",
+              "name": "Opción 6",
               "iframe": "https://welivesportz.cfd/embed/espn4col.php"
             },
             {
-              "name": "Opción 6 (Extensión)",
+              "name": "Opción 7 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
             }
           ]
@@ -376,6 +384,10 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=dsportsplus"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=dsportsplus"
             }
           ]
         },
@@ -406,10 +418,14 @@
             },
             {
               "name": "Opción 2 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=dsports"
+            },
+            {
+              "name": "Opción 3 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
             },
             {
-              "name": "Opción 3 (Ads)",
+              "name": "Opción 4 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
             }
           ]
@@ -431,19 +447,23 @@
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espndeportes"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
+              "name": "Opción 2 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=espndeportes"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://welivesportz.cfd/embed/espndeportes.php"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
             },
             {
               "name": "Opción 4",
+              "iframe": "https://welivesportz.cfd/embed/espndeportes.php"
+            },
+            {
+              "name": "Opción 5",
               "iframe": "https://dlstreams.st/stream/stream-375.php"
             },
             {
-              "name": "Opción 5 (Ads)",
+              "name": "Opción 6 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
             }
           ]
@@ -496,7 +516,7 @@
           ]
         },
         {
-          "name": "ESPN",
+          "name": "ESPN CO",
           "options": [
             {
               "name": "Opción 1 (720p)",
@@ -504,7 +524,7 @@
             },
             {
               "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+              "iframe": "https://welivesportz.cfd/futbol/espn1col.php"
             }
           ]
         },
@@ -513,10 +533,14 @@
           "options": [
             {
               "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn2"
+            },
+            {
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 2 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             }
           ]
@@ -555,50 +579,32 @@
               "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
             },
             {
-              "name": "Opción 2 (FL)",
+              "name": "Opción 2 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=fox1ar"
+            },
+            {
+              "name": "Opción 3 (FL)",
               "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
             },
             {
-              "name": "Opción 3",
+              "name": "Opción 4",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
             },
             {
-              "name": "Opción 4",
+              "name": "Opción 5",
               "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
             },
             {
-              "name": "Opción 5",
+              "name": "Opción 6",
               "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
             },
             {
-              "name": "Opción 6 (Ads)",
+              "name": "Opción 7 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
             },
             {
-              "name": "Opción 7 (Extensión)",
+              "name": "Opción 8 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2col"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
             }
           ]
         },
@@ -612,6 +618,32 @@
             {
               "name": "Opción 2 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn3mx.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2col"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             }
           ]
         }
@@ -656,10 +688,14 @@
           "options": [
             {
               "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn"
+            },
+            {
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
             },
             {
-              "name": "Opción 2 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
             }
           ]
