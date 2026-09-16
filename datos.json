@@ -11,7 +11,7 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
             }
           ]
@@ -20,27 +20,31 @@
           "name": "ESPN 3",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjM"
-            },
-            {
-              "name": "Opción 2",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3"
             },
             {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=espn3"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjM"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn3"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
             },
             {
               "name": "Opción 5",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 6",
               "iframe": "https://welivesportz.cfd/embed/espn3col.php"
             },
             {
-              "name": "Opción 6 (Extensión)",
+              "name": "Opción 7 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
             }
           ]
@@ -58,8 +62,38 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "TUDN US",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=tudnus"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
+            }
+          ]
+        },
+        {
+          "name": "ESPN MX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/embed/stream.php?r=espnmx"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnmx"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1mx.php"
             }
           ]
         },
@@ -67,12 +101,12 @@
           "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
               "name": "Opción 3",
@@ -109,8 +143,17 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus2"
             }
           ]
         },
@@ -118,12 +161,12 @@
           "name": "ESPN 4",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTkhE"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTkhE"
             },
             {
               "name": "Opción 3",
@@ -156,7 +199,7 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
             },
             {
@@ -166,15 +209,24 @@
           ]
         },
         {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus1"
+            }
+          ]
+        },
+        {
           "name": "ESPN",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+              "name": "Opción 2 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
             },
             {
               "name": "Opción 3",
@@ -195,6 +247,19 @@
             {
               "name": "Opción 7 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espndeportes"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
             }
           ]
         }
@@ -501,6 +566,28 @@
       "logoUrl": "https://angulismo-pics.pages.dev/es.png",
       "canales": [
         {
+          "name": "DAZN LaLiga",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=daznlaliga"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney15"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney15"
+            }
+          ]
+        },
+        {
           "name": "ESPN",
           "options": [
             {
@@ -530,6 +617,49 @@
             {
               "name": "Opción 7 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espndeportes"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://welivesportz.cfd/embed/espndeportes.php"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://dlstreams.st/stream/stream-375.php"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnplus3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN+ 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=espnplus3"
             }
           ]
         }
@@ -630,6 +760,35 @@
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
+        },
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://bolaloca.my/player/2/94"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            }
+          ]
         }
       ]
     },
@@ -640,6 +799,32 @@
       "competencia": "Copa Libertadores",
       "logoUrl": "https://bestleague.world/jr/76.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney16"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney17"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            }
+          ]
+        },
         {
           "name": "FOX Sports 1",
           "options": [
@@ -681,10 +866,44 @@
       "fecha": "2026-09-16 19:30:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Premiere 1 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere1"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 21,
+      "evento": "Carabao Cup: Everton vs Wolves",
+      "fecha": "2026-09-16 19:45:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 22,
+      "evento": "Carabao Cup: Manchester United vs Brighton & Hove Albion",
+      "fecha": "2026-09-16 20:00:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 23,
+      "evento": "Carabao Cup: Coventry City vs Aston Villa",
+      "fecha": "2026-09-16 20:00:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "canales": []
+    },
+    {
+      "id": 24,
       "evento": "Liga BetPlay: Once Caldas vs. Deportes Tolima",
       "fecha": "2026-09-16 20:15:00",
       "competencia": "Liga BetPlay",
@@ -702,12 +921,78 @@
       ]
     },
     {
-      "id": 22,
+      "id": 25,
+      "evento": "Campeones Cup: Inter Miami vs. Cruz Azul",
+      "fecha": "2026-09-16 21:00:00",
+      "competencia": "Eventos",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Apple TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=appletv1"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudnmx"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=tudnmx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
       "evento": "Copa Libertadores: Corinthians vs. Estudiantes",
       "fecha": "2026-09-16 21:30:00",
       "competencia": "Copa Libertadores",
       "logoUrl": "https://bestleague.world/jr/76.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney17"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney18"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            }
+          ]
+        },
         {
           "name": "FOX Sports 1",
           "options": [
@@ -744,7 +1029,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 27,
       "evento": "Liga BetPlay: Inter Bogotá vs. Atlético Nacional",
       "fecha": "2026-09-16 22:20:00",
       "competencia": "Liga BetPlay",
@@ -762,238 +1047,20 @@
       ]
     },
     {
-      "id": 24,
-      "evento": "Copa Libertadores: Platense vs Fluminense",
-      "fecha": "2026-09-16 23:00:00",
-      "competencia": "Copa Libertadores",
-      "logoUrl": "https://bestleague.world/jr/76.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney9"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        },
-        {
-          "name": "Fox Sports 1",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=fox1ar"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3 MX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn3mx"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3mx"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn3mx.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "evento": "Copa Sudamericana: Vasco da Gama vs Santa Fe",
-      "fecha": "2026-09-16 23:00:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney10"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=disney10"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=espn"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn1col"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "evento": "Copa Sudamericana: São Paulo vs Boca Juniors",
-      "fecha": "2026-09-17 01:30:00",
-      "competencia": "Copa Sudamericana",
-      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1 (1080p)",
-              "iframe": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=dsports"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            }
-          ]
-        },
-        {
-          "name": "Eventos",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports_eventos"
-            }
-          ]
-        },
-        {
-          "name": "Eventos 2",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=dsports"
-            }
-          ]
-        },
-        {
-          "name": "Eventos 3",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "evento": "Liga BetPlay: Boyacá Chicó vs Alianza",
-      "fecha": "2026-09-17 01:30:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "canales": [
-        {
-          "name": "Win Sports+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=winplus"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 28,
-      "evento": "Liga MX: Puebla vs Toluca",
-      "fecha": "2026-09-17 02:00:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "canales": [
-        {
-          "name": "TUDN US",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=tudnus"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN MX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnmx"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://hondurasplay.com/embed/stream.php?r=espnmx"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnmx"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1mx.php"
-            }
-          ]
-        }
-      ]
+      "evento": "Copa Centroamericana de CONCACAF: Cartaginés vs Deportivo Saprissa",
+      "fecha": "2026-09-17 01:30:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 29,
+      "evento": "Copa Centroamericana de CONCACAF: Alianza vs Motagua",
+      "fecha": "2026-09-17 04:15:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
     }
   ],
   "channels": [
