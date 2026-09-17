@@ -13,6 +13,10 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney3"
             }
           ]
         },
@@ -60,6 +64,10 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=disney2"
             }
           ]
         },
@@ -71,12 +79,12 @@
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 2 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
+              "name": "Opción 2 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
               "name": "Opción 4",
@@ -118,28 +126,41 @@
           "name": "DSports",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la16hd.com/dsportsar.php"
+            },
+            {
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=dsports"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 3",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
             },
             {
-              "name": "Opción 3",
+              "name": "Opción 4",
               "iframe": "https://streamxhd.com/live1.php?stream=dsports"
             },
             {
-              "name": "Opción 4",
+              "name": "Opción 5",
               "iframe": "https://welivesportz.cfd/embed/directvarg.php"
             },
             {
-              "name": "Opción 5",
+              "name": "Opción 6",
               "iframe": "https://bolaloca.my/player/2/94"
             },
             {
-              "name": "Opción 6 (Ads)",
+              "name": "Opción 7 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnplus1"
             }
           ]
         },
