@@ -2,75 +2,6 @@
   "events": [
     {
       "id": 1,
-      "evento": "Brasileirão: São Paulo vs Internacional",
-      "fecha": "2026-09-20 01:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "canales": [
-        {
-          "name": "Premiere 1",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=premiere1"
-            }
-          ]
-        },
-        {
-          "name": "Premiere BR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "evento": "Liga Profesional: Instituto vs Talleres Córdoba",
-      "fecha": "2026-09-20 01:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=tntar"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
       "evento": "Liga MX: Monterrey vs. Cruz Azul",
       "fecha": "2026-09-20 22:10:00",
       "competencia": "Liga MX",
@@ -80,68 +11,8 @@
           "name": "Canal 5 MX",
           "options": [
             {
-              "name": "Opción 1 (720p)",
+              "name": "Opción 1",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=canal5mx"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=canal5mx"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=canal5"
-            }
-          ]
-        },
-        {
-          "name": "TUDN US",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=tudnus"
-            }
-          ]
-        },
-        {
-          "name": "TUDN MX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudnmx"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=tudnmx"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tudn_mx"
-            }
-          ]
-        },
-        {
-          "name": "TUDN USA",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tudn"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html"
-            }
-          ]
-        },
-        {
-          "name": "Univisión",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=univision"
             }
           ]
         },
@@ -150,10 +21,14 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
             },
             {
               "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
+            },
+            {
+              "name": "Opción 3",
               "iframe": "https://stream-xhd.com/live1.php?stream=tudn_usa"
             }
           ]
@@ -161,7 +36,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 2,
       "evento": "Liga 1: Melgar vs. Sport Boys",
       "fecha": "2026-09-20 22:15:00",
       "competencia": "Liga 1 (Perú)",
@@ -171,31 +46,15 @@
           "name": "Liga 1 Max",
           "options": [
             {
-              "name": "Opción 1 (720p)",
+              "name": "Opción 1",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
             },
             {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=liga1max"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 5 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
-            },
-            {
-              "name": "Opción 6",
+              "name": "Opción 2",
               "iframe": "https://streamxhd.com/live1.php?stream=l1max"
             },
             {
-              "name": "Opción 7 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
@@ -203,37 +62,25 @@
       ]
     },
     {
-      "id": 5,
+      "id": 3,
       "evento": "Liga BetPlay: Deportivo Pasto vs. Once Caldas",
       "fecha": "2026-09-20 22:15:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
         {
-          "name": "Win Sports +",
+          "name": "Win+ Fútbol",
           "options": [
             {
-              "name": "Opción 1 (720p)",
+              "name": "Opción 1",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=winsports2"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
             }
           ]
         }
       ]
     },
     {
-      "id": 6,
+      "id": 4,
       "evento": "MLS: Colorado Rapids vs. Seattle Sounders FC",
       "fecha": "2026-09-20 22:30:00",
       "competencia": "MLS",
@@ -251,7 +98,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 5,
       "evento": "MLS: Nashville SC vs. Chicago Fire",
       "fecha": "2026-09-20 22:30:00",
       "competencia": "MLS",
@@ -269,7 +116,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 6,
       "evento": "MLS: Real Salt Lake vs. Vancouver Whitecaps",
       "fecha": "2026-09-20 22:30:00",
       "competencia": "MLS",
@@ -287,7 +134,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 7,
       "evento": "MLS: Portland Timbers vs. Atlanta United",
       "fecha": "2026-09-20 23:30:00",
       "competencia": "MLS",
@@ -305,26 +152,18 @@
       ]
     },
     {
-      "id": 10,
+      "id": 8,
       "evento": "Liga MX: América vs. Guadalajara",
       "fecha": "2026-09-21 00:15:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
       "canales": [
         {
-          "name": "Canal 5 MX",
+          "name": "Canal 5",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=canal5mx"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=canal5mx"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=canal5"
+              "name": "Opción 1 (1080p)",
+              "iframe": "https://tv-90.com/canal5.php"
             }
           ]
         },
@@ -334,10 +173,32 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 MX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/hd/hd2.php"
             },
             {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=tudnus"
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=canal5"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=canal5mx"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://hondurasplay.com/hd/hd1.php"
             }
           ]
         },
@@ -345,15 +206,7 @@
           "name": "TUDN MX",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudnmx"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=tudnmx"
-            },
-            {
-              "name": "Opción 3",
+              "name": "Opción 1",
               "iframe": "https://la18hd.su/vivo/canal.php?stream=tudn_mx"
             }
           ]
