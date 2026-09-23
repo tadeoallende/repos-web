@@ -26,6 +26,39 @@
         }
       ]
     },
+
+    {
+  "id": 999,
+  "evento": "TEST MIXTO: River vs Boca",
+  "fecha": "2026-09-23 23:59:00",
+  "competencia": "Test de formatos",
+  "logoUrl": "https://bestleague.world/jr/127.png",
+  "canales": [
+    "ESPN 1",
+    "TNT Sports",
+    {
+      "name": "Canal Exclusivo Test",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://tvf90.com/1.php?stream=test1"
+        },
+        {
+          "name": "Opción 2 (Ads)",
+          "iframe": "https://welivesportz.cfd/futbol/test2.php"
+        }
+      ]
+    },
+    {
+      "name": "Ver en YouTube",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "name": "Ver en Google",
+      "url": "https://www.google.com"
+    }
+  ]
+},
     {
       "id": 2,
       "evento": "Torneo de Reserva: Belgrano vs. Talleres de Córdoba",
