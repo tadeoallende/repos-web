@@ -2,125 +2,6 @@
   "events": [
     {
       "id": 1,
-      "evento": "UEFA Women's Champions League: Servette Chênois Féminin vs. OL Lyonnes",
-      "fecha": "2026-09-23 13:45:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "evento": "Juegos Suramericanos: Perú vs. Argentina",
-      "fecha": "2026-09-23 14:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "TyC Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VHlDU3BvcnQ"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tycsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tycsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VHlDU3BvcnQ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "evento": "UEFA Women's Champions League: Chelsea FC vs. Austria Wien",
-      "fecha": "2026-09-23 16:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
       "evento": "Liga 1: ADT vs. Cienciano",
       "fecha": "2026-09-23 17:00:00",
       "competencia": "Liga 1 (Perú)",
@@ -130,11 +11,15 @@
           "name": "Liga 1 Max",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://tvf90.com/1.php?stream=liga1max"
             },
             {
-              "name": "Opción 2 (Ads)",
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=liga1max"
+            },
+            {
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
@@ -142,8 +27,8 @@
       ]
     },
     {
-      "id": 5,
-      "evento": "Torneo de Reserva: Belgrano Res. vs. Talleres de Córdoba Res.",
+      "id": 2,
+      "evento": "Torneo de Reserva: Belgrano vs. Talleres de Córdoba",
       "fecha": "2026-09-23 19:00:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
@@ -160,34 +45,149 @@
       ]
     },
     {
-      "id": 6,
+      "id": 3,
       "evento": "UEFA Women's Champions League: Barcelona vs Paris FC",
       "fecha": "2026-09-23 20:00:00",
       "competencia": "UEFA Champions League",
       "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://tvf90.com/canal.php?stream=espndeportes"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=espndeportes"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 7,
-      "evento": "Liga de Naciones de la CONCACAF: Bahamas vs Saint Martin",
-      "fecha": "2026-09-23 21:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
+      "id": 4,
+      "evento": "UEFA Women's Champions League: Chelsea FC vs Austria Wien",
+      "fecha": "2026-09-23 20:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
+      "canales": [
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://tvf90.com/1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=espn"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 8,
+      "id": 5,
       "evento": "Liga BetPlay: América de Cali vs. Rionegro Águilas",
       "fecha": "2026-09-23 21:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
         {
-          "name": "Win+ Fútbol",
+          "name": "Win Sports +",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://tvf90.com/1.php?stream=winsports2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "Copa Chile: Curicó Unido vs Deportes Concepción",
+      "fecha": "2026-09-23 22:00:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports CL",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://tvf90.com/1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=tntsportscl"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "MLS: Seattle Sounders FC vs. Real Salt Lake",
+      "fecha": "2026-09-23 22:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": [
+        {
+          "name": "MLS",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
+              "iframe": "https://streamx305.sbs/global1.php?channel=mls1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Copa Chile: Deportes Iquique vs Antofagasta",
+      "fecha": "2026-09-24 00:30:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://bestleague.world/jr/35.png",
+      "canales": [
+        {
+          "name": "TNT Sports CL",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://tvf90.com/1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=tntsportscl"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
             }
           ]
         }
@@ -195,43 +195,21 @@
     },
     {
       "id": 9,
-      "evento": "Copa Chile: Curicó Unido vs Deportes Concepción",
-      "fecha": "2026-09-23 22:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": []
-    },
-    {
-      "id": 10,
-      "evento": "MLS: Seattle Sounders FC vs. Real Salt Lake",
-      "fecha": "2026-09-23 22:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": []
-    },
-    {
-      "id": 11,
-      "evento": "Liga de Naciones de la CONCACAF: Aruba vs Antigua y Barbuda",
-      "fecha": "2026-09-24 00:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": []
-    },
-    {
-      "id": 12,
-      "evento": "Copa Chile: Deportes Iquique vs Antofagasta",
-      "fecha": "2026-09-24 00:30:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": []
-    },
-    {
-      "id": 13,
       "evento": "Copa Chile: Unión La Calera vs Universidad Católica",
       "fecha": "2026-09-24 00:30:00",
       "competencia": "Primera División Chile",
       "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=max1"
+            }
+          ]
+        }
+      ]
     }
   ],
   "channels": [
