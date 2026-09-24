@@ -1334,7 +1334,7 @@
     {
       "name": "FOX Sports",
       "logo": "https://logowik.com/content/uploads/images/fox-sports3529.jpg",
-      "options":      "options": [
+      "options":     
         {
           "name": "Opción 1",
           "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
