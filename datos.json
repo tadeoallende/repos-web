@@ -1928,134 +1928,6 @@
       "featured": false
     },
     {
-      "name": "Liga 1 Max",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1 (720p)",
-          "iframe": "https://tvf90.com/1.php?stream=liga1max"
-        },
-        {
-          "name": "Opción 2 (720p)",
-          "iframe": "https://streamx305.sbs/global1.php?channel=liga1max"
-        },
-        {
-          "name": "Opción 3 (Ads)",
-          "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
-      "name": "Eventos",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1 (720p)",
-          "iframe": "https://tvf90.com/canal.php?stream=espndeportes"
-        },
-        {
-          "name": "Opción 1",
-          "iframe": "https://streamxhd.com/live1.php?stream=evento1"
-        },
-        {
-          "name": "Opción 1 (720p)",
-          "iframe": "https://streamx305.sbs/global1.php?channel=eventos2"
-        },
-        {
-          "name": "Opción 2",
-          "iframe": "https://streamxhd.com/live1.php?stream=evento2"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
-      "name": "ESPN Deportes",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1 (720p)",
-          "iframe": "https://streamx305.sbs/global1.php?channel=espndeportes"
-        },
-        {
-          "name": "Opción 2 (Ads)",
-          "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
-      "name": "ESPN",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1 (720p)",
-          "iframe": "https://tvf90.com/1.php?stream=espn2"
-        },
-        {
-          "name": "Opción 2 (720p)",
-          "iframe": "https://streamx305.sbs/global1.php?channel=espn"
-        },
-        {
-          "name": "Opción 1 (FL)",
-          "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
-        },
-        {
-          "name": "Opción 2",
-          "iframe": "https://streamx305.sbs/global1.php?stream=espn2"
-        },
-        {
-          "name": "Opción 3",
-          "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-        },
-        {
-          "name": "Opción 4",
-          "iframe": "https://streamxhd.com/live1.php?stream=espn2"
-        },
-        {
-          "name": "Opción 5",
-          "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-        },
-        {
-          "name": "Opción 6 (Extensión)",
-          "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
-      "name": "MAX",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1 (720p)",
-          "iframe": "https://streamx305.sbs/global1.php?channel=max1"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
-      "name": "DAZN F1 ES",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1",
-          "iframe": "https://streamx061.sbs/global1.php?channel=daznf1"
-        },
-        {
-          "name": "Opción 2",
-          "iframe": "https://streamxhd.com/live1.php?stream=daznf1"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
       "name": "FOX Sports 1",
       "logo": "",
       "options": [
@@ -2084,52 +1956,12 @@
           "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
         },
         {
-          "name": "Opción 7 (Extensión)",
-          "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-        },
-        {
-          "name": "Opción 1 (720p)",
+          "name": "Opción 7 ",
           "iframe": "https://streamx061.sbs/global1.php?channel=fox1ar"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
-      "name": "Telemundo Deportes",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1 (720p)",
-          "iframe": "https://streamx305.sbs/global1.php?channel=telemundodeportes"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
-      "name": "DAZN F1",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1 (720p)",
-          "iframe": "https://streamx061.sbs/global1.php?channel=daznf1"
         },
         {
-          "name": "Opción 2 (720p)",
-          "iframe": "https://streamxhd.com/live1.php?stream=daznf1"
-        }
-      ],
-      "show": true,
-      "featured": false
-    },
-    {
-      "name": "Win+ Fútbol",
-      "logo": "",
-      "options": [
-        {
-          "name": "Opción 1",
-          "iframe": "https://streamx305.sbs/global1.php?channel=winplus"
+          "name": "Opción 8 (Extensión)",
+          "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
         }
       ],
       "show": true,
