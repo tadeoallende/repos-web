@@ -75,7 +75,8 @@
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         "DAZN F1",
-        "Fox Sports 1"
+        "Fox Sports 1",
+        "Disney+"
       ]
     },
     {
@@ -2113,6 +2114,10 @@
         {
           "name": "Opción 1 (720p)",
           "iframe": "https://streamx061.sbs/global1.php?channel=daznf1"
+        },
+        {
+          "name": "Opción 2 (720p)",
+          "iframe": "https://streamxhd.com/live1.php?stream=daznf1"
         }
       ],
       "show": true,
