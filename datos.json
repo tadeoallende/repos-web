@@ -565,7 +565,7 @@
         {
           "name": "Opción 6 (EXTENSION PC SIN DELAY 1080p)",
           "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=eeespee1-giaaaa"
-        },
+        }
       ],
       "show": true,
       "featured": true
@@ -732,7 +732,7 @@
       "options": [
         {
           "name": "Opción 1",
-          "iframe": "https://bestleague.life/cvatt.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE&lang=1"
+          "iframe": "https://bestleague.life/cvatt.html?get=Rm94X1Nwb3J0c19QcmVtaXVtX0hE&lang=1"
         },
         {
           "name": "Opción 2",
@@ -744,7 +744,7 @@
         },
         {
           "name": "Opción 4",
-          "iframe": "https://sopracan-28-04-flotodsplaaerbloeer.blogspot.com/p/cantodossplaaer-2.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+          "iframe": "https://sopracan-28-04-flotodsplaaerbloeer.blogspot.com/p/cantodossplaaer-2.html?get=Rm94X1Nwb3J0c19QcmVtaXVtX0hE"
         },
         {
           "name": "Opción 5",
@@ -752,7 +752,7 @@
         },
         {
           "name": "Opción 6 (EXTENSION PC SIN DELAY 720p)",
-          "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+          "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVtX0hE"
         },
         {
           "name": "Opción 7 (EXTENSION PC 1080p DELAY)",
@@ -818,7 +818,6 @@
           "name": "Opción 5 (EXTENSIÓN PC 1080p delay)",
           "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/caaanvarisdeetoodeteeexte.html?id=teeespooarge-seen"
         }
-
       ],
       "show": true,
       "featured": true
@@ -999,66 +998,66 @@
       "show": true,
       "featured": false
     },
-{
-  "name": "Juegos",
-  "logo": "https://tse4.mm.bing.net/th/id/OIP.MB8ZvMuYsJZIUGqHrpNJCAHaE8?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
-  "options": [
     {
-      "name": "Minecraft 1.8.8 - Eaglercraft",
-      "iframe": "https://eaglercraft.q13x.com/1.8-wasm/?retina=true"
+      "name": "Juegos",
+      "logo": "https://tse4.mm.bing.net/th/id/OIP.MB8ZvMuYsJZIUGqHrpNJCAHaE8?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "options": [
+        {
+          "name": "Minecraft 1.8.8 - Eaglercraft",
+          "iframe": "https://eaglercraft.q13x.com/1.8-wasm/?retina=true"
+        },
+        {
+          "name": "Dragon Ball Dress Up",
+          "iframe": "https://www.minijuegos.com/embed/dragon-ball-dress-up"
+        },
+        {
+          "name": "Gran Turismo 1",
+          "iframe": "https://www.minijuegos.com/embed/gran-turismo"
+        },
+        {
+          "name": "Gran Turismo 2 (Simulation Disc)",
+          "iframe": "https://www.retrogames.cc/embed/43710-gran-turismo-2-usa-simulation-mode.html"
+        },
+        {
+          "name": "F1 2002",
+          "iframe": "https://f.kbhgames.com/emujs/play.php?c=gba&f=f12002.gba"
+        },
+        {
+          "name": "Metal Slug",
+          "iframe": "https://www.play-games.com/iframe/36864.html?pg_f_l=es"
+        },
+        {
+          "name": "PES 2",
+          "iframe": "https://www.retrogames.cc/embed/42622-pro-evolution-soccer-2.html?mp_assets=https%3A%2F%2Fs2.minijuegosgratis.com%2F&mp_embed=0&mp_game_id=238730&mp_game_uid=pro-evolution-soccer-2&mp_game_url=https%3A%2F%2Fwww.minijuegos.com%2Fjuego%2Fpro-evolution-soccer-2&mp_int=1&mp_locale=es_ES&mp_player_type=IFRAME&mp_site_https_url=https%3A%2F%2Fwww.minijuegos.com%2F&mp_site_name=minijuegos.com&mp_site_url=https%3A%2F%2Fwww.minijuegos.com%2F&mp_timezone=Europe%2FMadrid&mp_view_type="
+        },
+        {
+          "name": "Earn To Die 2012 (parte 2)",
+          "iframe": "https://earntodie.co/earn-to-die.embed"
+        },
+        {
+          "name": "Stealing The Diamond",
+          "iframe": "https://stealing-the-diamond.game-files.crazygames.com/ruffle/stealing-the-diamond/1/stealing_the_diamond.html?isNewUser=true&skipPrerollFirstSession=true&v=1.345"
+        },
+        {
+          "name": "Bartender The Right Mix",
+          "iframe": "https://www.silvergames.com/es/bartender-the-right-mix/gameframe#adtest"
+        },
+        {
+          "name": "Colin McRae Rally 2.0",
+          "iframe": "https://retrogames.games/es/embed/colin-mcrae-rally-2"
+        },
+        {
+          "name": "Fireboy and Watergirl Temple",
+          "iframe": "https://www.minijuegos.com/embed/fireboy-and-watergirl-the-forest-temple"
+        },
+        {
+          "name": "Create A Ride 2",
+          "iframe": "https://www.jopi.com/flashgame/id/2053"
+        }
+      ],
+      "show": true,
+      "featured": false
     },
-    {
-      "name": "Dragon Ball Dress Up",
-      "iframe": "https://www.minijuegos.com/embed/dragon-ball-dress-up"
-    },
-    {
-      "name": "Gran Turismo 1",
-      "iframe": "https://www.minijuegos.com/embed/gran-turismo"
-    },
-    {
-      "name": "Gran Turismo 2 (Simulation Disc)",
-      "iframe": "https://www.retrogames.cc/embed/43710-gran-turismo-2-usa-simulation-mode.html"
-    },
-    {
-      "name": "F1 2002",
-      "iframe": "https://f.kbhgames.com/emujs/play.php?c=gba&f=f12002.gba"
-    },
-    {
-      "name": "Metal Slug",
-      "iframe": "https://www.play-games.com/iframe/36864.html?pg_f_l=es"
-    },
-    {
-      "name": "PES 2",
-      "iframe": "https://www.retrogames.cc/embed/42622-pro-evolution-soccer-2.html?mp_assets=https%3A%2F%2Fs2.minijuegosgratis.com%2F&mp_embed=0&mp_game_id=238730&mp_game_uid=pro-evolution-soccer-2&mp_game_url=https%3A%2F%2Fwww.minijuegos.com%2Fjuego%2Fpro-evolution-soccer-2&mp_int=1&mp_locale=es_ES&mp_player_type=IFRAME&mp_site_https_url=https%3A%2F%2Fwww.minijuegos.com%2F&mp_site_name=minijuegos.com&mp_site_url=https%3A%2F%2Fwww.minijuegos.com%2F&mp_timezone=Europe%2FMadrid&mp_view_type="
-    },
-    {
-      "name": "Earn To Die 2012 (parte 2)",
-      "iframe": "https://earntodie.co/earn-to-die.embed"
-    },
-    {
-      "name": "Stealing The Diamond",
-      "iframe": "https://stealing-the-diamond.game-files.crazygames.com/ruffle/stealing-the-diamond/1/stealing_the_diamond.html?isNewUser=true&skipPrerollFirstSession=true&v=1.345"
-    },
-    {
-      "name": "Bartender The Right Mix",
-      "iframe": "https://www.silvergames.com/es/bartender-the-right-mix/gameframe#adtest"
-    },
-    {
-      "name": "Colin McRae Rally 2.0",
-      "iframe": "https://retrogames.games/es/embed/colin-mcrae-rally-2"
-    },
-    {
-      "name": "Fireboy and Watergirl Temple",
-      "iframe": "https://www.minijuegos.com/embed/fireboy-and-watergirl-the-forest-temple"
-    },
-    {
-      "name": "Create A Ride 2",
-      "iframe": "https://www.jopi.com/flashgame/id/2053"
-    }
-  ],
-  "show": true,
-  "featured": false
-},
     {
       "name": "MLS",
       "logo": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
@@ -1106,7 +1105,7 @@
         {
           "name": "Opción 3 (EXTENSION PC)",
           "iframe": "https://bestleague.life/tok.html?get=TkJBX1RW"
-        },
+        }
       ],
       "show": true,
       "featured": false
