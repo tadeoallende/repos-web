@@ -2,18 +2,168 @@
   "events": [
     {
       "id": 1,
-      "evento": "Liga 1: ADT vs. Cienciano",
-      "fecha": "2026-09-23 17:00:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
+      "evento": "Fórmula 1: GP Azerbaiyán - Práctica Libre #1",
+      "fecha": "2026-09-24 05:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
-        "Liga 1 Max"
+        "DAZN F1 ES",
+        "Disney+",
+        "FOX Sports 1"
       ]
     },
     {
       "id": 2,
-      "evento": "Torneo de Reserva: Belgrano vs. Talleres de Córdoba",
-      "fecha": "2026-09-23 19:00:00",
+      "evento": "Amistoso Internacional: Japón vs. Uruguay",
+      "fecha": "2026-09-24 07:05:00",
+      "competencia": "Mundial 2026",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Telemundo Deportes",
+        "Eventos"
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Amistoso Internacional: Corea del Sur vs. Ecuador",
+      "fecha": "2026-09-24 08:00:00",
+      "competencia": "Mundial 2026",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Eventos"
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Fórmula 1: GP Azerbaiyán - Práctica Libre #2",
+      "fecha": "2026-09-24 09:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "DAZN F1 ES",
+        "Disney+",
+        "FOX Sports 1"
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "F1 | GP de Azerbaiyán: Entrenamientos #1",
+      "fecha": "2026-09-24 09:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "DAZN F1",
+        "Fox Sports 1"
+      ]
+    },
+    {
+      "id": 6,
+      "evento": "UEFA Nations League: Andorra vs. Malta",
+      "fecha": "2026-09-24 13:00:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Disney+",
+        "ESPN"
+      ]
+    },
+    {
+      "id": 7,
+      "evento": "F1 | GP de Azerbaiyán: Entrenamientos #2",
+      "fecha": "2026-09-24 13:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "DAZN F1",
+        "Fox Sports 1"
+      ]
+    },
+    {
+      "id": 8,
+      "evento": "Torneo de Reserva: Newell's Old Boys vs. Rosario Central",
+      "fecha": "2026-09-24 15:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": [
+        "TNT Sports"
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "UEFA Nations League: Liechtenstein vs. Lituania",
+      "fecha": "2026-09-24 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Disney+"
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "UEFA Nations League: Serbia vs. Grecia",
+      "fecha": "2026-09-24 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Disney+"
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "UEFA Nations League: Portugal vs. Gales",
+      "fecha": "2026-09-24 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Disney+"
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "UEFA Nations League: Noruega vs. Dinamarca",
+      "fecha": "2026-09-24 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Disney+",
+        "ESPN"
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "UEFA Nations League: Países Bajos vs. Alemania",
+      "fecha": "2026-09-24 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Disney+",
+        "ESPN 1"
+      ]
+    },
+    {
+      "id": 14,
+      "evento": "UEFA Nations League: Kosovo vs. República de Irlanda",
+      "fecha": "2026-09-24 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Disney+"
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "UEFA Nations League: Austria vs. Israel",
+      "fecha": "2026-09-24 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "Disney+"
+      ]
+    },
+    {
+      "id": 16,
+      "evento": "Torneo de Reserva: Racing Club vs. Independiente",
+      "fecha": "2026-09-24 19:00:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
@@ -21,74 +171,13 @@
       ]
     },
     {
-      "id": 3,
-      "evento": "UEFA Women's Champions League: Barcelona vs Paris FC",
-      "fecha": "2026-09-23 20:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        "Eventos",
-        "ESPN Deportes"
-      ]
-    },
-    {
-      "id": 4,
-      "evento": "UEFA Women's Champions League: Chelsea FC vs Austria Wien",
-      "fecha": "2026-09-23 20:00:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
-      "canales": [
-        "ESPN"
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "Liga BetPlay: América de Cali vs. Rionegro Águilas",
-      "fecha": "2026-09-23 21:30:00",
+      "id": 17,
+      "evento": "Liga BetPlay: Atlético Nacional vs. Millonarios",
+      "fecha": "2026-09-24 21:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
-        "WIN Sports+"
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "Copa Chile: Curicó Unido vs Deportes Concepción",
-      "fecha": "2026-09-23 22:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
-        "TNT Sports Chile"
-      ]
-    },
-    {
-      "id": 7,
-      "evento": "MLS: Seattle Sounders FC vs. Real Salt Lake",
-      "fecha": "2026-09-23 22:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
-      "canales": [
-        "MLS"
-      ]
-    },
-    {
-      "id": 8,
-      "evento": "Copa Chile: Deportes Iquique vs Antofagasta",
-      "fecha": "2026-09-24 00:30:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
-        "TNT Sports Chile"
-      ]
-    },
-    {
-      "id": 9,
-      "evento": "Copa Chile: Unión La Calera vs Universidad Católica",
-      "fecha": "2026-09-24 00:30:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
-        "MAX"
+        "Win+ Fútbol"
       ]
     }
   ],
@@ -376,6 +465,78 @@
         {
           "name": "Opción 1 (Extensión)",
           "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamxhd.com/live1.php?stream=disney1"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=disney1"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=disney6"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=disney8"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=disney5"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=disney2"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=disney4"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=disney3"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=disney3"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=disney4"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=disney2"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=disney5"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=disney7"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=disney6"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=disney8"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=disney7"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamxhd.com/live1.php?stream=espn2ar"
+        },
+        {
+          "name": "Opción 2 (Extensión)",
+          "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
         }
       ],
       "show": true,
@@ -508,6 +669,26 @@
         {
           "name": "Opción 7 (EXTENSION PC)",
           "iframe": "https://www.bestleague.life/tok.html?get=RVNQTjJIRA&start=true"
+        },
+        {
+          "name": "Opción 1 (FL)",
+          "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamx305.sbs/global1.php?stream=espn"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://streamxhd.com/live1.php?stream=espn"
+        },
+        {
+          "name": "Opción 5",
+          "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+        },
+        {
+          "name": "Opción 7 (Extensión)",
+          "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
         }
       ],
       "show": true,
@@ -956,6 +1137,26 @@
         {
           "name": "(7 EXTENSIÓN PC 1080p sin buffer)",
           "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/caaanvarisdeetoodeteeexte.html?id=teeespooarge-seen"
+        },
+        {
+          "name": "Opción 1 (FL)",
+          "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamx305.sbs/global1.php?stream=tntsports"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+        },
+        {
+          "name": "Opción 5",
+          "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
         }
       ],
       "show": true,
@@ -1752,6 +1953,18 @@
         {
           "name": "Opción 1 (720p)",
           "iframe": "https://tvf90.com/canal.php?stream=espndeportes"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamxhd.com/live1.php?stream=evento1"
+        },
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=eventos2"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=evento2"
         }
       ],
       "show": true,
@@ -1784,6 +1997,30 @@
         {
           "name": "Opción 2 (720p)",
           "iframe": "https://streamx305.sbs/global1.php?channel=espn"
+        },
+        {
+          "name": "Opción 1 (FL)",
+          "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamx305.sbs/global1.php?stream=espn2"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://streamxhd.com/live1.php?stream=espn2"
+        },
+        {
+          "name": "Opción 5",
+          "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+        },
+        {
+          "name": "Opción 6 (Extensión)",
+          "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
         }
       ],
       "show": true,
@@ -1796,6 +2033,98 @@
         {
           "name": "Opción 1 (720p)",
           "iframe": "https://streamx305.sbs/global1.php?channel=max1"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "DAZN F1 ES",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx061.sbs/global1.php?channel=daznf1"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamxhd.com/live1.php?stream=daznf1"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "FOX Sports 1",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (FL)",
+          "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
+        },
+        {
+          "name": "Opción 2",
+          "iframe": "https://streamx305.sbs/global1.php?stream=fox1ar"
+        },
+        {
+          "name": "Opción 3",
+          "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+        },
+        {
+          "name": "Opción 5",
+          "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
+        },
+        {
+          "name": "Opción 6 (Ads)",
+          "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
+        },
+        {
+          "name": "Opción 7 (Extensión)",
+          "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+        },
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://streamx061.sbs/global1.php?channel=fox1ar"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Telemundo Deportes",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=telemundodeportes"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "DAZN F1",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://streamx061.sbs/global1.php?channel=daznf1"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Win+ Fútbol",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=winplus"
         }
       ],
       "show": true,
