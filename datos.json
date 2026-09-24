@@ -7,23 +7,7 @@
       "competencia": "Liga 1 (Perú)",
       "logoUrl": "https://bestleague.world/jr/127.png",
       "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://tvf90.com/1.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=liga1max"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        }
+        "Liga 1 Max"
       ]
     },
     {
@@ -33,15 +17,7 @@
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
       "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
-            }
-          ]
-        }
+        "Disney+"
       ]
     },
     {
@@ -51,28 +27,8 @@
       "competencia": "UEFA Champions League",
       "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
-        {
-          "name": "Eventos",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://tvf90.com/canal.php?stream=espndeportes"
-            }
-          ]
-        },
-        {
-          "name": "ESPN Deportes",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=espndeportes"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
-            }
-          ]
-        }
+        "Eventos",
+        "ESPN Deportes"
       ]
     },
     {
@@ -82,23 +38,7 @@
       "competencia": "UEFA Champions League",
       "logoUrl": "https://img.uefa.com/imgml/uefacom/ucl/2024/logos/logo_light.png",
       "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://tvf90.com/1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=espn"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        }
+        "ESPN"
       ]
     },
     {
@@ -108,19 +48,7 @@
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
-        {
-          "name": "Win Sports +",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://tvf90.com/1.php?stream=winsports2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=winplus"
-            }
-          ]
-        }
+        "Win Sports +"
       ]
     },
     {
@@ -130,23 +58,7 @@
       "competencia": "Primera División Chile",
       "logoUrl": "https://bestleague.world/jr/35.png",
       "canales": [
-        {
-          "name": "TNT Sports CL",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://tvf90.com/1.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=tntsportscl"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
+        "TNT Sports CL"
       ]
     },
     {
@@ -156,15 +68,7 @@
       "competencia": "MLS",
       "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
       "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamx305.sbs/global1.php?channel=mls1"
-            }
-          ]
-        }
+        "MLS"
       ]
     },
     {
@@ -174,23 +78,7 @@
       "competencia": "Primera División Chile",
       "logoUrl": "https://bestleague.world/jr/35.png",
       "canales": [
-        {
-          "name": "TNT Sports CL",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://tvf90.com/1.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=tntsportscl"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
+        "TNT Sports CL"
       ]
     },
     {
@@ -200,15 +88,7 @@
       "competencia": "Primera División Chile",
       "logoUrl": "https://bestleague.world/jr/35.png",
       "canales": [
-        {
-          "name": "MAX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=max1"
-            }
-          ]
-        }
+        "MAX"
       ]
     }
   ],
@@ -492,6 +372,10 @@
         {
           "name": "Disney+ (extra 2)",
           "iframe": "https://domainmy.lat/global1.php?stream=disney4"
+        },
+        {
+          "name": "Opción 1 (Extensión)",
+          "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
         }
       ],
       "show": true,
@@ -1458,9 +1342,14 @@
         {
           "name": "Opcion 4",
           "iframe": "https://streamzs2.xyz/global2.php?stream=mls1es"
+        },
+        {
+          "name": "Opción 1",
+          "iframe": "https://streamx305.sbs/global1.php?channel=mls1"
         }
       ],
-      "show": true
+      "show": true,
+      "featured": false
     },
     {
       "name": "MOVISTAR",
@@ -1798,6 +1687,118 @@
         {
           "name": "Opción 3",
           "iframe": "https://sudamericaplay2.com/ufc/player_portugues.php"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Liga 1 Max",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://tvf90.com/1.php?stream=liga1max"
+        },
+        {
+          "name": "Opción 2 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=liga1max"
+        },
+        {
+          "name": "Opción 3 (Ads)",
+          "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Eventos",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://tvf90.com/canal.php?stream=espndeportes"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "ESPN Deportes",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=espndeportes"
+        },
+        {
+          "name": "Opción 2 (Ads)",
+          "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "ESPN",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://tvf90.com/1.php?stream=espn2"
+        },
+        {
+          "name": "Opción 2 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=espn"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "Win Sports +",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://tvf90.com/1.php?stream=winsports2"
+        },
+        {
+          "name": "Opción 2 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=winplus"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "TNT Sports CL",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://tvf90.com/1.php?stream=tntsportschile"
+        },
+        {
+          "name": "Opción 2 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=tntsportscl"
+        },
+        {
+          "name": "Opción 3 (Ads)",
+          "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
+        }
+      ],
+      "show": true,
+      "featured": false
+    },
+    {
+      "name": "MAX",
+      "logo": "",
+      "options": [
+        {
+          "name": "Opción 1 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=max1"
         }
       ],
       "show": true,
