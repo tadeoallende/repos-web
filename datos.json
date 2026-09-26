@@ -1131,7 +1131,7 @@
           "iframe": "https://junkieembeds.pages.dev/embed/telemundo-usa"
         }
       ],
-      "show": true,
+      "show": false,
       "featured": true
     },
     {
@@ -1767,7 +1767,7 @@
           "iframe": "https://streamx305.sbs/global1.php?channel=mls1"
         }
       ],
-      "show": true,
+      "show": false,
       "featured": false
     },
     {
