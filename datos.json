@@ -725,11 +725,10 @@
             }
           ]
         },
-        "DSports",
         {
           "name": "Dsports ARG 1080p CON SELECTOR DE CALIDAD",
           "options": [
-            {
+           {
               "name": "Opción 1",
               "iframe": "https://bestleague.pl/dsports.html"
             }
