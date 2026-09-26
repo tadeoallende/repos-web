@@ -2,30 +2,26 @@
   "events": [
     {
       "id": 1,
-      "evento": "Liga de Expansión MX: Correcaminos UAT vs CDS Tampico Madero",
-      "fecha": "2026-09-25 20:00:00",
-      "competencia": "Liga de Expansión MX",
+      "evento": "Liga MX: Tijuana vs Atlas",
+      "fecha": "2026-09-25 22:00:00",
+      "competencia": "Liga MX",
       "logoUrl": "https://img.agenda18.com/uploads/bandera_fbc29cb609_69a4b8272a.png",
       "canales": [
         {
-          "name": "ESPN 2 MX",
+          "name": "TUDN USA",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2mx"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2mx.php"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=tudn"
             }
           ]
         },
         {
-          "name": "Disney+",
+          "name": "Unimas",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney9"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=unimas"
             }
           ]
         }
@@ -33,105 +29,11 @@
     },
     {
       "id": 2,
-      "evento": "Copa Chile: Colo-Colo vs Audax Italiano",
-      "fecha": "2026-09-26 00:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "canales": [
-        "TNT Sports Chile"
-      ]
-    },
-    {
-      "id": 3,
-      "evento": "Liga de Naciones de la CONCACAF: Jamaica vs Guatemala",
-      "fecha": "2026-09-26 01:00:00",
-      "competencia": "Copa Centroamericana de Concacaf",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "ViX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=vix1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=vix1"
-            }
-          ]
-        },
-        {
-          "name": "Fox Soccer+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxsoccerplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "evento": "Liga de Naciones de la CONCACAF: Honduras vs Surinam",
-      "fecha": "2026-09-26 02:00:00",
-      "competencia": "Copa Centroamericana de Concacaf",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "canales": [
-        {
-          "name": "ViX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=vix2"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=vix2"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 5,
       "evento": "Liga de Naciones de la CONCACAF: El Salvador vs Martinica",
-      "fecha": "2026-09-26 04:00:00",
-      "competencia": "Copa Centroamericana de Concacaf",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "fecha": "2026-09-25 22:00:00",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://img.agenda18.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
       "canales": [
-        {
-          "name": "Fox Sports 2 USA",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericafy.com/global1.php?stream=foxsports2_usa"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
-            }
-          ]
-        },
-        {
-          "name": "ViX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=vix3"
-            }
-          ]
-        },
         {
           "name": "Vix plus 03",
           "options": [
@@ -140,73 +42,121 @@
               "iframe": "https://la18hd.su/vivo/canal.php?stream=vix3"
             }
           ]
+        },
+        {
+          "name": "Fox Sports 2 USA",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "evento": "Fórmula 1: GP Azerbaiyán - Carrera",
+      "fecha": "2026-09-26 08:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "DAZN",
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney1"
+            }
+          ]
+        },
+        "FOX Sports"
+      ]
+    },
+    {
+      "id": 4,
+      "evento": "Fórmula 1: GP Azerbaiyán - Carrera | ESPN Race Hub",
+      "fecha": "2026-09-26 08:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "evento": "Fórmula 1: GP Azerbaiyán - Carrera | On Board Colapinto",
+      "fecha": "2026-09-26 08:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney3"
+            }
+          ]
         }
       ]
     },
     {
       "id": 6,
-      "evento": "Liga BetPlay: Boyacá Chicó vs. Deportivo Pasto",
-      "fecha": "2026-09-26 20:10:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "evento": "Fórmula 1: GP Azerbaiyán - Carrera | On Board Verstappen",
+      "fecha": "2026-09-26 08:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
-        "WIN Sports+"
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney4"
+            }
+          ]
+        }
       ]
     },
     {
       "id": 7,
-      "evento": "Liga MX: Atlante vs. Monterrey",
-      "fecha": "2026-09-26 22:00:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "evento": "Fórmula 1: GP Azerbaiyán - Carrera | Cámara On Board",
+      "fecha": "2026-09-26 08:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "canales": [
         {
-          "name": "TUDN USA",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericafy.com/global1.php?stream=tudn"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
             },
             {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tudn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://stream-xhd.com/live1.php?stream=tudn_usa"
-            }
-          ]
-        },
-        {
-          "name": "ESPN MX",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericafy.com/global1.php?stream=espnmx"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnmx"
-            },
-            {
-              "name": "Opción 3 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=espnmx"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espnmx"
-            },
-            {
-              "name": "Opción 5 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2mx.php"
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.com/live1.php?stream=disney5"
             }
           ]
         }
@@ -214,8 +164,213 @@
     },
     {
       "id": 8,
-      "evento": "Liga BetPlay: Once Caldas vs. Atlético Bucaramanga",
-      "fecha": "2026-09-26 22:15:00",
+      "evento": "UEFA Nations League: Eslovenia vs. Escocia",
+      "fecha": "2026-09-26 10:00:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=disney3"
+            }
+          ]
+        },
+        "ESPN 2"
+      ]
+    },
+    {
+      "id": 9,
+      "evento": "Primera División: Progreso vs. Racing",
+      "fecha": "2026-09-26 11:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "evento": "F1 | GP de Azerbaiyán: Carrera",
+      "fecha": "2026-09-26 12:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=disney1"
+            }
+          ]
+        },
+        "DAZN",
+        "FOX Sports"
+      ]
+    },
+    {
+      "id": 11,
+      "evento": "F1 | GP de Azerbaiyán: Cámara On Board - Colapinto",
+      "fecha": "2026-09-26 12:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "evento": "UEFA Nations League: Bulgaria vs. Luxemburgo",
+      "fecha": "2026-09-26 13:00:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 13,
+      "evento": "UEFA Nations League: Islas Feroe vs. Kazajstán",
+      "fecha": "2026-09-26 13:00:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 14,
+      "evento": "UEFA Nations League: Islandia vs. Estonia",
+      "fecha": "2026-09-26 13:00:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "ESPN 1"
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "UEFA Nations League: San Marino vs. Finlandia",
+      "fecha": "2026-09-26 13:00:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 16,
+      "evento": "Primera División: Cerro Largo vs. Nacional",
+      "fecha": "2026-09-26 15:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": []
+    },
+    {
+      "id": 17,
+      "evento": "UEFA Nations League: Macedonia del Norte vs. Suiza",
+      "fecha": "2026-09-26 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 18,
+      "evento": "UEFA Nations League: República Checa vs. Croacia",
+      "fecha": "2026-09-26 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 19,
+      "evento": "UEFA Nations League: Inglaterra vs. España",
+      "fecha": "2026-09-26 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": [
+        "ESPN 1"
+      ]
+    },
+    {
+      "id": 20,
+      "evento": "UEFA Nations League: Albania vs. Bielorrusia",
+      "fecha": "2026-09-26 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 21,
+      "evento": "UEFA Nations League: Eslovaquia vs. Moldavia",
+      "fecha": "2026-09-26 15:45:00",
+      "competencia": "Selecciones Nacionales",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 22,
+      "evento": "Supercopa Argensimia: Estudiantes vs. Rosario Central",
+      "fecha": "2026-09-26 16:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "canales": []
+    },
+    {
+      "id": 23,
+      "evento": "Primera División: Rubio Ñú vs. 2 de Mayo",
+      "fecha": "2026-09-26 16:30:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
+      "canales": [
+        {
+          "name": "Tigo Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tigopy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "evento": "Amistoso: EE. UU. vs. Perú",
+      "fecha": "2026-09-26 17:30:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 25,
+      "evento": "Liga BetPlay: Deportivo Pereira vs. Inter Bogotá",
+      "fecha": "2026-09-26 18:00:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "canales": [
@@ -223,64 +378,202 @@
       ]
     },
     {
-      "id": 9,
-      "evento": "Liga MX: Tijuana vs. Atlas",
-      "fecha": "2026-09-27 00:00:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "id": 26,
+      "evento": "Primera División: Peñarol vs. Boston River",
+      "fecha": "2026-09-26 18:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": []
+    },
+    {
+      "id": 27,
+      "evento": "Primera División: Sportivo Trinidense vs. Cerro Porteño",
+      "fecha": "2026-09-26 19:00:00",
+      "competencia": "Copa de Primera (Paraguay)",
+      "logoUrl": "https://th.bing.com/th/id/R.e99f17f7e19ea90bd22eb61a342ae872?rik=3hRgXphiDwho4Q&pid=ImgRaw&r=0",
       "canales": [
         {
-          "name": "TUDN USA",
+          "name": "Tigo Sports",
           "options": [
             {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericafy.com/global1.php?stream=tudn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tudn"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://stream-xhd.com/live1.php?stream=tudn_usa"
-            }
-          ]
-        },
-        {
-          "name": "Unimas",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericafy.com/global1.php?stream=unimas"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=unimas"
-            }
-          ]
-        },
-        {
-          "name": "Fox ONE",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=foxone1"
-            },
-            {
-              "name": "Opción 2 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=foxone1"
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tigopy"
             }
           ]
         }
       ]
+    },
+    {
+      "id": 28,
+      "evento": "Liga MX: Cruz Azul vs. Toluca",
+      "fecha": "2026-09-26 19:50:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": []
+    },
+    {
+      "id": 29,
+      "evento": "Amistoso: Canadá vs. Chile",
+      "fecha": "2026-09-26 20:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 30,
+      "evento": "Liga BetPlay: Cúcuta Deportivo vs. Llaneros",
+      "fecha": "2026-09-26 20:15:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        "WIN Sports+"
+      ]
+    },
+    {
+      "id": 31,
+      "evento": "MLS: Atlanta United vs. New York City",
+      "fecha": "2026-09-26 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 32,
+      "evento": "MLS: CF Montréal vs. Cincinnati",
+      "fecha": "2026-09-26 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 33,
+      "evento": "MLS: Charlotte vs. Chicago Fire",
+      "fecha": "2026-09-26 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 34,
+      "evento": "MLS: New York RB vs. St. Louis City",
+      "fecha": "2026-09-26 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 35,
+      "evento": "MLS: Philadelphia Union vs. Orlando City SC",
+      "fecha": "2026-09-26 20:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 36,
+      "evento": "Primera División: Torque vs. Deportivo Maldonado",
+      "fecha": "2026-09-26 21:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://bestleague.world/jr/56.png",
+      "canales": []
+    },
+    {
+      "id": 37,
+      "evento": "MLS: Austin vs. San Diego",
+      "fecha": "2026-09-26 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 38,
+      "evento": "MLS: Dallas vs. Los Angeles FC",
+      "fecha": "2026-09-26 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 39,
+      "evento": "MLS: Houston Dynamo vs. Sporting KC",
+      "fecha": "2026-09-26 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 40,
+      "evento": "MLS: Nashville SC vs. Toronto FC",
+      "fecha": "2026-09-26 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 41,
+      "evento": "MLS: Seattle Sounders FC vs. Minnesota United",
+      "fecha": "2026-09-26 21:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 42,
+      "evento": "Amistoso: México vs. Colombia",
+      "fecha": "2026-09-26 22:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "canales": []
+    },
+    {
+      "id": 43,
+      "evento": "Liga BetPlay: Junior vs. Medellín",
+      "fecha": "2026-09-26 22:20:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "canales": [
+        "WIN Sports+"
+      ]
+    },
+    {
+      "id": 44,
+      "evento": "MLS: Real Salt Lake vs. New England",
+      "fecha": "2026-09-26 22:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 45,
+      "evento": "MLS: LA Galaxy vs. Colorado Rapids",
+      "fecha": "2026-09-26 23:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 46,
+      "evento": "MLS: SJ Earthquakes vs. Portland Timbers",
+      "fecha": "2026-09-26 23:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "canales": []
+    },
+    {
+      "id": 47,
+      "evento": "Liga MX: Santos Laguna vs. Pachuca",
+      "fecha": "2026-09-27 00:05:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": []
+    },
+    {
+      "id": 48,
+      "evento": "Liga MX: Tigres UANL vs. Puebla",
+      "fecha": "2026-09-27 00:05:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "canales": []
     }
   ],
   "channels": [
@@ -567,6 +860,30 @@
         {
           "name": "Opción 17",
           "iframe": "https://la18hd.su/vivo/canal.php?stream=espn3"
+        },
+        {
+          "name": "Opción 18 (720p)",
+          "iframe": "https://streamtp-golden1.click/global1.php?stream=espn4"
+        },
+        {
+          "name": "Opción 19 (FL)",
+          "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTkhE"
+        },
+        {
+          "name": "Opción 20",
+          "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+        },
+        {
+          "name": "Opción 21",
+          "iframe": "https://streamxhd.com/live1.php?stream=espn4"
+        },
+        {
+          "name": "Opción 22",
+          "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+        },
+        {
+          "name": "Opción 23 (Extensión)",
+          "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
         }
       ],
       "show": true,
@@ -921,11 +1238,15 @@
           "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
         },
         {
-          "name": "Opción 8 (Ads)",
+          "name": "Opción 8 (720p)",
+          "iframe": "https://streamx305.sbs/global1.php?channel=fox1ar"
+        },
+        {
+          "name": "Opción 9 (Ads)",
           "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
         },
         {
-          "name": "Opción 9 (Extensión)",
+          "name": "Opción 10 (Extensión)",
           "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
         }
       ],
