@@ -1923,7 +1923,7 @@
       "featured": false
     },
     {
-      "name": "TyC Sports",
+      "name": "TyC Sports (6 OPCIONES, OPCION 5 PC SIN DELAY pero a 720p, OPCION 6 PC a 1080p pero con delay, recorda recaargar y tener activo 1.1.1.1 si no te anda)",
       "logo": "https://angulismotv.pages.dev/assets/logos/TYC.png",
       "options": [
         {
@@ -1932,43 +1932,23 @@
         },
         {
           "name": "Opción 2",
-          "iframe": "https://bolaloca.my/player/2/77"
-        },
-        {
-          "name": "Opción 3",
-          "iframe": "https://streamx-hd.com/live1.php?stream=tycsports"
-        },
-        {
-          "name": "Opción 4",
-          "iframe": "https://la18hd.su/vivo/canales.php?stream=tycsports"
-        },
-        {
-          "name": "Opción 5",
-          "iframe": "https://welivesportz.cfd/futbol/tycsportarg.php"
-        },
-        {
-          "name": "Opción 6 (EXTENSION PC)",
-          "iframe": "https://bestleague.life/tok.html?get=VHlDU3BvcnQ"
-        },
-        {
-          "name": "Opción 7 (EXTENSION PC)",
-          "iframe": "https://pracanespeeeedaaass.github.io/cantods-seeesaa.html?id=TYCSports"
-        },
-        {
-          "name": "Opción 8 (FL)",
-          "iframe": "https://tvlibreonline.st/html/fl/?get=VHlDU3BvcnQ"
-        },
-        {
-          "name": "Opción 9",
-          "iframe": "https://streamxhd.com/live1.php?stream=tycsports"
-        },
-        {
-          "name": "Opción 10",
           "iframe": "https://streamtp-golden1.click/global1.php?stream=tycsports"
         },
         {
-          "name": "Opción 11",
-          "iframe": "https://welivesportz.cfd/embed/tycsportarg.php"
+          "name": "Opción 3",
+          "iframe": "https://la18hd.su/vivo/canales.php?stream=tycsports"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://welivesportz.cfd/futbol/tycsportarg.php"
+        },
+        {
+          "name": "Opción 5 (EXTENSION PC)",
+          "iframe": "https://bestleague.life/tok.html?get=VHlDU3BvcnQ"
+        },
+        {
+          "name": "Opción 6 (EXTENSION PC)",
+          "iframe": "https://pracanespeeeedaaass.github.io/cantods-seeesaa.html?id=TYCSports"
         }
       ],
       "show": true,
