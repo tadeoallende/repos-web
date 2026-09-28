@@ -1046,6 +1046,18 @@
       "show": false,
       "featured": true
     },
+        {
+      "name": "Multicam",
+      "logo": "https://angulismotv.pages.dev/assets/logos/MULTICAM.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://angulismotv.pages.dev/embed-multicam"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
     {
       "name": "DSports",
       "logo": "https://angulismotv.pages.dev/assets/logos/DIRECTV.png",
