@@ -105,7 +105,7 @@
       "evento": "Primera División: Central Español vs. Liverpool",
       "fecha": "2026-09-27 11:00:00",
       "competencia": "Primera División Uruguay",
-      "logoUrl": "https://bestleague.world/jr/56.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
       "canales": [
         {
           "name": "Disney+",
@@ -877,7 +877,7 @@
       "evento": "MLS: Columbus Crew vs. Inter Miami",
       "fecha": "2026-09-27 20:00:00",
       "competencia": "MLS",
-      "logoUrl": "https://images.seeklogo.com/logo-png/26/2/mls-logo-png_seeklogo-264551.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/88.png",
       "canales": [
         "MLS"
       ]
@@ -1769,6 +1769,10 @@
         {
           "name": "Opción 3",
           "iframe": "https://streamtp-golden1.click/global1.php?stream=mls1es"
+        },
+        {
+          "name": "Opción 4",
+          "iframe": "https://la18hd.su/vivo/canales.php?stream=mls1es"
         }
       ],
       "show": false,
