@@ -44,26 +44,17 @@
         }
       ]
     },
-        {
-      "id": 232,
-      "evento": "Mejoralito vs Memoo",
-      "fecha": "2026-09-29 22:30:00",
-      "competencia": "Copa Africana de Naciones",
-      "logoUrl": "https://images.seeklogo.com/logo-png/49/2/keles-logo-png_seeklogo-498484.png",
-      "team1Logo": "https://images.seeklogo.com/logo-png/52/1/grido-logo-png_seeklogo-528916.png",
-      "team2Logo": "https://images.seeklogo.com/logo-png/60/1/memo-paris-logo-png_seeklogo-609743.png",
-      "canales": [
-        {
-          "name": "DISCORD",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://discord.gg/MVqmy6EACK"
-            }
-          ]
-        }
-      ]
-    },
+{
+  "id": 232,
+  "evento": "Mejoralito vs Memoo",
+  "fecha": "2026-09-29 22:30:00",
+  "competencia": "Copa Africana de Naciones",
+  "logoUrl": "https://images.seeklogo.com/logo-png/49/2/keles-logo-png_seeklogo-498484.png",
+  "team1Logo": "https://images.seeklogo.com/logo-png/52/1/grido-logo-png_seeklogo-528916.png",
+  "team2Logo": "https://images.seeklogo.com/logo-png/60/1/memo-paris-logo-png_seeklogo-609743.png",
+  "manual": true,
+  "url": "https://discord.gg/MVqmy6EACK"
+},
     {
       "id": 3,
       "evento": "Copa Africana de Naciones: Islas de Cabo Verde vs Ruanda",
