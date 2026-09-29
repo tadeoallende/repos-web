@@ -5,7 +5,7 @@
       "evento": "UEFA Nations League: Armenia vs. Montenegro",
       "fecha": "2026-09-28 13:00:00",
       "competencia": "Selecciones Nacionales",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2349.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/armenia.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/montenegro.png",
       "canales": [
@@ -34,7 +34,7 @@
       "evento": "UEFA Nations League: Letonia vs. Chipre",
       "fecha": "2026-09-28 13:00:00",
       "competencia": "Selecciones Nacionales",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2349.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
@@ -63,7 +63,7 @@
       "evento": "UEFA Nations League: Georgia vs. Ucrania",
       "fecha": "2026-09-28 13:00:00",
       "competencia": "Selecciones Nacionales",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2349.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/georgia.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ucrania.png",
       "canales": [
@@ -125,7 +125,7 @@
       "evento": "UEFA Nations League: Turquía vs. Italia",
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2349.png",
       "team1Logo": null,
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
       "canales": [
@@ -154,7 +154,7 @@
       "evento": "UEFA Nations League: Bélgica vs. Francia",
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2349.png",
       "team1Logo": null,
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/francia.png",
       "canales": [
@@ -220,7 +220,7 @@
       "evento": "UEFA Nations League: Suecia vs. Polonia",
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2349.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/suecia.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/polonia.png",
       "canales": [
@@ -249,7 +249,7 @@
       "evento": "UEFA Nations League: Rumania vs. Bosnia-Herzegovina",
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2349.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
@@ -278,7 +278,7 @@
       "evento": "UEFA Nations League: Irlanda del Norte vs. Hungría",
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2349.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
@@ -304,46 +304,6 @@
     },
     {
       "id": 9,
-      "evento": "Primera División: Libertad vs Olimpia",
-      "fecha": "2026-09-28 17:00:00",
-      "competencia": "Primera División",
-      "logoUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/libertad.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/olimpia.png",
-      "canales": [
-        {
-          "name": "Fanatiz",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=fanatiz1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "evento": "Segunda División: Paysandu vs Tacuarembó",
-      "fecha": "2026-09-28 17:00:00",
-      "competencia": "Segunda División",
-      "logoUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paysandu.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tacuarembo.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney9"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 11,
       "evento": "NFL – Chicago Bears vs. Philadelphia Eagles",
       "fecha": "2026-09-28 19:00:00",
       "competencia": "NFL Pretemporada",
@@ -393,7 +353,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 10,
       "evento": "Liga de Naciones de la CONCACAF: St. Kitts and Nevis vs Granada",
       "fecha": "2026-09-28 19:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
@@ -413,11 +373,11 @@
       ]
     },
     {
-      "id": 13,
+      "id": 11,
       "evento": "Primera División: Wanderers vs. Albion",
       "fecha": "2026-09-28 20:00:00",
       "competencia": "Primera División Uruguay",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
+      "logoUrl": "https://bestleague.pl/jr/56.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/wanderers.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/albion.png",
       "canales": [
@@ -437,7 +397,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 12,
       "evento": "Liga MX Femenil: Necaxa vs Toluca",
       "fecha": "2026-09-28 20:00:00",
       "competencia": "Liga MX Femenil",
@@ -465,11 +425,11 @@
       ]
     },
     {
-      "id": 15,
+      "id": 13,
       "evento": "Liga de Naciones de la CONCACAF: Cuba vs Bonaire",
       "fecha": "2026-09-28 22:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cuba.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bonaire.png",
       "canales": [
@@ -494,11 +454,11 @@
       ]
     },
     {
-      "id": 16,
+      "id": 14,
       "evento": "Liga de Naciones de la CONCACAF: Surinam vs Martinica",
       "fecha": "2026-09-28 23:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/surinam.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/martinica.png",
       "canales": [
@@ -508,21 +468,17 @@
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports2_usa"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
             }
           ]
         }
       ]
     },
     {
-      "id": 17,
+      "id": 15,
       "evento": "Liga de Naciones de la CONCACAF: Jamaica vs Honduras",
       "fecha": "2026-09-29 01:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/jamaica.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/honduras.png",
       "canales": [
@@ -560,11 +516,11 @@
       ]
     },
     {
-      "id": 18,
+      "id": 16,
       "evento": "Liga de Naciones de la CONCACAF: Guatemala vs El Salvador",
       "fecha": "2026-09-29 03:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/guatemala.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/el-salvador.png",
       "canales": [
