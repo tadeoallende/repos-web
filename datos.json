@@ -502,7 +502,7 @@
       "fecha": "2026-09-29 22:05:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://bestleague.pl/jr/118.png",
-      "team1Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/medellin.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/millonarios.png",
       "canales": [
         "WIN Sports+"
@@ -524,7 +524,7 @@
       "fecha": "2026-09-30 01:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://tvtveshd.com/iconos/fifa1.png",
-      "team1Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estados-unidos.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chile.png",
       "canales": []
     },
