@@ -6,6 +6,8 @@
       "fecha": "2026-09-28 13:00:00",
       "competencia": "Selecciones Nacionales",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/armenia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/montenegro.png",
       "canales": [
         {
           "name": "Disney+",
@@ -33,6 +35,8 @@
       "fecha": "2026-09-28 13:00:00",
       "competencia": "Selecciones Nacionales",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
           "name": "Disney+",
@@ -60,6 +64,8 @@
       "fecha": "2026-09-28 13:00:00",
       "competencia": "Selecciones Nacionales",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/georgia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ucrania.png",
       "canales": [
         {
           "name": "Disney+",
@@ -120,6 +126,8 @@
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
       "canales": [
         {
           "name": "Disney+",
@@ -147,6 +155,8 @@
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/francia.png",
       "canales": [
         {
           "name": "Disney+",
@@ -211,6 +221,8 @@
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/suecia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/polonia.png",
       "canales": [
         {
           "name": "Disney+",
@@ -238,6 +250,8 @@
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
           "name": "Disney+",
@@ -265,6 +279,8 @@
       "fecha": "2026-09-28 15:45:00",
       "competencia": "Selecciones Nacionales",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
           "name": "Disney+",
@@ -292,6 +308,8 @@
       "fecha": "2026-09-28 17:00:00",
       "competencia": "Primera División",
       "logoUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/libertad.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/olimpia.png",
       "canales": [
         {
           "name": "Fanatiz",
@@ -310,6 +328,8 @@
       "fecha": "2026-09-28 17:00:00",
       "competencia": "Segunda División",
       "logoUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paysandu.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tacuarembo.png",
       "canales": [
         {
           "name": "Disney+",
@@ -328,6 +348,8 @@
       "fecha": "2026-09-28 19:00:00",
       "competencia": "NFL Pretemporada",
       "logoUrl": "https://img.agenda18.com/uploads/nfl_c8afc9d155.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/philadelphia-eagles.png",
       "canales": [
         {
           "name": "ESPN",
@@ -376,6 +398,8 @@
       "fecha": "2026-09-28 19:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
       "logoUrl": "https://img.agenda18.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/st-kitts-and-nevis.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/granada.png",
       "canales": [
         {
           "name": "Fox Soccer Plus",
@@ -394,6 +418,8 @@
       "fecha": "2026-09-28 20:00:00",
       "competencia": "Primera División Uruguay",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/wanderers.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/albion.png",
       "canales": [
         {
           "name": "Disney+",
@@ -416,6 +442,8 @@
       "fecha": "2026-09-28 20:00:00",
       "competencia": "Liga MX Femenil",
       "logoUrl": "https://img.agenda18.com/uploads/bandera_fbc29cb609_69a4b8272a.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/necaxa.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/toluca.png",
       "canales": [
         {
           "name": "FOX Deportes",
@@ -442,6 +470,8 @@
       "fecha": "2026-09-28 22:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cuba.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bonaire.png",
       "canales": [
         {
           "name": "Fox Soccer+",
@@ -469,6 +499,8 @@
       "fecha": "2026-09-28 23:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/surinam.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/martinica.png",
       "canales": [
         {
           "name": "Fox Sports 2 USA",
@@ -491,6 +523,8 @@
       "fecha": "2026-09-29 01:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/jamaica.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/honduras.png",
       "canales": [
         {
           "name": "Fox Sports 2 USA",
@@ -522,6 +556,8 @@
       "fecha": "2026-09-29 03:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/guatemala.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/el-salvador.png",
       "canales": [
         {
           "name": "Fox Sports 2 USA",
