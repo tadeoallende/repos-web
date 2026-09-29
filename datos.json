@@ -52,8 +52,13 @@
   "logoUrl": "https://images.seeklogo.com/logo-png/49/2/keles-logo-png_seeklogo-498484.png",
   "team1Logo": "https://images.seeklogo.com/logo-png/52/1/grido-logo-png_seeklogo-528916.png",
   "team2Logo": "https://images.seeklogo.com/logo-png/60/1/memo-paris-logo-png_seeklogo-609743.png",
-  "manual": true,
-  "url": "https://discord.gg/MVqmy6EACK"
+  "canales": [
+    {
+      "name": "DISCORD",
+      "logo": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg",
+      "url": "https://discord.gg/MVqmy6EACK"
+    }
+  ]
 },
     {
       "id": 3,
