@@ -94,22 +94,6 @@
       ]
     },
     {
-  "id": 232,
-  "evento": "Mejoralito vs Memoo",
-  "fecha": "2026-09-29 22:30:00",
-  "competencia": "Copa Africana de Naciones",
-  "logoUrl": "https://images.seeklogo.com/logo-png/49/2/keles-logo-png_seeklogo-498484.png",
-  "team1Logo": "https://images.seeklogo.com/logo-png/52/1/grido-logo-png_seeklogo-528916.png",
-  "team2Logo": "https://images.seeklogo.com/logo-png/60/1/memo-paris-logo-png_seeklogo-609743.png",
-  "canales": [
-    {
-      "name": "DISCORD",
-      "logo": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg",
-      "url": "https://discord.gg/MVqmy6EACK"
-    }
-  ]
-},
-    {
       "id": 4,
       "evento": "Torneo de Reserva: Atl. Rafaela 2 vs Ferro Carril R",
       "fecha": "2026-09-29 13:00:00",
@@ -930,6 +914,22 @@
     },
     {
       "id": 23,
+      "evento": "Mejoralito vs Memoo",
+      "fecha": "2026-09-29 22:30:00",
+      "competencia": "Copa Africana de Naciones",
+      "logoUrl": "https://images.seeklogo.com/logo-png/49/2/keles-logo-png_seeklogo-498484.png",
+      "team1Logo": "https://images.seeklogo.com/logo-png/52/1/grido-logo-png_seeklogo-528916.png",
+      "team2Logo": "https://images.seeklogo.com/logo-png/60/1/memo-paris-logo-png_seeklogo-609743.png",
+      "canales": [
+        {
+          "name": "DISCORD",
+          "logo": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg",
+          "url": "https://discord.gg/MVqmy6EACK"
+        }
+      ]
+    },
+    {
+      "id": 24,
       "evento": "Liga de Naciones de la CONCACAF: Anguila vs Aruba",
       "fecha": "2026-09-30 00:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
@@ -949,7 +949,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "evento": "Amistoso Internacional: EE. UU. vs Chile",
       "fecha": "2026-09-30 01:00:00",
       "competencia": "Fútbol Amistoso",
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "evento": "Liga de Naciones de la CONCACAF: Belice vs San Vicente / Granadinas",
       "fecha": "2026-09-30 03:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
