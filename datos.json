@@ -80,7 +80,7 @@
       "competencia": "Torneo de Reserva",
       "logoUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e_628913fc18.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/instituto.png",
-      "team2Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/racing-club.png",
       "canales": [
         {
           "name": "ESPN",
@@ -107,8 +107,8 @@
       "fecha": "2026-09-30 13:45:00",
       "competencia": "UEFA Champions League",
       "logoUrl": "https://tvtveshd.com/iconos/championsleague.png",
-      "team1Logo": null,
-      "team2Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/as-roma.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-barcelona.png",
       "canales": [
         {
           "name": "Disney+",
@@ -185,8 +185,8 @@
       "fecha": "2026-09-30 14:00:00",
       "competencia": "UEFA Women's Champions League",
       "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
-      "team1Logo": null,
-      "team2Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/benfica.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bayern-munich.png",
       "canales": [
         {
           "name": "Disney+",
@@ -205,8 +205,8 @@
       "fecha": "2026-09-30 16:00:00",
       "competencia": "UEFA Champions League",
       "logoUrl": "https://tvtveshd.com/iconos/championsleague.png",
-      "team1Logo": null,
-      "team2Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lyon.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chelsea.png",
       "canales": [
         {
           "name": "ESPN",
@@ -295,12 +295,12 @@
     },
     {
       "id": 9,
-      "evento": "Torneo de Reserva: Central Córdoba SdE (R) vs Newell's Old Boys (R)",
+      "evento": "Torneo de Reserva: Central Córdoba SdE vs Newell's Old Boys",
       "fecha": "2026-09-30 17:00:00",
       "competencia": "Torneo de Reserva",
-      "logoUrl": "https://api.promiedos.com.ar/images/league/hhbc/1",
+      "logoUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e_628913fc18.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/central-cordoba-sde.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/newell-s-old-boys.png",
+      "team2Logo": null,
       "canales": [
         {
           "name": "ESPN",
@@ -369,7 +369,7 @@
       "fecha": "2026-09-30 20:00:00",
       "competencia": "Primera División Uruguay",
       "logoUrl": "https://bestleague.pl/jr/56.png",
-      "team1Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/montevideo-city-torque.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/penarol.png",
       "canales": [
         {
@@ -397,8 +397,8 @@
       "fecha": "2026-09-30 20:30:00",
       "competencia": "MLS",
       "logoUrl": "https://bestleague.pl/jr/81.png",
-      "team1Logo": null,
-      "team2Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/new-york-red-bulls.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/st-louis-city-sc.png",
       "canales": [
         "MLS"
       ]
@@ -431,7 +431,7 @@
       "competencia": "Liga BetPlay",
       "logoUrl": "https://bestleague.pl/jr/118.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
-      "team2Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/junior-fc.png",
       "canales": [
         "WIN Sports+"
       ]
