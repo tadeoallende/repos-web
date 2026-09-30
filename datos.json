@@ -412,7 +412,7 @@
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bolivia.png",
       "canales": [
-        "TYC Sports (5 Opciones, la de extension es SIN DELAY pero solo para PC, para activarlo tenes que ponerlo en 1.5x o 2x con la tuerquita, y luego ponerlo en 1x cuando el indicador llegue a 5 seg aprox)",
+        "TYC Sports",
         {
           "name": "SporTV",
           "options": [
@@ -801,7 +801,7 @@
       "featured": true
     },
     {
-      "name": "TYC Sports (5 Opciones, la de extension es SIN DELAY pero solo para PC, para activarlo tenes que ponerlo en 1.5x o 2x con la tuerquita, y luego ponerlo en 1x cuando el indicador llegue a 5 seg aprox)",
+      "name": "TYC Sports",
       "logo": "https://angulismotv.pages.dev/assets/logos/TYCSPORTS.png",
       "options": [
         {
@@ -823,10 +823,6 @@
         {
           "name": "Opción 5 (EXTENSION PC)",
           "iframe": "https://bestleague.life/tok.html?get=VHlDU3BvcnQ"
-        },
-        {
-          "name": "Opción 6 (EXTENSION PC)",
-          "iframe": "https://pracanespeeeedaaass.github.io/cantods-seeesaa.html?id=TYCSports"
         }
       ],
       "show": true,
