@@ -298,9 +298,9 @@
       "evento": "Torneo de Reserva: Central Córdoba SdE vs Newell's Old Boys",
       "fecha": "2026-09-30 17:00:00",
       "competencia": "Torneo de Reserva",
-      "logoUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e_628913fc18.png",
+      "logoUrl": "https://www.promiedos.com.ar/league/liga-profesional-reserva/hhbc",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/central-cordoba-sde.png",
-      "team2Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/newell-s-old-boys.png",
       "canales": [
         {
           "name": "ESPN",
@@ -328,7 +328,7 @@
       "competencia": "Copa Chile",
       "logoUrl": "https://bestleague.pl/jr/35.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-concepcion.png",
-      "team2Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/o-higgins.png",
       "canales": [
         {
           "name": "TNT Sports Premiun CL",
