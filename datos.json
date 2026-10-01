@@ -13,7 +13,11 @@
           "name": "Eventos",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamx305.sbs/global1.php?channel=telemundo_deportes"
+            },
+            {
+              "name": "Opción 2",
               "iframe": "https://streamxhd.com/live1.php?stream=evento1"
             }
           ]
@@ -22,7 +26,7 @@
           "name": "Telemundo",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=telemundo"
             },
             {
@@ -35,39 +39,6 @@
     },
     {
       "id": 2,
-      "evento": "Amistoso Internacional: Japón vs Ecuador",
-      "fecha": "2026-10-01 11:10:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://tvtveshd.com/iconos/fifa1.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/japon.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ecuador.png",
-      "canales": [
-        {
-          "name": "Eventos",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=telemundo_deportes"
-            }
-          ]
-        },
-        {
-          "name": "Telemundo",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=telemundo"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/telemundo.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
       "evento": "UEFA Nations League: Azerbaiyán vs. Liechtenstein",
       "fecha": "2026-10-01 13:00:00",
       "competencia": "UEFA Nations League",
@@ -79,39 +50,43 @@
           "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
+              "name": "Opción 2 (FL)",
               "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
-              "name": "Opción 4",
+              "name": "Opción 3",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 5",
+              "name": "Opción 4",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
-              "name": "Opción 6",
+              "name": "Opción 5",
               "iframe": "https://streamxhd.com/live1.php?stream=espn2"
             },
             {
-              "name": "Opción 7",
+              "name": "Opción 6",
               "iframe": "https://welivesportz.cfd/embed/espn2col.php"
             },
             {
-              "name": "Opción 8 (Ads)",
+              "name": "Opción 7",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
+            },
+            {
+              "name": "Opción 8 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html"
+            },
+            {
+              "name": "Opción 9 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             },
             {
-              "name": "Opción 9 (Extensión)",
+              "name": "Opción 10 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
@@ -120,12 +95,25 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney1"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney1"
             },
             {
               "name": "Opción 2",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "Fox Soccer+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=foxsoccerplus"
             }
           ]
         },
@@ -141,7 +129,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "evento": "Copa Africana de Naciones: Guinea vs Kenia",
       "fecha": "2026-10-01 13:00:00",
       "competencia": "Copa Africana de Naciones",
@@ -161,7 +149,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "evento": "UEFA Women's Champions League: Austria Wien (F) vs Inter Milano (F)",
       "fecha": "2026-10-01 13:45:00",
       "competencia": "UEFA Women's Champions League",
@@ -194,7 +182,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "evento": "UEFA Women's Champions League: Køge (F) vs Servette Chênois Féminin (F)",
       "fecha": "2026-10-01 13:45:00",
       "competencia": "UEFA Women's Champions League",
@@ -214,7 +202,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "evento": "Torneo de Reserva: Independiente (R) vs. Boca Juniors (R)",
       "fecha": "2026-10-01 15:00:00",
       "competencia": "Torneo de Reserva",
@@ -262,7 +250,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "evento": "UEFA Nations League: Gales vs. Noruega",
       "fecha": "2026-10-01 15:45:00",
       "competencia": "UEFA Nations League",
@@ -304,7 +292,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "evento": "UEFA Nations League: Grecia vs. Países Bajos",
       "fecha": "2026-10-01 15:45:00",
       "competencia": "UEFA Nations League",
@@ -387,7 +375,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "evento": "UEFA Nations League: Alemania vs. Serbia",
       "fecha": "2026-10-01 15:45:00",
       "competencia": "UEFA Nations League",
@@ -424,7 +412,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "evento": "UEFA Nations League: Dinamarca vs. Portugal",
       "fecha": "2026-10-01 15:45:00",
       "competencia": "UEFA Nations League",
@@ -511,7 +499,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "evento": "UEFA Nations League: Israel vs. Kosovo",
       "fecha": "2026-10-01 15:45:00",
       "competencia": "UEFA Nations League",
@@ -535,7 +523,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "evento": "UEFA Nations League: República de Irlanda vs. Austria",
       "fecha": "2026-10-01 15:45:00",
       "competencia": "UEFA Nations League",
@@ -559,7 +547,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 13,
       "evento": "UEFA Nations League: Malta vs. Gibraltar",
       "fecha": "2026-10-01 15:45:00",
       "competencia": "UEFA Nations League",
@@ -583,11 +571,11 @@
       ]
     },
     {
-      "id": 15,
+      "id": 14,
       "evento": "Torneo de Reserva: Vélez Sársfield (R) vs Argentinos Juniors (R)",
       "fecha": "2026-10-01 15:45:00",
       "competencia": "Torneo de Reserva",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "logoUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e_628913fc18.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/velez-sarsfield.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentinos-juniors.png",
       "canales": [
@@ -607,7 +595,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 15,
       "evento": "UEFA Women's Champions League: Manchester City (F) vs Real Madrid (F)",
       "fecha": "2026-10-01 16:00:00",
       "competencia": "UEFA Women's Champions League",
@@ -653,7 +641,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 16,
       "evento": "UEFA Women's Champions League: PSG (F) vs OH Leuven (F)",
       "fecha": "2026-10-01 16:00:00",
       "competencia": "UEFA Women's Champions League",
@@ -673,53 +661,11 @@
       ]
     },
     {
-      "id": 18,
-      "evento": "Liga de Naciones de la UEFA: Azerbaiyán vs Liechtenstein",
-      "fecha": "2026-10-01 17:00:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://tvtveshd.com/iconos/NATION.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/azerbaiyan.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/liechtenstein.png",
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericafy.com/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericafy.com/global1.php?stream=disney1"
-            }
-          ]
-        },
-        {
-          "name": "Fox Soccer+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://sudamericafy.com/global1.php?stream=foxsoccerplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 19,
+      "id": 17,
       "evento": "Liga de Naciones de la CONCACAF: Dominica vs Guyana",
       "fecha": "2026-10-01 18:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://img.agenda18.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/dominica.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/guyana.png",
       "canales": [
@@ -735,11 +681,11 @@
       ]
     },
     {
-      "id": 20,
+      "id": 18,
       "evento": "Liga de Naciones de la CONCACAF: Curazao vs Trinidad y Tobago",
       "fecha": "2026-10-01 19:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://img.agenda18.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/curazao.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/trinidad-y-tobago.png",
       "canales": [
@@ -755,91 +701,11 @@
       ]
     },
     {
-      "id": 21,
-      "evento": "Liga de Naciones de la UEFA: Gales vs Noruega",
-      "fecha": "2026-10-01 19:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://tvtveshd.com/iconos/NATION.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gales.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/noruega.png",
-      "canales": []
-    },
-    {
-      "id": 22,
-      "evento": "Liga de Naciones de la UEFA: Grecia vs Países Bajos",
-      "fecha": "2026-10-01 19:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://tvtveshd.com/iconos/NATION.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/grecia.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paises-bajos.png",
-      "canales": []
-    },
-    {
-      "id": 23,
-      "evento": "Liga de Naciones de la UEFA: Alemania vs Serbia",
-      "fecha": "2026-10-01 19:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://tvtveshd.com/iconos/NATION.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alemania.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/serbia.png",
-      "canales": []
-    },
-    {
-      "id": 24,
-      "evento": "Liga de Naciones de la UEFA: Dinamarca vs Portugal",
-      "fecha": "2026-10-01 19:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://tvtveshd.com/iconos/NATION.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/dinamarca.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/portugal.png",
-      "canales": []
-    },
-    {
-      "id": 25,
-      "evento": "Liga de Naciones de la UEFA: Israel vs Kosovo",
-      "fecha": "2026-10-01 19:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://tvtveshd.com/iconos/NATION.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/israel.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/kosovo.png",
-      "canales": []
-    },
-    {
-      "id": 26,
-      "evento": "Liga de Naciones de la UEFA: República de Irlanda vs Austria",
-      "fecha": "2026-10-01 19:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://tvtveshd.com/iconos/NATION.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/irlanda.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/austria.png",
-      "canales": []
-    },
-    {
-      "id": 27,
-      "evento": "Liga de Naciones de la UEFA: Malta vs Gibraltar",
-      "fecha": "2026-10-01 19:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://tvtveshd.com/iconos/NATION.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/malta.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gibraltar.png",
-      "canales": []
-    },
-    {
-      "id": 28,
-      "evento": "UEFA Women's Champions League: Manchester City (F) vs Real Madrid (F)",
-      "fecha": "2026-10-01 20:00:00",
-      "competencia": "UEFA Women's Champions League",
-      "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-city.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-madrid.png",
-      "canales": []
-    },
-    {
-      "id": 29,
+      "id": 19,
       "evento": "Liga de Naciones de la CONCACAF: República Dominicana vs Haití",
       "fecha": "2026-10-01 21:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://img.agenda18.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/republica-dominicana.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/haiti.png",
       "canales": [
@@ -859,11 +725,11 @@
       ]
     },
     {
-      "id": 30,
+      "id": 20,
       "evento": "Liga de Naciones de la CONCACAF: Islas Caimán vs Puerto Rico",
       "fecha": "2026-10-01 21:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://img.agenda18.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/islas-caiman.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/puerto-rico.png",
       "canales": [
@@ -879,11 +745,11 @@
       ]
     },
     {
-      "id": 31,
+      "id": 21,
       "evento": "Copa Argentina: Platense vs. Estudiantes",
       "fecha": "2026-10-01 21:15:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/copa-arg.png",
+      "logoUrl": "https://bestleague.pl/jr/55.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/platense.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
       "canales": [
@@ -931,7 +797,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 22,
       "evento": "Liga BetPlay: Inter Bogotá vs. Once Caldas",
       "fecha": "2026-10-01 22:00:00",
       "competencia": "Liga BetPlay",
@@ -943,21 +809,23 @@
       ]
     },
     {
-      "id": 33,
-      "evento": "Liga de Naciones de la CONCACAF: Dominica vs Guyana",
-      "fecha": "2026-10-01 22:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/dominica.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/guyana.png",
-      "canales": []
+      "id": 23,
+      "evento": "MLS: Seattle Sounders FC vs. Sporting KC",
+      "fecha": "2026-10-01 22:30:00",
+      "competencia": "MLS",
+      "logoUrl": "https://bestleague.pl/jr/81.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/seattle-sounders.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sporting-kc.png",
+      "canales": [
+        "MLS"
+      ]
     },
     {
-      "id": 34,
+      "id": 24,
       "evento": "Liga de Naciones de la CONCACAF: Nicaragua vs Costa Rica",
-      "fecha": "2026-10-01 22:00:00",
+      "fecha": "2026-10-01 23:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://img.agenda18.com/uploads/concacaf_liga_campeones_fad6673376_904ea61955.png",
+      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nicaragua.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/costa-rica.png",
       "canales": [
@@ -973,29 +841,7 @@
       ]
     },
     {
-      "id": 35,
-      "evento": "MLS: Seattle Sounders FC vs. Sporting KC",
-      "fecha": "2026-10-01 22:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://bestleague.pl/jr/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/seattle-sounders.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sporting-kc.png",
-      "canales": [
-        "MLS"
-      ]
-    },
-    {
-      "id": 36,
-      "evento": "Liga de Naciones de la CONCACAF: Curazao vs Trinidad y Tobago",
-      "fecha": "2026-10-01 23:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/curazao.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/trinidad-y-tobago.png",
-      "canales": []
-    },
-    {
-      "id": 37,
+      "id": 25,
       "evento": "Amistoso: Cruz Azul vs. América",
       "fecha": "2026-10-01 23:30:00",
       "competencia": "Fútbol Amistoso",
@@ -1040,37 +886,7 @@
       ]
     },
     {
-      "id": 38,
-      "evento": "Liga de Naciones de la CONCACAF: República Dominicana vs Haití",
-      "fecha": "2026-10-02 01:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/republica-dominicana.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/haiti.png",
-      "canales": []
-    },
-    {
-      "id": 39,
-      "evento": "Liga de Naciones de la CONCACAF: Islas Caimán vs Puerto Rico",
-      "fecha": "2026-10-02 01:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/islas-caiman.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/puerto-rico.png",
-      "canales": []
-    },
-    {
-      "id": 40,
-      "evento": "Copa Argentina: Platense vs Estudiantes LP",
-      "fecha": "2026-10-02 01:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://tvtveshd.com/iconos/argentina.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/platense.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
-      "canales": []
-    },
-    {
-      "id": 41,
+      "id": 26,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #1",
       "fecha": "2026-10-02 01:30:00",
       "competencia": "Fórmula 1",
@@ -1114,7 +930,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": 27,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #1 | On Board Colapinto",
       "fecha": "2026-10-02 01:30:00",
       "competencia": "Fórmula 1",
@@ -1124,7 +940,7 @@
       "canales": []
     },
     {
-      "id": 43,
+      "id": 28,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #1 | On Board Antonelli",
       "fecha": "2026-10-02 01:30:00",
       "competencia": "Fórmula 1",
@@ -1134,37 +950,7 @@
       "canales": []
     },
     {
-      "id": 44,
-      "evento": "Liga BetPlay: Inter Bogotá vs Once Caldas",
-      "fecha": "2026-10-02 02:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://tvtveshd.com/iconos/colombia.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
-      "canales": []
-    },
-    {
-      "id": 45,
-      "evento": "Liga de Naciones de la CONCACAF: Nicaragua vs Costa Rica",
-      "fecha": "2026-10-02 03:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://tvtveshd.com/iconos/CONNAT.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nicaragua.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/costa-rica.png",
-      "canales": []
-    },
-    {
-      "id": 46,
-      "evento": "Amistoso: Cruz Azul vs América",
-      "fecha": "2026-10-02 03:30:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://tvtveshd.com/iconos/fifa1.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruz-azul.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/club-america.png",
-      "canales": []
-    },
-    {
-      "id": 47,
+      "id": 29,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #2",
       "fecha": "2026-10-02 05:00:00",
       "competencia": "Fórmula 1",
