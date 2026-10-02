@@ -2,127 +2,6 @@
   "events": [
     {
       "id": 1,
-      "evento": "F1 | GP de Azerbaiyán: Entrenamientos #1",
-      "fecha": "2026-10-02 05:30:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamxhd.com/live2.php?stream=disney14"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=espn2"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            }
-          ]
-        },
-        {
-          "name": "DAZN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=daznf1"
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=fox1ar"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "evento": "GP Bahréin - Práctica #1 - On Board Colapinto",
-      "fecha": "2026-10-02 05:30:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamxhd.com/live2.php?stream=disney16"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "evento": "F1 | GP de Azerbaiyán: Entrenamientos #2",
-      "fecha": "2026-10-02 09:00:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=espn"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        },
-        {
-          "name": "DAZN",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=daznf1"
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1 (720p)",
-              "iframe": "https://streamx305.sbs/global1.php?channel=fox1ar"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
       "evento": "UEFA Nations League: Kazajstán vs. Moldavia",
       "fecha": "2026-10-02 11:00:00",
       "competencia": "UEFA Nations League",
@@ -134,19 +13,15 @@
           "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html"
-            },
-            {
-              "name": "Opción 3",
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 4 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             }
           ]
@@ -155,8 +30,8 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney1"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney1"
             }
           ]
         },
@@ -164,15 +39,24 @@
           "name": "Fox Sports 2 USA",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=foxsports2_usa"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch2.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 5,
+      "id": 2,
       "evento": "UEFA Nations League: Chipre vs. Armenia",
       "fecha": "2026-10-02 13:00:00",
       "competencia": "UEFA Nations League",
@@ -184,12 +68,12 @@
           "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html"
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
               "name": "Opción 3 (FL)",
@@ -197,26 +81,22 @@
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
-              "name": "Opción 6",
+              "name": "Opción 5",
               "iframe": "https://streamxhd.com/live1.php?stream=espn2"
             },
             {
-              "name": "Opción 7",
+              "name": "Opción 6",
               "iframe": "https://welivesportz.cfd/embed/espn2col.php"
             },
             {
-              "name": "Opción 8 (Ads)",
+              "name": "Opción 7 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             },
             {
-              "name": "Opción 9 (Extensión)",
+              "name": "Opción 8 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
@@ -225,28 +105,37 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney2"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney2"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney1"
             }
           ]
         },
         {
-          "name": "Fox Soccer Plus",
+          "name": "Fox Soccer+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=foxsoccerplus"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch1.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 6,
+      "id": 3,
       "evento": "UEFA Nations League: Letonia vs. Montenegro",
       "fecha": "2026-10-02 13:00:00",
       "competencia": "UEFA Nations League",
@@ -258,19 +147,28 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney3"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney3"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch3.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 7,
+      "id": 4,
       "evento": "LaLiga 2:  Eldense vs Real Oviedo",
       "fecha": "2026-10-02 15:30:00",
       "competencia": "LaLiga 2",
@@ -290,7 +188,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 5,
       "evento": "UEFA Nations League: Bosnia-Herzegovina vs. Suecia",
       "fecha": "2026-10-02 15:45:00",
       "competencia": "UEFA Nations League",
@@ -302,39 +200,43 @@
           "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
+              "name": "Opción 2 (FL)",
               "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
-              "name": "Opción 4",
+              "name": "Opción 3",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 5",
+              "name": "Opción 4",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
-              "name": "Opción 6",
+              "name": "Opción 5",
               "iframe": "https://streamxhd.com/live1.php?stream=espn2"
             },
             {
-              "name": "Opción 7",
+              "name": "Opción 6",
               "iframe": "https://welivesportz.cfd/embed/espn2col.php"
             },
             {
-              "name": "Opción 8 (Ads)",
+              "name": "Opción 7",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
+            },
+            {
+              "name": "Opción 8 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html"
+            },
+            {
+              "name": "Opción 9 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             },
             {
-              "name": "Opción 9 (Extensión)",
+              "name": "Opción 10 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
@@ -343,12 +245,25 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney4"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney4"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch1.php"
             }
           ]
         },
@@ -364,7 +279,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 6,
       "evento": "UEFA Nations League: Hungría vs. Georgia",
       "fecha": "2026-10-02 15:45:00",
       "competencia": "UEFA Nations League",
@@ -376,19 +291,28 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney5"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney5"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney9"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney5"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch3.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 10,
+      "id": 7,
       "evento": "UEFA Nations League: Polonia vs. Rumania",
       "fecha": "2026-10-02 15:45:00",
       "competencia": "UEFA Nations League",
@@ -400,19 +324,28 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney6"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney6"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney8"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney6"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch5.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 11,
+      "id": 8,
       "evento": "UEFA Nations League: Ucrania vs. Irlanda del Norte",
       "fecha": "2026-10-02 15:45:00",
       "competencia": "UEFA Nations League",
@@ -424,15 +357,32 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney7"
+            },
+            {
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=disney7"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney7"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch4.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 12,
+      "id": 9,
       "evento": "UEFA Nations League: Bélgica vs. Turquía",
       "fecha": "2026-10-02 15:45:00",
       "competencia": "UEFA Nations League",
@@ -444,15 +394,45 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney5"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney8"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "Sport TV",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=sportv"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=sporttvbr1"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=sportv"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch6.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 13,
+      "id": 10,
       "evento": "UEFA Nations League: Francia vs. Italia",
       "fecha": "2026-10-02 15:45:00",
       "competencia": "UEFA Nations League",
@@ -461,51 +441,98 @@
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
       "canales": [
         {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
-            }
-          ]
-        },
-        {
           "name": "ESPN",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=espn"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espn"
             },
             {
               "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn"
+            },
+            {
+              "name": "Opción 4 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn.html"
+            },
+            {
+              "name": "Opción 5 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 6",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
             },
             {
-              "name": "Opción 4",
+              "name": "Opción 7",
               "iframe": "https://streamxhd.com/live1.php?stream=espn"
             },
             {
-              "name": "Opción 5",
+              "name": "Opción 8",
               "iframe": "https://welivesportz.cfd/embed/espn1col.php"
             },
             {
-              "name": "Opción 6 (Ads)",
+              "name": "Opción 9 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
             },
             {
-              "name": "Opción 7 (Extensión)",
+              "name": "Opción 10 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney9"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney9"
+            }
+          ]
+        },
+        {
+          "name": "ESPN AR",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamxhd.com/live2.php?stream=espnar"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch2.php"
+            },
+            {
+              "name": "Opción 2 (720p)",
+              "iframe": "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports 1 USA",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports1_usa"
             }
           ]
         }
       ]
     },
     {
-      "id": 14,
+      "id": 11,
       "evento": "UEFA Nations League: Islas Feroe vs. Eslovaquia",
       "fecha": "2026-10-02 15:45:00",
       "competencia": "UEFA Nations League",
@@ -517,15 +544,68 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney6"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=disney10"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch7.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 15,
+      "id": 12,
+      "evento": "Liga de Naciones de la CONCACAF: St. Kitts and Nevis vs Cuba",
+      "fecha": "2026-10-02 18:00:00",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/st-kitts-and-nevis.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cuba.png",
+      "canales": [
+        {
+          "name": "Fox Soccer Plus",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "evento": "Liga de Naciones de la CONCACAF: Surinam vs Guatemala",
+      "fecha": "2026-10-02 19:00:00",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/surinam.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/guatemala.png",
+      "canales": [
+        {
+          "name": "Fox Sports 2 USA",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
       "evento": "Liga Profesional: Independiente vs. Instituto",
       "fecha": "2026-10-02 19:15:00",
       "competencia": "Liga Profesional Argentina",
@@ -537,32 +617,69 @@
           "name": "ESPN Premium",
           "options": [
             {
-              "name": "Opción 1 (FL)",
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 2 (FL)",
               "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 3",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
             },
             {
-              "name": "Opción 3",
+              "name": "Opción 4",
               "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
             },
             {
-              "name": "Opción 4",
+              "name": "Opción 5",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
             },
             {
-              "name": "Opción 5",
+              "name": "Opción 6",
               "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
             },
             {
-              "name": "Opción 6 (Ads)",
+              "name": "Opción 7 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
             },
             {
-              "name": "Opción 7 (Extensión)",
+              "name": "Opción 8 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "evento": "NHL – Detroit Red Wings vs New York Rangers",
+      "fecha": "2026-10-02 19:30:00",
+      "competencia": "Eventos",
+      "logoUrl": "https://img.agenda18.com/uploads/nhl_4a934e9b3a_efd6d7f06f_4971341394_d2f9c06bb6.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/angers.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn3"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn3.html"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney11"
             }
           ]
         }
@@ -646,6 +763,26 @@
     },
     {
       "id": 19,
+      "evento": "Liga de Naciones de la CONCACAF: Martinica vs Honduras",
+      "fecha": "2026-10-02 21:00:00",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/martinica.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/honduras.png",
+      "canales": []
+    },
+    {
+      "id": 20,
+      "evento": "Liga de Naciones de la CONCACAF: Barbados vs Bermudas",
+      "fecha": "2026-10-02 21:00:00",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/barbados.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bermuda.png",
+      "canales": []
+    },
+    {
+      "id": 21,
       "evento": "Liga Profesional: Boca Juniors vs. Unión Santa Fe",
       "fecha": "2026-10-02 21:30:00",
       "competencia": "Liga Profesional Argentina",
@@ -689,7 +826,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 22,
       "evento": "Liga Profesional: Independiente Rivadavia vs. Gimnasia La Plata",
       "fecha": "2026-10-02 21:30:00",
       "competencia": "Liga Profesional Argentina",
@@ -733,7 +870,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 23,
       "evento": "Liga BetPlay: Deportivo Cali vs. Alianza",
       "fecha": "2026-10-02 21:45:00",
       "competencia": "Liga BetPlay",
@@ -745,7 +882,17 @@
       ]
     },
     {
-      "id": 22,
+      "id": 24,
+      "evento": "Liga de Naciones de la CONCACAF: El Salvador vs Jamaica",
+      "fecha": "2026-10-02 23:00:00",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/el-salvador.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/jamaica.png",
+      "canales": []
+    },
+    {
+      "id": 25,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #3",
       "fecha": "2026-10-03 01:30:00",
       "competencia": "Fórmula 1",
@@ -753,15 +900,7 @@
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
-        {
-          "name": "DAZN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=daznf1"
-            }
-          ]
-        },
+        "DAZN",
         {
           "name": "ESPN",
           "options": [
@@ -775,43 +914,11 @@
             }
           ]
         },
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        }
+        "FOX Sports"
       ]
     },
     {
-      "id": 23,
+      "id": 26,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #3 | On Board Colapinto",
       "fecha": "2026-10-03 01:30:00",
       "competencia": "Fórmula 1",
@@ -821,7 +928,7 @@
       "canales": []
     },
     {
-      "id": 24,
+      "id": 27,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #3 | On Board Antonelli",
       "fecha": "2026-10-03 01:30:00",
       "competencia": "Fórmula 1",
@@ -831,7 +938,7 @@
       "canales": []
     },
     {
-      "id": 25,
+      "id": 28,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Clasificación",
       "fecha": "2026-10-03 05:00:00",
       "competencia": "Fórmula 1",
@@ -839,15 +946,7 @@
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
-        {
-          "name": "DAZN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=daznf1"
-            }
-          ]
-        },
+        "DAZN",
         {
           "name": "ESPN",
           "options": [
@@ -861,43 +960,11 @@
             }
           ]
         },
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        }
+        "FOX Sports"
       ]
     },
     {
-      "id": 26,
+      "id": 29,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Clasificación | On Board Colapinto",
       "fecha": "2026-10-03 05:00:00",
       "competencia": "Fórmula 1",
@@ -907,7 +974,7 @@
       "canales": []
     },
     {
-      "id": 27,
+      "id": 30,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Clasificación | On Board Antonelli",
       "fecha": "2026-10-03 05:00:00",
       "competencia": "Fórmula 1",
