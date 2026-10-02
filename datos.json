@@ -1050,19 +1050,7 @@
       "team2Logo": null,
       "canales": [
         "DAZN",
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        },
+"ESPN",
         "FOX Sports"
       ]
     },
