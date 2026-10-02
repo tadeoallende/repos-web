@@ -574,6 +574,15 @@
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cuba.png",
       "canales": [
         {
+          "name": "Fox Soccer+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=foxsoccerplus"
+            }
+          ]
+        },
+        {
           "name": "Fox Soccer Plus",
           "options": [
             {
@@ -597,8 +606,21 @@
           "name": "Fox Sports 2 USA",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=foxsports2_usa"
+            },
+            {
+              "name": "Opción 2",
               "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
+            }
+          ]
+        },
+        {
+          "name": "ViX",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=vix1"
             }
           ]
         }
@@ -609,7 +631,7 @@
       "evento": "Liga Profesional: Independiente vs. Instituto",
       "fecha": "2026-10-02 19:15:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/instituto.png",
       "canales": [
@@ -617,35 +639,43 @@
           "name": "ESPN Premium",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espnpremium"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://sudamericafy.com/global1.php?stream=espnpremium"
             },
             {
-              "name": "Opción 2 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 3",
+              "name": "Opción 2 (720p)",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
             },
             {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
+              "name": "Opción 3 (720p)",
+              "iframe": "https://streamxhd.com/live2.php?stream=espnpremium"
             },
             {
-              "name": "Opción 5",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 5 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             },
             {
               "name": "Opción 6",
+              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 8",
               "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
             },
             {
-              "name": "Opción 7 (Ads)",
+              "name": "Opción 9 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
             },
             {
-              "name": "Opción 8 (Extensión)",
+              "name": "Opción 10 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             }
           ]
@@ -786,7 +816,7 @@
       "evento": "Liga Profesional: Boca Juniors vs. Unión Santa Fe",
       "fecha": "2026-10-02 21:30:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boca-juniors.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/union-santa-fe.png",
       "canales": [
@@ -830,7 +860,7 @@
       "evento": "Liga Profesional: Independiente Rivadavia vs. Gimnasia La Plata",
       "fecha": "2026-10-02 21:30:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente-rivadavia.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gimnasia-la-plata.png",
       "canales": [
