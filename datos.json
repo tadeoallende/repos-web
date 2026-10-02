@@ -2,146 +2,10 @@
   "events": [
     {
       "id": 1,
-      "evento": "Liga de Naciones de la CONCACAF: República Dominicana vs Haití",
-      "fecha": "2026-10-01 21:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/republica-dominicana.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/haiti.png",
-      "canales": [
-        {
-          "name": "Fox Sports 2 USA",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "evento": "Liga de Naciones de la CONCACAF: Islas Caimán vs Puerto Rico",
-      "fecha": "2026-10-01 21:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/islas-caiman.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/puerto-rico.png",
-      "canales": [
-        {
-          "name": "Fox Soccer Plus",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "evento": "Copa Argentina: Platense vs. Estudiantes",
-      "fecha": "2026-10-01 21:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismo-pics.pages.dev/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/platense.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
-      "canales": [
-        {
-          "name": "TYC Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tyc.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VHlDU3BvcnQ"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamxhd.com/live1.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tycsports"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/tycsportarg.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tycsportarg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VHlDU3BvcnQ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "evento": "Liga BetPlay: Inter Bogotá vs. Once Caldas",
-      "fecha": "2026-10-01 22:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
-      "canales": [
-        "WIN Sports+"
-      ]
-    },
-    {
-      "id": 5,
-      "evento": "Liga de Naciones de la CONCACAF: Nicaragua vs Costa Rica",
-      "fecha": "2026-10-01 22:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nicaragua.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/costa-rica.png",
-      "canales": [
-        {
-          "name": "Fox Sports 2 USA",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "evento": "MLS: Seattle Sounders FC vs. Sporting KC",
-      "fecha": "2026-10-01 22:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/seattle-sounders.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sporting-kc.png",
-      "canales": [
-        "MLS"
-      ]
-    },
-    {
-      "id": 7,
-      "evento": "Amistoso: Cruz Azul vs. América",
+      "evento": "Partido Amistoso Internacional: Cruz Azul vs América",
       "fecha": "2026-10-01 23:30:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://static.futbolenlatv.com/img/32/20130618113222-futbol.png",
+      "competencia": "Partido Amistoso Internacional",
+      "logoUrl": "https://img.agenda18.com/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruz-azul.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/club-america.png",
       "canales": [
@@ -155,18 +19,6 @@
             {
               "name": "Opción 2 (Móvil)",
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tudnusa.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://stream-xhd.com/live1.php?stream=tudn_usa"
             }
           ]
         },
@@ -182,9 +34,37 @@
       ]
     },
     {
-      "id": 8,
+      "id": 2,
+      "evento": "Amistoso: Cruz Azul vs. América",
+      "fecha": "2026-10-02 23:30:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://static.futbolenlatv.com/img/32/20130618113222-futbol.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruz-azul.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/club-america.png",
+      "canales": [
+        {
+          "name": "TUDN USA",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tudn_usa"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://stream-xhd.com/live1.php?stream=tudn_usa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #1",
-      "fecha": "2026-10-02 01:30:00",
+      "fecha": "2026-10-03 01:30:00",
       "competencia": "Fórmula 1",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
       "team1Logo": null,
@@ -217,9 +97,9 @@
       ]
     },
     {
-      "id": 9,
+      "id": 4,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #1 | On Board Colapinto",
-      "fecha": "2026-10-02 01:30:00",
+      "fecha": "2026-10-03 01:30:00",
       "competencia": "Fórmula 1",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
       "team1Logo": null,
@@ -237,9 +117,9 @@
       ]
     },
     {
-      "id": 10,
+      "id": 5,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #1 | On Board Antonelli",
-      "fecha": "2026-10-02 01:30:00",
+      "fecha": "2026-10-03 01:30:00",
       "competencia": "Fórmula 1",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
       "team1Logo": null,
@@ -257,9 +137,9 @@
       ]
     },
     {
-      "id": 11,
+      "id": 6,
       "evento": "Fórmula 1: GP Bahréin en Malasia - Práctica Libre #2",
-      "fecha": "2026-10-02 05:00:00",
+      "fecha": "2026-10-03 05:00:00",
       "competencia": "Fórmula 1",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
       "team1Logo": null,
