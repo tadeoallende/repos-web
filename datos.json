@@ -1276,6 +1276,18 @@
       "show": true,
       "featured": true
     },
+        {
+      "name": "Dragon Ball Z",
+      "logo": "https://angulismotv.pages.dev/assets/logos/dragon-ball.png",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "https://angulismotv.pages.dev/multimedia"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
     {
       "name": "Discord",
       "logo": "https://angulismotv.pages.dev/assets/logos/DISCORD.png",
