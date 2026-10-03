@@ -748,7 +748,7 @@
     },
     {
       "id": 21,
-      "evento": "UFC 332: Natália Silva vs. Wang Cong",
+      "evento": "Natália Silva vs. Wang Cong",
       "fecha": "2026-10-03 16:00:00",
       "competencia": "UFC",
       "logoUrl": "https://images.seeklogo.com/logo-png/27/1/ufc-logo-png_seeklogo-272931.png",
@@ -795,7 +795,7 @@
     },
     {
       "id": 22,
-      "evento": "ESPN Knockout – Ben Whittaker vs. Conor Wallace",
+      "evento": "Ben Whittaker vs. Conor Wallace",
       "fecha": "2026-10-03 16:00:00",
       "competencia": "Eventos",
       "logoUrl": "https://img.agenda18.com/uploads/ufc_b17258502e.png",
@@ -1285,7 +1285,7 @@
           "iframe": "https://angulismotv.pages.dev/multimedia"
         }
       ],
-      "show": false,
+      "show": true,
       "featured": true
     },
     {
