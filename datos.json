@@ -1216,7 +1216,7 @@
       "name": "Dragon ball z",
       "logo": "https://angulismotv.pages.dev/assets/logos/equipos/dragon-ball.png",
       "url": "https://angulismotv.pages.dev/multimedia",
-      "show": false
+      "show": true
     },
     {
       "name": "Formula 1",
