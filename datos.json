@@ -1212,11 +1212,17 @@
       "url": "https://discord.gg/MVqmy6EACK",
       "show": true
     },
-    {
-      "name": "Dragon ball z",
+        {
+      "name": "Dragon Ball Z",
       "logo": "https://angulismotv.pages.dev/assets/logos/equipos/dragon-ball.png",
+      "options": [
+        {
+      "name": "Solo peliculas por ahora",
       "url": "https://angulismotv.pages.dev/multimedia",
-      "show": true
+        }
+      ],
+      "show": true,
+      "featured": true
     },
     {
       "name": "Formula 1",
