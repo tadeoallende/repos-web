@@ -100,21 +100,26 @@
 
   "movies": [
     { "number": 1,  "title": "La leyenda de Shen Long (Dragon Ball Z: Ora no Gohan wo Kaese!!)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 2,  "title": "El hombre más fuerte de este mundo (Konoyo de Ichiban Tsuyoi Yatsu)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 3,  "title": "La super batalla decisiva por el planeta Tierra (Chikyū Marugoto Chōkessen)", "iframe": "", "url": "", "type": "iframe" },
+    { "number": 2,  "title": "El hombre más fuerte de este mundo (Konoyo de Ichiban Tsuyoi Yatsu)", "iframe": "https://streamwish.to/e/wflzvrswyq54", "url": "", "type": "iframe" },
+    { "number": 3,  "title": "La super batalla decisiva por el planeta Tierra (Chikyū Marugoto Chōkessen)", "iframe": "https://streamwish.to/e/4uhur5w31b9i", "url": "", "type": "iframe" },
     { "number": 4,  "title": "Super Saiyajin Son Goku (Super Saiyajin da Son Gokū)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 5,  "title": "Los rivales más poderosos (Tobikkiri no Saikyō tai Saikyō)", "iframe": "", "url": "", "type": "iframe" },
+    { "number": 5,  "title": "Los rivales más poderosos (Tobikkiri no Saikyō tai Saikyō)", "iframe": "https://streamwish.to/e/1ybl2mlhjxc0", "url": "", "type": "iframe" },
     { "number": 6,  "title": "Los androides del futuro: Gohan y Trunks (Gekitotsu!! 100-oku Pawā no Senshi-tachi)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 7,  "title": "El regreso del legendario Super Saiyajin (Kyokugen Battle!! San Dai Super Saiyajin)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 8,  "title": "El poder invencible (Moetsukiro!! Nessen Ressen Chōgekisen)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 9,  "title": "La galaxia al borde del colapso (Ginga Giri-Giri!! Butchigiri no Sugoi Yatsu)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 10, "title": "El duelo de los dos mundos (Kiken na Futari! Super Senshi wa Nemurenai)", "iframe": "", "url": "", "type": "iframe" },
+    { "number": 7,  "title": "El regreso del legendario Super Saiyajin (Kyokugen Battle!! San Dai Super Saiyajin)", "iframe": "https://streamwish.to/e/zbv12oaz0vps", "url": "", "type": "iframe" },
+    { "number": 8,  "title": "El poder invencible (Moetsukiro!! Nessen Ressen Chōgekisen)", "iframe": "https://streamwish.to/e/oet81bwnf99j", "url": "", "type": "iframe" },
+    { "number": 9,  "title": "La galaxia al borde del colapso (Ginga Giri-Giri!! Butchigiri no Sugoi Yatsu)", "iframe": "https://streamwish.to/e/pf4crsp4km7q", "url": "", "type": "iframe" },
+    { "number": 10, "title": "El duelo de los dos mundos (Kiken na Futari! Super Senshi wa Nemurenai)", "iframe": "https://streamwish.to/e/2b9w35c5blgw", "url": "", "type": "iframe" },
     { "number": 11, "title": "La fusión de Goku y Vegeta (Doragon Bōru Zetto: Sūpā Senshi Gekiha!! Katsu no wa Ore da)", "iframe": "", "url": "", "type": "iframe" },
     { "number": 12, "title": "El regreso de Broly (Ryū-Ken Bakuhatsu!! Gāru ga Dekinai)", "iframe": "", "url": "", "type": "iframe" },
     { "number": 13, "title": "La batalla de los dioses (Kami to Kami)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 14, "title": "La resurrección de F (Fukkatsu no F)", "iframe": "", "url": "", "type": "iframe" },
+    { "number": 14, "title": "La resurrección de F (Fukkatsu no F)", "iframe": "https://streamwish.to/e/yv5kp5sudf6w", "url": "", "type": "iframe" },
     { "number": 15, "title": "Broly (Doragon Bōru Sūpā: Buroly)", "iframe": "", "url": "", "type": "iframe" },
     { "number": 16, "title": "Super Hero (Doragon Bōru Sūpā: Sūpā Hīrō)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 17, "title": "El Padre De Goku", "iframe": "https://ok.ru/videoembed/2328806623895", "url": "", "type": "iframe" }
+    { "number": 17, "title": "El Padre De Goku", "iframe": "https://ok.ru/videoembed/2328806623895", "url": "", "type": "iframe" },
+    { "number": 18, "title": "¡Devuélvanme a mi Gohan! (Ora no Gohan wo Kaese!!)", "iframe": "https://streamwish.to/e/4qh3m45pzmfb", "url": "", "type": "iframe" },
+    { "number": 19, "title": "La Princesa Durmiente del Castillo Embrujado (Dragon Ball)", "iframe": "https://streamwish.to/e/mie964bvtt5k", "url": "", "type": "iframe" },
+    { "number": 20, "title": "Una Aventura Mística (Dragon Ball: Mystical Adventure)", "iframe": "https://streamwish.to/e/8z9kkap2o41c", "url": "", "type": "iframe" },
+    { "number": 21, "title": "La Batalla de Freezer contra el Padre de Goku (Bardock: Tatta Hitori no Saishū Kessen)", "iframe": "https://streamwish.to/e/5d8kugyetxsx", "url": "", "type": "iframe" },
+    { "number": 22, "title": "Dragon Ball GT: La Legendaria Esfera de Cuatro Estrellas (Gokū Gaiden!)", "iframe": "https://streamwish.to/e/xfdkj9n05ggz", "url": "", "type": "iframe" }
   ]
 }
