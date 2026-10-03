@@ -99,7 +99,6 @@
   ],
 
   "movies": [
-    
     { "number": 1,  "title": "La leyenda de Shen Long (Dragon Ball Z: Ora no Gohan wo Kaese!!)", "iframe": "", "url": "", "type": "iframe" },
     { "number": 2,  "title": "El hombre más fuerte de este mundo (Konoyo de Ichiban Tsuyoi Yatsu)", "iframe": "", "url": "", "type": "iframe" },
     { "number": 3,  "title": "La super batalla decisiva por el planeta Tierra (Chikyū Marugoto Chōkessen)", "iframe": "", "url": "", "type": "iframe" },
@@ -115,8 +114,7 @@
     { "number": 13, "title": "La batalla de los dioses (Kami to Kami)", "iframe": "", "url": "", "type": "iframe" },
     { "number": 14, "title": "La resurrección de F (Fukkatsu no F)", "iframe": "", "url": "", "type": "iframe" },
     { "number": 15, "title": "Broly (Doragon Bōru Sūpā: Buroly)", "iframe": "", "url": "", "type": "iframe" },
-    { "number": 16, "title": "Super Hero (Doragon Bōru Sūpā: Sūpā Hīrō)", "iframe": "", "url": "", "type": "iframe" }
-      { "number": 17,  "title": "El Padre De Goku", "iframe": "https://ok.ru/video/2328806623895", "url": "", "type": "iframe" },
-
+    { "number": 16, "title": "Super Hero (Doragon Bōru Sūpā: Sūpā Hīrō)", "iframe": "", "url": "", "type": "iframe" },
+    { "number": 17, "title": "El Padre De Goku", "iframe": "https://ok.ru/videoembed/2328806623895", "url": "", "type": "iframe" }
   ]
 }
