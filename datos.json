@@ -1278,10 +1278,10 @@
     },
         {
       "name": "Dragon Ball Z",
-      "logo": "https://angulismotv.pages.dev/assets/logos/dragon-ball.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/equipos/dragon-ball.png",
       "options": [
         {
-          "name": "Opción 1",
+          "name": "Peliculas",
           "iframe": "https://angulismotv.pages.dev/multimedia"
         }
       ],
