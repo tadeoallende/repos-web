@@ -1090,7 +1090,7 @@
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://bestleague.pl/img/fifa.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
-      "team2Logo": null,
+      "team2Logo": "https://api.promiedos.com.ar/images/team/feca/1",
       "canales": [
         {
           "name": "TyC Sports",
