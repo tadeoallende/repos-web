@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 1,
+      "id": 494827177,
       "evento": "UEFA Nations League: Azerbaiyán vs. Lituania",
       "fecha": "2026-10-04 10:00:00",
       "competencia": "UEFA Nations League",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 780941254,
       "evento": "Primera División: Danubio vs. Cerro Largo",
       "fecha": "2026-10-04 10:00:00",
       "competencia": "Primera División Uruguay",
@@ -86,40 +86,7 @@
       ]
     },
     {
-      "id": 3,
-      "evento": "NFL – International Series – Washington Commanders vs. Indianapolis Colts",
-      "fecha": "2026-10-04 10:30:00",
-      "competencia": "NFL Pretemporada",
-      "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/napoli.png",
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn4"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
+      "id": 619175545,
       "evento": "Segunda División: Sporting Gijon vs Celta de Vigo II",
       "fecha": "2026-10-04 11:15:00",
       "competencia": "Segunda División",
@@ -139,13 +106,13 @@
       ]
     },
     {
-      "id": 5,
+      "id": 708831122,
       "evento": "Primera B: Antofagasta vs Rangers",
       "fecha": "2026-10-04 12:30:00",
       "competencia": "Primera B",
       "logoUrl": "https://img.agenda18.com/uploads/chile_86c07a7b38_fad5126fd0.png",
       "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/angers.png",
+      "team2Logo": null,
       "canales": [
         {
           "name": "TNT Sports Chile",
@@ -163,7 +130,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 206481653,
       "evento": "UEFA Nations League: Malta vs. Andorra",
       "fecha": "2026-10-04 13:00:00",
       "competencia": "UEFA Nations League",
@@ -179,7 +146,15 @@
               "iframe": "https://sudamericafy.com/global1.php?stream=disney6"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 2 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 4",
               "iframe": "https://la18hd.su/vivo/canal.php?stream=disney6"
             }
           ]
@@ -196,11 +171,20 @@
               "iframe": "https://la18hd.su/vivo/canal.php?stream=sportv"
             }
           ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch2.php"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 7,
+      "id": 759015039,
       "evento": "UEFA Nations League: Kosovo vs. Austria",
       "fecha": "2026-10-04 13:00:00",
       "competencia": "UEFA Nations League",
@@ -261,8 +245,25 @@
               "iframe": "https://sudamericafy.com/global1.php?stream=disney5"
             },
             {
-              "name": "Opción 2",
+              "name": "Opción 2 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 4",
               "iframe": "https://la18hd.su/vivo/canal.php?stream=disney5"
+            }
+          ]
+        },
+        {
+          "name": "Eventos",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://streame.center/embed/ch1.php"
             }
           ]
         },
@@ -278,7 +279,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 265989045,
       "evento": "Primera División: Boston River vs. Juventud",
       "fecha": "2026-10-04 13:00:00",
       "competencia": "Primera División Uruguay",
@@ -302,7 +303,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 399915239,
       "evento": "Segunda División: Fenix vs Uruguay Montevideo",
       "fecha": "2026-10-04 13:00:00",
       "competencia": "Segunda División",
@@ -322,7 +323,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 146925459,
       "evento": "Segunda División: Castellón vs AD Ceuta FC",
       "fecha": "2026-10-04 13:30:00",
       "competencia": "Segunda División",
@@ -342,7 +343,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 896652486,
       "evento": "Segunda División: Las Palmas vs Valladolid",
       "fecha": "2026-10-04 13:30:00",
       "competencia": "Segunda División",
@@ -362,7 +363,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 576182237,
       "evento": "NFL – Buffalo Bills vs. New England Patriots",
       "fecha": "2026-10-04 14:00:00",
       "competencia": "NFL Pretemporada",
@@ -386,7 +387,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 204849407,
       "evento": "NFL – Philadelphia Eagles vs. Los Angeles Rams",
       "fecha": "2026-10-04 14:00:00",
       "competencia": "NFL Pretemporada",
@@ -410,7 +411,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 758769926,
       "evento": "Liga Profesional: Huracán vs. Aldosivi",
       "fecha": "2026-10-04 14:45:00",
       "competencia": "Liga Profesional Argentina",
@@ -495,7 +496,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 813029238,
       "evento": "Copa Chile: O'Higgins vs. Deportes Concepción",
       "fecha": "2026-10-04 15:30:00",
       "competencia": "Copa Chile",
@@ -523,7 +524,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 128264013,
       "evento": "UEFA Nations League: República de Irlanda vs. Israel",
       "fecha": "2026-10-04 15:45:00",
       "competencia": "UEFA Nations League",
@@ -547,7 +548,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 664691199,
       "evento": "UEFA Nations League: Grecia vs. Alemania",
       "fecha": "2026-10-04 15:45:00",
       "competencia": "UEFA Nations League",
@@ -625,7 +626,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 985689292,
       "evento": "UEFA Nations League: Países Bajos vs. Serbia",
       "fecha": "2026-10-04 15:45:00",
       "competencia": "UEFA Nations League",
@@ -664,19 +665,14 @@
           ]
         },
         {
-          "name": "Fox Soccer+",
+          "name": "Fox Soccer Plus",
           "options": [
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://sudamericafy.com/global1.php?stream=foxsoccerplus"
-            }
-          ]
-        },
-        {
-          "name": "Fox Soccer Plus",
-          "options": [
+            },
             {
-              "name": "Opción 1",
+              "name": "Opción 2",
               "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus"
             }
           ]
@@ -693,7 +689,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 802642377,
       "evento": "UEFA Nations League: Portugal vs. Noruega",
       "fecha": "2026-10-04 15:45:00",
       "competencia": "UEFA Nations League",
@@ -782,19 +778,14 @@
           ]
         },
         {
-          "name": "Fox Sports 2 US",
+          "name": "Fox Sports 2 USA",
           "options": [
             {
               "name": "Opción 1 (720p)",
               "iframe": "https://sudamericafy.com/global1.php?stream=foxsports2_usa"
-            }
-          ]
-        },
-        {
-          "name": "Fox Sports 2 USA",
-          "options": [
+            },
             {
-              "name": "Opción 1",
+              "name": "Opción 2",
               "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa"
             }
           ]
@@ -811,7 +802,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 979408962,
       "evento": "UEFA Nations League: Gales vs. Dinamarca",
       "fecha": "2026-10-04 15:45:00",
       "competencia": "UEFA Nations League",
@@ -835,7 +826,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 100119904,
       "evento": "Primera División: Cerro vs. Wanderers",
       "fecha": "2026-10-04 16:00:00",
       "competencia": "Primera División Uruguay",
@@ -859,13 +850,13 @@
       ]
     },
     {
-      "id": 22,
+      "id": 586074440,
       "evento": "Liga BetPlay: Deportivo Pasto vs. Fortaleza CEIF",
       "fecha": "2026-10-04 16:00:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pasto.png",
-      "team2Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fortaleza-fc.png",
       "canales": [
         {
           "name": "WIN Sports+",
@@ -876,6 +867,14 @@
             },
             {
               "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winplus"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            },
+            {
+              "name": "Opción 4",
               "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
             }
           ]
@@ -883,7 +882,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 916872707,
       "evento": "Segunda División: Girona vs Mallorca",
       "fecha": "2026-10-04 16:00:00",
       "competencia": "Segunda División",
@@ -903,31 +902,7 @@
       ]
     },
     {
-      "id": 24,
-      "evento": "Liga BetPlay: Deportivo Pasto vs Fortaleza FC",
-      "fecha": "2026-10-04 16:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pasto.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fortaleza-fc.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=winplus"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 25,
+      "id": 620689643,
       "evento": "Segunda División: Plaza Colonia vs Cerrito",
       "fecha": "2026-10-04 16:00:00",
       "competencia": "Segunda División",
@@ -947,56 +922,12 @@
       ]
     },
     {
-      "id": 26,
+      "id": 102611271,
       "evento": "Liga Profesional: Talleres Córdoba vs. Belgrano",
       "fecha": "2026-10-04 17:00:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/belgrano.png",
-      "canales": [
-        {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "evento": "Liga Profesional Argentina: Talleres Cordoba vs Belgrano Cordoba",
-      "fecha": "2026-10-04 17:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/talleres-de-cordoba.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/belgrano.png",
       "canales": [
         {
@@ -1020,15 +951,39 @@
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
             },
             {
-              "name": "Opción 3 (Ads)",
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
+            },
+            {
+              "name": "Opción 8 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
+            },
+            {
+              "name": "Opción 9 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             }
           ]
         }
       ]
     },
     {
-      "id": 28,
+      "id": 249949912,
       "evento": "Liga BetPlay: Cúcuta Deportivo vs. Deportivo Pereira",
       "fecha": "2026-10-04 18:05:00",
       "competencia": "Liga BetPlay",
@@ -1041,10 +996,14 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winsports"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winsports"
             },
             {
               "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winsports"
+            },
+            {
+              "name": "Opción 3",
               "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports"
             }
           ]
@@ -1052,48 +1011,8 @@
       ]
     },
     {
-      "id": 29,
+      "id": 771599746,
       "evento": "Liga BetPlay: Inter Bogotá vs. Once Caldas",
-      "fecha": "2026-10-04 18:05:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "evento": "Liga BetPlay: Cucuta vs Deportivo Pereira",
-      "fecha": "2026-10-04 18:05:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cucuta-deportivo.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pereira.png",
-      "canales": [
-        {
-          "name": "Win Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=winsports"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "evento": "Liga BetPlay: Internacional de Bogota vs Once Caldas",
       "fecha": "2026-10-04 18:05:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
@@ -1110,13 +1029,17 @@
             {
               "name": "Opción 2",
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
             }
           ]
         }
       ]
     },
     {
-      "id": 32,
+      "id": 344074080,
       "evento": "Liga de Naciones de la CONCACAF: Trinidad y Tobago vs Curazao",
       "fecha": "2026-10-04 19:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
@@ -1136,17 +1059,27 @@
       ]
     },
     {
-      "id": 33,
+      "id": 162187972,
       "evento": "Liga de Naciones de la CONCACAF: Puerto Rico vs Islas Caimán",
       "fecha": "2026-10-04 19:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/puerto-rico.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/islas-caiman.png",
-      "canales": []
+      "canales": [
+        {
+          "name": "Fox Soccer Plus",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 34,
+      "id": 419464485,
       "evento": "Segunda División: La Luz vs CA River Plate",
       "fecha": "2026-10-04 19:00:00",
       "competencia": "Segunda División",
@@ -1166,27 +1099,7 @@
       ]
     },
     {
-      "id": 35,
-      "evento": "Liga de Naciones CONCACAF: Puerto Rico vs Cayman Islands",
-      "fecha": "2026-10-04 19:00:00",
-      "competencia": "Liga de Naciones CONCACAF",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/puerto-rico.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Fox Soccer Plus",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 36,
+      "id": 591200270,
       "evento": "Liga Profesional: Argentinos Juniors vs. Tigre",
       "fecha": "2026-10-04 19:15:00",
       "competencia": "Liga Profesional Argentina",
@@ -1194,6 +1107,47 @@
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentinos-juniors.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tigre.png",
       "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
+            },
+            {
+              "name": "Opción 8 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
+            },
+            {
+              "name": "Opción 9 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            }
+          ]
+        },
         {
           "name": "ESPN Premium",
           "options": [
@@ -1226,72 +1180,11 @@
               "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             }
           ]
-        },
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
         }
       ]
     },
     {
-      "id": 37,
-      "evento": "Liga Profesional Argentina: Argentinos JRS vs Tigre",
-      "fecha": "2026-10-04 19:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tigre.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 38,
+      "id": 797828567,
       "evento": "Primera División: Racing vs. Peñarol",
       "fecha": "2026-10-04 19:30:00",
       "competencia": "Primera División Uruguay",
@@ -1304,10 +1197,14 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney12"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney17"
             },
             {
               "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=disney12"
+            },
+            {
+              "name": "Opción 3",
               "iframe": "https://streamxhd.com/live1.php?stream=disney19"
             }
           ]
@@ -1315,48 +1212,8 @@
       ]
     },
     {
-      "id": 39,
-      "evento": "Primera División de Uruguay: Racing Montevideo vs Penarol",
-      "fecha": "2026-10-04 19:30:00",
-      "competencia": "Primera División de Uruguay",
-      "logoUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/racing-club.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/penarol.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney17"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 40,
+      "id": 818168402,
       "evento": "Liga BetPlay: Atlético Bucaramanga vs. Junior",
-      "fecha": "2026-10-04 20:10:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-bucaramanga.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/junior-fc.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "evento": "Liga BetPlay: Bucaramanga vs Junior",
       "fecha": "2026-10-04 20:10:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
@@ -1373,13 +1230,17 @@
             {
               "name": "Opción 2",
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
             }
           ]
         }
       ]
     },
     {
-      "id": 42,
+      "id": 747372514,
       "evento": "Liga de Naciones de la CONCACAF: Costa Rica vs Haití",
       "fecha": "2026-10-04 21:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
@@ -1412,56 +1273,12 @@
       ]
     },
     {
-      "id": 43,
+      "id": 907189194,
       "evento": "Liga Profesional: Estudiantes Río Cuarto vs. Racing Club",
       "fecha": "2026-10-04 21:30:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/racing-club.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "evento": "Liga Profesional Argentina: Estudiantes de Rio Cuarto vs Racing Club",
-      "fecha": "2026-10-04 21:30:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-rc.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/racing-club.png",
       "canales": [
         {
@@ -1476,15 +1293,39 @@
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
             },
             {
-              "name": "Opción 3 (Ads)",
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
+            },
+            {
+              "name": "Opción 8 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
+            },
+            {
+              "name": "Opción 9 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
             }
           ]
         }
       ]
     },
     {
-      "id": 45,
+      "id": 279163610,
       "evento": "Amistoso: Guadalajara vs. América",
       "fecha": "2026-10-04 22:00:00",
       "competencia": "Fútbol Amistoso",
@@ -1508,7 +1349,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 416179102,
       "evento": "Liga BetPlay: Llaneros vs. América de Cali",
       "fecha": "2026-10-04 22:10:00",
       "competencia": "Liga BetPlay",
@@ -1536,23 +1377,13 @@
       ]
     },
     {
-      "id": 47,
+      "id": 555928561,
       "evento": "Liga de Naciones de la CONCACAF: Nicaragua vs República Dominicana",
       "fecha": "2026-10-04 23:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nicaragua.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/republica-dominicana.png",
-      "canales": []
-    },
-    {
-      "id": 48,
-      "evento": "Liga de Naciones CONCACAF: Nicaragua vs Dominican Republic",
-      "fecha": "2026-10-04 23:00:00",
-      "competencia": "Liga de Naciones CONCACAF",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nicaragua.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/dominica.png",
       "canales": [
         {
           "name": "Fox Sports 2 USA",
