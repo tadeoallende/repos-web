@@ -1,9 +1,9 @@
 {
   "events": [
     {
-      "id": 522764607,
+      "id": 838910748,
       "evento": "Tenis – M1000 Shangai – Primera Ronda",
-      "fecha": "2026-10-07 11:00:00",
+      "fecha": "2026-10-08 11:00:00",
       "competencia": "ATP WTA",
       "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
       "team1Logo": null,
@@ -31,165 +31,245 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney2"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney4"
             }
           ]
         }
       ]
     },
     {
-      "id": 814704358,
-      "evento": "Torneo de Reserva: Aldosivi (R) vs Tigre (R)",
-      "fecha": "2026-10-07 15:00:00",
-      "competencia": "Torneo de Reserva",
-      "logoUrl": "https://img.agenda18.com/uploads/Argentina_de4252220c.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/aldosivi.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tigre.png",
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 101559217,
-      "evento": "Copa Chile: Coquimbo Unido vs. Cobreloa",
-      "fecha": "2026-10-07 19:00:00",
-      "competencia": "Copa Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/coquimbo-unido.png",
+      "id": 472779286,
+      "evento": "Liga 1: Deportivo Moquegua vs. Cienciano",
+      "fecha": "2026-10-08 15:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "TNT Sports Chile",
+          "name": "Liga 1 Max",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsportschile"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=liga1max"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsportschile"
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
             },
             {
               "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 836729630,
-      "evento": "Copa Chile: Antofagasta vs. Universidad Chile",
-      "fecha": "2026-10-07 19:00:00",
-      "competencia": "Copa Chile",
-      "logoUrl": "https://bestleague.world/jr/35.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/antofagasta.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chile.png",
+      "id": 713701026,
+      "evento": "Torneo de Reserva: Sarmiento (R) vs. Vélez Sársfield (R)",
+      "fecha": "2026-10-08 15:00:00",
+      "competencia": "Torneo de Reserva",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sarmiento-junin.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/velez-sarsfield.png",
       "canales": [
         {
-          "name": "MAX",
+          "name": "TNT Sports",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=max1"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
+            },
+            {
+              "name": "Opción 8 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
+            },
+            {
+              "name": "Opción 9 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
             }
           ]
         }
       ]
     },
     {
-      "id": 291936518,
-      "evento": "Brasileirão: RB Bragantino vs. Mirassol",
-      "fecha": "2026-10-07 19:30:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bragantino.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/mirassol.png",
+      "id": 722991440,
+      "evento": "Liga 1: UCV Moquegua vs Cienciano",
+      "fecha": "2026-10-08 15:00:00",
+      "competencia": "Liga 1",
+      "logoUrl": "https://img.agenda18.com/uploads/Peru_1b704f494e.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
-          "name": "Premiere 5 BR",
+          "name": "Liga 1 Max",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere5"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 761982484,
-      "evento": "Brasileirão: Internacional vs. Corinthians",
-      "fecha": "2026-10-07 19:30:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/corinthians.png",
+      "id": 438208777,
+      "evento": "Liga 2: Tacna Heroica vs Carlos Manucci",
+      "fecha": "2026-10-08 17:00:00",
+      "competencia": "Liga 2",
+      "logoUrl": "https://img.agenda18.com/uploads/Peru_1b704f494e.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
-          "name": "Premiere 2 BR",
+          "name": "Bicolor PREMIUM",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/hd.php?stream=premiere2"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=eventos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 885666667,
+      "evento": "Liga 1: Atlético Grau vs. Los Chankas",
+      "fecha": "2026-10-08 17:30:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Liga 1 Max",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=liga1max"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere2"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 3 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 5 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 321111255,
-      "evento": "Brasileirão: Remo vs. Grêmio",
-      "fecha": "2026-10-07 19:30:00",
+      "id": 690809531,
+      "evento": "Brasileirão: Santos vs. Flamengo",
+      "fecha": "2026-10-08 19:30:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/remo.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gremio.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/santos.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/flamengo.png",
       "canales": [
         {
-          "name": "Premiere 4 BR",
+          "name": "WIN Sports",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/hd.php?stream=premiere4"
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=winsports"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere4"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Premiere 1",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=premiere1"
+            }
+          ]
+        },
+        {
+          "name": "Premiere BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere1"
+            }
+          ]
+        },
+        {
+          "name": "Premiere 1 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere1"
             }
           ]
         }
       ]
     },
     {
-      "id": 311704690,
-      "evento": "Brasileirão: Vitória vs. Chapecoense",
-      "fecha": "2026-10-07 20:00:00",
+      "id": 696814875,
+      "evento": "Brasileirão: Athletico-PR vs. Atlético Mineiro",
+      "fecha": "2026-10-08 20:00:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vitoria.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chapecoense.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-mineiro.png",
       "canales": [
+        {
+          "name": "Premiere 3",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=premiere3"
+            }
+          ]
+        },
         {
           "name": "Premiere 3 BR",
           "options": [
@@ -202,58 +282,301 @@
       ]
     },
     {
-      "id": 442161257,
-      "evento": "Brasileirão: Botafogo vs. Vasco da Gama",
-      "fecha": "2026-10-07 20:30:00",
+      "id": 891247186,
+      "evento": "Brasileirão: Athletico Paranaense vs Atlético Mineiro",
+      "fecha": "2026-10-08 20:00:00",
       "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/botafogo.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vasco-da-gama.png",
+      "logoUrl": "https://img.agenda18.com/uploads/Brasil_f83563ade6.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/athletico-paranaense.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-mineiro.png",
       "canales": [
         {
-          "name": "Amazon Prime",
+          "name": "Premiere 3 BR",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=amazon1"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere3"
+            }
+          ]
+        },
+        {
+          "name": "Liga 1 Max",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 138610025,
-      "evento": "Brasileirão: Cruzeiro vs. São Paulo",
-      "fecha": "2026-10-07 21:30:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruzeiro.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sao-paulo.png",
+      "id": 535800392,
+      "evento": "Liga BetPlay: Atlético Nacional vs. Deportes Tolima",
+      "fecha": "2026-10-08 20:05:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-tolima.png",
       "canales": [
         {
-          "name": "Sport TV",
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=winplus"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winsportsplus"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 854603383,
+      "evento": "NFL: Dallas Cowboys vs Tampa Bay Buccaneers",
+      "fecha": "2026-10-08 21:15:00",
+      "competencia": "NFL",
+      "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 5",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=sportv"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn5"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html"
             }
           ]
         },
         {
-          "name": "Premiere 1 BR",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere1"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 544295568,
+      "evento": "Brasileirão: Fluminense vs. Coritiba",
+      "fecha": "2026-10-08 21:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fluminense.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/coritiba.png",
+      "canales": [
+        {
+          "name": "Premiere 5",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=premiere5"
             }
           ]
         },
         {
-          "name": "SporTV 1 BR",
+          "name": "Premiere 5 BR",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp-golden1.click/global1.php?stream=sportv1"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere5"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 886755482,
+      "evento": "Brasileirão: Palmeiras vs. Bahia",
+      "fecha": "2026-10-08 21:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/palmeiras.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bahia.png",
+      "canales": [
+        {
+          "name": "WIN Sports",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=winsports"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winsports"
+            }
+          ]
+        },
+        {
+          "name": "Premiere 2",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=premiere2"
+            }
+          ]
+        },
+        {
+          "name": "Premiere 2 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere2"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=premiere2"
+            }
+          ]
+        },
+        {
+          "name": "Flow Sports 1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://tvlibreonline.st/html/fl/?get=RXZlbnRvczFIRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 482894361,
+      "evento": "Liga de Expansión MX: Alebrijes de Oaxaca vs Correcaminos UAT",
+      "fecha": "2026-10-08 22:00:00",
+      "competencia": "Liga de Expansión MX",
+      "logoUrl": "https://img.agenda18.com/uploads/Mexico_377c2f83d5.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 2 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2mx"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2mx.php"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 447138820,
+      "evento": "Liga BetPlay: Fortaleza CEIF vs. Millonarios",
+      "fecha": "2026-10-08 22:10:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/millonarios.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1 (720p)",
+              "iframe": "https://latamzy.com/global1.php?stream=winplus"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winplus"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp-golden1.click/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 429051531,
+      "evento": "NBA: Los Angeles Lakers vs Sacramento Kings",
+      "fecha": "2026-10-08 23:30:00",
+      "competencia": "NBA",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn3"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espndeportes"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
             }
           ]
         }
