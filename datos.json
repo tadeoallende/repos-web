@@ -893,7 +893,7 @@
       "evento": "Liga Profesional Argentina: Banfield vs Argentinos Juniors",
       "fecha": "2026-10-17 15:00:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/banfield.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentinos-juniors.png",
       "canales": [
@@ -1294,7 +1294,7 @@
       "evento": "Liga Profesional Argentina: Independiente Rivadavia vs Tigre",
       "fecha": "2026-10-17 17:30:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente-rivadavia.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tigre.png",
       "canales": [
@@ -1322,7 +1322,7 @@
       "evento": "Liga Profesional Argentina: Platense vs Lanús",
       "fecha": "2026-10-17 17:30:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/platense.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lanus.png",
       "canales": [
@@ -1410,7 +1410,7 @@
       "evento": "Liga Profesional Argentina: Atlético Tucumán vs Rosario Central",
       "fecha": "2026-10-17 20:00:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-tucuman.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rosario-central.png",
       "canales": [
@@ -1438,7 +1438,7 @@
       "evento": "Liga Profesional Argentina: Vélez Sarsfield vs Gimnasia M.",
       "fecha": "2026-10-17 20:00:00",
       "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/velez-sarsfield.png",
       "team2Logo": null,
       "canales": [
