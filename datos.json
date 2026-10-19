@@ -1,13 +1,50 @@
 {
   "events": [
     {
-      "id": 483925867,
-      "evento": "Serie A: Udinese vs. Lecce",
-      "fecha": "2026-10-18 07:30:00",
+      "id": 500905696,
+      "evento": "Pro League: Al-Fayha vs Al-Ahli Jeddah",
+      "fecha": "2026-10-19 12:05:00",
+      "competencia": "Pro League",
+      "logoUrl": "https://img.agenda18.com/uploads/Arabia_Saudita_ac75bad30d.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Sport TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=sportv"
+            }
+          ]
+        },
+        {
+          "name": "FOX Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxdeportes"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 983083671,
+      "evento": "Serie A: Monza vs Cagliari",
+      "fecha": "2026-10-19 13:30:00",
       "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/udinese.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lecce.png",
+      "logoUrl": "https://img.agenda18.com/uploads/Italia_3e5bd06494.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monza.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cagliari.png",
       "canales": [
         {
           "name": "ESPN 2",
@@ -21,32 +58,8 @@
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html"
             },
             {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         },
@@ -58,49 +71,66 @@
               "iframe": "https://la18hd.su/vivo/canal.php?stream=disney1"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 263212948,
+      "evento": "Süper Lig: Trabzonspor vs Beşiktaş",
+      "fecha": "2026-10-19 14:00:00",
+      "competencia": "Süper Lig",
+      "logoUrl": "https://img.agenda18.com/uploads/Turquia_c2a9f843f4.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
         {
-          "name": "ESPN MX",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espnmx"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports2"
             },
             {
               "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1mx.php"
+              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
+            }
+          ]
+        },
+        {
+          "name": "BeIN Sports Ñ",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=beinsportes"
             }
           ]
         }
       ]
     },
     {
-      "id": 738092505,
-      "evento": "Serie A Women: Juventus Femenil (F) vs Como 1907 Femenil (F)",
-      "fecha": "2026-10-18 07:30:00",
-      "competencia": "Serie A Women",
-      "logoUrl": "https://img.agenda18.com/uploads/Italia_3e5bd06494.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juventus.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/como.png",
+      "id": 778528880,
+      "evento": "Pro League: Al-Hilal Saudi FC vs Al-Hazm",
+      "fecha": "2026-10-19 15:00:00",
+      "competencia": "Pro League",
+      "logoUrl": "https://img.agenda18.com/uploads/Arabia_Saudita_ac75bad30d.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
-          "name": "DSports",
+          "name": "FOX One",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=dsports2"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=dsports2_op2"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxone"
             }
           ]
         },
@@ -116,594 +146,83 @@
       ]
     },
     {
-      "id": 469388950,
-      "evento": "Bundesliga 2: Arminia Bielefeld vs. Osnabrück",
-      "fecha": "2026-10-18 08:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney2"
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 2 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 672548108,
-      "evento": "2. Bundesliga: Karlsruher SC vs SV Darmstadt 98",
-      "fecha": "2026-10-18 08:30:00",
-      "competencia": "2. Bundesliga",
-      "logoUrl": "https://img.agenda18.com/uploads/Alemania_3926052959.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 888675684,
-      "evento": "2. Bundesliga: Dynamo Dresden vs 1. FC Magdeburg",
-      "fecha": "2026-10-18 08:30:00",
-      "competencia": "2. Bundesliga",
-      "logoUrl": "https://img.agenda18.com/uploads/Alemania_3926052959.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 864932757,
-      "evento": "LaLiga: Osasuna vs. Racing Santander",
-      "fecha": "2026-10-18 09:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/osasuna.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/racing-club.png",
-      "canales": [
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn3"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
-            },
-            {
-              "name": "Opción 8 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney5"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
-            }
-          ]
-        },
-        {
-          "name": "Canal 5 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=canal5"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://fubolazo.com/drm/canal5mx.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 740523205,
-      "evento": "Segunda División: AD Ceuta FC vs Oviedo",
-      "fecha": "2026-10-18 09:00:00",
+      "id": 440401083,
+      "evento": "Segunda División: Celta de Vigo II vs Tenerife",
+      "fecha": "2026-10-19 15:30:00",
       "competencia": "Segunda División",
       "logoUrl": "https://img.agenda18.com/uploads/Espana_795e076624.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ceuta-es.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "LaLiga TV Hypermotion",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=hypermotion1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 272547364,
-      "evento": "Eredivisie: Cambuur vs. AZ",
-      "fecha": "2026-10-18 09:30:00",
-      "competencia": "Eredivisie",
-      "logoUrl": "https://bestleague.pl/jr/38.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney6"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn3mx"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn3mx.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 272556565,
-      "evento": "Premier League: AFC Bournemouth vs. Sunderland",
-      "fecha": "2026-10-18 10:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bournemouth.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sunderland.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney7"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 944506007,
-      "evento": "Premier League: Brighton & Hove Albion vs. Crystal Palace",
-      "fecha": "2026-10-18 10:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/brighton.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/crystal-palace.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney8"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
-            }
-          ]
-        },
-        {
-          "name": "MAX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=max1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 253032012,
-      "evento": "Premier League: Leeds United vs. Manchester United",
-      "fecha": "2026-10-18 10:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/leeds-united.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-united.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney9"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
-            }
-          ]
-        },
-        {
-          "name": "Telemundo",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=telemundo"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=telemundo"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/telemundo.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 882959204,
-      "evento": "Serie A: Fiorentina vs. Como",
-      "fecha": "2026-10-18 10:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fiorentina.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/como.png",
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney1"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2mx"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2mx.php"
-            }
-          ]
-        },
-        {
-          "name": "Universo",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=universo"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=universo"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/universo.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 284850051,
-      "evento": "Ligue 1: Angers SCO vs. Olympique Marseille",
-      "fecha": "2026-10-18 10:00:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/angers.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney10"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
-            }
-          ]
-        },
-        {
-          "name": "BeIN Sports Ñ",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=beinsportes"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 551822590,
-      "evento": "Primera División de Uruguay: Albion FC vs Atletico Torque",
-      "fecha": "2026-10-18 10:00:00",
-      "competencia": "Primera División de Uruguay",
-      "logoUrl": "https://img.agenda18.com/uploads/Uruguay_6184fe6ea1.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/albion.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/montevideo-city-torque.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney11"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 389707717,
-      "evento": "Bundesliga: Bayer Leverkusen vs. Freiburg",
-      "fecha": "2026-10-18 10:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bayer-leverkusen.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 527154663,
-      "evento": "Bundesliga: Bayer Leverkusen vs Friburgo",
-      "fecha": "2026-10-18 10:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://img.agenda18.com/uploads/Alemania_3926052959.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bayer-leverkusen.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/friburgo.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney13"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 626223263,
-      "evento": "NFL: Jacksonville Jaguars vs Houston Texans",
-      "fecha": "2026-10-18 10:30:00",
-      "competencia": "NFL",
-      "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn4"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney12"
-            }
-          ]
-        },
-        {
-          "name": "ESPN Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espndeportes"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 767305621,
-      "evento": "Super League 1: Panetolikos vs Olympiacos",
-      "fecha": "2026-10-18 11:00:00",
-      "competencia": "Super League 1",
-      "logoUrl": "https://img.agenda18.com/uploads/Grecia_729051098a.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Claro Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://fubolazo.com/drm/clarosports1.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 558208071,
-      "evento": "LaLiga: Celta de Vigo vs. Deportivo Alavés",
-      "fecha": "2026-10-18 11:15:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/celta-de-vigo.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alaves.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "LaLiga TV Hypermotion",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=hypermotion1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 547495392,
+      "evento": "Serie A: Parma vs Torino",
+      "fecha": "2026-10-19 15:45:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://img.agenda18.com/uploads/Italia_3e5bd06494.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/parma.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/torino.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "Telemundo",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/telemundo.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 422316792,
+      "evento": "LaLiga: Getafe vs Rayo Vallecano",
+      "fecha": "2026-10-19 16:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://img.agenda18.com/uploads/Espana_795e076624.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/getafe-cf.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rayo-vallecano.png",
       "canales": [
         {
           "name": "Dsports AR",
@@ -730,188 +249,34 @@
               "iframe": "https://la18hd.su/vivo/canal.php?stream=dsports"
             },
             {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
-            },
-            {
-              "name": "Opción 8",
-              "iframe": "https://bolaloca.my/player/2/94"
-            },
-            {
-              "name": "Opción 9 (Ads)",
+              "name": "Opción 4 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
             }
           ]
         },
         {
-          "name": "ESPN+",
+          "name": "ESPN Deportes",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnplus2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 572886040,
-      "evento": "Segunda División: Granada CF vs Cadiz",
-      "fecha": "2026-10-18 11:15:00",
-      "competencia": "Segunda División",
-      "logoUrl": "https://img.agenda18.com/uploads/Espana_795e076624.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/granada.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "LaLiga TV Hypermotion",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=hypermotion1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 371219638,
-      "evento": "Eredivisie: Groningen vs. Ajax",
-      "fecha": "2026-10-18 11:45:00",
-      "competencia": "Eredivisie",
-      "logoUrl": "https://bestleague.pl/jr/38.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney14"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn3mx"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espndeportes"
             },
             {
               "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn3mx.php"
+              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 921301564,
-      "evento": "Ligue 1: Le Havre vs. Auxerre",
-      "fecha": "2026-10-18 12:15:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/le-havre.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/auxerre.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney15"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney12"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 360758555,
-      "evento": "Ligue 1: Lorient vs. Monaco",
-      "fecha": "2026-10-18 12:15:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lorient.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monaco.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney16"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
-            }
-          ]
-        },
-        {
-          "name": "BeIN Sports Ñ",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=beinsportes"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 699216331,
-      "evento": "Ligue 1: Paris vs. Rennes",
-      "fecha": "2026-10-18 12:15:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paris-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rennes.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney17"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney13"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 622429258,
-      "evento": "Premier League: Nottingham Forest vs. Arsenal",
-      "fecha": "2026-10-18 12:30:00",
+      "id": 411150606,
+      "evento": "Premier League: Tottenham vs Coventry",
+      "fecha": "2026-10-19 16:00:00",
       "competencia": "Premier League",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nottingham-forest.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/arsenal.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tottenham.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/coventry.png",
       "canales": [
         {
           "name": "ESPN",
@@ -925,32 +290,8 @@
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html"
             },
             {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
+              "name": "Opción 3 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
         },
@@ -959,64 +300,7 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney18"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney14"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 587258239,
-      "evento": "Bundesliga: Borussia M'gladbach vs. Hoffenheim",
-      "fecha": "2026-10-18 12:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/hoffenheim.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney15"
-            }
-          ]
-        },
-        {
-          "name": "Universo",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=universo"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/universo.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 359493411,
-      "evento": "Bundesliga: Borussia Mönchengladbach vs Hoffenheim",
-      "fecha": "2026-10-18 12:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://img.agenda18.com/uploads/Alemania_3926052959.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/borussia-monchengladbach.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/hoffenheim.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney19"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney4"
             }
           ]
         },
@@ -1036,1168 +320,14 @@
       ]
     },
     {
-      "id": 851638721,
-      "evento": "Primera B: Curico Unido vs Deportes Iquique",
-      "fecha": "2026-10-18 12:30:00",
-      "competencia": "Primera B",
-      "logoUrl": "https://img.agenda18.com/uploads/Chile_5f395e29f7.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "TNT Sports Chile",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 710779761,
-      "evento": "Serie A: Milan vs. Atalanta",
-      "fecha": "2026-10-18 13:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ac-milan.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atalanta.png",
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney20"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney16"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2mx"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2mx.php"
-            }
-          ]
-        },
-        {
-          "name": "Telemundo",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=telemundo"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/telemundo.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 559343763,
-      "evento": "Liga 1: Sporting Cristal vs. Comerciantes Unidos",
-      "fecha": "2026-10-18 13:00:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        },
-        {
-          "name": "Liga1max OP2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 748873062,
-      "evento": "LaLiga: Málaga vs. Real Sociedad",
-      "fecha": "2026-10-18 13:30:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/malaga-cf.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-sociedad.png",
-      "canales": [
-        {
-          "name": "Dsports AR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsportsar"
-            }
-          ]
-        },
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=dsports_op2"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=dsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
-            },
-            {
-              "name": "Opción 8",
-              "iframe": "https://bolaloca.my/player/2/94"
-            },
-            {
-              "name": "Opción 9 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            }
-          ]
-        },
-        {
-          "name": "ESPN Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espndeportes"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
-            }
-          ]
-        },
-        {
-          "name": "ESPN+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnplus3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 791553239,
-      "evento": "Segunda División: Girona vs FC Andorra",
-      "fecha": "2026-10-18 13:30:00",
-      "competencia": "Segunda División",
-      "logoUrl": "https://img.agenda18.com/uploads/Espana_795e076624.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/girona-es.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/andorra.png",
-      "canales": [
-        {
-          "name": "LaLiga TV Hypermotion",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=hypermotion1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 823885779,
-      "evento": "Segunda División: Real Valladolid vs Eldense",
-      "fecha": "2026-10-18 13:30:00",
-      "competencia": "Segunda División",
-      "logoUrl": "https://img.agenda18.com/uploads/Espana_795e076624.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/valladolid-es.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "LaLiga TV Hypermotion 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=hypermotion2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 999655880,
-      "evento": "Primera División: CS Cartagines vs Deportivo Saprissa",
-      "fecha": "2026-10-18 14:00:00",
-      "competencia": "Primera División",
-      "logoUrl": "https://img.agenda18.com/uploads/Costa_Rica_9c9321a4e4.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "FUTV",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=futv"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 191999908,
-      "evento": "Segunda División: Plaza Colonia vs CA River Plate",
-      "fecha": "2026-10-18 14:00:00",
-      "competencia": "Segunda División",
-      "logoUrl": "https://img.agenda18.com/uploads/Uruguay_6184fe6ea1.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/plaza-colonia.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/river-plate-ur.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 312090646,
-      "evento": "Liga Profesional: Racing Club vs. Independiente",
-      "fecha": "2026-10-18 14:45:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/racing-club.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney3"
-            }
-          ]
-        },
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        },
-        {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        },
-        {
-          "name": "FOX Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxdeportes"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 704234127,
-      "evento": "Primera B: San Marcos de Arica vs D. Puerto Montt",
-      "fecha": "2026-10-18 15:00:00",
-      "competencia": "Primera B",
-      "logoUrl": "https://img.agenda18.com/uploads/Chile_5f395e29f7.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "TNT Sports Chile",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 498313755,
-      "evento": "Primera División de Uruguay: Danubio vs Central Espanol",
-      "fecha": "2026-10-18 15:00:00",
-      "competencia": "Primera División de Uruguay",
-      "logoUrl": "https://img.agenda18.com/uploads/Uruguay_6184fe6ea1.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/danubio-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/central-espanol.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 137876954,
-      "evento": "Liga 1: FC Cajamarca vs. Deportivo Moquegua",
-      "fecha": "2026-10-18 15:15:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 165597404,
-      "evento": "Liga 1: FC Cajamarca vs UCV Moquegua",
-      "fecha": "2026-10-18 15:15:00",
-      "competencia": "Liga 1",
-      "logoUrl": "https://img.agenda18.com/uploads/Peru_1b704f494e.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        },
-        {
-          "name": "Liga1max OP2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 567214288,
-      "evento": "Serie A: Juventus vs. Lazio",
-      "fecha": "2026-10-18 15:45:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juventus.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lazio.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney6"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney18"
-            }
-          ]
-        },
-        {
-          "name": "Telemundo",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=telemundo"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/telemundo.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 711919626,
-      "evento": "Ligue 1: Olympique Lyonnais vs. Nice",
-      "fecha": "2026-10-18 15:45:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lyon.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney5"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney19"
-            }
-          ]
-        },
-        {
-          "name": "BeIN Sports Ñ",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=beinsportes"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 146784609,
-      "evento": "Taça de Portugal: CF Os Belenenses vs Arouca",
-      "fecha": "2026-10-18 15:45:00",
-      "competencia": "Taça de Portugal",
-      "logoUrl": "https://img.agenda18.com/uploads/Portugal_f1ff6a0e7f.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/arouca.png",
-      "canales": [
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 978347308,
-      "evento": "LaLiga: Real Madrid vs. Sevilla",
-      "fecha": "2026-10-18 16:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-madrid.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sevilla-fc.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney7"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney20"
-            }
-          ]
-        },
-        {
-          "name": "ESPN Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espndeportes"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
-            }
-          ]
-        },
-        {
-          "name": "ESPN+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnplus4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 331703050,
-      "evento": "Liga BetPlay: Rionegro Águilas vs. Deportes Tolima",
-      "fecha": "2026-10-18 16:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-tolima.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 932333053,
-      "evento": "Brasileirão: Fluminense vs. Santos",
-      "fecha": "2026-10-18 16:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fluminense.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/santos.png",
-      "canales": [
-        {
-          "name": "Premiere 2 BR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere2"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere2"
-            }
-          ]
-        },
-        {
-          "name": "Premiere 3 BR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere3"
-            }
-          ]
-        },
-        {
-          "name": "Flow Sports 1",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RXZlbnRvczFIRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 157000125,
-      "evento": "Brasileirão: Grêmio vs. Cruzeiro",
-      "fecha": "2026-10-18 16:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gremio.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruzeiro.png",
-      "canales": [
-        {
-          "name": "Premiere 4 BR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere4"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 525510180,
-      "evento": "Serie B: São Bernardo vs Criciúma",
-      "fecha": "2026-10-18 16:00:00",
-      "competencia": "Serie B",
-      "logoUrl": "https://img.agenda18.com/uploads/Brasil_f83563ade6.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Premiere 5 BR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere5"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 948819941,
-      "evento": "Liga BetPlay: Águilas Doradas vs Deportes Tolima",
-      "fecha": "2026-10-18 16:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/aguilas-doradas.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-tolima.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=winplus"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 488386671,
-      "evento": "Segunda División: Burgos vs Sabadell",
-      "fecha": "2026-10-18 16:00:00",
-      "competencia": "Segunda División",
-      "logoUrl": "https://img.agenda18.com/uploads/Espana_795e076624.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "LaLiga TV Hypermotion",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=hypermotion1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 664495976,
-      "evento": "Primera B: Deportes Santa Cruz vs Antofagasta",
-      "fecha": "2026-10-18 17:00:00",
-      "competencia": "Primera B",
-      "logoUrl": "https://img.agenda18.com/uploads/Chile_5f395e29f7.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/antofagasta.png",
-      "canales": [
-        {
-          "name": "TNT Sports Chile",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 703736935,
-      "evento": "Segunda División: Rentistas vs Atenas",
-      "fecha": "2026-10-18 17:00:00",
-      "competencia": "Segunda División",
-      "logoUrl": "https://img.agenda18.com/uploads/Uruguay_6184fe6ea1.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney8"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 123675438,
-      "evento": "Liga 1: Alianza Atlético vs. Universitario",
-      "fecha": "2026-10-18 17:30:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alianza-fc.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        },
-        {
-          "name": "Liga1max OP2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 127313325,
-      "evento": "Liga Profesional: Estudiantes vs. San Lorenzo",
-      "fecha": "2026-10-18 18:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/san-lorenzo.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        },
-        {
-          "name": "FOX Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxdeportes"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 890476517,
-      "evento": "Liga Profesional: Estudiantes Río Cuarto vs. Aldosivi",
-      "fecha": "2026-10-18 18:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-rc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/aldosivi.png",
-      "canales": [
-        {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
-            },
-            {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 193003720,
-      "evento": "Liga BetPlay: Atlético Bucaramanga vs. América de Cali",
-      "fecha": "2026-10-18 18:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-bucaramanga.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/america-de-cali.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=winplus"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 260749902,
-      "evento": "MLS: Cincinnati vs. Columbus Crew",
-      "fecha": "2026-10-18 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-cincinnati.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/columbus-crew.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=mls1es"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls1es"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 333107764,
+      "id": 461147809,
       "evento": "Brasileirão: Bahia vs. Flamengo",
-      "fecha": "2026-10-18 18:30:00",
+      "fecha": "2026-10-19 18:30:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://angulismo-pics.pages.dev/br.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bahia.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/flamengo.png",
       "canales": [
-        {
-          "name": "Premiere BR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere1"
-            }
-          ]
-        },
         {
           "name": "Premiere 1 BR",
           "options": [
@@ -2210,29 +340,93 @@
       ]
     },
     {
-      "id": 492837946,
-      "evento": "Primera División de Uruguay: Liverpool de Montevideo vs Peñarol",
-      "fecha": "2026-10-18 18:30:00",
-      "competencia": "Primera División de Uruguay",
-      "logoUrl": "https://img.agenda18.com/uploads/Uruguay_6184fe6ea1.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/liverpool.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/penarol.png",
+      "id": 381496109,
+      "evento": "Liga Profesional Argentina: Newell's Old Boys vs Central Córdoba",
+      "fecha": "2026-10-19 19:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/newell-s-old-boys.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/central-cordoba.png",
       "canales": [
         {
-          "name": "Disney+",
+          "name": "TNT Sports",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney9"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 533991841,
+      "id": 486691973,
+      "evento": "Liga Profesional Argentina: Sarmiento vs Barracas Central",
+      "fecha": "2026-10-19 19:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sarmiento-junin.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/barracas-central.png",
+      "canales": [
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 539040074,
+      "evento": "Primera B: Unión Española vs Deportes Copiapó",
+      "fecha": "2026-10-19 19:00:00",
+      "competencia": "Primera B",
+      "logoUrl": "https://img.agenda18.com/uploads/Chile_5f395e29f7.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "TNT Sports Chile",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 400380616,
       "evento": "Brasileirão: Remo vs. RB Bragantino",
-      "fecha": "2026-10-18 19:30:00",
+      "fecha": "2026-10-19 19:30:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://angulismo-pics.pages.dev/br.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/remo.png",
@@ -2250,69 +444,58 @@
       ]
     },
     {
-      "id": 398054137,
-      "evento": "Brasileirão: Remo vs Red Bull Bragantino",
-      "fecha": "2026-10-18 19:30:00",
+      "id": 285061569,
+      "evento": "Brasileirão: Corinthians vs Vitória",
+      "fecha": "2026-10-19 20:00:00",
       "competencia": "Brasileirão",
       "logoUrl": "https://img.agenda18.com/uploads/Brasil_f83563ade6.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/remo.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bragantino.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/corinthians.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vitoria.png",
       "canales": [
         {
-          "name": "Premiere 4 BR",
+          "name": "Premiere BR",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere4"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=premiere1"
+            }
+          ]
+        },
+        {
+          "name": "Sport TV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=sportv"
             }
           ]
         }
       ]
     },
     {
-      "id": 665453087,
-      "evento": "Liga MX Femenil: Atlético San Luis Femenil vs Juárez Femenil",
-      "fecha": "2026-10-18 20:00:00",
-      "competencia": "Liga MX Femenil",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-san-luis.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juarez.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney11"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 171491124,
-      "evento": "Segunda División: Oriental vs Uruguay Montevideo",
-      "fecha": "2026-10-18 20:00:00",
-      "competencia": "Segunda División",
+      "id": 745140345,
+      "evento": "Primera División de Uruguay: Nacional vs Deportivo Maldonado",
+      "fecha": "2026-10-19 20:00:00",
+      "competencia": "Primera División de Uruguay",
       "logoUrl": "https://img.agenda18.com/uploads/Uruguay_6184fe6ea1.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/uruguay-montevideo.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nacional.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-maldonado.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney10"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney6"
             }
           ]
         }
       ]
     },
     {
-      "id": 524220189,
+      "id": 672742216,
       "evento": "Liga BetPlay: Llaneros vs. Santa Fe",
-      "fecha": "2026-10-18 20:05:00",
+      "fecha": "2026-10-19 20:05:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/llaneros-fc.png",
@@ -2323,14 +506,6 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=winplus"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
-            },
-            {
-              "name": "Opción 3",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
             }
           ]
@@ -2338,37 +513,88 @@
       ]
     },
     {
-      "id": 454636198,
+      "id": 707545639,
       "evento": "Liga Profesional: Belgrano vs. River Plate",
-      "fecha": "2026-10-18 20:15:00",
+      "fecha": "2026-10-19 20:15:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/belgrano.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/river-plate.png",
       "canales": [
         {
-          "name": "ESPN",
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 683222984,
+      "evento": "Liga 1: Cienciano vs. UTC Cajamarca",
+      "fecha": "2026-10-19 20:30:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Liga 1 Max",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
             },
             {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 809449748,
+      "evento": "Liga Profesional Argentina: Deportivo Riestra vs Unión de Santa Fe",
+      "fecha": "2026-10-19 21:15:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-riestra.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/union-de-santa-fe.png",
+      "canales": [
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney12"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney5"
             }
           ]
         },
@@ -2384,99 +610,17 @@
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
             },
             {
-              "name": "Opción 3 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 7",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 8 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 9 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        },
-        {
-          "name": "FOX Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxdeportes"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html"
-            },
-            {
               "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
+              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 610770437,
-      "evento": "Liga 1: Cienciano vs. UTC Cajamarca",
-      "fecha": "2026-10-18 20:30:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        },
-        {
-          "name": "Liga1max OP2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 499089638,
+      "id": 978745015,
       "evento": "Liga MX: Monterrey vs. Pachuca",
-      "fecha": "2026-10-18 22:00:00",
+      "fecha": "2026-10-19 22:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monterrey.png",
@@ -2487,14 +631,6 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=tudn"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html"
-            },
-            {
-              "name": "Opción 3",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnus"
             }
           ]
@@ -2502,13 +638,13 @@
       ]
     },
     {
-      "id": 166401523,
-      "evento": "Liga BetPlay: Deportivo Cali vs. Junior",
-      "fecha": "2026-10-18 22:10:00",
+      "id": 317663933,
+      "evento": "Liga BetPlay: Deportivo Pasto vs Alianza Valledupar",
+      "fecha": "2026-10-19 22:05:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-cali.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/junior-fc.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pasto.png",
+      "team2Logo": null,
       "canales": [
         {
           "name": "WIN Sports+",
@@ -2520,10 +656,66 @@
             {
               "name": "Opción 2",
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 131417792,
+      "evento": "Liga MX Femenil: León Femenil vs Atlante Femenil",
+      "fecha": "2026-10-19 22:06:00",
+      "competencia": "Liga MX Femenil",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/leon.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atlante.png",
+      "canales": [
+        {
+          "name": "FOX One",
+          "options": [
             {
-              "name": "Opción 3",
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 168771118,
+      "evento": "Liga BetPlay: Deportivo Cali vs. Junior",
+      "fecha": "2026-10-19 22:10:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-cali.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/junior-fc.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 396448280,
+      "evento": "Primera División: Escorpiones Belén vs Puntarenas FC",
+      "fecha": "2026-10-19 23:00:00",
+      "competencia": "Primera División",
+      "logoUrl": "https://img.agenda18.com/uploads/Costa_Rica_9c9321a4e4.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "FUTV",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=futv"
             }
           ]
         }
