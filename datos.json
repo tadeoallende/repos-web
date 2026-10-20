@@ -1,83 +1,6 @@
 {
   "events": [
     {
-      "id": 100121129,
-      "evento": "UEFA Youth League: PSG Sub-19 vs Barcelona Sub-19",
-      "fecha": "2026-10-20 09:00:00",
-      "competencia": "UEFA Youth League",
-      "logoUrl": "https://img.agenda18.com/uploads/UEFA_Youth_League_2f0e5b3a69.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-barcelona.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 598077454,
-      "evento": "UEFA Youth League: Manchester City Sub-19 vs AEK Athens Sub-19",
-      "fecha": "2026-10-20 11:00:00",
-      "competencia": "UEFA Youth League",
-      "logoUrl": "https://img.agenda18.com/uploads/UEFA_Youth_League_2f0e5b3a69.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-city.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 602822414,
-      "evento": "Pro League: Al Taawon vs Al-Qadisiyah FC",
-      "fecha": "2026-10-20 12:10:00",
-      "competencia": "Pro League",
-      "logoUrl": "https://img.agenda18.com/uploads/Arabia_Saudita_ac75bad30d.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "FOX Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxdeportes"
-            },
-            {
-              "name": "Opción 2 (Móvil)",
-              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
-            }
-          ]
-        },
-        {
-          "name": "Fox Soccer Plus",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 803670404,
       "evento": "UEFA Champions League: Fenerbahçe vs Slavia Praga",
       "fecha": "2026-10-20 13:45:00",
@@ -109,6 +32,15 @@
             {
               "name": "Opción 1",
               "iframe": "https://la18hd.su/vivo/canal.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "FOX One 1",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxone1"
             }
           ]
         }
@@ -150,19 +82,6 @@
           ]
         },
         {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://la18hd.su/vivo/canal.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            }
-          ]
-        },
-        {
           "name": "TUDN USA",
           "options": [
             {
@@ -196,11 +115,11 @@
       ]
     },
     {
-      "id": 856914055,
-      "evento": "Pro League: Al-Nassr vs NEOM",
+      "id": 565374806,
+      "evento": "Saudi Pro League: Al Nassr vs. NEOM",
       "fecha": "2026-10-20 15:00:00",
-      "competencia": "Pro League",
-      "logoUrl": "https://img.agenda18.com/uploads/Arabia_Saudita_ac75bad30d.png",
+      "competencia": "Liga Saudí",
+      "logoUrl": "https://bestleague.pl/jr/104.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
@@ -216,7 +135,11 @@
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html"
             },
             {
-              "name": "Opción 3 (Ads)",
+              "name": "Opción 3",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox_deportes_usa"
+            },
+            {
+              "name": "Opción 4 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
             }
           ]
@@ -229,18 +152,446 @@
               "iframe": "https://la18hd.su/vivo/canal.php?stream=sportv"
             }
           ]
+        },
+        {
+          "name": "SporTV 1 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=sportv1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 425525476,
+      "evento": "Championship: Wolverhampton Wanderers vs. Portsmouth",
+      "fecha": "2026-10-20 15:45:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/wanderers.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 470093834,
+      "evento": "UEFA Champions League: Liverpool vs. Villarreal",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/liverpool.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/villarreal-cf.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn2"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 8 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 9 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney7"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=max3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 276024947,
+      "evento": "UEFA Champions League: Porto vs. PSV",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-porto.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 6",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 558868998,
+      "evento": "UEFA Champions League: Stuttgart vs. Atlético Madrid",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/stuttgart.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-de-madrid.png",
+      "canales": [
+        {
+          "name": "ESPN 7",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn7"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney11"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzMkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox2ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports2"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzMkhE"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=max5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 752650233,
+      "evento": "UEFA Champions League: PSG vs. Barcelona",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/psg.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-barcelona.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=max2"
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports 2 UK",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/return/opcion-full-hd-recomendado.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108228726,
+      "evento": "UEFA Champions League: Napoli vs. Bodø / Glimt",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/napoli.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=max4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816955659,
+      "evento": "UEFA Champions League: Manchester City vs. AEK Athens",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-city.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "TNT 1 UK",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://fubolazo.com/drm/tntsports1uk.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn5"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
+            }
+          ]
+        },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney8"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
         }
       ]
     },
     {
       "id": 701887591,
-      "evento": "UEFA Champions League: Roma vs Slovan Bratislava",
+      "evento": "UEFA Champions League: Roma vs. Slovan Bratislava",
       "fecha": "2026-10-20 16:00:00",
       "competencia": "UEFA Champions League",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/as-roma.png",
       "team2Logo": null,
       "canales": [
+        {
+          "name": "TNT 3 UK",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://fubolazo.com/drm/tntsports3uk.php"
+            }
+          ]
+        },
         {
           "name": "ESPN 3",
           "options": [
@@ -251,6 +602,30 @@
             {
               "name": "Opción 2 (Móvil)",
               "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html"
+            },
+            {
+              "name": "Opción 3 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 7",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 8 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
             }
           ]
         },
@@ -260,6 +635,30 @@
             {
               "name": "Opción 1",
               "iframe": "https://la18hd.su/vivo/canal.php?stream=disney5"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 775601073,
+      "evento": "League Two: Gillingham vs Port Vale",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "League Two",
+      "logoUrl": "https://img.agenda18.com/uploads/Inglaterra_850a05f039.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney12"
             }
           ]
         }
@@ -299,116 +698,134 @@
       ]
     },
     {
-      "id": 293686991,
-      "evento": "Liga Profesional: Newell's Old Boys vs. Central Córdoba SdE",
-      "fecha": "2026-10-20 19:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/newell-s-old-boys.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/central-cordoba-sde.png",
+      "id": 484138493,
+      "evento": "UEFA Champions League: Nápoles vs Bodø/Glimt",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 157183593,
-      "evento": "Liga Profesional: Sarmiento vs. Barracas Central",
-      "fecha": "2026-10-20 19:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sarmiento-junin.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/barracas-central.png",
-      "canales": [
-        {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 571589125,
-      "evento": "Brasileirão: Corinthians vs. Vitória",
-      "fecha": "2026-10-20 20:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/corinthians.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vitoria.png",
-      "canales": [
-        {
-          "name": "Premiere 1 BR",
+          "name": "ESPN 4",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere1"
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn4"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html"
             }
           ]
         },
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=disney9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 673082543,
+      "evento": "UEFA Champions League: París Saint-Germain vs Barcelona",
+      "fecha": "2026-10-20 16:00:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/psg.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-barcelona.png",
+      "canales": [
+        {
+          "name": "TNT 2 UK",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://fubolazo.com/drm/tntsports2uk.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            }
+          ]
+        },
+        {
+          "name": "TUDN USA",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=tudn"
+            },
+            {
+              "name": "Opción 2 (Móvil)",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 434778656,
+      "evento": "Liga BetPlay: Deportivo Pereira vs. Boyacá Chicó",
+      "fecha": "2026-10-20 18:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pereira.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boyaca-chico.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winplus"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 590227346,
+      "evento": "Liga BetPlay: Inter Bogotá vs. Fortaleza CEIF",
+      "fecha": "2026-10-20 20:15:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional-de-bogota.png",
+      "team2Logo": null,
+      "canales": [
         {
           "name": "WIN Sports",
           "options": [
             {
               "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winsports"
+            },
+            {
+              "name": "Opción 2",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=winsports"
             }
           ]
@@ -416,77 +833,188 @@
       ]
     },
     {
-      "id": 247976685,
-      "evento": "Primera División: Nacional vs. Deportivo Maldonado",
-      "fecha": "2026-10-20 20:00:00",
-      "competencia": "Primera División Uruguay",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nacional.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-maldonado.png",
+      "id": 544122201,
+      "evento": "Liga BetPlay: Cúcuta Deportivo vs. Atlético Nacional",
+      "fecha": "2026-10-20 20:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cucuta-deportivo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://la18hd.su/vivo/canal.php?stream=winplus"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 845556074,
+      "evento": "Liga MX: Guadalajara vs. Necaxa",
+      "fecha": "2026-10-20 21:07:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chivas-de-guadalajara.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/necaxa.png",
+      "canales": [
+        {
+          "name": "Universo",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=universo_usa"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/universo.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 845642923,
+      "evento": "Copa Sudamericana: Vasco da Gama vs. Boca Juniors",
+      "fecha": "2026-10-20 21:30:00",
+      "competencia": "Copa Sudamericana",
+      "logoUrl": "https://images.onefootball.com/icons/leagueColoredCompetition/128/102.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vasco-da-gama.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boca-juniors.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 140355163,
-      "evento": "Liga Profesional: Deportivo Riestra vs. Unión Santa Fe",
-      "fecha": "2026-10-20 21:15:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/saf.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-riestra.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/union-santa-fe.png",
-      "canales": [
+        },
         {
-          "name": "ESPN Premium",
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+              "iframe": "https://streamxhd.com/live1.php?stream=espn"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
             },
             {
               "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
             },
             {
               "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
         }
       ]
     },
     {
-      "id": 777595117,
-      "evento": "Liga BetPlay: Deportivo Pasto vs. Alianza",
-      "fecha": "2026-10-20 22:05:00",
+      "id": 204408289,
+      "evento": "Liga MX: Atlético San Luis vs. Querétaro",
+      "fecha": "2026-10-20 22:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-san-luis.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/queretaro-fc.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 433585595,
+      "evento": "Liga MX: Juárez vs. Atlante",
+      "fecha": "2026-10-20 22:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juarez.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atlante.png",
+      "canales": [
+        {
+          "name": "Azteca 7 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=azteca7"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/azteca7mx.php"
+            }
+          ]
+        },
+        {
+          "name": "FOX Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox_deportes_usa"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 341683252,
+      "evento": "Liga BetPlay: Millonarios vs. Once Caldas",
+      "fecha": "2026-10-20 22:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pasto.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alianza-fc.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/millonarios.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
       "canales": [
         {
           "name": "WIN Sports+",
@@ -494,6 +1022,56 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 253828592,
+      "evento": "Liga MX: Tigres UANL vs. León",
+      "fecha": "2026-10-21 00:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tigre.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/leon.png",
+      "canales": [
+        {
+          "name": "Azteca 7 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=azteca7"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/azteca7mx.php"
+            }
+          ]
+        },
+        {
+          "name": "FOX Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox_deportes_usa"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
+            }
+          ]
+        },
+        {
+          "name": "Universo",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=universo_usa"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/universo.php"
             }
           ]
         }
