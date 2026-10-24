@@ -2817,16 +2817,20 @@
           "name": "Opción 3",
           "iframe": "https://streamx305.sbs/global1.php?stream=espn"
         },
+                {
+          "name": "Opción 4 (HLS)",
+          "iframe": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8"
+        },
         {
-          "name": "Opción 4",
+          "name": "Opción 5",
           "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
         },
         {
-          "name": "Opción 5 (EXTENSION PC DELAY 720P)",
+          "name": "Opción 6 (EXTENSION PC DELAY 720P)",
           "iframe": "https://bestleague.life/tok.html?get=RVNQTl9VWQ=="
         },
         {
-          "name": "Opción 6 (EXTENSION PC SIN DELAY 1080p)",
+          "name": "Opción 7 (EXTENSION PC SIN DELAY 1080p)",
           "iframe": "https://can05-2025vaariscandeteexteeop1.github.io/cantodsgiaaareextee.html?id=eeespee1-giaaaa"
         }
       ],
