@@ -3379,14 +3379,14 @@
     },
     {
       "name": "El Nueve",
-      "logo": "https://bestleague.pl/img/nueve.webp",
+      "logo": "https://bestleague.pl/img/nueves.webp",
       "options": [
         {
           "name": "Opción 1",
           "iframe": "https://bestleague.life/tok.html?get=Q2FuYWw5"
         }
       ],
-      "show": false,
+      "show": true,
       "featured": false
     },
     {
