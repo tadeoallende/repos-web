@@ -2463,18 +2463,6 @@
       "show": false,
       "featured": true
     },
-        {
-      "name": "LPF Play",
-      "logo": "https://web.archive.org/web/20250720002943im_/https://p.alangulotv.blog/BNACIONAL",
-      "options": [
-        {
-          "name": "Opción 1",
-          "iframe": "https://jn328.sportvideodata.com/7516490217661226156_QNyIzNhZGO4MTYxQTL5UmZ50SNzUDNtQGOmlTL1UDN0AzM1YzL1JnLpBXYzRncvB3cu8WZklmd/output-0.m3u8"
-        }
-      ],
-      "show": true,
-      "featured": true
-    },
     {
       "name": "Multicam",
       "logo": "https://angulismotv.pages.dev/assets/logos/MULTICAM.png",
@@ -2482,6 +2470,22 @@
         {
           "name": "Opción 1",
           "iframe": "https://angulismotv.pages.dev/embed-multicam"
+        }
+      ],
+      "show": true,
+      "featured": true
+    },
+       {
+      "name": "LPF Play",
+      "logo": "https://web.archive.org/web/20250720002943im_/https://p.alangulotv.blog/BNACIONAL",
+      "options": [
+        {
+          "name": "Opción 1",
+          "iframe": "about::blank"
+        },
+                {
+          "name": "Opción 2",
+          "iframe": "https://jn328.sportvideodata.com/7516490217661226156_QNyIzNhZGO4MTYxQTL5UmZ50SNzUDNtQGOmlTL1UDN0AzM1YzL1JnLpBXYzRncvB3cu8WZklmd/output-0.m3u8"
         }
       ],
       "show": true,
