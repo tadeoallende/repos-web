@@ -1,74 +1,13 @@
 {
   "events": [
     {
-      "id": 900288056,
-      "evento": "UEFA Europa League: Sparta Praha vs. AFC Bournemouth",
-      "fecha": "2026-11-05 14:45:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bournemouth.png",
-      "canales": [
-        {
-          "name": "ESPN 7",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 752050897,
-      "evento": "UEFA Europa League: Real Sociedad vs. Olympique Lyonnais",
-      "fecha": "2026-11-05 14:45:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-sociedad.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lyon.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 906426274,
-      "evento": "UEFA Europa League: NEC vs. Omonia Nicosia",
-      "fecha": "2026-11-05 14:45:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": null,
-      "team2Logo": null,
+      "id": 945900831,
+      "evento": "FIP World Cup: Argentina (F) vs. Italia (Semifinal femenina) (F)",
+      "fecha": "2026-11-06 08:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
       "canales": [
         {
           "name": "ESPN 4",
@@ -102,20 +41,20 @@
       ]
     },
     {
-      "id": 954142758,
-      "evento": "UEFA Europa League: Crystal Palace vs. Hoffenheim",
-      "fecha": "2026-11-05 14:45:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/crystal-palace.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/hoffenheim.png",
+      "id": 743465284,
+      "evento": "ATP: B. Shelton (USA) vs. T. Paul (USA)",
+      "fecha": "2026-11-06 10:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RVNQTjM"
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
             }
           ]
         },
@@ -135,106 +74,191 @@
       ]
     },
     {
-      "id": 479373845,
-      "evento": "UEFA Europa League: Anderlecht vs. Salzburg",
-      "fecha": "2026-11-05 14:45:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "id": 970570020,
+      "evento": "FIP World Cup: Argentina vs. Italia (Semifinal masculina)",
+      "fecha": "2026-11-06 12:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
+      "canales": [
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 610335607,
+      "evento": "Fórmula 1: GP Brasil - Práctica Libre #1",
+      "fecha": "2026-11-06 12:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "ESPN 5",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney1"
             }
           ]
         },
         {
-          "name": "Flow Sports 1",
+          "name": "ESPN 3",
           "options": [
             {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RXZlbnRvczFIRA"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 633957960,
-      "evento": "UEFA Europa League: Milan vs. Ferencváros",
-      "fecha": "2026-11-05 14:45:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ac-milan.png",
-      "team2Logo": null,
-      "canales": [
+        },
         {
-          "name": "ESPN",
+          "name": "FOX Sports",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRz"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox1ar"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn"
+              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
             },
             {
               "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
             },
             {
               "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
             }
           ]
         }
       ]
     },
     {
-      "id": 324125288,
-      "evento": "Liga Profesional: Aldosivi vs. River Plate",
-      "fecha": "2026-11-05 15:00:00",
+      "id": 717645505,
+      "evento": "Fórmula 1: GP Brasil - Práctica Libre #1 | On Board Colapinto",
+      "fecha": "2026-11-06 12:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 993069994,
+      "evento": "Fórmula 1: GP Brasil - Práctica Libre #1 | On Board Verstappen",
+      "fecha": "2026-11-06 12:30:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 293019887,
+      "evento": "Bundesliga 2: Eintracht Braunschweig vs. Energie Cottbus",
+      "fecha": "2026-11-06 14:30:00",
+      "competencia": "Bundesliga",
+      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "FOX Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzMkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox2ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports2"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzMkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 764515232,
+      "evento": "Liga Profesional: Barracas Central vs. Racing Club",
+      "fecha": "2026-11-06 15:00:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/aldosivi.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/river-plate.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/barracas-central.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/racing-club.png",
       "canales": [
         {
           "name": "ESPN Premium",
@@ -268,93 +292,16 @@
               "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
             }
           ]
-        },
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
         }
       ]
     },
     {
-      "id": 785084322,
-      "evento": "UEFA Europa League: AZ vs. Juventus",
-      "fecha": "2026-11-05 17:00:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "id": 980875265,
+      "evento": "ATP: T. Fritz (USA) vs. C. Alcaraz (ESP)",
+      "fecha": "2026-11-06 15:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
       "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juventus.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 647480019,
-      "evento": "UEFA Europa League: Bayer Leverkusen vs. Olympique Marseille",
-      "fecha": "2026-11-05 17:00:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bayer-leverkusen.png",
       "team2Logo": null,
       "canales": [
         {
@@ -362,36 +309,7 @@
           "options": [
             {
               "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 223090007,
-      "evento": "UEFA Europa League: Benfica vs. Lech Poznań",
-      "fecha": "2026-11-05 17:00:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/benfica.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RVNQTjM"
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
             }
           ]
         },
@@ -411,12 +329,114 @@
       ]
     },
     {
-      "id": 405335377,
-      "evento": "UEFA Europa League: Celta de Vigo vs. Union Saint-Gilloise",
-      "fecha": "2026-11-05 17:00:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/celta-de-vigo.png",
+      "id": 461270935,
+      "evento": "Fórmula 1: GP Brasil - Práctica Libre #2",
+      "fecha": "2026-11-06 16:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRz"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 210693859,
+      "evento": "Fórmula 1: GP Brasil - Práctica Libre #2 | On Board Colapinto",
+      "fecha": "2026-11-06 16:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 880654498,
+      "evento": "Fórmula 1: GP Brasil - Práctica Libre #2 | On Board Verstappen",
+      "fecha": "2026-11-06 16:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 929984968,
+      "evento": "Bundesliga: Hamburger SV vs. Borussia M'gladbach",
+      "fecha": "2026-11-06 16:30:00",
+      "competencia": "Bundesliga",
+      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
+      "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
@@ -451,12 +471,12 @@
       ]
     },
     {
-      "id": 903849481,
-      "evento": "UEFA Europa League: Celtic vs. Beşiktaş",
-      "fecha": "2026-11-05 17:00:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": null,
+      "id": 153580610,
+      "evento": "Ligue 1: Toulouse vs. Strasbourg",
+      "fecha": "2026-11-06 16:45:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/toulouse.png",
       "team2Logo": null,
       "canales": [
         {
@@ -487,26 +507,61 @@
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 845153000,
+      "evento": "LaLiga: Sevilla vs. Deportivo Alavés",
+      "fecha": "2026-11-06 17:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sevilla-fc.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alaves.png",
+      "canales": [
         {
-          "name": "Flow Sports 1",
+          "name": "DSports",
           "options": [
             {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RXZlbnRvczFIRA"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://bolaloca.my/player/2/94"
+            },
+            {
+              "name": "Opción 7 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 346541850,
-      "evento": "UEFA Europa League: Sunderland vs. Dinamo Zagreb",
-      "fecha": "2026-11-05 17:00:00",
-      "competencia": "UEFA Europa League",
-      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sunderland.png",
-      "team2Logo": null,
+      "id": 858209833,
+      "evento": "Championship: Derby County vs. Bolton Wanderers",
+      "fecha": "2026-11-06 17:00:00",
+      "competencia": "EFL Cup",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/wanderers.png",
       "canales": [
         {
           "name": "ESPN 7",
@@ -528,17 +583,192 @@
               "iframe": "https://welivesportz.cfd/embed/espn7col.php"
             }
           ]
+        },
+        {
+          "name": "FOX Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzMkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox2ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports2"
+            },
+            {
+              "name": "Opción 4 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
+            },
+            {
+              "name": "Opción 5 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzMkhE"
+            }
+          ]
         }
       ]
     },
     {
-      "id": 563546543,
-      "evento": "Liga Profesional: Gimnasia La Plata vs. Belgrano",
-      "fecha": "2026-11-05 19:15:00",
+      "id": 775271340,
+      "evento": "Nations Championship: Irlanda vs. Argentina",
+      "fecha": "2026-11-06 17:00:00",
+      "competencia": "Eventos",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/irlanda.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 641439055,
+      "evento": "Liga 1: Atlético Grau vs. Cusco",
+      "fecha": "2026-11-06 17:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Liga 1 Max",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 655539936,
+      "evento": "Liga Profesional: Unión Santa Fe vs. Vélez Sarsfield",
+      "fecha": "2026-11-06 19:15:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gimnasia-la-plata.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/belgrano.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/union-santa-fe.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/velez-sarsfield.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 1 AR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espnar"
+            }
+          ]
+        },
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=fanatiz1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 670860715,
+      "evento": "Liga Profesional: San Lorenzo vs. Platense",
+      "fecha": "2026-11-06 19:15:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/san-lorenzo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/platense.png",
+      "canales": [
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 693958788,
+      "evento": "Liga Profesional: Independiente vs. Deportivo Riestra",
+      "fecha": "2026-11-06 19:15:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-riestra.png",
       "canales": [
         {
           "name": "TNT Sports",
@@ -576,23 +806,34 @@
       ]
     },
     {
-      "id": 964890495,
-      "evento": "Brasileirão: Palmeiras vs. Remo",
-      "fecha": "2026-11-05 19:30:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/palmeiras.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/remo.png",
+      "id": 612865099,
+      "evento": "Liga BetPlay: Boyacá Chicó vs. Inter Bogotá",
+      "fecha": "2026-11-06 20:00:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boyaca-chico.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional-de-bogota.png",
       "canales": [
         {
-          "name": "Flow Sports 1",
+          "name": "WIN Sports+",
           "options": [
             {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RXZlbnRvczFIRA"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 249886012,
+      "evento": "Brasileirão: Vitória vs. Fluminense",
+      "fecha": "2026-11-06 20:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vitoria.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fluminense.png",
+      "canales": [
         {
           "name": "Premiere 1 BR",
           "options": [
@@ -601,94 +842,197 @@
               "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere1"
             }
           ]
-        },
-        {
-          "name": "WIN Sports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winsports"
-            }
-          ]
         }
       ]
     },
     {
-      "id": 767212787,
-      "evento": "Brasileirão: Cruzeiro vs. Bahia",
-      "fecha": "2026-11-05 21:30:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruzeiro.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bahia.png",
+      "id": 185916091,
+      "evento": "Futsal Finalissima: Brasil vs. Argentina (Semifinal)",
+      "fecha": "2026-11-06 21:30:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/brasil.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
       "canales": [
         {
-          "name": "WIN Sports",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winsports"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney13"
             }
           ]
         }
       ]
     },
     {
-      "id": 565244281,
-      "evento": "NFL: Baltimore Ravens vs. Jacksonville Jaguars",
-      "fecha": "2026-11-05 22:15:00",
-      "competencia": "NFL",
-      "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
+      "id": 872273811,
+      "evento": "Liga Profesional: Tigre vs. Sarmiento",
+      "fecha": "2026-11-06 22:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tigre.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sarmiento-junin.png",
+      "canales": [
+        {
+          "name": "ESPN 7",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.com/live1.php?stream=espn7"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN Premium",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 513022069,
+      "evento": "Liga Profesional: Banfield vs. Atlético Tucumán",
+      "fecha": "2026-11-06 22:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/banfield.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-tucuman.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 635414323,
+      "evento": "Liga BetPlay: Fortaleza CEIF vs. Medellín",
+      "fecha": "2026-11-06 22:00:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/medellin.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 652339811,
+      "evento": "Boxeo: Damián Arce vs. Mario Gutiérrez",
+      "fecha": "2026-11-06 23:00:00",
+      "competencia": "Boxeo",
+      "logoUrl": "https://angulismo-pics.pages.dev/box.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "ESPN 5",
+          "name": "ESPN 2",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn5"
+              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
             },
             {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzM0hE"
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://stream-xhd.com/live1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         }
