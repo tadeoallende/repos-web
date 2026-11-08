@@ -1,229 +1,11 @@
 {
   "events": [
     {
-      "id": 621951168,
-      "evento": "FIP World Cup: Argentina (F) vs. España (Final femenina) (F)",
-      "fecha": "2026-11-07 08:00:00",
-      "competencia": "ATP WTA",
-      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 845506912,
-      "evento": "Bundesliga 2: Nürnberg vs. Darmstadt 98",
-      "fecha": "2026-11-07 09:00:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "FOX Sports 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzM0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://stream-xhd.com/live1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 561402898,
-      "evento": "Premier League: Leeds United vs. Tottenham Hotspur",
-      "fecha": "2026-11-07 09:30:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/leeds-united.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tottenham.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 158997730,
-      "evento": "Championship: Wrexham vs. Wolverhampton Wanderers",
-      "fecha": "2026-11-07 09:30:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/wanderers.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 5",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 685074163,
-      "evento": "LaLiga: Málaga vs. Racing Santander",
-      "fecha": "2026-11-07 10:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/malaga-cf.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/racing-club.png",
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://bolaloca.my/player/2/94"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 540271103,
-      "evento": "MotoGP: Qualifying | GP Qatar",
-      "fecha": "2026-11-07 10:30:00",
-      "competencia": "MotoGP",
-      "logoUrl": "https://images.seeklogo.com/logo-png/9/1/motogp-logo-png_seeklogo-95111.png",
+      "id": 282571240,
+      "evento": "Eredivisie: Heerenveen vs. Feyenoord",
+      "fecha": "2026-11-08 08:15:00",
+      "competencia": "Eredivisie",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
@@ -244,7 +26,7 @@
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn2"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
             },
             {
               "name": "Opción 5",
@@ -263,203 +45,58 @@
       ]
     },
     {
-      "id": 599454240,
-      "evento": "Serie A: Cagliari vs. Frosinone",
-      "fecha": "2026-11-07 11:00:00",
+      "id": 303453173,
+      "evento": "Serie A: Napoli vs. Lazio",
+      "fecha": "2026-11-08 08:30:00",
       "competencia": "Serie A",
       "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cagliari.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/frosinone.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/napoli.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lazio.png",
       "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 827054918,
-      "evento": "Serie A: Torino vs. Lecce",
-      "fecha": "2026-11-07 11:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/torino.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lecce.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 952063024,
-      "evento": "Bundesliga: Borussia Dortmund vs. Elversberg",
-      "fecha": "2026-11-07 11:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/borussia-dortmund.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sv-07-elversberg.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 7",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 896899577,
-      "evento": "Bundesliga: Mainz 05 vs. Bayern München",
-      "fecha": "2026-11-07 11:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/mainz-05.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bayern-munich.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
-            }
-          ]
-        },
         {
           "name": "ESPN",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 450542926,
-      "evento": "Bundesliga: Paderborn vs. Eintracht Frankfurt",
-      "fecha": "2026-11-07 11:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sc-paderborn-07.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/eintracht-frankfurt.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 211756716,
-      "evento": "Bundesliga: RB Leipzig vs. Augsburg",
-      "fecha": "2026-11-07 11:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rb-leipzig.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-augsburg.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 498943341,
-      "evento": "Fórmula 1: GP Brasil - Práctica Libre #3",
-      "fecha": "2026-11-07 11:30:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "DAZN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=daznf1"
-            }
-          ]
-        },
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=disney8"
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
             },
             {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 365664204,
+      "evento": "Bundesliga 2: Heidenheim vs. Hannover 96",
+      "fecha": "2026-11-08 09:30:00",
+      "competencia": "Bundesliga",
+      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
         {
           "name": "FOX Sports",
           "options": [
@@ -477,7 +114,7 @@
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=fox1ar"
             },
             {
               "name": "Opción 5",
@@ -496,142 +133,100 @@
       ]
     },
     {
-      "id": 977862963,
-      "evento": "Fórmula 1: GP Brasil - Práctica Libre #3 | On Board Colapinto",
-      "fecha": "2026-11-07 11:30:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
+      "id": 472873685,
+      "evento": "MotoGP: Races | GP Qatar",
+      "fecha": "2026-11-08 09:45:00",
+      "competencia": "MotoGP",
+      "logoUrl": "https://images.seeklogo.com/logo-png/9/1/motogp-logo-png_seeklogo-95111.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=disney9"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 435360156,
-      "evento": "Fórmula 1: GP Brasil - Práctica Libre #3 | On Board Verstappen",
-      "fecha": "2026-11-07 11:30:00",
-      "competencia": "Fórmula 1",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=disney10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 497995620,
-      "evento": "Premier League: Arsenal vs. Hull City",
-      "fecha": "2026-11-07 12:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/arsenal.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/hull-city.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 1 AR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnar"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 5",
+          "name": "ESPN 4",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn5"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
             },
             {
               "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-            }
-          ]
-        },
-        {
-          "name": "MAX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=max1"
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
             }
           ]
         }
       ]
     },
     {
-      "id": 300803980,
-      "evento": "Premier League: Fulham vs. Newcastle United",
-      "fecha": "2026-11-07 12:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fulham.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/newcastle-united.png",
+      "id": 174985783,
+      "evento": "LaLiga: Elche vs. Real Betis",
+      "fecha": "2026-11-08 10:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/elche-cf.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-betis.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney12"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
             }
           ]
         }
       ]
     },
     {
-      "id": 156549202,
-      "evento": "Championship: Birmingham City vs. Swansea City",
-      "fecha": "2026-11-07 12:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "id": 792701529,
+      "evento": "Super Lig: Çorum Belediyespor vs. Fenerbahçe",
+      "fecha": "2026-11-08 10:00:00",
+      "competencia": "Süper Lig (Turquía)",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
@@ -640,7 +235,28 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney13"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 6",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn6"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn6"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn6"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://welivesportz.cfd/embed/espn6col.php"
             }
           ]
         },
@@ -668,123 +284,10 @@
       ]
     },
     {
-      "id": 668946307,
-      "evento": "FIP World Cup: Argentina vs. España (Final masculina)",
-      "fecha": "2026-11-07 12:00:00",
-      "competencia": "ATP WTA",
-      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 266800292,
-      "evento": "LaLiga: Espanyol vs. Deportivo La Coruña",
-      "fecha": "2026-11-07 12:15:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rcd-espanyol.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://bolaloca.my/player/2/94"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 991028865,
-      "evento": "ATP: Casper Ruud (NOR) vs. Carlos Alcaraz (ESP) (Semifinal)",
-      "fecha": "2026-11-07 13:00:00",
-      "competencia": "ATP WTA",
-      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 243241412,
-      "evento": "Super Lig: Galatasaray vs. Amed SK",
-      "fecha": "2026-11-07 13:00:00",
-      "competencia": "Süper Lig (Turquía)",
+      "id": 321515097,
+      "evento": "Eredivisie: Twente vs. Ajax",
+      "fecha": "2026-11-08 10:30:00",
+      "competencia": "Eredivisie",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": null,
       "team2Logo": null,
@@ -794,85 +297,126 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney14"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 427881927,
-      "evento": "Serie A: Parma vs. Bologna",
-      "fecha": "2026-11-07 14:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/parma.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bologna.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney15"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
             }
           ]
         },
         {
-          "name": "ESPN 3 AR",
+          "name": "ESPN 7",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3ar"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 5",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn7"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 118693316,
-      "evento": "Premier League: Nottingham Forest vs. Manchester City",
-      "fecha": "2026-11-07 14:30:00",
+      "id": 894974393,
+      "evento": "Premier League: Ipswich Town vs. AFC Bournemouth",
+      "fecha": "2026-11-08 11:00:00",
       "competencia": "Premier League",
       "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nottingham-forest.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-city.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ipswich.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bournemouth.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney16"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 312973064,
+      "evento": "Premier League: Crystal Palace vs. Liverpool",
+      "fecha": "2026-11-08 11:00:00",
+      "competencia": "Premier League",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/crystal-palace.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/liverpool.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=max1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 547679578,
+      "evento": "Premier League: Brighton & Hove Albion vs. Brentford",
+      "fecha": "2026-11-08 11:00:00",
+      "competencia": "Premier League",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/brighton.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/brentford.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=max2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 701565293,
+      "evento": "Premier League: Sunderland vs. Chelsea",
+      "fecha": "2026-11-08 11:00:00",
+      "competencia": "Premier League",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sunderland.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chelsea.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
             }
           ]
         },
@@ -893,7 +437,7 @@
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
             },
             {
               "name": "Opción 5",
@@ -912,62 +456,248 @@
       ]
     },
     {
-      "id": 282187539,
-      "evento": "LaLiga: Osasuna vs. Athletic Club",
-      "fecha": "2026-11-07 14:30:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/osasuna.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/athletic-club.png",
+      "id": 153628405,
+      "evento": "Serie A: Genoa vs. Milan",
+      "fecha": "2026-11-08 11:00:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/genoa.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ac-milan.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney19"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
             }
           ]
         }
       ]
     },
     {
-      "id": 817827173,
-      "evento": "Bundesliga: Stuttgart vs. Werder Bremen",
-      "fecha": "2026-11-07 14:30:00",
+      "id": 698478969,
+      "evento": "Serie A: Monza vs. Atalanta",
+      "fecha": "2026-11-08 11:00:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monza.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atalanta.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 597287165,
+      "evento": "Ligue 1: Rennes vs. Lille",
+      "fecha": "2026-11-08 11:00:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rennes.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lille.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858780162,
+      "evento": "Bundesliga: Köln vs. Bayer Leverkusen",
+      "fecha": "2026-11-08 11:30:00",
       "competencia": "Bundesliga",
       "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/stuttgart.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/werder-bremen.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/1-fc-koln.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bayer-leverkusen.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 614923349,
+      "evento": "LaLiga: Real Sociedad vs. Rayo Vallecano",
+      "fecha": "2026-11-08 12:15:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-sociedad.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rayo-vallecano.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney16"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 228142987,
+      "evento": "Primera División: Universidad Católica vs. Deportes Limache",
+      "fecha": "2026-11-08 12:30:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://tvtveshd.com/iconos/chile.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/universidad-catolica.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-limache.png",
+      "canales": [
+        {
+          "name": "TNT Sports Chile",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860239382,
+      "evento": "Primera División: Audax Italiano vs. Coquimbo Unido",
+      "fecha": "2026-11-08 12:30:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://tvtveshd.com/iconos/chile.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/audax-italiano.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/coquimbo-unido.png",
+      "canales": [
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=max3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827907856,
+      "evento": "Super Lig: Alanyaspor vs. Trabzonspor",
+      "fecha": "2026-11-08 12:30:00",
+      "competencia": "Süper Lig (Turquía)",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney17"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 6",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn6"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn6"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn6"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://welivesportz.cfd/embed/espn6col.php"
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzM0hE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox3ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://stream-xhd.com/live1.php?stream=fox3ar"
+            },
+            {
+              "name": "Opción 4 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 771670876,
+      "evento": "Eredivisie: Cambuur vs. PSV",
+      "fecha": "2026-11-08 12:45:00",
+      "competencia": "Eredivisie",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
           "name": "Disney+",
@@ -981,9 +711,191 @@
       ]
     },
     {
-      "id": 650347538,
-      "evento": "Fórmula 1: GP Brasil - Clasificación",
-      "fecha": "2026-11-07 15:00:00",
+      "id": 830293898,
+      "evento": "Eredivisie: AZ vs. Groningen",
+      "fecha": "2026-11-08 12:45:00",
+      "competencia": "Eredivisie",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 332021985,
+      "evento": "Ligue 1: Le Mans vs. Monaco",
+      "fecha": "2026-11-08 13:15:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/le-mans.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monaco.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 507303978,
+      "evento": "Ligue 1: Le Havre vs. Lorient",
+      "fecha": "2026-11-08 13:15:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/le-havre.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lorient.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 311657184,
+      "evento": "Ligue 1: Brest vs. Olympique Lyonnais",
+      "fecha": "2026-11-08 13:15:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/brest.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lyon.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 686316778,
+      "evento": "Ligue 1: Angers SCO vs. Nice",
+      "fecha": "2026-11-08 13:15:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/angers.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 824248063,
+      "evento": "Premier League: Manchester United vs. Aston Villa",
+      "fecha": "2026-11-08 13:30:00",
+      "competencia": "Premier League",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-united.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/aston-villa.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        },
+        {
+          "name": "MAX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=max4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 774784482,
+      "evento": "Bundesliga: Freiburg vs. Union Berlin",
+      "fecha": "2026-11-08 13:30:00",
+      "competencia": "Bundesliga",
+      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/union-berlin.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 632790578,
+      "evento": "Fórmula 1: GP Brasil - Carrera",
+      "fecha": "2026-11-08 14:00:00",
       "competencia": "Fórmula 1",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
       "team1Logo": null,
@@ -1007,7 +919,7 @@
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
             }
           ]
         },
@@ -1041,7 +953,7 @@
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=fox1ar"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=fox1ar"
             },
             {
               "name": "Opción 5",
@@ -1060,9 +972,53 @@
       ]
     },
     {
-      "id": 767601644,
-      "evento": "Fórmula 1: GP Brasil - Clasificación | On Board Colapinto",
-      "fecha": "2026-11-07 15:00:00",
+      "id": 416122064,
+      "evento": "Fórmula 1: GP Brasil - Carrera | On Board Colapinto",
+      "fecha": "2026-11-08 14:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney25"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 569912219,
+      "evento": "Fórmula 1: GP Brasil - Carrera | On Board Verstappen",
+      "fecha": "2026-11-08 14:00:00",
+      "competencia": "Fórmula 1",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 296967142,
+      "evento": "Fórmula 1: GP Brasil - Carrera | ESPN Race Hub",
+      "fecha": "2026-11-08 14:00:00",
       "competencia": "Fórmula 1",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
       "team1Logo": null,
@@ -1077,16 +1033,16 @@
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney15"
             }
           ]
         }
       ]
     },
     {
-      "id": 380287311,
-      "evento": "Fórmula 1: GP Brasil - Clasificación | On Board Verstappen",
-      "fecha": "2026-11-07 15:00:00",
+      "id": 501945362,
+      "evento": "Fórmula 1: GP Brasil - Carrera | Cámara On Board",
+      "fecha": "2026-11-08 14:00:00",
       "competencia": "Fórmula 1",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/f1.png",
       "team1Logo": null,
@@ -1097,252 +1053,61 @@
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=disney25"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney27"
             }
           ]
         }
       ]
     },
     {
-      "id": 289425725,
-      "evento": "Liga Profesional: Gimnasia Mendoza vs. Independiente Rivadavia",
-      "fecha": "2026-11-07 15:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente-rivadavia.png",
-      "canales": [
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 857510258,
-      "evento": "Liga Profesional: Talleres Córdoba vs. Estudiantes",
-      "fecha": "2026-11-07 15:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/talleres-de-cordoba.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
-      "canales": [
-        {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 848906690,
-      "evento": "Ligue 1: Auxerre vs. Paris",
-      "fecha": "2026-11-07 15:00:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/auxerre.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paris-fc.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney20"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 526190482,
-      "evento": "Liga 1: ADT vs. Sporting Cristal",
-      "fecha": "2026-11-07 15:00:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 324673951,
-      "evento": "Primera División: La Serena vs. Palestino",
-      "fecha": "2026-11-07 15:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://tvtveshd.com/iconos/chile.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-la-serena.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/palestino.png",
-      "canales": [
-        {
-          "name": "TNT Sports Chile",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 105729166,
-      "evento": "Torneo Federal A: Douglas Haig vs. Gimnasia y Esgrima Chivilcoy",
-      "fecha": "2026-11-07 16:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "LPF Play",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/hls.html?get=EVENTO1"
-            },
-            {
-              "name": "Opción 2 (Extensión)",
-              "iframe": "https://bestleague.life/r.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 276966618,
-      "evento": "Bundesliga 2: Hertha BSC vs. Wolfsburg",
-      "fecha": "2026-11-07 16:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "FOX Sports 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzM0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://stream-xhd.com/live1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 773930529,
-      "evento": "Serie A: Roma vs. Sassuolo",
-      "fecha": "2026-11-07 16:45:00",
+      "id": 636378977,
+      "evento": "Serie A: Inter vs. Como",
+      "fecha": "2026-11-08 14:00:00",
       "competencia": "Serie A",
       "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/as-roma.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sassuolo.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inter-miami.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/como.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 7",
+          "options": [
+            {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn7"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 182005141,
-      "evento": "LaLiga: Valencia vs. Real Madrid",
-      "fecha": "2026-11-07 17:00:00",
+      "id": 399461114,
+      "evento": "LaLiga: Villarreal vs. Getafe",
+      "fecha": "2026-11-08 14:30:00",
       "competencia": "LaLiga",
       "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/valencia-cf.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-madrid.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/villarreal-cf.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/getafe-cf.png",
       "canales": [
         {
           "name": "DSports",
@@ -1361,7 +1126,271 @@
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=dsports"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
+            },
+            {
+              "name": "Opción 6",
+              "iframe": "https://bolaloca.my/player/2/94"
+            },
+            {
+              "name": "Opción 7 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 360331516,
+      "evento": "LaLiga: Celta de Vigo vs. Levante",
+      "fecha": "2026-11-08 14:30:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/celta-de-vigo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/levante-ud.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 930282470,
+      "evento": "Liga 1: Los Chankas vs. Alianza Lima",
+      "fecha": "2026-11-08 15:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Liga 1 Max",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 264884873,
+      "evento": "Primera División: Ñublense vs. Colo-Colo",
+      "fecha": "2026-11-08 15:00:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://tvtveshd.com/iconos/chile.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nublense.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/colo-colo.png",
+      "canales": [
+        {
+          "name": "TNT Sports Chile",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 373878022,
+      "evento": "Primeira Liga: Vitória Guimarães vs. Porto",
+      "fecha": "2026-11-08 15:00:00",
+      "competencia": "Primeira Liga",
+      "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/guimaraes.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-porto.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports2"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 942267606,
+      "evento": "Liga BetPlay: Santa Fe vs. Deportivo Pasto",
+      "fecha": "2026-11-08 16:00:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/union-santa-fe.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pasto.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 187707019,
+      "evento": "Serie A: Fiorentina vs. Juventus",
+      "fecha": "2026-11-08 16:45:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fiorentina.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juventus.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 155349665,
+      "evento": "LaLiga: Atlético Madrid vs. Barcelona",
+      "fecha": "2026-11-08 17:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-de-madrid.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-barcelona.png",
+      "canales": [
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910607489,
+      "evento": "Copa de Brasil: Vasco da Gama vs. Palmeiras",
+      "fecha": "2026-11-08 17:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vasco-da-gama.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/palmeiras.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=dsports"
             },
             {
               "name": "Opción 5",
@@ -1378,145 +1407,157 @@
           ]
         },
         {
-          "name": "ESPN+",
+          "name": "Premiere 1 BR",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnplus4"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere1"
             }
           ]
         }
       ]
     },
     {
-      "id": 606561126,
-      "evento": "Ligue 1: PSG vs. Troyes",
-      "fecha": "2026-11-07 17:05:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/psg.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/troyes.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 397981282,
-      "evento": "Liga Profesional: Argentinos Juniors vs. Huracán",
-      "fecha": "2026-11-07 17:30:00",
+      "id": 198836665,
+      "evento": "Torneo Federal A: Juventud Antoniana vs. Cipolletti",
+      "fecha": "2026-11-08 17:00:00",
       "competencia": "Liga Profesional Argentina",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentinos-juniors.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/huracan.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juventud.png",
+      "team2Logo": null,
       "canales": [
         {
-          "name": "Fanatiz",
+          "name": "LPF Play",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fanatiz1"
-            }
-          ]
-        },
-        {
-          "name": "Fanatiz 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=fanatiz1"
-            }
-          ]
-        },
-        {
-          "name": "TNT",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=VE5UX0hEX0FyZw=="
+              "iframe": "https://bestleague.life/hls.html?get=EVENTO1&bpk"
             }
           ]
         }
       ]
     },
     {
-      "id": 404236232,
-      "evento": "Liga Profesional: Boca Juniors vs. Defensa y Justicia",
-      "fecha": "2026-11-07 17:30:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boca-juniors.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/defensa-y-justicia.png",
+      "id": 224780157,
+      "evento": "Liga 1: Sport Boys vs. UTC Cajamarca",
+      "fecha": "2026-11-08 17:30:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
-          "name": "ESPN Premium",
+          "name": "Liga 1 Max",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
             },
             {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 366675675,
+      "evento": "Primera División: Unión La Calera vs. Huachipato",
+      "fecha": "2026-11-08 17:30:00",
+      "competencia": "Primera División Chile",
+      "logoUrl": "https://tvtveshd.com/iconos/chile.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/huachipato.png",
+      "canales": [
+        {
+          "name": "TNT Sports Chile",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsportschile"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 530374943,
+      "evento": "Primeira Liga: Estrela vs. Benfica",
+      "fecha": "2026-11-08 17:30:00",
+      "competencia": "Primeira Liga",
+      "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estrela-da-amadora.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/benfica.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports2"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 866446547,
+      "evento": "Torneo Federal A: Sarmiento de La Banda vs. Alvarado",
+      "fecha": "2026-11-08 18:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "LPF Play",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://bestleague.life/hls.html?get=EVENTO2&bpk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 598752266,
+      "evento": "Liga BetPlay: Jaguares de Córdoba vs. Atlético Bucaramanga",
+      "fecha": "2026-11-08 18:05:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/jaguares-de-cordoba.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-bucaramanga.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 577891609,
+      "evento": "Liga Profesional: Central Córdoba SdE vs. Lanús",
+      "fecha": "2026-11-08 19:30:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/central-cordoba-sde.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lanus.png",
+      "canales": [
         {
           "name": "TNT Sports",
           "options": [
@@ -1530,7 +1571,7 @@
             },
             {
               "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=tntsports"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=tntsports"
             },
             {
               "name": "Opción 4",
@@ -1553,67 +1594,13 @@
       ]
     },
     {
-      "id": 486787399,
-      "evento": "Liga Profesional: Rosario Central vs. Estudiantes Río Cuarto",
-      "fecha": "2026-11-07 17:30:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rosario-central.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-rc.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=disney2"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2 AR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2ar"
-            },
-            {
-              "name": "Opción 2 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 7",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 330960409,
-      "evento": "Liga 1: FC Cajamarca vs. Alianza Atlético",
-      "fecha": "2026-11-07 17:30:00",
+      "id": 200892154,
+      "evento": "Liga 1: Deportivo Garcilaso vs. Comerciantes Unidos",
+      "fecha": "2026-11-08 20:00:00",
       "competencia": "Liga 1 (Perú)",
       "logoUrl": "https://bestleague.world/jr/127.png",
       "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alianza-fc.png",
+      "team2Logo": null,
       "canales": [
         {
           "name": "Liga 1 Max",
@@ -1631,13 +1618,13 @@
       ]
     },
     {
-      "id": 784156888,
-      "evento": "Primera División: Everton vs. Deportes Concepción",
-      "fecha": "2026-11-07 17:30:00",
+      "id": 296313256,
+      "evento": "Primera División: Univ. Concepción vs. O'Higgins",
+      "fecha": "2026-11-08 20:00:00",
       "competencia": "Primera División Chile",
       "logoUrl": "https://tvtveshd.com/iconos/chile.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/everton.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-concepcion.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/o-higgins.png",
       "canales": [
         {
           "name": "TNT Sports Chile",
@@ -1655,206 +1642,13 @@
       ]
     },
     {
-      "id": 182595530,
-      "evento": "MLS: CF Montréal vs. Vancouver Whitecaps",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cf-montreal.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vancouver-whitecaps.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 126375467,
-      "evento": "MLS: Chicago Fire vs. Columbus Crew",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chicago-fire.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/columbus-crew.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 119291894,
-      "evento": "MLS: DC United vs. New York City",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/dc-united.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/new-york-city-fc.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv5"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 979493706,
-      "evento": "MLS: Cincinnati vs. Nashville SC",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-cincinnati.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nashville-sc.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv6"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 810509657,
-      "evento": "MLS: Inter Miami vs. Charlotte",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inter-miami.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/charlotte-fc.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 682749867,
-      "evento": "MLS: New York RB vs. Atlanta United",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/new-york-red-bulls.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atlanta-united.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 324805279,
-      "evento": "MLS: Orlando City SC vs. New England",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/orlando-city-sc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/new-england-nfl.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 939374340,
-      "evento": "MLS: Philadelphia Union vs. Toronto FC",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/philadelphia-union.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/toronto-fc.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv9"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 370399745,
-      "evento": "Copa de Brasil: Atlético Mineiro vs. Grêmio",
-      "fecha": "2026-11-07 18:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-mineiro.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gremio.png",
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports2"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            }
-          ]
-        },
-        {
-          "name": "SporTV 1 BR",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=sportv1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 294570445,
-      "evento": "Liga BetPlay: Once Caldas vs. Rionegro Águilas",
-      "fecha": "2026-11-07 18:05:00",
+      "id": 415802128,
+      "evento": "Liga BetPlay: Deportes Tolima vs. Millonarios",
+      "fecha": "2026-11-08 20:10:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
-      "team2Logo": null,
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-tolima.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/millonarios.png",
       "canales": [
         {
           "name": "WIN Sports+",
@@ -1868,348 +1662,14 @@
       ]
     },
     {
-      "id": 691936890,
-      "evento": "NBA: Denver Nuggets vs. Indiana Pacers",
-      "fecha": "2026-11-07 19:00:00",
-      "competencia": "NBA",
-      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.com/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 431985616,
-      "evento": "Liga 1: Melgar vs. Juan Pablo II College",
-      "fecha": "2026-11-07 20:00:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 654659951,
-      "evento": "Liga MX: Atlas vs. Pachuca",
-      "fecha": "2026-11-07 20:00:00",
+      "id": 695576298,
+      "evento": "Liga MX: Querétaro vs. Puebla",
+      "fecha": "2026-11-08 21:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atlas.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/pachuca.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/queretaro-fc.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/puebla.png",
       "canales": [
-        {
-          "name": "VIX+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=eventos2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 797230642,
-      "evento": "Liga BetPlay: Atlético Nacional vs. Deportivo Pereira",
-      "fecha": "2026-11-07 20:10:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pereira.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 711570788,
-      "evento": "MLS: Austin vs. Portland Timbers",
-      "fecha": "2026-11-07 21:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/austin-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/portland-timbers.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 916114795,
-      "evento": "MLS: Dallas vs. Colorado Rapids",
-      "fecha": "2026-11-07 21:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-dallas.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/colorado-rapids.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv11"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 882688482,
-      "evento": "MLS: Houston Dynamo vs. St. Louis City",
-      "fecha": "2026-11-07 21:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/houston-dynamo.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/st-louis-city-sc.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv12"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 140581768,
-      "evento": "MLS: Minnesota United vs. SJ Earthquakes",
-      "fecha": "2026-11-07 21:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/minnesota-united.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv13"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 590635876,
-      "evento": "MLS: Real Salt Lake vs. LA Galaxy",
-      "fecha": "2026-11-07 21:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-salt-lake.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/la-galaxy.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls5"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 147818548,
-      "evento": "MLS: San Diego vs. Sporting KC",
-      "fecha": "2026-11-07 21:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/san-diego-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sporting-kc.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls6"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 180613148,
-      "evento": "MLS: Seattle Sounders FC vs. Los Angeles FC",
-      "fecha": "2026-11-07 21:00:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/seattle-sounders.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/los-angeles-fc.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls7"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 755805801,
-      "evento": "Liga Profesional: Instituto vs. Newell's Old Boys",
-      "fecha": "2026-11-07 22:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/instituto.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/newell-s-old-boys.png",
-      "canales": [
-        {
-          "name": "ESPN Premium",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.com/live1.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 586850325,
-      "evento": "Liga MX: Tigres UANL vs. Cruz Azul",
-      "fecha": "2026-11-07 22:00:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/tigre.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruz-azul.png",
-      "canales": [
-        {
-          "name": "Azteca 7 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=azteca7"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/azteca7mx.php"
-            }
-          ]
-        },
-        {
-          "name": "FOX Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=foxdeportes"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 932365912,
-      "evento": "Liga MX: Toluca vs. Monterrey",
-      "fecha": "2026-11-07 22:00:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/toluca.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monterrey.png",
-      "canales": [
-        {
-          "name": "Canal 5 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/return/canal5mx-recomendado-fullhd.html"
-            }
-          ]
-        },
         {
           "name": "TUDN USA",
           "options": [
@@ -2222,13 +1682,57 @@
       ]
     },
     {
-      "id": 429423204,
-      "evento": "Liga BetPlay: América de Cali vs. Deportivo Cali",
-      "fecha": "2026-11-07 22:15:00",
+      "id": 320783739,
+      "evento": "NFL: Tampa Bay Buccaneers vs. Chicago Bears",
+      "fecha": "2026-11-08 22:00:00",
+      "competencia": "NFL",
+      "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 378149090,
+      "evento": "Liga BetPlay: Alianza vs. Llaneros",
+      "fecha": "2026-11-08 22:15:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/america-de-cali.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-cali.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alianza-fc.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/llaneros-fc.png",
       "canales": [
         {
           "name": "WIN Sports+",
@@ -2242,9 +1746,9 @@
       ]
     },
     {
-      "id": 628476753,
-      "evento": "Liga 1: Cienciano vs. Sport Huancayo",
-      "fecha": "2026-11-07 22:30:00",
+      "id": 673645951,
+      "evento": "Liga 1: Universitario vs. Deportivo Moquegua",
+      "fecha": "2026-11-08 22:30:00",
       "competencia": "Liga 1 (Perú)",
       "logoUrl": "https://bestleague.world/jr/127.png",
       "team1Logo": null,
@@ -2266,23 +1770,14 @@
       ]
     },
     {
-      "id": 140806332,
-      "evento": "Liga MX: Pumas UNAM vs. América",
-      "fecha": "2026-11-08 00:10:00",
+      "id": 729073917,
+      "evento": "Liga MX: León vs. Guadalajara",
+      "fecha": "2026-11-08 23:30:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/pumas.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/club-america.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/leon.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chivas-de-guadalajara.png",
       "canales": [
-        {
-          "name": "Canal 5 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/return/canal5mx-recomendado-fullhd.html"
-            }
-          ]
-        },
         {
           "name": "TUDN USA",
           "options": [
