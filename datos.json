@@ -1,9 +1,106 @@
 {
   "events": [
     {
-      "id": 744374034,
+      "id": 126021680,
+      "evento": "UEFA Women's Champions League: Real Madrid (F) vs. Paris FC (F)",
+      "fecha": "2026-11-10 14:45:00",
+      "competencia": "UEFA Women's Champions League",
+      "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-madrid.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paris-fc.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 579858932,
+      "evento": "Copa del Rey: Anaitasuna FT vs. Deportivo Alavés",
+      "fecha": "2026-11-10 15:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alaves.png",
+      "canales": [
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnplus1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 792040304,
+      "evento": "UEFA Women's Champions League: Inter Milano (F) vs. Manchester City (F)",
+      "fecha": "2026-11-10 17:00:00",
+      "competencia": "UEFA Women's Champions League",
+      "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inter-milan.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-city.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 655837764,
       "evento": "WTA: Finals Indian Wells (Round Robin)",
-      "fecha": "2026-11-09 17:00:00",
+      "fecha": "2026-11-10 17:00:00",
       "competencia": "ATP WTA",
       "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
       "team1Logo": null,
@@ -41,13 +138,13 @@
       ]
     },
     {
-      "id": 291886892,
-      "evento": "Liga BetPlay: Junior vs. Cúcuta Deportivo",
-      "fecha": "2026-11-09 21:00:00",
+      "id": 495427632,
+      "evento": "Copa Colombia: Inter Bogotá vs. América de Cali",
+      "fecha": "2026-11-10 20:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/junior-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cucuta-deportivo.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional-de-bogota.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/america-de-cali.png",
       "canales": [
         {
           "name": "WIN Sports+",
@@ -61,14 +158,63 @@
       ]
     },
     {
-      "id": 334929395,
-      "evento": "NBA: Detroit Pistons vs. Washington Wizards",
-      "fecha": "2026-11-09 21:00:00",
+      "id": 552043214,
+      "evento": "NHL: Colorado Avalanche vs. Toronto Maple Leafs | En Español",
+      "fecha": "2026-11-10 21:00:00",
+      "competencia": "Eventos",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130734933,
+      "evento": "NBA: Philadelphia 76ers vs. Boston Celtics",
+      "fecha": "2026-11-10 22:00:00",
       "competencia": "NBA",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
+        {
+          "name": "Amazon",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=amazon1"
+            }
+          ]
+        },
         {
           "name": "TNT Sports",
           "options": [
@@ -105,44 +251,82 @@
       ]
     },
     {
-      "id": 443242143,
-      "evento": "NFL: Buffalo Bills vs. Minnesota Vikings",
-      "fecha": "2026-11-09 22:00:00",
-      "competencia": "NFL",
-      "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/buffalo-nfl.png",
+      "id": 388943227,
+      "evento": "Copa Colombia: Once Caldas vs. Atlético Nacional",
+      "fecha": "2026-11-10 22:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 257894155,
+      "evento": "NBA: Portland Trail Blazers vs. Oklahoma City Thunder",
+      "fecha": "2026-11-11 01:00:00",
+      "competencia": "NBA",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "ESPN 2",
+          "name": "Amazon",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=amazon2"
+            }
+          ]
+        },
+        {
+          "name": "TNT",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX0hEX0FyZw=="
+            }
+          ]
+        },
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=tntsports"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
             },
             {
               "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
             },
             {
               "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
             }
           ]
         }
