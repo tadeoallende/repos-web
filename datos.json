@@ -1,9 +1,9 @@
 {
   "events": [
     {
-      "id": 126021680,
+      "id": 401469629,
       "evento": "UEFA Women's Champions League: Real Madrid (F) vs. Paris FC (F)",
-      "fecha": "2026-11-10 14:45:00",
+      "fecha": "2026-11-11 14:45:00",
       "competencia": "UEFA Women's Champions League",
       "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-madrid.png",
@@ -34,9 +34,9 @@
       ]
     },
     {
-      "id": 579858932,
+      "id": 849701445,
       "evento": "Copa del Rey: Anaitasuna FT vs. Deportivo Alavés",
-      "fecha": "2026-11-10 15:00:00",
+      "fecha": "2026-11-11 15:00:00",
       "competencia": "LaLiga",
       "logoUrl": "https://angulismo-pics.pages.dev/es.png",
       "team1Logo": null,
@@ -54,9 +54,9 @@
       ]
     },
     {
-      "id": 792040304,
+      "id": 342472181,
       "evento": "UEFA Women's Champions League: Inter Milano (F) vs. Manchester City (F)",
-      "fecha": "2026-11-10 17:00:00",
+      "fecha": "2026-11-11 17:00:00",
       "competencia": "UEFA Women's Champions League",
       "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inter-milan.png",
@@ -98,9 +98,9 @@
       ]
     },
     {
-      "id": 655837764,
+      "id": 597279513,
       "evento": "WTA: Finals Indian Wells (Round Robin)",
-      "fecha": "2026-11-10 17:00:00",
+      "fecha": "2026-11-11 17:00:00",
       "competencia": "ATP WTA",
       "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
       "team1Logo": null,
@@ -138,9 +138,9 @@
       ]
     },
     {
-      "id": 495427632,
+      "id": 659724333,
       "evento": "Copa Colombia: Inter Bogotá vs. América de Cali",
-      "fecha": "2026-11-10 20:30:00",
+      "fecha": "2026-11-11 20:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional-de-bogota.png",
@@ -158,9 +158,9 @@
       ]
     },
     {
-      "id": 552043214,
+      "id": 995892591,
       "evento": "NHL: Colorado Avalanche vs. Toronto Maple Leafs | En Español",
-      "fecha": "2026-11-10 21:00:00",
+      "fecha": "2026-11-11 21:00:00",
       "competencia": "Eventos",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": null,
@@ -198,9 +198,9 @@
       ]
     },
     {
-      "id": 130734933,
+      "id": 412423844,
       "evento": "NBA: Philadelphia 76ers vs. Boston Celtics",
-      "fecha": "2026-11-10 22:00:00",
+      "fecha": "2026-11-11 22:00:00",
       "competencia": "NBA",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "team1Logo": null,
@@ -251,9 +251,9 @@
       ]
     },
     {
-      "id": 388943227,
+      "id": 775935058,
       "evento": "Copa Colombia: Once Caldas vs. Atlético Nacional",
-      "fecha": "2026-11-10 22:30:00",
+      "fecha": "2026-11-11 22:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
@@ -271,9 +271,9 @@
       ]
     },
     {
-      "id": 257894155,
+      "id": 359026884,
       "evento": "NBA: Portland Trail Blazers vs. Oklahoma City Thunder",
-      "fecha": "2026-11-11 01:00:00",
+      "fecha": "2026-11-12 01:00:00",
       "competencia": "NBA",
       "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "team1Logo": null,
