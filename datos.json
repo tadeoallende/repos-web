@@ -1,6 +1,26 @@
 {
   "events": [
     {
+      "id": 192949484,
+      "evento": "UEFA Nations League: Armenia vs. Chipre",
+      "fecha": "2026-11-12 14:00:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/armenia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chipre.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 583176750,
       "evento": "UEFA Nations League: Turquía vs. Bélgica",
       "fecha": "2026-11-12 14:00:00",
@@ -9,6 +29,15 @@
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/turquia.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/belgica.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
+            }
+          ]
+        },
         {
           "name": "ESPN",
           "options": [
@@ -125,6 +154,19 @@
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
+        },
+        {
+          "name": "ESPN Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espndeportes"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espndeportes.php"
+            }
+          ]
         }
       ]
     },
@@ -138,35 +180,113 @@
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
       "canales": [
         {
-          "name": "ESPN 2",
+          "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
             },
             {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        },
+        {
+          "name": "TVE LA 1 ES",
+          "options": [
             {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/return/tvla1es-fullhd-recomendado.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 834931440,
+      "evento": "UEFA Nations League: San Marino vs. Bielorrusia",
+      "fecha": "2026-11-12 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/san-marino.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bielorrusia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 820731561,
+      "evento": "UEFA Nations League: Montenegro vs. Letonia",
+      "fecha": "2026-11-12 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/montenegro.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/letonia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 922379225,
+      "evento": "UEFA Nations League: Albania vs. Finlandia",
+      "fecha": "2026-11-12 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/albania.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/finlandia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
             }
           ]
         }
@@ -181,6 +301,19 @@
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/francia.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney5"
+            }
+          ]
+        },
         {
           "name": "ESPN",
           "options": [
@@ -225,6 +358,19 @@
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inglaterra.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/croacia.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney6"
+            }
+          ]
+        },
         {
           "name": "ESPN 2",
           "options": [
@@ -315,6 +461,26 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 989477384,
+      "evento": "Primera División: Cerro Largo vs. Progreso",
+      "fecha": "2026-11-12 20:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cerro-largo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/progreso.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
             }
           ]
         }
