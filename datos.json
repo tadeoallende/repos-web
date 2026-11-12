@@ -1,166 +1,53 @@
 {
   "events": [
     {
-      "id": 401469629,
-      "evento": "UEFA Women's Champions League: Real Madrid (F) vs. Paris FC (F)",
-      "fecha": "2026-11-11 14:45:00",
-      "competencia": "UEFA Women's Champions League",
-      "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-madrid.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paris-fc.png",
+      "id": 583176750,
+      "evento": "UEFA Nations League: Turquía vs. Bélgica",
+      "fecha": "2026-11-12 14:00:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/turquia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/belgica.png",
       "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
         {
           "name": "ESPN",
           "options": [
             {
-              "name": "Opción 1",
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
             },
             {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 849701445,
-      "evento": "Copa del Rey: Anaitasuna FT vs. Deportivo Alavés",
-      "fecha": "2026-11-11 15:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alaves.png",
-      "canales": [
-        {
-          "name": "ESPN+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnplus1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 342472181,
-      "evento": "UEFA Women's Champions League: Inter Milano (F) vs. Manchester City (F)",
-      "fecha": "2026-11-11 17:00:00",
-      "competencia": "UEFA Women's Champions League",
-      "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inter-milan.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-city.png",
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
             },
             {
               "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
             },
             {
               "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
         }
       ]
     },
     {
-      "id": 597279513,
-      "evento": "WTA: Finals Indian Wells (Round Robin)",
-      "fecha": "2026-11-11 17:00:00",
-      "competencia": "ATP WTA",
-      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 659724333,
-      "evento": "Copa Colombia: Inter Bogotá vs. América de Cali",
-      "fecha": "2026-11-11 20:30:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional-de-bogota.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/america-de-cali.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 995892591,
-      "evento": "NHL: Colorado Avalanche vs. Toronto Maple Leafs | En Español",
-      "fecha": "2026-11-11 21:00:00",
+      "id": 888756713,
+      "evento": "NHL: Carolina Hurricanes vs. Seattle Kraken",
+      "fecha": "2026-11-12 14:00:00",
       "competencia": "Eventos",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": null,
@@ -198,66 +85,229 @@
       ]
     },
     {
-      "id": 412423844,
-      "evento": "NBA: Philadelphia 76ers vs. Boston Celtics",
-      "fecha": "2026-11-11 22:00:00",
-      "competencia": "NBA",
-      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
-      "team1Logo": null,
-      "team2Logo": null,
+      "id": 819774752,
+      "evento": "UEFA Women's Champions League: Barcelona (F) vs. Arsenal (F)",
+      "fecha": "2026-11-12 14:45:00",
+      "competencia": "UEFA Women's Champions League",
+      "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-barcelona.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/arsenal.png",
       "canales": [
         {
-          "name": "Amazon",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=amazon1"
-            }
-          ]
-        },
-        {
-          "name": "TNT Sports",
+          "name": "ESPN 2",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=tntsports"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
             },
             {
               "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             },
             {
               "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         }
       ]
     },
     {
-      "id": 775935058,
-      "evento": "Copa Colombia: Once Caldas vs. Atlético Nacional",
-      "fecha": "2026-11-11 22:30:00",
+      "id": 331031056,
+      "evento": "UEFA Nations League: República Checa vs. España",
+      "fecha": "2026-11-12 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/republica-checa.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 264167721,
+      "evento": "UEFA Nations League: Italia vs. Francia",
+      "fecha": "2026-11-12 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/francia.png",
+      "canales": [
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 189687268,
+      "evento": "UEFA Nations League: Inglaterra vs. Croacia",
+      "fecha": "2026-11-12 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inglaterra.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/croacia.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 631459674,
+      "evento": "WTA: Finals Indian Wells (Round Robin)",
+      "fecha": "2026-11-12 17:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 805262699,
+      "evento": "Liga BetPlay: Deportivo Pasto vs. Junior",
+      "fecha": "2026-11-12 19:00:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pasto.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/junior-fc.png",
       "canales": [
         {
           "name": "WIN Sports+",
@@ -271,62 +321,110 @@
       ]
     },
     {
-      "id": 359026884,
-      "evento": "NBA: Portland Trail Blazers vs. Oklahoma City Thunder",
-      "fecha": "2026-11-12 01:00:00",
-      "competencia": "NBA",
-      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "id": 178150317,
+      "evento": "Supercopa Argentina: Estudiantes vs. Independiente Rivadavia",
+      "fecha": "2026-11-12 20:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente-rivadavia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney9"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 1 AR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espnar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 220401685,
+      "evento": "Liga BetPlay: Llaneros vs. Boyacá Chicó",
+      "fecha": "2026-11-12 21:00:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/llaneros-fc.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boyaca-chico.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 518009709,
+      "evento": "NFL: New York Giants vs. Washington Commanders",
+      "fecha": "2026-11-12 22:15:00",
+      "competencia": "NFL",
+      "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "Amazon",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=amazon2"
-            }
-          ]
-        },
-        {
-          "name": "TNT",
+          "name": "ESPN 5",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX0hEX0FyZw=="
-            }
-          ]
-        },
-        {
-          "name": "TNT Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=tntsports"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn5"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
+              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
             },
             {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+            }
+          ]
+        },
+        {
+          "name": "FOX Sports 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzM0hE"
             },
             {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox3ar"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://stream-xhd.com/live1.php?stream=fox3ar"
+            },
+            {
+              "name": "Opción 4 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
             }
           ]
         }
