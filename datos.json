@@ -1,13 +1,126 @@
 {
   "events": [
     {
-      "id": 631459674,
-      "evento": "WTA: Finals Indian Wells (Round Robin)",
-      "fecha": "2026-11-12 17:00:00",
+      "id": 613936452,
+      "evento": "Amistoso Internacional: Singapur vs. Paraguay",
+      "fecha": "2026-11-13 09:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Evento",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=evento1"
+            }
+          ]
+        },
+        {
+          "name": "GEN PY",
+          "options": [
+            {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=R0VOX1RW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102200831,
+      "evento": "ATP: Alejandro Tabilo (CHI) vs. Thiago Agustin Tirante (ARG) (Semifinal)",
+      "fecha": "2026-11-13 10:00:00",
       "competencia": "ATP WTA",
       "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
       "team1Logo": null,
       "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158219577,
+      "evento": "UEFA Nations League: Moldavia vs. Kazajstán",
+      "fecha": "2026-11-13 14:00:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/moldavia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/kazajstan.png",
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 515430828,
+      "evento": "UEFA Nations League: Eslovenia vs. Suiza",
+      "fecha": "2026-11-13 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/eslovenia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/suiza.png",
       "canales": [
         {
           "name": "ESPN 4",
@@ -41,105 +154,100 @@
       ]
     },
     {
-      "id": 805262699,
-      "evento": "Liga BetPlay: Deportivo Pasto vs. Junior",
-      "fecha": "2026-11-12 19:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pasto.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/junior-fc.png",
+      "id": 527512147,
+      "evento": "UEFA Nations League: Países Bajos vs. Grecia",
+      "fecha": "2026-11-13 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paises-bajos.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/grecia.png",
       "canales": [
         {
-          "name": "WIN Sports+",
+          "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 989477384,
-      "evento": "Primera División: Cerro Largo vs. Progreso",
-      "fecha": "2026-11-12 20:00:00",
-      "competencia": "Primera División Uruguay",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cerro-largo.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/progreso.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 178150317,
-      "evento": "Supercopa Argentina: Estudiantes vs. Independiente Rivadavia",
-      "fecha": "2026-11-12 20:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente-rivadavia.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=disney9"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 1 AR",
-          "options": [
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
             {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espnar"
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         }
       ]
     },
     {
-      "id": 220401685,
-      "evento": "Liga BetPlay: Llaneros vs. Boyacá Chicó",
-      "fecha": "2026-11-12 21:00:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/llaneros-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boyaca-chico.png",
+      "id": 751328480,
+      "evento": "UEFA Nations League: Serbia vs. Alemania",
+      "fecha": "2026-11-13 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/serbia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alemania.png",
       "canales": [
         {
-          "name": "WIN Sports+",
+          "name": "ESPN",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
         }
       ]
     },
     {
-      "id": 518009709,
-      "evento": "NFL: New York Giants vs. Washington Commanders",
-      "fecha": "2026-11-12 22:15:00",
-      "competencia": "NFL",
-      "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
-      "team1Logo": null,
+      "id": 757375592,
+      "evento": "Nations Championship: Francia vs. Sudáfrica",
+      "fecha": "2026-11-13 17:00:00",
+      "competencia": "Eventos",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/francia.png",
       "team2Logo": null,
       "canales": [
         {
@@ -170,25 +278,64 @@
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": 922921447,
+      "evento": "WTA: Finals Indian Wells (Round Robin)",
+      "fecha": "2026-11-13 17:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
         {
-          "name": "FOX Sports 3",
+          "name": "ESPN 3",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzM0hE"
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox3ar"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://stream-xhd.com/live1.php?stream=fox3ar"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
             },
             {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 650844221,
+      "evento": "Liga BetPlay: Inter Bogotá vs. Santa Fe",
+      "fecha": "2026-11-13 22:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional-de-bogota.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/union-santa-fe.png",
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
             }
           ]
         }
