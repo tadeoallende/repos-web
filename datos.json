@@ -1,9 +1,9 @@
 {
   "events": [
     {
-      "id": 202197059,
+      "id": 746552768,
       "evento": "Amistoso: Colo-Colo vs. Racing Club",
-      "fecha": "2026-11-13 19:00:00",
+      "fecha": "2026-11-14 19:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/colo-colo.png",
@@ -21,9 +21,9 @@
       ]
     },
     {
-      "id": 236254689,
+      "id": 596779002,
       "evento": "Amistoso Internacional: Argentina vs. Uruguay",
-      "fecha": "2026-11-13 20:00:00",
+      "fecha": "2026-11-14 20:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
@@ -99,9 +99,9 @@
       ]
     },
     {
-      "id": 948352527,
+      "id": 434541748,
       "evento": "Amistoso Internacional: Ecuador vs. Costa Rica",
-      "fecha": "2026-11-13 21:00:00",
+      "fecha": "2026-11-14 21:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ecuador.png",
@@ -119,9 +119,9 @@
       ]
     },
     {
-      "id": 542292044,
+      "id": 244304455,
       "evento": "Amistoso Internacional: Colombia vs. Chile",
-      "fecha": "2026-11-13 21:00:00",
+      "fecha": "2026-11-14 21:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": null,
@@ -161,9 +161,9 @@
       ]
     },
     {
-      "id": 466242820,
+      "id": 369987971,
       "evento": "Amistoso Internacional: Perú vs. Bolivia",
-      "fecha": "2026-11-13 22:00:00",
+      "fecha": "2026-11-14 22:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/peru.png",
@@ -181,9 +181,9 @@
       ]
     },
     {
-      "id": 650844221,
+      "id": 266410614,
       "evento": "Liga BetPlay: Inter Bogotá vs. Santa Fe",
-      "fecha": "2026-11-13 22:30:00",
+      "fecha": "2026-11-14 22:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional-de-bogota.png",
