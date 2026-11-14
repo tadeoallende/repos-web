@@ -1,433 +1,6 @@
 {
   "events": [
     {
-      "id": 433897240,
-      "evento": "Primera División: Central Español vs. Boston River",
-      "fecha": "2026-11-14 10:00:00",
-      "competencia": "Primera División Uruguay",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/central-espanol.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boston-river.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=disney1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 986371684,
-      "evento": "UEFA Nations League: Kosovo vs. Israel",
-      "fecha": "2026-11-14 11:00:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/kosovo.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/israel.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 199265287,
-      "evento": "Nations Championship: Gales vs. Nueva Zelanda",
-      "fecha": "2026-11-14 11:00:00",
-      "competencia": "Eventos",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gales.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nueva-zelanda.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 344914433,
-      "evento": "Premier Padel: Dubai P1 - Centre Court (Semifinales)",
-      "fecha": "2026-11-14 12:00:00",
-      "competencia": "ATP WTA",
-      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 668297970,
-      "evento": "World Rugby Nations Cup 2026: España vs. Chile",
-      "fecha": "2026-11-14 13:00:00",
-      "competencia": "Eventos",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chile.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 5",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 473804813,
-      "evento": "UEFA Nations League: Noruega vs. Gales",
-      "fecha": "2026-11-14 14:00:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/noruega.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gales.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 938100253,
-      "evento": "Primera Nacional: Atlanta vs. Estudiantes Caseros",
-      "fecha": "2026-11-14 15:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atlanta-united.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estudiantes-de-la-plata.png",
-      "canales": [
-        {
-          "name": "LPF Play",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/hls.php?get=EVENTO1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 735734648,
-      "evento": "Primera B: Deportivo Armenio vs. Sportivo Italiano",
-      "fecha": "2026-11-14 15:30:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
-      "canales": [
-        {
-          "name": "LPF Play",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/hls.php?get=EVENTO2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 943024416,
-      "evento": "Primera B: Villa Dálmine vs. Deportivo Camioneros",
-      "fecha": "2026-11-14 15:30:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "LPF Play",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/hls.php?get=EVENTO3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 498953885,
-      "evento": "Primera Nacional: Temperley vs. Ciudad de Bolívar",
-      "fecha": "2026-11-14 16:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "LPF Play",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/hls.php?get=EVENTO4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 782031891,
-      "evento": "UEFA Nations League: Portugal vs. Dinamarca",
-      "fecha": "2026-11-14 16:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/portugal.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/dinamarca.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 819235956,
-      "evento": "UEFA Nations League: Suecia vs. Bosnia-Herzegovina",
-      "fecha": "2026-11-14 16:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/suecia.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bosnia-herzegovina.png",
-      "canales": [
-        {
-          "name": "ESPN 5",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 275663318,
-      "evento": "World Rugby Nations Cup 2026: Irlanda vs. Fiji",
-      "fecha": "2026-11-14 17:00:00",
-      "competencia": "Eventos",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/irlanda.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 790434510,
       "evento": "WTA: Finals Indian Wells (Semifinal)",
       "fecha": "2026-11-14 17:00:00",
@@ -468,6 +41,106 @@
       ]
     },
     {
+      "id": 387305979,
+      "evento": "Liga BetPlay: Rionegro Águilas vs. Medellín",
+      "fecha": "2026-11-14 17:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/medellin.png",
+      "canales": [
+        {
+          "name": "Win+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=win1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 426217329,
+      "evento": "Liga BetPlay: Atlético Nacional vs. Once Caldas",
+      "fecha": "2026-11-14 17:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
+      "canales": [
+        {
+          "name": "Win+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=win2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 290818178,
+      "evento": "Liga BetPlay: Atlético Bucaramanga vs. Fortaleza CEIF",
+      "fecha": "2026-11-14 17:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-bucaramanga.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Win+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=win3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 718628636,
+      "evento": "Liga BetPlay: Cúcuta Deportivo vs. Jaguares de Córdoba",
+      "fecha": "2026-11-14 17:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cucuta-deportivo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/jaguares-de-cordoba.png",
+      "canales": [
+        {
+          "name": "Win+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=win4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 887762801,
+      "evento": "Liga BetPlay: Deportivo Cali vs. Deportes Tolima",
+      "fecha": "2026-11-14 17:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-cali.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-tolima.png",
+      "canales": [
+        {
+          "name": "Win+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=win5"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 206225999,
       "evento": "Liga BetPlay: Millonarios vs. Alianza",
       "fecha": "2026-11-14 17:30:00",
@@ -482,6 +155,26 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 342801176,
+      "evento": "Liga BetPlay: Deportivo Pereira vs. América de Cali",
+      "fecha": "2026-11-14 17:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportivo-pereira.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/america-de-cali.png",
+      "canales": [
+        {
+          "name": "Win+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=win6"
             }
           ]
         }
@@ -522,6 +215,72 @@
             {
               "name": "Opción 1",
               "iframe": "https://bestleague.life/hls.php?get=EVENTO6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 776065864,
+      "evento": "Liga de Naciones de la CONCACAf: Haití vs. EE. UU.",
+      "fecha": "2026-11-14 18:30:00",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/haiti.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Telemundo",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=telemundo"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/telemundo.php"
+            }
+          ]
+        },
+        {
+          "name": "Universo",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=universo"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/universo.php"
+            }
+          ]
+        },
+        {
+          "name": "VIX+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=vix1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 548346561,
+      "evento": "Brasileirão: Mirassol vs. Atlético Mineiro",
+      "fecha": "2026-11-14 18:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/mirassol.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-mineiro.png",
+      "canales": [
+        {
+          "name": "Amazon",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=amazon1"
             }
           ]
         }
@@ -612,6 +371,26 @@
       ]
     },
     {
+      "id": 306172591,
+      "evento": "Primera División: Nacional vs. Albion",
+      "fecha": "2026-11-14 20:00:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/nacional.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/albion.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 976964822,
       "evento": "Primera Nacional: Gimnasia Jujuy vs. Almirante Brown",
       "fecha": "2026-11-14 20:00:00",
@@ -632,6 +411,26 @@
       ]
     },
     {
+      "id": 146450634,
+      "evento": "Liga MX: Querétaro vs. Monterrey",
+      "fecha": "2026-11-14 20:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/queretaro-fc.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monterrey.png",
+      "canales": [
+        {
+          "name": "Fox One",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=foxone1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 579632999,
       "evento": "Brasileirão: Chapecoense vs. Vasco da Gama",
       "fecha": "2026-11-14 20:30:00",
@@ -646,6 +445,57 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 214727098,
+      "evento": "Liga de Naciones de la CONCACAf: Jamaica vs. México",
+      "fecha": "2026-11-14 22:00:00",
+      "competencia": "Liga de Naciones de la CONCACAF",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/jamaica.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/mexico.png",
+      "canales": [
+        {
+          "name": "Azteca 7 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=azteca7"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/azteca7mx.php"
+            }
+          ]
+        },
+        {
+          "name": "Canal 5 MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/return/canal5mx-recomendado-fullhd.html"
+            }
+          ]
+        },
+        {
+          "name": "TUDN MX",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnmx"
+            }
+          ]
+        },
+        {
+          "name": "TUDN USA",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnus"
             }
           ]
         }
