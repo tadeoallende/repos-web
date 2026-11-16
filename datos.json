@@ -1,8 +1,493 @@
 {
   "events": [
     {
-      "id": 853136093,
-      "evento": "Liga 1: Juan Pablo II College vs. Deportivo Garcilaso",
+      "id": 280628269,
+      "evento": "ATP: Carlos Alcaraz (ESP) vs. Frances Tiafoe (USA)",
+      "fecha": "2026-11-16 10:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 547016262,
+      "evento": "UEFA Nations League: Islas Feroe vs. Moldavia",
+      "fecha": "2026-11-16 12:00:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/islas-feroe.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/moldavia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 823892263,
+      "evento": "UEFA Nations League: Kazajstán vs. Eslovaquia",
+      "fecha": "2026-11-16 12:00:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/kazajstan.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/eslovaquia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 352668143,
+      "evento": "UEFA Nations League: Islandia vs. Luxemburgo",
+      "fecha": "2026-11-16 14:00:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/islandia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/luxemburgo.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 164363486,
+      "evento": "UEFA Nations League: Estonia vs. Bulgaria",
+      "fecha": "2026-11-16 14:00:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/estonia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bulgaria.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 465743836,
+      "evento": "UEFA Nations League: Lituania vs. Liechtenstein",
+      "fecha": "2026-11-16 14:00:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lituania.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/liechtenstein.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127932043,
+      "evento": "Liga 1: UTC Cajamarca vs. Los Chankas",
+      "fecha": "2026-11-16 15:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Liga 1 Max",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 756451854,
+      "evento": "Amistoso Internacional: Andorra vs. Azerbaiyán",
+      "fecha": "2026-11-16 15:00:00",
+      "competencia": "Fútbol Amistoso",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/andorra.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/azerbaiyan.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 428472743,
+      "evento": "ATP: Daniil Medvedev (RUS) vs. Flavio Cobolli (ITA)",
+      "fecha": "2026-11-16 16:30:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 434746666,
+      "evento": "UEFA Nations League: Gibraltar vs. Malta",
+      "fecha": "2026-11-16 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gibraltar.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/malta.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 817790087,
+      "evento": "UEFA Nations League: Macedonia del Norte vs. Eslovenia",
+      "fecha": "2026-11-16 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/macedonia-del-norte.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/eslovenia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 861794596,
+      "evento": "UEFA Nations League: Suiza vs. Escocia",
+      "fecha": "2026-11-16 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/suiza.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/escocia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 543611251,
+      "evento": "UEFA Nations League: Alemania vs. Países Bajos",
+      "fecha": "2026-11-16 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alemania.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/paises-bajos.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 588799844,
+      "evento": "UEFA Nations League: Grecia vs. Serbia",
+      "fecha": "2026-11-16 16:45:00",
+      "competencia": "UEFA Nations League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/grecia.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/serbia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 273055785,
+      "evento": "Liga 1: Cusco vs. ADT",
       "fecha": "2026-11-16 17:15:00",
       "competencia": "Liga 1 (Perú)",
       "logoUrl": "https://bestleague.world/jr/127.png",
@@ -25,68 +510,48 @@
       ]
     },
     {
-      "id": 142036638,
-      "evento": "Primera División: Defensor Sporting vs. Peñarol",
+      "id": 957480999,
+      "evento": "Liga 1: Deportivo Moquegua vs. Atlético Grau",
+      "fecha": "2026-11-16 17:15:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Fanatiz",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=fanatiz1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 199129179,
+      "evento": "Primera División: Wanderers vs. Juventud",
       "fecha": "2026-11-16 20:00:00",
       "competencia": "Primera División Uruguay",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/defensor-sporting.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/penarol.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/wanderers.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juventud.png",
       "canales": [
         {
           "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney12"
             }
           ]
         }
       ]
     },
     {
-      "id": 942002596,
-      "evento": "Amistoso: Club América Leyendas vs. Atlético Madrid Leyendas",
-      "fecha": "2026-11-16 21:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/club-america.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-de-madrid.png",
-      "canales": [
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 818579216,
-      "evento": "NFL: Pittsburgh Steelers vs. Cincinnati Bengals",
+      "id": 944675033,
+      "evento": "NFL: Los Angeles Chargers vs. Baltimore Ravens",
       "fecha": "2026-11-16 22:00:00",
       "competencia": "NFL",
       "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
