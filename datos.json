@@ -1,333 +1,9 @@
 {
   "events": [
     {
-      "id": 607859810,
-      "evento": "UEFA Nations League: Bielorrusia vs. Albania",
-      "fecha": "2026-11-15 14:00:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bielorrusia.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/albania.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 395985759,
-      "evento": "UEFA Nations League: Finlandia vs. San Marino",
-      "fecha": "2026-11-15 14:00:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/finlandia.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/san-marino.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 406391440,
-      "evento": "Liga 1: Comerciantes Unidos vs. Sport Boys",
-      "fecha": "2026-11-15 15:00:00",
-      "competencia": "Liga 1 (Perú)",
-      "logoUrl": "https://bestleague.world/jr/127.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "Liga 1 Max",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 582972625,
-      "evento": "ATP: Ben Shelton (USA) vs. Arthur Fils (FRA) (Ruedas Preliminares - Día #1)",
-      "fecha": "2026-11-15 16:30:00",
-      "competencia": "ATP WTA",
-      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 873276562,
-      "evento": "Primera División: Danubio vs. Liverpool",
-      "fecha": "2026-11-15 16:30:00",
-      "competencia": "Primera División Uruguay",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/danubio-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/liverpool.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 794961157,
-      "evento": "UEFA Nations League: Bélgica vs. Italia",
-      "fecha": "2026-11-15 16:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/belgica.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 7",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 160147563,
-      "evento": "UEFA Nations League: España vs. Inglaterra",
-      "fecha": "2026-11-15 16:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inglaterra.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        },
-        {
-          "name": "TVE La 1 ES",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/return/tvla1es-fullhd-recomendado.html"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 230052821,
-      "evento": "UEFA Nations League: Francia vs. Turquía",
-      "fecha": "2026-11-15 16:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/francia.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/turquia.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 382871033,
-      "evento": "UEFA Nations League: Croacia vs. República Checa",
-      "fecha": "2026-11-15 16:45:00",
-      "competencia": "UEFA Nations League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/nations-league.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/croacia.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/republica-checa.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 817574195,
-      "evento": "Primera Nacional: Godoy Cruz vs. Tristán Suárez",
-      "fecha": "2026-11-15 17:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "LPF Play",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/hls.php?get=EVENTO1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 210739206,
+      "id": 853136093,
       "evento": "Liga 1: Juan Pablo II College vs. Deportivo Garcilaso",
-      "fecha": "2026-11-15 17:15:00",
+      "fecha": "2026-11-16 17:15:00",
       "competencia": "Liga 1 (Perú)",
       "logoUrl": "https://bestleague.world/jr/127.png",
       "team1Logo": null,
@@ -349,9 +25,9 @@
       ]
     },
     {
-      "id": 744660217,
+      "id": 142036638,
       "evento": "Primera División: Defensor Sporting vs. Peñarol",
-      "fecha": "2026-11-15 20:00:00",
+      "fecha": "2026-11-16 20:00:00",
       "competencia": "Primera División Uruguay",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/defensor-sporting.png",
@@ -369,9 +45,9 @@
       ]
     },
     {
-      "id": 112091659,
+      "id": 942002596,
       "evento": "Amistoso: Club América Leyendas vs. Atlético Madrid Leyendas",
-      "fecha": "2026-11-15 21:00:00",
+      "fecha": "2026-11-16 21:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/club-america.png",
@@ -409,9 +85,9 @@
       ]
     },
     {
-      "id": 530399667,
+      "id": 818579216,
       "evento": "NFL: Pittsburgh Steelers vs. Cincinnati Bengals",
-      "fecha": "2026-11-15 22:00:00",
+      "fecha": "2026-11-16 22:00:00",
       "competencia": "NFL",
       "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
       "team1Logo": null,
