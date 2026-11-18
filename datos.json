@@ -1,355 +1,393 @@
 {
   "events": [
     {
-      "id": 727045342,
-      "evento": "Amistoso Internacional: Chile vs. Colombia",
-      "fecha": "2026-11-18 20:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chile.png",
+      "id": 334462941,
+      "evento": "ATP: Carlos Alcaraz (ESP) vs. Daniil Medvedev (RUS)",
+      "fecha": "2026-11-18 10:00:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "Caracol TV",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=caracoltv"
-            }
-          ]
-        },
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            },
-            {
-              "name": "Opción 2 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RFNwb3J0c18x"
-            }
-          ]
-        },
-        {
-          "name": "Mega CL",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=megacl"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 243130129,
-      "evento": "Amistoso Internacional: Argentina vs. Costa Rica",
-      "fecha": "2026-11-18 20:00:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/costa-rica.png",
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=dsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/directvarg.php"
-            },
-            {
-              "name": "Opción 6",
-              "iframe": "https://bolaloca.my/player/2/94"
-            },
-            {
-              "name": "Opción 7 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            }
-          ]
-        },
-        "Telefe",
-        {
-          "name": "TyC Sports",
+          "name": "ESPN 2",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=VHlDU3BvcnQ"
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=tycsports"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=tycsports"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tycsports"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/tycsportarg.php"
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
             },
             {
               "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tycsportarg.php"
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
             },
             {
               "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=VHlDU3BvcnQ"
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         }
       ]
     },
     {
-      "id": 780466089,
-      "evento": "Amistoso Internacional: Ecuador vs. Bolivia",
-      "fecha": "2026-11-18 20:30:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ecuador.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bolivia.png",
+      "id": 357222818,
+      "evento": "UEFA Women's Champions League: Real Madrid (F) vs. Inter Milano (F)",
+      "fecha": "2026-11-18 14:45:00",
+      "competencia": "UEFA Women's Champions League",
+      "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-madrid.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inter-milan.png",
       "canales": [
         {
-          "name": "Eventos",
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=eventos2"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 889801958,
-      "evento": "Amistoso Internacional: Uruguay vs. República Dominicana",
-      "fecha": "2026-11-18 20:30:00",
-      "competencia": "Fútbol Amistoso",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fenix-ur.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/republica-dominicana.png",
+      "id": 839460198,
+      "evento": "ATP: Flavio Cobolli (ITA) vs. Frances Tiafoe (USA)",
+      "fecha": "2026-11-18 16:40:00",
+      "competencia": "ATP WTA",
+      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
-          "name": "Eventos",
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 523111127,
+      "evento": "UEFA Women's Champions League: Chelsea FC (F) vs. PSG (F)",
+      "fecha": "2026-11-18 17:00:00",
+      "competencia": "UEFA Women's Champions League",
+      "logoUrl": "https://img.agenda18.com/uploads/uefa_mujeres_champiuons_d04430ebba.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chelsea.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/psg.png",
+      "canales": [
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 688578048,
+      "evento": "Liga 1: Alianza Atlético vs. Melgar",
+      "fecha": "2026-11-18 17:00:00",
+      "competencia": "Liga 1 (Perú)",
+      "logoUrl": "https://bestleague.world/jr/127.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alianza-fc.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Liga 1 Max",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=eventos3"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=liga1max"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/liga1max.php"
             }
           ]
         }
       ]
     },
     {
-      "id": 583704879,
-      "evento": "Copa Colombia: Atlético Nacional vs. Once Caldas",
-      "fecha": "2026-11-18 20:30:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
+      "id": 985595771,
+      "evento": "Brasileirão: Coritiba vs. Santos",
+      "fecha": "2026-11-18 19:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/coritiba.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/santos.png",
       "canales": [
         {
-          "name": "WIN Sports+",
+          "name": "Premiere 7 BR",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere7"
             }
           ]
         }
       ]
     },
     {
-      "id": 665544555,
-      "evento": "Liga de Naciones de la CONCACAF: EE. UU. vs. Haití",
+      "id": 436319652,
+      "evento": "Brasileirão: Remo vs. Chapecoense",
+      "fecha": "2026-11-18 20:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/remo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chapecoense.png",
+      "canales": [
+        {
+          "name": "Premiere 6 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 254804745,
+      "evento": "Brasileirão: Flamengo vs. Athletico-PR",
+      "fecha": "2026-11-18 20:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/flamengo.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Premiere 1 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 201038771,
+      "evento": "Brasileirão: Cruzeiro vs. Palmeiras",
+      "fecha": "2026-11-18 20:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruzeiro.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/palmeiras.png",
+      "canales": [
+        {
+          "name": "Premiere 2 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 475364921,
+      "evento": "NBA: Milwaukee Bucks vs. Miami Heat",
       "fecha": "2026-11-18 21:00:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
+      "competencia": "NBA",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/haiti.png",
+      "team2Logo": null,
       "canales": [
         {
-          "name": "Universo",
+          "name": "ESPN 2",
           "options": [
             {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=universo"
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/universo.php"
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         }
       ]
     },
     {
-      "id": 769888313,
-      "evento": "NHL: Toronto Maple Leafs vs. Chicago Blackhawks",
+      "id": 681422349,
+      "evento": "Brasileirão: Grêmio vs. Bahia",
       "fecha": "2026-11-18 21:30:00",
-      "competencia": "Eventos",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": null,
-      "team2Logo": null,
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gremio.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bahia.png",
       "canales": [
         {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 938260440,
-      "evento": "Copa Colombia: América de Cali vs. Inter Bogotá",
-      "fecha": "2026-11-18 22:30:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/america-de-cali.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional-de-bogota.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
+          "name": "Premiere 5 BR",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere5"
             }
           ]
         }
       ]
     },
     {
-      "id": 772103828,
-      "evento": "Liga de Naciones de la CONCACAF: México vs. Jamaica",
+      "id": 210262508,
+      "evento": "Brasileirão: Corinthians vs. Botafogo",
+      "fecha": "2026-11-18 21:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/corinthians.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/botafogo.png",
+      "canales": [
+        {
+          "name": "Premiere 3 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 143289900,
+      "evento": "NBA: Boston Celtics vs. Denver Nuggets",
       "fecha": "2026-11-18 23:30:00",
-      "competencia": "Liga de Naciones de la CONCACAF",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/mexico.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/jamaica.png",
-      "canales": [
-        {
-          "name": "Azteca 7 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=azteca7"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/azteca7mx.php"
-            }
-          ]
-        },
-        {
-          "name": "Canal 5 MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https:/streamtp99a.sbs/return/canal5mx-recomendado-fullhd.html"
-            }
-          ]
-        },
-        {
-          "name": "TUDN MX",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnmx"
-            }
-          ]
-        },
-        {
-          "name": "TUDN USA",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 800482055,
-      "evento": "NHL: Dallas Stars vs. Vegas Golden Knights",
-      "fecha": "2026-11-19 00:00:00",
-      "competencia": "Eventos",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "competencia": "NBA",
+      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "ESPN 3",
+          "name": "ESPN 2",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
             },
             {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
             }
           ]
         }
