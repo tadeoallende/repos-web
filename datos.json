@@ -1,9 +1,9 @@
 {
   "events": [
     {
-      "id": 441985605,
+      "id": 727045342,
       "evento": "Amistoso Internacional: Chile vs. Colombia",
-      "fecha": "2026-11-17 20:00:00",
+      "fecha": "2026-11-18 20:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chile.png",
@@ -19,6 +19,19 @@
           ]
         },
         {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            },
+            {
+              "name": "Opción 2 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RFNwb3J0c18x"
+            }
+          ]
+        },
+        {
           "name": "Mega CL",
           "options": [
             {
@@ -30,9 +43,9 @@
       ]
     },
     {
-      "id": 976497074,
+      "id": 243130129,
       "evento": "Amistoso Internacional: Argentina vs. Costa Rica",
-      "fecha": "2026-11-17 20:00:00",
+      "fecha": "2026-11-18 20:00:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/argentina.png",
@@ -108,9 +121,9 @@
       ]
     },
     {
-      "id": 419853774,
+      "id": 780466089,
       "evento": "Amistoso Internacional: Ecuador vs. Bolivia",
-      "fecha": "2026-11-17 20:30:00",
+      "fecha": "2026-11-18 20:30:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ecuador.png",
@@ -128,23 +141,14 @@
       ]
     },
     {
-      "id": 639059665,
+      "id": 889801958,
       "evento": "Amistoso Internacional: Uruguay vs. República Dominicana",
-      "fecha": "2026-11-17 20:30:00",
+      "fecha": "2026-11-18 20:30:00",
       "competencia": "Fútbol Amistoso",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fenix-ur.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/republica-dominicana.png",
       "canales": [
-        {
-          "name": "DSports+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RHNwb3J0c19QbHVzX1VZ"
-            }
-          ]
-        },
         {
           "name": "Eventos",
           "options": [
@@ -157,9 +161,9 @@
       ]
     },
     {
-      "id": 525609736,
+      "id": 583704879,
       "evento": "Copa Colombia: Atlético Nacional vs. Once Caldas",
-      "fecha": "2026-11-17 20:30:00",
+      "fecha": "2026-11-18 20:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
@@ -177,9 +181,9 @@
       ]
     },
     {
-      "id": 591971264,
+      "id": 665544555,
       "evento": "Liga de Naciones de la CONCACAF: EE. UU. vs. Haití",
-      "fecha": "2026-11-17 21:00:00",
+      "fecha": "2026-11-18 21:00:00",
       "competencia": "Liga de Naciones de la CONCACAF",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
       "team1Logo": null,
@@ -201,9 +205,9 @@
       ]
     },
     {
-      "id": 608257918,
+      "id": 769888313,
       "evento": "NHL: Toronto Maple Leafs vs. Chicago Blackhawks",
-      "fecha": "2026-11-17 21:30:00",
+      "fecha": "2026-11-18 21:30:00",
       "competencia": "Eventos",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": null,
@@ -241,9 +245,9 @@
       ]
     },
     {
-      "id": 274225403,
+      "id": 938260440,
       "evento": "Copa Colombia: América de Cali vs. Inter Bogotá",
-      "fecha": "2026-11-17 22:30:00",
+      "fecha": "2026-11-18 22:30:00",
       "competencia": "Liga BetPlay",
       "logoUrl": "https://angulismo-pics.pages.dev/col.png",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/america-de-cali.png",
@@ -261,9 +265,9 @@
       ]
     },
     {
-      "id": 808656607,
+      "id": 772103828,
       "evento": "Liga de Naciones de la CONCACAF: México vs. Jamaica",
-      "fecha": "2026-11-17 23:30:00",
+      "fecha": "2026-11-18 23:30:00",
       "competencia": "Liga de Naciones de la CONCACAF",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/connat.webp",
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/mexico.png",
@@ -312,9 +316,9 @@
       ]
     },
     {
-      "id": 841650330,
+      "id": 800482055,
       "evento": "NHL: Dallas Stars vs. Vegas Golden Knights",
-      "fecha": "2026-11-18 00:00:00",
+      "fecha": "2026-11-19 00:00:00",
       "competencia": "Eventos",
       "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
       "team1Logo": null,
