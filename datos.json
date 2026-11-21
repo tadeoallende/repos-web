@@ -1,682 +1,6 @@
 {
   "events": [
     {
-      "id": 185639392,
-      "evento": "Bundesliga 2: Wolfsburg vs. Holstein Kiel",
-      "fecha": "2026-11-21 09:00:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzMkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox2ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports2"
-            },
-            {
-              "name": "Opción 4 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 5 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzMkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 254730399,
-      "evento": "Premier League: Manchester City vs. Fulham",
-      "fecha": "2026-11-21 09:30:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/manchester-city.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fulham.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 477457006,
-      "evento": "Championship: Millwall vs. Queens Park Rangers",
-      "fecha": "2026-11-21 09:30:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rangers-ch.png",
-      "canales": [
-        {
-          "name": "ESPN 5",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn5"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 931792333,
-      "evento": "LaLiga: Deportivo Alavés vs. Deportivo La Coruña",
-      "fecha": "2026-11-21 10:00:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/alaves.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 947145649,
-      "evento": "Copa Mundial Sub-17: Camerún vs. Venezuela",
-      "fecha": "2026-11-21 10:30:00",
-      "competencia": "Copa Mundial Sub-17",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "DSports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsportsplus"
-            },
-            {
-              "name": "Opción 2 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 210318003,
-      "evento": "ATP: Carlos Alcaraz (ESP) vs. Ben Shelton (USA) (Semifinal)",
-      "fecha": "2026-11-21 10:30:00",
-      "competencia": "ATP WTA",
-      "logoUrl": "https://images.seeklogo.com/logo-png/24/1/tenis-logo-png_seeklogo-240691.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 298753655,
-      "evento": "Copa de Portugal: Mafra vs. Arouca",
-      "fecha": "2026-11-21 11:00:00",
-      "competencia": "Primeira Liga",
-      "logoUrl": "https://angulismo-pics.pages.dev/pt.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/arouca.png",
-      "canales": [
-        {
-          "name": "FOX Sports 3",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRzM0hE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://stream-xhd.com/live1.php?stream=fox3ar"
-            },
-            {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRzM0hE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 183297364,
-      "evento": "MotoGP: Sprint | GP Portugal",
-      "fecha": "2026-11-21 11:30:00",
-      "competencia": "MotoGP",
-      "logoUrl": "https://images.seeklogo.com/logo-png/9/1/motogp-logo-png_seeklogo-95111.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 536653447,
-      "evento": "Premier League: Chelsea vs. Leeds United",
-      "fecha": "2026-11-21 12:00:00",
-      "competencia": "Premier League",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chelsea.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/leeds-united.png",
-      "canales": [
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 888647356,
-      "evento": "Championship: Wolverhampton Wanderers vs. Charlton Athletic",
-      "fecha": "2026-11-21 12:00:00",
-      "competencia": "EFL Cup",
-      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/wanderers.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 7",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
-            }
-          ]
-        },
-        {
-          "name": "FOX Sports",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94U3BvcnRz"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=foxsports"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=fox1ar"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxsp1arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94U3BvcnRz"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 137318589,
-      "evento": "Primera División: Coquimbo Unido vs. Everton",
-      "fecha": "2026-11-21 12:00:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://tvtveshd.com/iconos/chile.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/coquimbo-unido.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/everton.png",
-      "canales": [
-        {
-          "name": "TNT Sports Chile",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 465302217,
-      "evento": "LaLiga: Rayo Vallecano vs. Valencia",
-      "fecha": "2026-11-21 12:15:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rayo-vallecano.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/valencia-cf.png",
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports2"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 871012213,
-      "evento": "Copa Mundial Sub-17: Chile vs. Argelia",
-      "fecha": "2026-11-21 12:30:00",
-      "competencia": "Copa Mundial Sub-17",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chile.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "DSports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsportsplus"
-            },
-            {
-              "name": "Opción 2 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 176616930,
-      "evento": "Ligue 1: Nice vs. PSG",
-      "fecha": "2026-11-21 13:15:00",
-      "competencia": "Ligue 1",
-      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
-      "team1Logo": null,
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/psg.png",
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 208112246,
-      "evento": "Serie A: Parma vs. Roma",
-      "fecha": "2026-11-21 14:00:00",
-      "competencia": "Serie A",
-      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/parma.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/as-roma.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        },
-        {
-          "name": "ESPN",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 227976136,
-      "evento": "LaLiga: Sevilla vs. Real Betis",
-      "fecha": "2026-11-21 14:30:00",
-      "competencia": "LaLiga",
-      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sevilla-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-betis.png",
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports2"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 187268806,
-      "evento": "Bundesliga: Schalke 04 vs. Stuttgart",
-      "fecha": "2026-11-21 14:30:00",
-      "competencia": "Bundesliga",
-      "logoUrl": "https://angulismo-pics.pages.dev/alem.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/schalke-04.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/stuttgart.png",
-      "canales": [
-        {
-          "name": "Disney+",
-          "options": [
-            {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
-            }
-          ]
-        },
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 548740260,
-      "evento": "Eredivisie: Feyenoord vs. Excelsior",
-      "fecha": "2026-11-21 14:45:00",
-      "competencia": "Eredivisie",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 7",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn7"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 238930106,
       "evento": "Liga Profesional: Defensa y Justicia vs. Barracas Central",
       "fecha": "2026-11-21 15:00:00",
@@ -845,6 +169,26 @@
       ]
     },
     {
+      "id": 567914163,
+      "evento": "MLS: New England vs. Philadelphia Union",
+      "fecha": "2026-11-21 16:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/new-england-nfl.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/philadelphia-union.png",
+      "canales": [
+        {
+          "name": "MLS",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 589579572,
       "evento": "Brasileirão: Palmeiras vs. Flamengo",
       "fecha": "2026-11-21 16:30:00",
@@ -999,6 +343,106 @@
       ]
     },
     {
+      "id": 208812227,
+      "evento": "Serie A: Napoli vs. Torino",
+      "fecha": "2026-11-21 16:45:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/napoli.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/torino.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 898383589,
+      "evento": "Ligue 1: Lille vs. Olympique Lyonnais",
+      "fecha": "2026-11-21 16:45:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lille.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lyon.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 882731127,
+      "evento": "Ligue 1: Strasbourg vs. Brest",
+      "fecha": "2026-11-21 16:45:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/brest.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 563736478,
+      "evento": "Ligue 1: Monaco vs. Auxerre",
+      "fecha": "2026-11-21 16:45:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monaco.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/auxerre.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816257367,
+      "evento": "Ligue 1: Lens vs. Toulouse",
+      "fecha": "2026-11-21 16:45:00",
+      "competencia": "Ligue 1",
+      "logoUrl": "https://angulismo-pics.pages.dev/fr.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lens.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/toulouse.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 526177207,
       "evento": "Liga Profesional: Argentinos Juniors vs. Independiente",
       "fecha": "2026-11-21 17:00:00",
@@ -1055,21 +499,38 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney29"
             }
           ]
         },
         {
-          "name": "ESPN",
+          "name": "ESPN 2",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
             },
             {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            }
+          ]
+        },
+        {
+          "name": "ESPN+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnplus4"
             }
           ]
         }
@@ -1204,6 +665,26 @@
       ]
     },
     {
+      "id": 231450101,
+      "evento": "MLS: Dallas vs. Portland Timbers",
+      "fecha": "2026-11-21 18:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fc-dallas.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/portland-timbers.png",
+      "canales": [
+        {
+          "name": "MLS Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls2"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 235049408,
       "evento": "Primera División: O'Higgins vs. Universidad Chile",
       "fecha": "2026-11-21 18:00:00",
@@ -1236,6 +717,19 @@
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-mineiro.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boca-juniors.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=disney30"
+            }
+          ]
+        },
         {
           "name": "DSports",
           "options": [
@@ -1314,6 +808,15 @@
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/leon.png",
       "canales": [
         {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney12"
+            }
+          ]
+        },
+        {
           "name": "ESPN 1 MX",
           "options": [
             {
@@ -1323,6 +826,35 @@
             {
               "name": "Opción 2 (Ads)",
               "iframe": "https://welivesportz.cfd/futbol/espn1mx.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 141751577,
+      "evento": "MLS: Inter Miami vs. Columbus Crew",
+      "fecha": "2026-11-21 20:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/inter-miami.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/columbus-crew.png",
+      "canales": [
+        {
+          "name": "MLS Pass",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls3"
+            }
+          ]
+        },
+        {
+          "name": "MLS Pass 2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=appletv3"
             }
           ]
         }
@@ -1528,6 +1060,19 @@
               "iframe": "https://welivesportz.cfd/futbol/azteca7mx.php"
             }
           ]
+        },
+        {
+          "name": "FOX Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=foxdeportes"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
+            }
+          ]
         }
       ]
     },
@@ -1555,19 +1100,23 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamxhd.sbs/live1.php?stream=disney4"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney14"
             }
           ]
         },
         {
-          "name": "ESPN 2",
+          "name": "ESPN",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
             },
             {
               "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
             }
           ]
         },
