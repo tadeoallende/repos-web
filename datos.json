@@ -1,184 +1,347 @@
 {
   "events": [
     {
-      "id": 878538577,
-      "evento": "Liga MX: Guadalajara vs. Cruz Azul",
-      "fecha": "2026-11-23 20:07:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chivas-de-guadalajara.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruz-azul.png",
+      "id": 920975068,
+      "evento": "Copa Mundial Sub-17: España vs. Fiyi",
+      "fecha": "2026-11-23 09:30:00",
+      "competencia": "Copa Mundial Sub-17",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
+      "team2Logo": null,
       "canales": [
         {
-          "name": "Amazon",
+          "name": "DSports",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=amazon2"
-            }
-          ]
-        },
-        {
-          "name": "Telemundo",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=telemundo"
+              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
             },
             {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/telemundo.php"
-            }
-          ]
-        },
-        {
-          "name": "Universo",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=universo"
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
             },
             {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/universo.php"
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            },
+            {
+              "name": "Opción 4 (Extensión)",
+              "iframe": "https://bestleague.life/tok2.html?get=RFNwb3J0c18x"
             }
           ]
         }
       ]
     },
     {
-      "id": 142457068,
-      "evento": "MLS: Chicago Fire vs. Charlotte",
-      "fecha": "2026-11-23 20:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chicago-fire.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/charlotte-fc.png",
-      "canales": [
-        {
-          "name": "FOX Deportes",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=foxdeportes"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
-            }
-          ]
-        },
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls2"
-            }
-          ]
-        },
-        {
-          "name": "TSN 2 CA",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tsn2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 464848430,
-      "evento": "Primera División: Deportes Limache vs. La Serena",
-      "fecha": "2026-11-23 20:30:00",
-      "competencia": "Primera División Chile",
-      "logoUrl": "https://tvtveshd.com/iconos/chile.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-limache.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/deportes-la-serena.png",
-      "canales": [
-        {
-          "name": "TNT Sports Chile",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsportschile"
-            },
-            {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/tntsportchile.php"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 469986753,
-      "evento": "Primera Nacional: Gimnasia y Tiro vs. Tristán Suárez",
-      "fecha": "2026-11-23 21:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "id": 677915915,
+      "evento": "AFC Champions League Elite: Neftchi vs. Al Hilal",
+      "fecha": "2026-11-23 10:45:00",
+      "competencia": "UEFA Champions League",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
         {
-          "name": "LPF Play",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://bestleague.life/hls.php?get=1"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 837994842,
-      "evento": "Liga Profesional: Instituto vs. Huracán",
-      "fecha": "2026-11-23 22:00:00",
-      "competencia": "Liga Profesional Argentina",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/instituto.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/huracan.png",
-      "canales": [
-        {
-          "name": "ESPN Premium",
+          "name": "ESPN 4",
           "options": [
             {
               "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
             },
             {
               "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espnpremium"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
             },
             {
               "name": "Opción 3",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espnpremium"
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
             },
             {
               "name": "Opción 4",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
             },
             {
               "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espnpremarg.php"
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
             },
             {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espnpremarg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
             }
           ]
         }
       ]
     },
     {
-      "id": 481315949,
-      "evento": "NFL: Minnesota Vikings vs. San Francisco 49ers",
+      "id": 676294896,
+      "evento": "Copa Mundial Sub-17: Italia vs. Costa de Marfil",
+      "fecha": "2026-11-23 11:30:00",
+      "competencia": "Copa Mundial Sub-17",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            },
+            {
+              "name": "Opción 4 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RFNwb3J0c18x"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 265585417,
+      "evento": "Serie A: Monza vs. Fiorentina",
+      "fecha": "2026-11-23 16:45:00",
+      "competencia": "Serie A",
+      "logoUrl": "https://angulismo-pics.pages.dev/ital.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monza.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fiorentina.png",
+      "canales": [
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 398916324,
+      "evento": "Premier League: Brentford vs. Everton",
+      "fecha": "2026-11-23 17:00:00",
+      "competencia": "Premier League",
+      "logoUrl": "https://angulismo-pics.pages.dev/en.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/brentford.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/everton.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 487679925,
+      "evento": "LaLiga: Levante vs. Elche",
+      "fecha": "2026-11-23 17:00:00",
+      "competencia": "LaLiga",
+      "logoUrl": "https://angulismo-pics.pages.dev/es.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/levante-ud.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/elche-cf.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports2"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            }
+          ]
+        },
+        {
+          "name": "DSports 2",
+          "options": [
+            {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RFNwb3J0c18y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 760653444,
+      "evento": "Liga Profesional: Gimnasia La Plata vs. Newell's Old Boys",
+      "fecha": "2026-11-23 17:00:00",
+      "competencia": "Liga Profesional Argentina",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gimnasia-la-plata.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/newell-s-old-boys.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113056319,
+      "evento": "Brasileirão: Internacional vs. Vitória",
+      "fecha": "2026-11-23 19:30:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/internacional.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vitoria.png",
+      "canales": [
+        {
+          "name": "Premiere 1 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 324510157,
+      "evento": "Brasileirão: Santos vs. Grêmio",
+      "fecha": "2026-11-23 21:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/santos.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/gremio.png",
+      "canales": [
+        {
+          "name": "Flow Sports 1",
+          "options": [
+            {
+              "name": "Opción 1 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RXZlbnRvczFIRA"
+            }
+          ]
+        },
+        {
+          "name": "Premiere 3 BR",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 739897227,
+      "evento": "Torneo BetPlay: Boca Juniors de Cali vs. Deportes Quindío",
+      "fecha": "2026-11-23 21:30:00",
+      "competencia": "Liga BetPlay",
+      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boca-juniors.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "WIN Sports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132827420,
+      "evento": "NFL: Cincinnati Bengals vs. Washington Commanders",
       "fecha": "2026-11-23 22:00:00",
       "competencia": "NFL",
       "logoUrl": "https://images.seeklogo.com/logo-png/16/2/nfl-logo-png_seeklogo-168592.png",
@@ -215,55 +378,6 @@
             {
               "name": "Opción 7 (Extensión)",
               "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 505356964,
-      "evento": "Liga MX: Querétaro vs. Necaxa",
-      "fecha": "2026-11-23 22:10:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/queretaro-fc.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/necaxa.png",
-      "canales": [
-        {
-          "name": "TUDN USA",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 628776268,
-      "evento": "MLS: Vancouver Whitecaps vs. Real Salt Lake",
-      "fecha": "2026-11-23 22:30:00",
-      "competencia": "MLS",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/vancouver-whitecaps.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-salt-lake.png",
-      "canales": [
-        {
-          "name": "MLS",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=mls3"
-            }
-          ]
-        },
-        {
-          "name": "TSN 5 CA",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tsn5"
             }
           ]
         }
