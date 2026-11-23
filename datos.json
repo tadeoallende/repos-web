@@ -1,78 +1,6 @@
 {
   "events": [
     {
-      "id": 920975068,
-      "evento": "Copa Mundial Sub-17: España vs. Fiyi",
-      "fecha": "2026-11-23 09:30:00",
-      "competencia": "Copa Mundial Sub-17",
-      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "DSports",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
-            },
-            {
-              "name": "Opción 3 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
-            },
-            {
-              "name": "Opción 4 (Extensión)",
-              "iframe": "https://bestleague.life/tok2.html?get=RFNwb3J0c18x"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 677915915,
-      "evento": "AFC Champions League Elite: Neftchi vs. Al Hilal",
-      "fecha": "2026-11-23 10:45:00",
-      "competencia": "UEFA Champions League",
-      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/championsleague.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 4",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
-            },
-            {
-              "name": "Opción 6 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": 676294896,
       "evento": "Copa Mundial Sub-17: Italia vs. Costa de Marfil",
       "fecha": "2026-11-23 11:30:00",
@@ -105,6 +33,26 @@
       ]
     },
     {
+      "id": 132488966,
+      "evento": "Primera División: Juventud vs. Defensor Sporting",
+      "fecha": "2026-11-23 16:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juventud.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/defensor-sporting.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 265585417,
       "evento": "Serie A: Monza vs. Fiorentina",
       "fecha": "2026-11-23 16:45:00",
@@ -113,6 +61,15 @@
       "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monza.png",
       "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/fiorentina.png",
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
+            }
+          ]
+        },
         {
           "name": "ESPN 3",
           "options": [
@@ -157,8 +114,8 @@
           "name": "Disney+",
           "options": [
             {
-              "name": "Opción 1 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
             }
           ]
         },
@@ -291,6 +248,46 @@
       ]
     },
     {
+      "id": 330268251,
+      "evento": "Primera División: Albion vs. Danubio",
+      "fecha": "2026-11-23 19:30:00",
+      "competencia": "Primera División Uruguay",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/56.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/albion.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/danubio-fc.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 790328344,
+      "evento": "Brasileirão: Botafogo vs. São Paulo",
+      "fecha": "2026-11-23 20:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/botafogo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sao-paulo.png",
+      "canales": [
+        {
+          "name": "Amazon",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=amazon1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 324510157,
       "evento": "Brasileirão: Santos vs. Grêmio",
       "fecha": "2026-11-23 21:00:00",
@@ -334,6 +331,39 @@
             {
               "name": "Opción 1",
               "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 563841853,
+      "evento": "MLS: St. Louis City vs. Los Angeles FC",
+      "fecha": "2026-11-23 22:00:00",
+      "competencia": "MLS",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/81.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/st-louis-city-sc.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/los-angeles-fc.png",
+      "canales": [
+        {
+          "name": "FOX Deportes",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=foxdeportes"
+            },
+            {
+              "name": "Opción 2 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/foxdeportes.php"
+            }
+          ]
+        },
+        {
+          "name": "TSN2",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tsn2"
             }
           ]
         }
