@@ -1,14 +1,290 @@
 {
   "events": [
     {
-      "id": 813578828,
-      "evento": "NBA: Miami Heat vs. Philadelphia 76ers",
-      "fecha": "2026-11-25 19:00:00",
-      "competencia": "NBA",
-      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
+      "id": 543650708,
+      "evento": "Copa Mundial Sub-17: Uzbekistán vs. Italia",
+      "fecha": "2026-11-26 11:00:00",
+      "competencia": "Copa Mundial Sub-17",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/italia.png",
+      "canales": [
+        {
+          "name": "DSports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsportsplus"
+            },
+            {
+              "name": "Opción 2 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 525445634,
+      "evento": "Copa Mundial Sub-17: Marruecos vs. España",
+      "fecha": "2026-11-26 12:00:00",
+      "competencia": "Copa Mundial Sub-17",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/espana.png",
+      "canales": [
+        {
+          "name": "DSports",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/return/dsports-fullHD-recomendado.html"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsports"
+            },
+            {
+              "name": "Opción 3 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/directvarg.php"
+            },
+            {
+              "name": "Opción 4 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RFNwb3J0c18x"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 517333141,
+      "evento": "UEFA Conference League: Kairat vs. Mjällby",
+      "fecha": "2026-11-26 12:30:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
       "team1Logo": null,
       "team2Logo": null,
       "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 309461153,
+      "evento": "Copa de Rusia: Dinamo Moskva vs. Fakel",
+      "fecha": "2026-11-26 13:30:00",
+      "competencia": "Eventos",
+      "logoUrl": "https://angulismo-pics.pages.dev/fut.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "DSports+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=dsportsplus"
+            },
+            {
+              "name": "Opción 2 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RHNwb3J0c19QbHVzX1VZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 447454265,
+      "evento": "UEFA Europa League: Beşiktaş vs. Hapoel Be'er Sheva",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 411136491,
+      "evento": "UEFA Europa League: Celta de Vigo vs. AFC Bournemouth",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/celta-de-vigo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bournemouth.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 512053914,
+      "evento": "UEFA Europa League: Dinamo Zagreb vs. Bayer Leverkusen",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/bayer-leverkusen.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 662098079,
+      "evento": "UEFA Europa League: Olympique Marseille vs. Levski Sofia",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 644640352,
+      "evento": "UEFA Europa League: Olympiakos Piraeus vs. Milan",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/ac-milan.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
+            }
+          ]
+        },
         {
           "name": "ESPN 2",
           "options": [
@@ -45,53 +321,885 @@
       ]
     },
     {
-      "id": 515696799,
-      "evento": "Brasileirão: Atlético Mineiro vs. Corinthians",
-      "fecha": "2026-11-25 20:00:00",
-      "competencia": "Brasileirão",
-      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-mineiro.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/corinthians.png",
+      "id": 509867542,
+      "evento": "UEFA Europa League: Viktoria Plzeň vs. Benfica",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/benfica.png",
       "canales": [
         {
-          "name": "Premiere 1 BR",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere1"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
             }
           ]
         }
       ]
     },
     {
-      "id": 784120212,
-      "evento": "Liga BetPlay: Santa Fe vs. Once Caldas",
-      "fecha": "2026-11-25 20:20:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/union-santa-fe.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/once-caldas.png",
+      "id": 691348811,
+      "evento": "UEFA Europa League: Union Saint-Gilloise vs. Lech Poznań",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
       "canales": [
         {
-          "name": "WIN Sports+",
+          "name": "Disney+",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
             }
           ]
         }
       ]
     },
     {
-      "id": 232188338,
-      "evento": "Liga Profesional: Boca Juniors vs. Independiente Rivadavia",
-      "fecha": "2026-11-25 21:00:00",
-      "competencia": "Liga Profesional Argentina",
+      "id": 915038205,
+      "evento": "UEFA Europa League: Salzburg vs. Ararat-Armenia",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/armenia.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 7",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn7"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 213274952,
+      "evento": "UEFA Conference League: Kauno Žalgiris vs. Riga",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129818289,
+      "evento": "UEFA Conference League: Paphos vs. Midtjylland",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 483129104,
+      "evento": "UEFA Conference League: Jablonec vs. Lugano",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 285614584,
+      "evento": "UEFA Conference League: Iberia 1999 vs. Getafe",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/getafe-cf.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 508912032,
+      "evento": "UEFA Conference League: Hearts vs. Monaco",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monaco.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841420311,
+      "evento": "UEFA Conference League: Egnatia Rrogozhinë vs. Lincoln Red Imps",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 806183668,
+      "evento": "UEFA Conference League: Brighton & Hove Albion vs. CSU Craiova",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/brighton.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 998916023,
+      "evento": "UEFA Conference League: Brann vs. AGF",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 372190991,
+      "evento": "UEFA Conference League: Ajax vs. Thun",
+      "fecha": "2026-11-26 14:45:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 168180958,
+      "evento": "Torneo de Reserva: Vélez Sársfield (R) vs. Boca Juniors (R)",
+      "fecha": "2026-11-26 16:30:00",
+      "competencia": "Torneo de Reserva",
       "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boca-juniors.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente-rivadavia.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/velez-sarsfield.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/boca-juniors.png",
+      "canales": [
+        {
+          "name": "TNT Sports",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=VE5UX1Nwb3J0c19IRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/tntsportarg.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/tntsportarg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=VE5UX1Nwb3J0c19IRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 569910731,
+      "evento": "UEFA Europa League: Ferencváros vs. Celje",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 121841402,
+      "evento": "UEFA Europa League: Crystal Palace vs. Real Sociedad",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/crystal-palace.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/real-sociedad.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney20"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 2",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 852505678,
+      "evento": "UEFA Europa League: Hoffenheim vs. Sturm Graz",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/hoffenheim.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 371110193,
+      "evento": "UEFA Europa League: Juventus vs. Omonia Nicosia",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/juventus.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney19"
+            }
+          ]
+        },
+        {
+          "name": "ESPN",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJIRA"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn1col.php"
+            },
+            {
+              "name": "Opción 6 (Ads)",
+              "iframe": "https://welivesportz.cfd/futbol/espn1arg.php"
+            },
+            {
+              "name": "Opción 7 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJIRA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 821670694,
+      "evento": "UEFA Europa League: Olympique Lyonnais vs. Lillestrøm",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lyon.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/lille.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney1"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 3",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjM"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn3"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn3"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn3col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 771161079,
+      "evento": "UEFA Europa League: NEC vs. Rennes",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/rennes.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney4"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 7",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn7"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn7"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://welivesportz.cfd/embed/espn7col.php"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 506115594,
+      "evento": "UEFA Europa League: OFI vs. Anderlecht",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 758577092,
+      "evento": "UEFA Europa League: Sparta Praha vs. AZ",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney3"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 5",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjQ="
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn5"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn5col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTjQ="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901889817,
+      "evento": "UEFA Europa League: Sunderland vs. Jagiellonia Białystok",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sunderland.png",
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney2"
+            }
+          ]
+        },
+        {
+          "name": "ESPN 4",
+          "options": [
+            {
+              "name": "Opción 1 (FL)",
+              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTkhE"
+            },
+            {
+              "name": "Opción 2",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 3",
+              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
+            },
+            {
+              "name": "Opción 4",
+              "iframe": "https://streamxhd.sbs/live1.php?stream=espn4"
+            },
+            {
+              "name": "Opción 5",
+              "iframe": "https://welivesportz.cfd/embed/espn4col.php"
+            },
+            {
+              "name": "Opción 6 (Extensión)",
+              "iframe": "https://bestleague.life/tok.html?get=RVNQTkhE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 252582455,
+      "evento": "UEFA Europa League: Torreense vs. Celtic",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Europa League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 706309766,
+      "evento": "UEFA Conference League: Inter Club d'Escaldes vs. København",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 544159383,
+      "evento": "UEFA Conference League: Hajduk Split vs. Sint-Truiden",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 640780003,
+      "evento": "UEFA Conference League: Gent vs. Crvena Zvezda",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 952496815,
+      "evento": "UEFA Conference League: Freiburg vs. Twente",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 380976780,
+      "evento": "UEFA Conference League: CSKA Sofia vs. Trabzonspor",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 272211334,
+      "evento": "UEFA Conference League: Sporting Braga vs. KuPS",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 625346592,
+      "evento": "UEFA Conference League: Borac Banja Luka vs. Atalanta",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atalanta.png",
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 479135833,
+      "evento": "UEFA Conference League: Nordsjælland vs. Panathinaikos",
+      "fecha": "2026-11-26 17:00:00",
+      "competencia": "UEFA Conference League",
+      "logoUrl": "https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/2024/logos/logo_light.png",
+      "team1Logo": null,
+      "team2Logo": null,
+      "canales": [
+        {
+          "name": "Disney+",
+          "options": [
+            {
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=disney9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 670085331,
+      "evento": "Torneo de Reserva: Independiente (R) vs. Gimnasia Mendoza (R)",
+      "fecha": "2026-11-26 19:00:00",
+      "competencia": "Torneo de Reserva",
+      "logoUrl": "https://angulismotv.pages.dev/assets/logos/competicion/afa.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/independiente.png",
+      "team2Logo": null,
       "canales": [
         {
           "name": "ESPN Premium",
@@ -129,161 +1237,69 @@
       ]
     },
     {
-      "id": 962914947,
-      "evento": "NBA: Minnesota Timberwolves vs. Oklahoma City Thunder",
-      "fecha": "2026-11-25 21:30:00",
-      "competencia": "NBA",
-      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
-      "team1Logo": null,
-      "team2Logo": null,
+      "id": 105305121,
+      "evento": "Brasileirão: São Paulo vs. Remo",
+      "fecha": "2026-11-26 20:00:00",
+      "competencia": "Brasileirão",
+      "logoUrl": "https://angulismo-pics.pages.dev/br.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/sao-paulo.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/remo.png",
       "canales": [
         {
-          "name": "ESPN 2",
+          "name": "Premiere 1 BR",
           "options": [
             {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=premiere1"
             }
           ]
         }
       ]
     },
     {
-      "id": 562281176,
-      "evento": "Liga MX: Toluca vs. Atlas",
-      "fecha": "2026-11-25 22:00:00",
+      "id": 447391482,
+      "evento": "Liga MX: Pachuca vs. Guadalajara",
+      "fecha": "2026-11-26 22:00:00",
       "competencia": "Liga MX",
       "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/toluca.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atlas.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/pachuca.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/chivas-de-guadalajara.png",
       "canales": [
         {
-          "name": "Azteca 7 MX",
+          "name": "TUDN USA",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=azteca7"
-            },
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107409601,
+      "evento": "Liga MX: León vs. Cruz Azul",
+      "fecha": "2026-11-27 00:00:00",
+      "competencia": "Liga MX",
+      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
+      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/leon.png",
+      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/cruz-azul.png",
+      "canales": [
+        {
+          "name": "TUDN USA",
+          "options": [
             {
-              "name": "Opción 2 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/azteca7mx.php"
+              "name": "Opción 1",
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnus"
             }
           ]
         },
         {
-          "name": "TUDN USA",
+          "name": "TUDN MX",
           "options": [
             {
               "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 993822308,
-      "evento": "Liga BetPlay: Atlético Nacional vs. Medellín",
-      "fecha": "2026-11-25 22:30:00",
-      "competencia": "Liga BetPlay",
-      "logoUrl": "https://angulismo-pics.pages.dev/col.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/atletico-nacional.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/medellin.png",
-      "canales": [
-        {
-          "name": "WIN Sports+",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=winplus"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 125907314,
-      "evento": "NBA: San Antonio Spurs vs. Portland Trail Blazers",
-      "fecha": "2026-11-26 00:00:00",
-      "competencia": "NBA",
-      "logoUrl": "https://angulismo-pics.pages.dev/nba.png",
-      "team1Logo": null,
-      "team2Logo": null,
-      "canales": [
-        {
-          "name": "ESPN 2",
-          "options": [
-            {
-              "name": "Opción 1 (FL)",
-              "iframe": "https://tvlibre.st/html/fl/?get=RVNQTjJfQXJn"
-            },
-            {
-              "name": "Opción 2",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 3",
-              "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2"
-            },
-            {
-              "name": "Opción 4",
-              "iframe": "https://streamxhd.sbs/live1.php?stream=espn2"
-            },
-            {
-              "name": "Opción 5",
-              "iframe": "https://welivesportz.cfd/embed/espn2col.php"
-            },
-            {
-              "name": "Opción 6 (Ads)",
-              "iframe": "https://welivesportz.cfd/futbol/espn2arg.php"
-            },
-            {
-              "name": "Opción 7 (Extensión)",
-              "iframe": "https://bestleague.life/tok.html?get=RVNQTjJfQXJn"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 215976214,
-      "evento": "Liga MX: Monterrey vs. América",
-      "fecha": "2026-11-26 00:10:00",
-      "competencia": "Liga MX",
-      "logoUrl": "https://angulismo-pics.pages.dev/mx.png",
-      "team1Logo": "https://angulismotv.pages.dev/assets/logos/equipos/monterrey.png",
-      "team2Logo": "https://angulismotv.pages.dev/assets/logos/equipos/club-america.png",
-      "canales": [
-        {
-          "name": "TUDN USA",
-          "options": [
-            {
-              "name": "Opción 1",
-              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnus"
+              "iframe": "https://streamtp99a.sbs/global1.php?stream=tudnmx"
             }
           ]
         }
